@@ -45,12 +45,14 @@ jobs:
             local TIME=$(date '+%H:%M')
 
             # Top 3 Indian stocks (most active on NSE — dynamic)
-            IN_JSON=$(curl -sf "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives_in&count=3" || echo '{}')
+            IN_JSON=$(curl -sf -A "Mozilla/5.0" "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives_in&count=3" || echo '{}')
             IN_STOCKS=$(echo "$IN_JSON" | jq '[.finance.result[0].quotes[:3][] | {name: (.shortName // .longName), symbol: .symbol, price: .regularMarketPrice, currency: .currency}]' 2>/dev/null || echo '[]')
+            echo "DEBUG IN_STOCKS: $IN_STOCKS"
 
             # Top 3 International stocks (most active on US markets — dynamic)
-            US_JSON=$(curl -sf "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives&count=3" || echo '{}')
+            US_JSON=$(curl -sf -A "Mozilla/5.0" "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives&count=3" || echo '{}')
             US_STOCKS=$(echo "$US_JSON" | jq '[.finance.result[0].quotes[:3][] | {name: (.shortName // .longName), symbol: .symbol, price: .regularMarketPrice, currency: .currency}]' 2>/dev/null || echo '[]')
+            echo "DEBUG US_STOCKS: $US_STOCKS"
 
             # Crypto (CoinGecko)
             CRYPTO=$(curl -sf "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd" || echo '{}')
@@ -58,9 +60,10 @@ jobs:
             ETH=$(echo "$CRYPTO" | jq '.ethereum.usd' 2>/dev/null || echo "null")
 
             # Gold in INR per 10g (gold-api.com + exchange rate)
-            GOLD_USD=$(curl -sf "https://api.gold-api.com/price/XAU" | jq '.price' 2>/dev/null || echo "null")
-            USD_INR=$(curl -sf "https://open.er-api.com/v6/latest/USD" | jq '.rates.INR' 2>/dev/null || echo "null")
-            if [ "$GOLD_USD" != "null" ] && [ "$USD_INR" != "null" ]; then
+            GOLD_USD=$(curl -sf -A "Mozilla/5.0" "https://api.gold-api.com/price/XAU" | jq '.price // empty' 2>/dev/null)
+            USD_INR=$(curl -sf "https://open.er-api.com/v6/latest/USD" | jq '.rates.INR // empty' 2>/dev/null)
+            echo "DEBUG GOLD_USD=$GOLD_USD USD_INR=$USD_INR"
+            if [ -n "$GOLD_USD" ] && [ -n "$USD_INR" ] && [ "$GOLD_USD" != "null" ] && [ "$USD_INR" != "null" ]; then
               GOLD=$(echo "$GOLD_USD $USD_INR" | awk '{printf "%.2f", ($1 * $2 / 31.1035) * 10}')
             else
               GOLD="null"
