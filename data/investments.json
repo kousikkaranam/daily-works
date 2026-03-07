@@ -10,7 +10,7 @@
     "icici_bank_inr": null,
     "bitcoin_usd": null,
     "ethereum_usd": null,
-    "gold_usd": null
+    "gold_inr_10g": null
   },
   {
     "date": "2026-03-07",
@@ -22,6 +22,6 @@
     "icici_bank_inr": null,
     "bitcoin_usd": 68042,
     "ethereum_usd": 1987.33,
-    "gold_usd": null
+    "gold_inr_10g": null
   }
 ]

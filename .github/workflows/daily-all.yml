@@ -58,8 +58,14 @@ jobs:
             BTC=$(echo "$CRYPTO" | jq '.bitcoin.usd' 2>/dev/null || echo "null")
             ETH=$(echo "$CRYPTO" | jq '.ethereum.usd' 2>/dev/null || echo "null")
 
-            # Gold (metals.live)
-            GOLD=$(curl -sf "https://api.metals.live/v1/spot" | jq '.[] | select(.metal=="gold") | .price' 2>/dev/null || echo "null")
+            # Gold in INR per 10g (gold-api.com + exchange rate)
+            GOLD_USD=$(curl -sf "https://api.gold-api.com/price/XAU" | jq '.price' 2>/dev/null || echo "null")
+            USD_INR=$(curl -sf "https://open.er-api.com/v6/latest/USD" | jq '.rates.INR' 2>/dev/null || echo "null")
+            if [ "$GOLD_USD" != "null" ] && [ "$USD_INR" != "null" ]; then
+              GOLD=$(echo "$GOLD_USD $USD_INR" | awk '{printf "%.2f", ($1 * $2 / 31.1035) * 10}')
+            else
+              GOLD="null"
+            fi
 
             # Build JSON entry
             ENTRY=$(jq -n \
@@ -73,7 +79,7 @@ jobs:
               --argjson btc "${BTC:-null}" \
               --argjson eth "${ETH:-null}" \
               --argjson gold "${GOLD:-null}" \
-              '{date: $date, time: $time, reliance_inr: $reliance, tcs_inr: $tcs, infosys_inr: $infosys, hdfc_bank_inr: $hdfc, icici_bank_inr: $icici, bitcoin_usd: $btc, ethereum_usd: $eth, gold_usd: $gold}')
+              '{date: $date, time: $time, reliance_inr: $reliance, tcs_inr: $tcs, infosys_inr: $infosys, hdfc_bank_inr: $hdfc, icici_bank_inr: $icici, bitcoin_usd: $btc, ethereum_usd: $eth, gold_inr_10g: $gold}')
 
             if [ ! -f data/investments.json ]; then
               echo "[]" > data/investments.json
