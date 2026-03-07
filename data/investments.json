@@ -11,5 +11,17 @@
     "bitcoin_usd": null,
     "ethereum_usd": null,
     "gold_usd": null
+  },
+  {
+    "date": "2026-03-07",
+    "time": "10:11",
+    "reliance_inr": null,
+    "tcs_inr": null,
+    "infosys_inr": null,
+    "hdfc_bank_inr": null,
+    "icici_bank_inr": null,
+    "bitcoin_usd": 68042,
+    "ethereum_usd": 1987.33,
+    "gold_usd": null
   }
 ]
