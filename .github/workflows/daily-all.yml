@@ -96,11 +96,11 @@ jobs:
             local DATE=$(date '+%Y-%m-%d')
             local TIME=$(date '+%H:%M')
 
-            # Anime Quote (animechan API)
+            # Anime Quote (animechan API v1 — response wrapped in data object)
             QUOTE_JSON=$(curl -sf https://api.animechan.io/v1/quotes/random || echo '{}')
-            QUOTE=$(echo "$QUOTE_JSON" | jq -r '.quote // empty' 2>/dev/null)
-            CHARACTER=$(echo "$QUOTE_JSON" | jq -r '.character // empty' 2>/dev/null)
-            ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime // empty' 2>/dev/null)
+            QUOTE=$(echo "$QUOTE_JSON" | jq -r '.data.content // empty' 2>/dev/null)
+            CHARACTER=$(echo "$QUOTE_JSON" | jq -r '.data.character.name // empty' 2>/dev/null)
+            ANIME=$(echo "$QUOTE_JSON" | jq -r '.data.anime.name // empty' 2>/dev/null)
             if [ -n "$QUOTE" ] && ! grep -qF "$QUOTE" content/anime-quotes.md 2>/dev/null; then
               echo -e "\n## $DATE ($TIME)\n> \"$QUOTE\"\n> — $CHARACTER ($ANIME)" >> content/anime-quotes.md
             fi
@@ -114,12 +114,17 @@ jobs:
               echo -e "\n## $DATE ($TIME)\n- [$TITLE]($URL)" >> content/tech-news.md
             fi
 
-            # Java Tip (StackOverflow trending)
-            JAVA_POST=$(curl -sf "https://stackoverflow.com/feeds/tag/java" \
-              | sed -n 's:.*<title>\(.*\)</title>.*:\1:p' \
-              | sed -n '2p' || echo "")
-            if [ -n "$JAVA_POST" ]; then
-              echo -e "\n## $DATE ($TIME)\n$JAVA_POST" >> content/java-tips.md
+            # Java Tip (StackOverflow trending — pick a random entry from top 15)
+            SO_TITLES=$(curl -sf "https://stackoverflow.com/feeds/tag/java" \
+              | sed -n 's:.*<title type="text">\(.*\)</title>.*:\1:p' \
+              | tail -n +2)
+            if [ -n "$SO_TITLES" ]; then
+              TOTAL=$(echo "$SO_TITLES" | wc -l)
+              PICK=$(( (RANDOM % TOTAL) + 1 ))
+              JAVA_POST=$(echo "$SO_TITLES" | sed -n "${PICK}p")
+              if [ -n "$JAVA_POST" ] && ! grep -qF "$JAVA_POST" content/java-tips.md 2>/dev/null; then
+                echo -e "\n## $DATE ($TIME)\n$JAVA_POST" >> content/java-tips.md
+              fi
             fi
           }
 
