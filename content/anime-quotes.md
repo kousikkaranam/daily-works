@@ -6,4 +6,4 @@
 
 
 ## 2026-03-07 (15:11)
-> People's lives don't end when they die. - Itachi
+> People's lives don't end when they die.  it ends when they lose faith - Itachi

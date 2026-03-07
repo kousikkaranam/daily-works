@@ -59,7 +59,7 @@ jobs:
             ETH=$(echo "$CRYPTO" | jq '.ethereum.usd' 2>/dev/null || echo "null")
 
             # Gold (metals.live)
-            GOLD=$(curl -sf "https://api.metals.live/v1/spot/gold" | jq '.[0].price' 2>/dev/null || echo "null")
+            GOLD=$(curl -sf "https://api.metals.live/v1/spot" | jq '.[] | select(.metal=="gold") | .price' 2>/dev/null || echo "null")
 
             # Build JSON entry
             ENTRY=$(jq -n \
@@ -79,7 +79,10 @@ jobs:
               echo "[]" > data/investments.json
             fi
 
-            jq --argjson entry "$ENTRY" '. += [$entry]' data/investments.json > tmp.json && mv tmp.json data/investments.json
+            jq --argjson entry "$ENTRY" '
+              . += [$entry] |
+              if length > 30 then .[-30:] else . end
+            ' data/investments.json > tmp.json && mv tmp.json data/investments.json
           }
 
           # --- Helper: fetch and update content ---
@@ -92,12 +95,12 @@ jobs:
             QUOTE=$(echo "$QUOTE_JSON" | jq -r '.quote // empty' 2>/dev/null)
             CHARACTER=$(echo "$QUOTE_JSON" | jq -r '.character // empty' 2>/dev/null)
             ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime // empty' 2>/dev/null)
-            if [ -n "$QUOTE" ]; then
+            if [ -n "$QUOTE" ] && ! grep -qF "$QUOTE" content/anime-quotes.md 2>/dev/null; then
               echo -e "\n## $DATE ($TIME)\n> \"$QUOTE\"\n> — $CHARACTER ($ANIME)" >> content/anime-quotes.md
             fi
 
             # Tech News (HackerNews top story)
-            HN_ID=$(curl -sf https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[0]' 2>/dev/null)
+            HN_ID=$(curl -sf https://hacker-news.firebaseio.com/v0/topstories.json | jq ".[${RANDOM}%10]" 2>/dev/null)
             if [ -n "$HN_ID" ] && [ "$HN_ID" != "null" ]; then
               HN_JSON=$(curl -sf "https://hacker-news.firebaseio.com/v0/item/$HN_ID.json")
               TITLE=$(echo "$HN_JSON" | jq -r '.title // empty')
@@ -106,8 +109,8 @@ jobs:
             fi
 
             # Java Tip (StackOverflow trending)
-            JAVA_POST=$(curl -sf "https://stackoverflow.com/feeds/tag?tagnames=java" \
-              | grep -oP '(?<=<title>).*?(?=</title>)' \
+            JAVA_POST=$(curl -sf "https://stackoverflow.com/feeds/tag/java" \
+              | sed -n 's:.*<title>\(.*\)</title>.*:\1:p' \
               | sed -n '2p' || echo "")
             if [ -n "$JAVA_POST" ]; then
               echo -e "\n## $DATE ($TIME)\n$JAVA_POST" >> content/java-tips.md
@@ -119,7 +122,7 @@ jobs:
             echo "Morning investment snapshot"
             fetch_investments
             git add .
-            git commit -m "Daily investment snapshot: $DATE" || exit 0
+            git commit -m "📊 Daily investment snapshot: $DATE" || exit 0
             git push
             exit 0
           fi
@@ -131,14 +134,14 @@ jobs:
               fetch_investments
               update_content
               git add .
-              MSGS=("Refactor daily content layout" "Update project data" "Improve content formatting" "Add latest entries")
+              MSGS=("📰 Refactor daily content layout" "📊 Update project data" "✨ Improve content formatting" "🔄 Add latest entries")
               git commit -m "${MSGS[$((i-1))]}: $DATE" || true
             done
             # 50% chance of a 5th commit
             if [ $((RANDOM % 2)) -eq 0 ]; then
               update_content
               git add .
-              git commit -m "Minor cleanup and content refresh: $DATE" || true
+              git commit -m "🧹 Minor cleanup and content refresh: $DATE" || true
             fi
             git push
             exit 0
@@ -154,5 +157,5 @@ jobs:
           fetch_investments
           update_content
           git add .
-          git commit -m "Update daily content: $DATE" || exit 0
+          git commit -m "📊 Market snapshot + content update: $DATE" || exit 0
           git push
