@@ -44,14 +44,13 @@ jobs:
             local DATE=$(date '+%Y-%m-%d')
             local TIME=$(date '+%H:%M')
 
-            # Indian Stocks (Yahoo Finance — 5 stocks)
-            STOCK_JSON=$(curl -sf "https://query1.finance.yahoo.com/v7/finance/quote?symbols=RELIANCE.NS,TCS.NS,INFY.NS,HDFCBANK.NS,ICICIBANK.NS" || echo '{}')
+            # Top 3 Indian stocks (most active on NSE — dynamic)
+            IN_JSON=$(curl -sf "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives_in&count=3" || echo '{}')
+            IN_STOCKS=$(echo "$IN_JSON" | jq '[.finance.result[0].quotes[:3][] | {name: (.shortName // .longName), symbol: .symbol, price: .regularMarketPrice, currency: .currency}]' 2>/dev/null || echo '[]')
 
-            RELIANCE=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="RELIANCE.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
-            TCS=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="TCS.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
-            INFY=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="INFY.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
-            HDFC=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="HDFCBANK.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
-            ICICI=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="ICICIBANK.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
+            # Top 3 International stocks (most active on US markets — dynamic)
+            US_JSON=$(curl -sf "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives&count=3" || echo '{}')
+            US_STOCKS=$(echo "$US_JSON" | jq '[.finance.result[0].quotes[:3][] | {name: (.shortName // .longName), symbol: .symbol, price: .regularMarketPrice, currency: .currency}]' 2>/dev/null || echo '[]')
 
             # Crypto (CoinGecko)
             CRYPTO=$(curl -sf "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd" || echo '{}')
@@ -67,19 +66,16 @@ jobs:
               GOLD="null"
             fi
 
-            # Build JSON entry
+            # Build JSON entry with dynamic stocks
             ENTRY=$(jq -n \
               --arg date "$DATE" \
               --arg time "$TIME" \
-              --argjson reliance "${RELIANCE:-null}" \
-              --argjson tcs "${TCS:-null}" \
-              --argjson infosys "${INFY:-null}" \
-              --argjson hdfc "${HDFC:-null}" \
-              --argjson icici "${ICICI:-null}" \
+              --argjson in_stocks "$IN_STOCKS" \
+              --argjson us_stocks "$US_STOCKS" \
               --argjson btc "${BTC:-null}" \
               --argjson eth "${ETH:-null}" \
               --argjson gold "${GOLD:-null}" \
-              '{date: $date, time: $time, reliance_inr: $reliance, tcs_inr: $tcs, infosys_inr: $infosys, hdfc_bank_inr: $hdfc, icici_bank_inr: $icici, bitcoin_usd: $btc, ethereum_usd: $eth, gold_inr_10g: $gold}')
+              '{date: $date, time: $time, top_indian: $in_stocks, top_international: $us_stocks, bitcoin_usd: $btc, ethereum_usd: $eth, gold_inr_10g: $gold}')
 
             if [ ! -f data/investments.json ]; then
               echo "[]" > data/investments.json

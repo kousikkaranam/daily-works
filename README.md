@@ -36,7 +36,8 @@ Live prices fetched every morning before markets open:
 
 - **Crypto**: Bitcoin (USD), Ethereum (USD) via CoinGecko
 - **Gold**: Price in INR/10g via gold-api.com + exchange rate
-- **Indian Stocks**: Reliance, TCS (INR) via Yahoo Finance
+- **Indian Stocks**: Top 3 most active (dynamic, INR) via Yahoo Finance
+- **International Stocks**: Top 3 most active (dynamic, USD) via Yahoo Finance
 
 ## Roadmap
 

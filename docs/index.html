@@ -153,7 +153,6 @@ margin-top:10px;
 
 /* tabs — pill toggle */
 
-
 .toggle-wrapper{
 display:flex;
 justify-content:center;
@@ -166,21 +165,10 @@ display:flex;
 padding:6px;
 gap:6px;
 border-radius:18px;
-
-background:
-linear-gradient(
-180deg,
-rgba(255,255,255,0.04),
-rgba(255,255,255,0.01)
-);
-
+background:linear-gradient(180deg,rgba(255,255,255,0.04),rgba(255,255,255,0.01));
 border:1px solid rgba(255,255,255,0.08);
-
 backdrop-filter:blur(16px);
-
-box-shadow:
-0 10px 30px rgba(0,0,0,.45),
-inset 0 1px 0 rgba(255,255,255,.04);
+box-shadow:0 10px 30px rgba(0,0,0,.45),inset 0 1px 0 rgba(255,255,255,.04);
 }
 
 .toggle-item{
@@ -188,23 +176,15 @@ position:relative;
 display:flex;
 align-items:center;
 gap:8px;
-
 padding:12px 26px;
-
 border:none;
 background:transparent;
-
 border-radius:14px;
-
 font-size:14px;
 font-weight:600;
-
 color:var(--muted);
 cursor:pointer;
-
-transition:
-color .25s ease,
-transform .2s ease;
+transition:color .25s ease,transform .2s ease;
 }
 
 .toggle-item:hover{
@@ -213,34 +193,19 @@ transform:translateY(-1px);
 }
 
 .toggle-item.active{
-color:#fff;
+color:white;
+text-shadow:0 0 10px rgba(59,130,246,.4);
 }
 
 .toggle-highlight{
 position:absolute;
-
 top:6px;
 bottom:6px;
-
 border-radius:14px;
-
-background:
-linear-gradient(
-135deg,
-rgba(59,130,246,.35),
-rgba(167,139,250,.25)
-);
-
+background:linear-gradient(135deg,rgba(59,130,246,.35),rgba(167,139,250,.25));
 border:1px solid rgba(59,130,246,.35);
-
-box-shadow:
-0 0 20px rgba(59,130,246,.2),
-inset 0 1px 0 rgba(255,255,255,.08);
-
-transition:
-left .35s cubic-bezier(.4,0,.2,1),
-width .35s cubic-bezier(.4,0,.2,1);
-
+box-shadow:0 0 20px rgba(59,130,246,.2),inset 0 1px 0 rgba(255,255,255,.08);
+transition:left .35s cubic-bezier(.4,0,.2,1),width .35s cubic-bezier(.4,0,.2,1);
 z-index:0;
 }
 
@@ -249,14 +214,7 @@ position:relative;
 z-index:1;
 }
 
-.icon{
-font-size:15px;
-opacity:.9;
-}
-.toggle-item.active{
-color:white;
-text-shadow:0 0 10px rgba(59,130,246,.4);
-}
+.icon{font-size:15px;opacity:.9}
 
 .tabs-wrap{
 margin-top:40px;
@@ -291,13 +249,8 @@ position:relative;
 z-index:1;
 }
 
-.tab:hover{
-color:var(--text);
-}
-
-.tab.active{
-color:#fff;
-}
+.tab:hover{color:var(--text)}
+.tab.active{color:#fff}
 
 .tab-slider{
 position:absolute;
@@ -311,20 +264,12 @@ transition:all .3s cubic-bezier(.4,0,.2,1);
 z-index:0;
 }
 
-.tab-icon{
-font-size:15px;
-}
+.tab-icon{font-size:15px}
 
-/* views (investment vs content) */
+/* views */
 
-.view{
-display:none;
-}
-
-.view.active{
-display:block;
-animation:fadeIn .35s ease-out;
-}
+.view{display:none}
+.view.active{display:block;animation:fadeIn .35s ease-out}
 
 @keyframes fadeIn{
 from{opacity:0;transform:translateY(10px)}
@@ -333,15 +278,8 @@ to{opacity:1;transform:translateY(0)}
 
 /* sections */
 
-.section{
-display:none;
-padding:30px 0;
-}
-
-.section.active{
-display:block;
-animation:fadeIn .3s ease-out;
-}
+.section{display:none;padding:30px 0}
+.section.active{display:block;animation:fadeIn .3s ease-out}
 
 /* quote */
 
@@ -360,6 +298,81 @@ line-height:1.6;
 margin-top:16px;
 color:var(--purple);
 font-size:14px;
+font-style:normal;
+}
+
+/* glass nav bar */
+
+.glass-nav{
+display:flex;
+align-items:center;
+justify-content:center;
+gap:8px;
+margin-top:20px;
+}
+
+.glass-btn{
+display:inline-flex;
+align-items:center;
+gap:6px;
+padding:10px 18px;
+border:1px solid rgba(255,255,255,.1);
+border-radius:12px;
+background:linear-gradient(135deg,rgba(255,255,255,.06),rgba(255,255,255,.02));
+backdrop-filter:blur(16px);
+color:var(--muted);
+font-family:Inter;
+font-size:13px;
+font-weight:600;
+cursor:pointer;
+transition:all .25s ease;
+position:relative;
+overflow:hidden;
+}
+
+.glass-btn::before{
+content:"";
+position:absolute;
+inset:0;
+border-radius:12px;
+opacity:0;
+background:radial-gradient(circle at 50% 50%,rgba(59,130,246,.3),transparent 70%);
+transition:opacity .3s ease;
+}
+
+.glass-btn:hover{
+color:#fff;
+border-color:rgba(59,130,246,.4);
+transform:translateY(-1px);
+box-shadow:0 4px 20px rgba(59,130,246,.2),0 0 30px rgba(59,130,246,.1);
+}
+
+.glass-btn:hover::before{opacity:1}
+
+.glass-btn:active{transform:translateY(0);transition:transform .1s}
+
+.glass-btn.shuffle{
+background:linear-gradient(135deg,rgba(167,139,250,.15),rgba(59,130,246,.1));
+border-color:rgba(167,139,250,.25);
+}
+
+.glass-btn.shuffle:hover{
+border-color:rgba(167,139,250,.5);
+box-shadow:0 4px 20px rgba(167,139,250,.25),0 0 30px rgba(167,139,250,.1);
+}
+
+.glass-counter{
+font-family:JetBrains Mono;
+font-size:13px;
+font-weight:500;
+color:var(--text);
+padding:10px 16px;
+border:1px solid rgba(255,255,255,.08);
+border-radius:12px;
+background:rgba(255,255,255,.03);
+min-width:80px;
+text-align:center;
+letter-spacing:.5px;
 }
 
 /* news */
@@ -508,7 +521,6 @@ window.addEventListener("resize",()=>move(document.querySelector("."+tabClass+".
 initSlider("mainBar","mainSlider","main-tab",(t)=>{
 document.querySelectorAll(".view").forEach(v=>v.classList.remove("active"))
 document.getElementById(t.dataset.view+"View").classList.add("active")
-/* re-init sub slider when content becomes visible */
 if(t.dataset.view==="content"){
 requestAnimationFrame(()=>{
 const active=document.querySelector(".sub-tab.active")
@@ -527,6 +539,18 @@ document.querySelectorAll(".section").forEach(s=>s.classList.remove("active"))
 document.getElementById(t.dataset.tab).classList.add("active")
 })
 
+/* glass nav builder */
+
+function glassNav(items, idx, onNav){
+const total=items.length
+return `<div class="glass-nav">
+<button class="glass-btn" onclick="(${onNav})(${idx-1})">◀</button>
+<div class="glass-counter">${idx+1} / ${total}</div>
+<button class="glass-btn" onclick="(${onNav})(${idx+1})">▶</button>
+<button class="glass-btn shuffle" onclick="(${onNav})(Math.floor(Math.random()*${total}))">✨ Shuffle</button>
+</div>`
+}
+
 /* investments */
 
 async function loadMarket(){
@@ -538,42 +562,40 @@ const latest=data[data.length-1]
 document.getElementById("updated").textContent=
 "Last update: "+latest.date+" "+latest.time
 
-const assets=[
-{name:"Reliance",key:"reliance_inr",p:"₹"},
-{name:"TCS",key:"tcs_inr",p:"₹"},
-{name:"Infosys",key:"infosys_inr",p:"₹"},
-{name:"HDFC Bank",key:"hdfc_bank_inr",p:"₹"},
-{name:"ICICI Bank",key:"icici_bank_inr",p:"₹"},
+const inStocks=(latest.top_indian||[]).map(s=>({name:s.name,price:s.price,p:s.currency==="INR"?"₹":"$",tag:"🇮🇳"}))
+const usStocks=(latest.top_international||[]).map(s=>({name:s.name,price:s.price,p:s.currency==="USD"?"$":"$",tag:"🌍"}))
+
+const fixedAssets=[
 {name:"Bitcoin",key:"bitcoin_usd",p:"$"},
 {name:"Ethereum",key:"ethereum_usd",p:"$"},
 {name:"Gold (10g)",key:"gold_inr_10g",p:"₹"}
 ]
 
-marketGrid.innerHTML=assets.map((a,i)=>{
+let cards=""
 
-const history=data.map(d=>d[a.key]).filter(Boolean)
-
-return `
+inStocks.concat(usStocks).forEach(s=>{
+cards+=`
 <div class="card">
+<h3>${s.tag} ${s.name}</h3>
+<div class="price">${s.p}${Number(s.price).toLocaleString()}</div>
+</div>`
+})
 
+fixedAssets.forEach((a,i)=>{
+const val=latest[a.key]
+cards+=`
+<div class="card">
 <h3>${a.name}</h3>
-
-<div class="price">
-${a.p}${Number(latest[a.key]).toLocaleString()}
-</div>
-
+<div class="price">${a.p}${val?Number(val).toLocaleString():"—"}</div>
 <canvas id="chart${i}" class="chart"></canvas>
+</div>`
+})
 
-</div>
-`
+marketGrid.innerHTML=cards
 
-}).join("")
-
-
-assets.forEach((a,i)=>{
-
+fixedAssets.forEach((a,i)=>{
 const history=data.map(d=>d[a.key]).filter(Boolean)
-
+if(history.length<2) return
 new Chart(
 document.getElementById("chart"+i),
 {
@@ -594,28 +616,37 @@ scales:{x:{display:false},y:{display:false}}
 }
 }
 )
-
 })
 
 }
 
-/* anime */
+/* anime — with glass nav */
+
+let animeItems=[]
+let animeIdx=0
+
+window.showAnime=function(i){
+if(!animeItems.length) return
+animeIdx=((i%animeItems.length)+animeItems.length)%animeItems.length
+const q=animeItems[animeIdx].body.split("\n")
+const quote=q[0]?.replace(/^>\s*/,"")?.replace(/^"/,"")?.replace(/"$/,"") || ""
+const attr=q[1]?.replace(/^>\s*/,"") || ""
+anime.innerHTML=`
+<div class="quote">
+"${quote}"
+<div class="attr">${attr}</div>
+</div>
+<div class="glass-nav">
+<button class="glass-btn" onclick="showAnime(${animeIdx}-1)">◀</button>
+<div class="glass-counter">${animeIdx+1} / ${animeItems.length}</div>
+<button class="glass-btn" onclick="showAnime(${animeIdx}+1)">▶</button>
+<button class="glass-btn shuffle" onclick="showAnime(Math.floor(Math.random()*${animeItems.length}))">✨ Shuffle</button>
+</div>`
+}
 
 async function loadAnime(){
-
-const items=parseMd(await (await fetch(raw("content/anime-quotes.md"))).text()).reverse()
-
-const q=items[0].body.split("\n")
-
-anime.innerHTML=
-
-`
-<div class="quote">
-${q[0].replace(">","")}
-<div class="attr">${q[1]||""}</div>
-</div>
-`
-
+animeItems=parseMd(await (await fetch(raw("content/anime-quotes.md"))).text()).reverse()
+showAnime(0)
 }
 
 /* tech */
@@ -643,20 +674,29 @@ items.slice(0,10).map(n=>`
 
 }
 
-/* java */
+/* java — with glass nav */
+
+let javaItems=[]
+let javaIdx=0
+
+window.showJava=function(i){
+if(!javaItems.length) return
+javaIdx=((i%javaItems.length)+javaItems.length)%javaItems.length
+java.innerHTML=`
+<div class="tip">
+${javaItems[javaIdx].body}
+</div>
+<div class="glass-nav">
+<button class="glass-btn" onclick="showJava(${javaIdx}-1)">◀</button>
+<div class="glass-counter">${javaIdx+1} / ${javaItems.length}</div>
+<button class="glass-btn" onclick="showJava(${javaIdx}+1)">▶</button>
+<button class="glass-btn shuffle" onclick="showJava(Math.floor(Math.random()*${javaItems.length}))">✨ Shuffle</button>
+</div>`
+}
 
 async function loadJava(){
-
-const items=parseMd(await (await fetch(raw("content/java-tips.md"))).text()).reverse()
-
-java.innerHTML=
-
-`
-<div class="tip">
-${items[0].body}
-</div>
-`
-
+javaItems=parseMd(await (await fetch(raw("content/java-tips.md"))).text()).reverse()
+showJava(0)
 }
 
 loadMarket()

@@ -1,37 +1,9 @@
 [
   {
     "date": "2026-03-07",
-    "time": "06:30",
-    "note": "Initial setup — daily investment snapshots will be appended by GitHub Actions",
-    "reliance_inr": null,
-    "tcs_inr": null,
-    "infosys_inr": null,
-    "hdfc_bank_inr": null,
-    "icici_bank_inr": null,
-    "bitcoin_usd": null,
-    "ethereum_usd": null,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-03-07",
-    "time": "10:11",
-    "reliance_inr": null,
-    "tcs_inr": null,
-    "infosys_inr": null,
-    "hdfc_bank_inr": null,
-    "icici_bank_inr": null,
-    "bitcoin_usd": 68042,
-    "ethereum_usd": 1987.33,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-03-07",
     "time": "10:22",
-    "reliance_inr": null,
-    "tcs_inr": null,
-    "infosys_inr": null,
-    "hdfc_bank_inr": null,
-    "icici_bank_inr": null,
+    "top_indian": [],
+    "top_international": [],
     "bitcoin_usd": 67982,
     "ethereum_usd": 1985.51,
     "gold_inr_10g": 152909.41
