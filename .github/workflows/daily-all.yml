@@ -155,10 +155,13 @@ jobs:
           fi
 
           # --- DAILY CONTENT MODE: ~30% chance to skip (so 2-3 commits/day) ---
-          ROLL=$((RANDOM % 100))
-          if [ "$ROLL" -lt 30 ]; then
-            echo "Skipping this slot for natural variation (rolled $ROLL)"
-            exit 0
+          # Skip randomness for manual runs (workflow_dispatch)
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            ROLL=$((RANDOM % 100))
+            if [ "$ROLL" -lt 30 ]; then
+              echo "Skipping this slot for natural variation (rolled $ROLL)"
+              exit 0
+            fi
           fi
 
           fetch_investments

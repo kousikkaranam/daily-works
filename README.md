@@ -6,7 +6,7 @@ Automated daily content engine powered by GitHub Actions. Fetches live investmen
 
 | Section | Source | Schedule |
 |---------|--------|----------|
-| **Investment Snapshot** | BTC, ETH, Gold, Reliance, TCS | Every morning ~6:30 AM IST (never skipped) |
+| **Investment Snapshot** | Top 3 Indian + International stocks, BTC, ETH, Gold | Every morning ~6:30 AM IST (never skipped) |
 | **Anime Quotes** | 30 curated quotes from top anime | 2-3 times daily |
 | **Tech News** | Developer-focused headlines | 2-3 times daily |
 | **Java Tips** | Modern Java snippets (10-24) | 2-3 times daily |
@@ -15,11 +15,11 @@ Automated daily content engine powered by GitHub Actions. Fetches live investmen
 
 ```
 .github/workflows/daily-all.yml   # Automation engine
-data/investments.json              # BTC, ETH, Gold, Reliance, TCS prices
+data/investments.json              # Dynamic stocks, crypto, gold prices
 content/anime-quotes.md            # Daily anime quote log
 content/tech-news.md               # Daily tech headline log
 content/java-tips.md               # Daily Java tip log
-docs/                              # Future: dashboard UI
+docs/index.html                    # Live glassmorphism dashboard
 ```
 
 ## Schedule
@@ -39,23 +39,33 @@ Live prices fetched every morning before markets open:
 - **Indian Stocks**: Top 3 most active (dynamic, INR) via Yahoo Finance
 - **International Stocks**: Top 3 most active (dynamic, USD) via Yahoo Finance
 
+## Dashboard
+
+Live dashboard at `docs/index.html` (GitHub Pages):
+
+- Dynamic stock cards with country flags (🇮🇳 Indian / 🌍 International)
+- BTC, ETH, Gold cards with sparkline history charts
+- Glass navigation for Anime & Java: `◀ 3/48 ▶ ✨ Shuffle`
+- Glassmorphism UI with animated background glow
+- Pill toggle between Investments and Content views
+
 ## Roadmap
 
 - [x] Automated daily commits with varied content
 - [x] Live investment snapshot (crypto + stocks + gold)
 - [x] Natural commit pattern (skip logic + weekly bursts)
-- [ ] Dashboard UI on GitHub Pages (`docs/index.html`)
-- [ ] Category selector: quotes carousel, news feed, tip-of-the-day
-- [ ] Investment charts with historical price trends
-- [ ] Mobile-friendly responsive design
+- [x] Dashboard UI on GitHub Pages (`docs/index.html`)
+- [x] Category selector: quotes carousel, news feed, tip-of-the-day
+- [x] Investment charts with historical price trends
+- [x] Glass navigation with shuffle for Anime & Java
 
 ## Tech Stack
 
 - **GitHub Actions** — Cron-based automation
 - **Bash + jq + curl** — Data fetching and processing
 - **CoinGecko API** — Cryptocurrency prices
-- **Yahoo Finance** — Indian stock prices
-- **GitHub Pages** — Future UI hosting (zero cost)
+- **Yahoo Finance** — Dynamic top stocks (India + International)
+- **GitHub Pages** — Glassmorphism dashboard (zero cost)
 
 ---
 
