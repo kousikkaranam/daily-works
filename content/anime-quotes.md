@@ -15,3 +15,7 @@
 ## 2026-03-07 (10:49)
 > "I am the alienated, the ridiculed, the despised. No need to praise my name. No need to envy my body. I am the shadow under the radiance of heroic spirits. Birthed of the darkness of glorious legend. And so, I hate, I resent. Nourished by the sighs of the people precipitated within the darkness, people that curse the light. This is my disgrace. Because of her unsullied glory, I must forever be belittled. You are, the sacrifice. Good, give me more, your blood and flesh, your life. Let them ignite my hatred!!"
 > — Berserker (Fate/Zero)
+
+## 2026-03-07 (10:53)
+> "Get your ass moving Kid!"
+> — Patricia Thompson (Soul Eater)

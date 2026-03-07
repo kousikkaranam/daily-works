@@ -19,3 +19,6 @@
 
 ## 2026-03-07 (10:49)
 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+
+## 2026-03-07 (10:53)
+- [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)

@@ -13,3 +13,6 @@ java.lang.IllegalArgumentException: attempt to create delete event with null ent
 
 ## 2026-03-07 (10:49)
 How to test the stackoverflow api
+
+## 2026-03-07 (10:53)
+Why does Apache PDFBox use SHA-1? Is it still secure?
