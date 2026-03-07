@@ -122,5 +122,52 @@
     "bitcoin_usd": 68142,
     "ethereum_usd": 1991.03,
     "gold_inr_10g": 152909.41
+  },
+  {
+    "date": "2026-03-07",
+    "time": "15:37",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 10.06,
+        "currency": "INR"
+      },
+      {
+        "name": "FILATEX FASHIONS LIMITED",
+        "symbol": "FILATFASH.NS",
+        "price": 0.19,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 25.08,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 177.82,
+        "currency": "USD"
+      },
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 9.83,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 11.18,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 68006,
+    "ethereum_usd": 1984.72,
+    "gold_inr_10g": 152909.41
   }
 ]
