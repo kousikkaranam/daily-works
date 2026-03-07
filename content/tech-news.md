@@ -16,3 +16,6 @@
 
 ## 2026-03-07 (10:28)
 - [Tell HN: I'm 60 years old. Claude Code has re-ignited a passion]()
+
+## 2026-03-07 (10:49)
+- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)

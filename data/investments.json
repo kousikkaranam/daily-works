@@ -19,5 +19,14 @@
     "bitcoin_usd": 67944,
     "ethereum_usd": 1984.95,
     "gold_inr_10g": 152909.41
+  },
+  {
+    "date": "2026-03-07",
+    "time": "10:49",
+    "top_indian": [],
+    "top_international": [],
+    "bitcoin_usd": 67947,
+    "ethereum_usd": 1984.18,
+    "gold_inr_10g": 0.00
   }
 ]
