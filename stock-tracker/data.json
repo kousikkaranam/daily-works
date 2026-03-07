@@ -2,5 +2,11 @@
   {
     "date": "2026-03-07",
     "note": "Initial setup — daily crypto/stock prices will be appended by GitHub Actions"
+  },
+  {
+    "date": "2026-03-07",
+    "time": "09:16",
+    "bitcoin_usd": 67940,
+    "ethereum_usd": 1983.05
   }
 ]
