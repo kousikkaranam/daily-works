@@ -2,10 +2,14 @@ name: Daily Multi-Project Update
 
 on:
   schedule:
-    - cron: '20 2 * * *'
-    - cron: '50 8 * * *'
-    - cron: '15 15 * * *'
-    - cron: '0 5 * * 6'
+    # Early morning investment snapshot (6:30 AM IST = 1:00 UTC) — NEVER skipped
+    - cron: '0 1 * * *'
+    # 3 daily content slots (Mon-Sun)
+    - cron: '20 2 * * *'    # ~7:50 AM IST
+    - cron: '50 8 * * *'    # ~2:20 PM IST
+    - cron: '15 15 * * *'   # ~8:45 PM IST
+    # Weekly burst: Saturday — makes 4-5 commits in one run
+    - cron: '0 5 * * 6'     # ~10:30 AM IST Saturday
   workflow_dispatch:
 
 permissions:
@@ -28,120 +32,127 @@ jobs:
 
       - name: Run Updates
         run: |
-
           DAY=$(date -u +%u)
           HOUR=$(date -u +%H)
           DATE=$(date '+%Y-%m-%d')
           TIME=$(date '+%H:%M')
 
-          update_all() {
+          mkdir -p data content
 
-          echo "Updating stock tracker"
+          # --- Helper: fetch investment data ---
+          fetch_investments() {
+            local DATE=$(date '+%Y-%m-%d')
+            local TIME=$(date '+%H:%M')
 
-          mkdir -p stock-tracker anime-log tech-news blog-draft
+            # Indian Stocks (Yahoo Finance — 5 stocks)
+            STOCK_JSON=$(curl -sf "https://query1.finance.yahoo.com/v7/finance/quote?symbols=RELIANCE.NS,TCS.NS,INFY.NS,HDFCBANK.NS,ICICIBANK.NS" || echo '{}')
 
-          # -------------------------
-          # Indian Stocks (Yahoo API)
-          # -------------------------
+            RELIANCE=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="RELIANCE.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
+            TCS=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="TCS.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
+            INFY=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="INFY.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
+            HDFC=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="HDFCBANK.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
+            ICICI=$(echo "$STOCK_JSON" | jq '.quoteResponse.result[] | select(.symbol=="ICICIBANK.NS") | .regularMarketPrice' 2>/dev/null || echo "null")
 
-          STOCK_JSON=$(curl -s "https://query1.finance.yahoo.com/v7/finance/quote?symbols=RELIANCE.NS,TCS.NS,INFY.NS,HDFCBANK.NS,ICICIBANK.NS")
+            # Crypto (CoinGecko)
+            CRYPTO=$(curl -sf "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd" || echo '{}')
+            BTC=$(echo "$CRYPTO" | jq '.bitcoin.usd' 2>/dev/null || echo "null")
+            ETH=$(echo "$CRYPTO" | jq '.ethereum.usd' 2>/dev/null || echo "null")
 
-          RELIANCE=$(echo $STOCK_JSON | jq '.quoteResponse.result[] | select(.symbol=="RELIANCE.NS") | .regularMarketPrice')
-          TCS=$(echo $STOCK_JSON | jq '.quoteResponse.result[] | select(.symbol=="TCS.NS") | .regularMarketPrice')
-          INFY=$(echo $STOCK_JSON | jq '.quoteResponse.result[] | select(.symbol=="INFY.NS") | .regularMarketPrice')
-          HDFC=$(echo $STOCK_JSON | jq '.quoteResponse.result[] | select(.symbol=="HDFCBANK.NS") | .regularMarketPrice')
-          ICICI=$(echo $STOCK_JSON | jq '.quoteResponse.result[] | select(.symbol=="ICICIBANK.NS") | .regularMarketPrice')
+            # Gold (metals.live)
+            GOLD=$(curl -sf "https://api.metals.live/v1/spot/gold" | jq '.[0].price' 2>/dev/null || echo "null")
 
-          # -------------------------
-          # Crypto Prices
-          # -------------------------
+            # Build JSON entry
+            ENTRY=$(jq -n \
+              --arg date "$DATE" \
+              --arg time "$TIME" \
+              --argjson reliance "${RELIANCE:-null}" \
+              --argjson tcs "${TCS:-null}" \
+              --argjson infosys "${INFY:-null}" \
+              --argjson hdfc "${HDFC:-null}" \
+              --argjson icici "${ICICI:-null}" \
+              --argjson btc "${BTC:-null}" \
+              --argjson eth "${ETH:-null}" \
+              --argjson gold "${GOLD:-null}" \
+              '{date: $date, time: $time, reliance_inr: $reliance, tcs_inr: $tcs, infosys_inr: $infosys, hdfc_bank_inr: $hdfc, icici_bank_inr: $icici, bitcoin_usd: $btc, ethereum_usd: $eth, gold_usd: $gold}')
 
-          CRYPTO=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd")
+            if [ ! -f data/investments.json ]; then
+              echo "[]" > data/investments.json
+            fi
 
-          BTC=$(echo $CRYPTO | jq '.bitcoin.usd')
-          ETH=$(echo $CRYPTO | jq '.ethereum.usd')
-
-          # -------------------------
-          # Gold Price
-          # -------------------------
-
-          GOLD=$(curl -s https://api.metals.live/v1/spot/gold | jq '.[0].price')
-
-          ENTRY="{\"date\":\"$DATE\",\"time\":\"$TIME\",\"reliance\":$RELIANCE,\"tcs\":$TCS,\"infosys\":$INFY,\"hdfc_bank\":$HDFC,\"icici_bank\":$ICICI,\"bitcoin_usd\":$BTC,\"ethereum_usd\":$ETH,\"gold_usd\":$GOLD}"
-
-          if [ ! -f stock-tracker/data.json ]; then
-            echo "[]" > stock-tracker/data.json
-          fi
-
-          jq --argjson entry "$ENTRY" '. += [$entry]' stock-tracker/data.json > tmp.json && mv tmp.json stock-tracker/data.json
-
-
-          # -------------------------
-          # Anime Quote API
-          # -------------------------
-
-          QUOTE_JSON=$(curl -sf https://api.animechan.io/v1/quotes/random || echo '{}')
-
-          QUOTE=$(echo "$QUOTE_JSON" | jq -r '.quote')
-          CHARACTER=$(echo "$QUOTE_JSON" | jq -r '.character')
-          ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime')
-
-          echo -e "\n## $DATE ($TIME)\n> \"$QUOTE\"\n— $CHARACTER ($ANIME)" >> anime-log/quotes.md
-
-
-          # -------------------------
-          # Tech News (HackerNews)
-          # -------------------------
-
-          HN_ID=$(curl -s https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[0]')
-
-          HN_JSON=$(curl -s https://hacker-news.firebaseio.com/v0/item/$HN_ID.json)
-
-          TITLE=$(echo "$HN_JSON" | jq -r '.title')
-          URL=$(echo "$HN_JSON" | jq -r '.url')
-
-          echo -e "\n## $DATE ($TIME)\n- $TITLE\n$URL" >> tech-news/news.md
-
-
-          # -------------------------
-          # Java Tip (StackOverflow)
-          # -------------------------
-
-          JAVA_POST=$(curl -s https://stackoverflow.com/feeds/tag?tagnames=java \
-          | grep -oP '(?<=<title>).*?(?=</title>)' \
-          | sed -n '2p')
-
-          echo -e "\n## $DATE ($TIME)\n$JAVA_POST" >> blog-draft/java-tips.md
-
+            jq --argjson entry "$ENTRY" '. += [$entry]' data/investments.json > tmp.json && mv tmp.json data/investments.json
           }
 
-          # Weekly burst
-          if [ "$DAY" = "6" ] && [ "$HOUR" -lt 7 ]; then
+          # --- Helper: fetch and update content ---
+          update_content() {
+            local DATE=$(date '+%Y-%m-%d')
+            local TIME=$(date '+%H:%M')
 
-            for i in 1 2 3 4; do
-              update_all
-              git add .
-              git commit -m "Weekly content update: $DATE ($i)" || true
-            done
+            # Anime Quote (animechan API)
+            QUOTE_JSON=$(curl -sf https://api.animechan.io/v1/quotes/random || echo '{}')
+            QUOTE=$(echo "$QUOTE_JSON" | jq -r '.quote // empty' 2>/dev/null)
+            CHARACTER=$(echo "$QUOTE_JSON" | jq -r '.character // empty' 2>/dev/null)
+            ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime // empty' 2>/dev/null)
+            if [ -n "$QUOTE" ]; then
+              echo -e "\n## $DATE ($TIME)\n> \"$QUOTE\"\n> — $CHARACTER ($ANIME)" >> content/anime-quotes.md
+            fi
 
+            # Tech News (HackerNews top story)
+            HN_ID=$(curl -sf https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[0]' 2>/dev/null)
+            if [ -n "$HN_ID" ] && [ "$HN_ID" != "null" ]; then
+              HN_JSON=$(curl -sf "https://hacker-news.firebaseio.com/v0/item/$HN_ID.json")
+              TITLE=$(echo "$HN_JSON" | jq -r '.title // empty')
+              URL=$(echo "$HN_JSON" | jq -r '.url // empty')
+              echo -e "\n## $DATE ($TIME)\n- [$TITLE]($URL)" >> content/tech-news.md
+            fi
+
+            # Java Tip (StackOverflow trending)
+            JAVA_POST=$(curl -sf "https://stackoverflow.com/feeds/tag?tagnames=java" \
+              | grep -oP '(?<=<title>).*?(?=</title>)' \
+              | sed -n '2p' || echo "")
+            if [ -n "$JAVA_POST" ]; then
+              echo -e "\n## $DATE ($TIME)\n$JAVA_POST" >> content/java-tips.md
+            fi
+          }
+
+          # --- EARLY MORNING INVESTMENT (hour 1 UTC = ~6:30 AM IST) — NEVER skipped ---
+          if [ "$HOUR" -eq 1 ] && [ "$DAY" != "6" ]; then
+            echo "Morning investment snapshot"
+            fetch_investments
+            git add .
+            git commit -m "Daily investment snapshot: $DATE" || exit 0
             git push
             exit 0
           fi
 
-
-          # Random skip for natural commits
-          ROLL=$((RANDOM % 100))
-
-          if [ "$ROLL" -lt 30 ]; then
-            echo "Skipping this slot"
+          # --- WEEKLY BURST (Saturday cron at hour 5 UTC) ---
+          if [ "$DAY" = "6" ] && [ "$HOUR" -lt 7 ]; then
+            echo "Weekly burst mode: making 4-5 commits"
+            for i in 1 2 3 4; do
+              fetch_investments
+              update_content
+              git add .
+              MSGS=("Refactor daily content layout" "Update project data" "Improve content formatting" "Add latest entries")
+              git commit -m "${MSGS[$((i-1))]}: $DATE" || true
+            done
+            # 50% chance of a 5th commit
+            if [ $((RANDOM % 2)) -eq 0 ]; then
+              update_content
+              git add .
+              git commit -m "Minor cleanup and content refresh: $DATE" || true
+            fi
+            git push
             exit 0
           fi
 
+          # --- DAILY CONTENT MODE: ~30% chance to skip (so 2-3 commits/day) ---
+          ROLL=$((RANDOM % 100))
+          if [ "$ROLL" -lt 30 ]; then
+            echo "Skipping this slot for natural variation (rolled $ROLL)"
+            exit 0
+          fi
 
-          update_all
-
+          fetch_investments
+          update_content
           git add .
-
-          git commit -m "Daily update: $DATE" || exit 0
-
+          git commit -m "Update daily content: $DATE" || exit 0
           git push

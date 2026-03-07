@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-03-07",
+    "time": "06:30",
+    "note": "Initial setup — daily investment snapshots will be appended by GitHub Actions",
+    "reliance_inr": null,
+    "tcs_inr": null,
+    "infosys_inr": null,
+    "hdfc_bank_inr": null,
+    "icici_bank_inr": null,
+    "bitcoin_usd": null,
+    "ethereum_usd": null,
+    "gold_usd": null
+  }
+]
