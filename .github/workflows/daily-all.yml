@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update:
@@ -31,11 +32,14 @@ jobs:
           git config user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: Run Updates
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           DAY=$(date -u +%u)
           HOUR=$(date -u +%H)
           DATE=$(date '+%Y-%m-%d')
           TIME=$(date '+%H:%M')
+          BRANCH="bot/update-${DATE}-${TIME//:/}"
 
           mkdir -p data content
 
@@ -47,12 +51,10 @@ jobs:
             # Top 3 Indian stocks (most active on NSE — dynamic)
             IN_JSON=$(curl -sf -A "Mozilla/5.0" "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives_in&count=3" || echo '{}')
             IN_STOCKS=$(echo "$IN_JSON" | jq '[.finance.result[0].quotes[:3][] | {name: (.shortName // .longName), symbol: .symbol, price: .regularMarketPrice, currency: .currency}]' 2>/dev/null || echo '[]')
-            echo "DEBUG IN_STOCKS: $IN_STOCKS"
 
             # Top 3 International stocks (most active on US markets — dynamic)
             US_JSON=$(curl -sf -A "Mozilla/5.0" "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=most_actives&count=3" || echo '{}')
             US_STOCKS=$(echo "$US_JSON" | jq '[.finance.result[0].quotes[:3][] | {name: (.shortName // .longName), symbol: .symbol, price: .regularMarketPrice, currency: .currency}]' 2>/dev/null || echo '[]')
-            echo "DEBUG US_STOCKS: $US_STOCKS"
 
             # Crypto (CoinGecko)
             CRYPTO=$(curl -sf "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd" || echo '{}')
@@ -62,7 +64,6 @@ jobs:
             # Gold in INR per 10g (gold-api.com + exchange rate)
             GOLD_USD=$(curl -sf -A "Mozilla/5.0" "https://api.gold-api.com/price/XAU" | jq '.price // empty' 2>/dev/null)
             USD_INR=$(curl -sf "https://open.er-api.com/v6/latest/USD" | jq '.rates.INR // empty' 2>/dev/null)
-            echo "DEBUG GOLD_USD=$GOLD_USD USD_INR=$USD_INR"
             if [ -n "$GOLD_USD" ] && [ -n "$USD_INR" ] && [ "$GOLD_USD" != "null" ] && [ "$USD_INR" != "null" ]; then
               GOLD=$(echo "$GOLD_USD $USD_INR" | awk '{printf "%.2f", ($1 * $2 / 31.1035) * 10}')
             else
@@ -127,19 +128,34 @@ jobs:
             fi
           }
 
+          # --- Helper: push branch, create PR, auto-merge ---
+          create_and_merge_pr() {
+            local MSG="$1"
+            git checkout -b "$BRANCH"
+            git push -u origin "$BRANCH"
+            PR_URL=$(gh pr create \
+              --title "$MSG" \
+              --body "Automated daily update via GitHub Actions." \
+              --base main \
+              --head "$BRANCH")
+            echo "Created PR: $PR_URL"
+            gh pr merge "$PR_URL" --squash --auto --delete-branch
+            echo "Auto-merge enabled for PR"
+          }
+
           # --- EARLY MORNING INVESTMENT (hour 1 UTC = ~6:30 AM IST) — NEVER skipped ---
           if [ "$HOUR" -eq 1 ] && [ "$DAY" != "6" ]; then
             echo "Morning investment snapshot"
             fetch_investments
             git add .
             git commit -m "📊 Daily investment snapshot: $DATE" || exit 0
-            git push
+            create_and_merge_pr "📊 Daily investment snapshot: $DATE"
             exit 0
           fi
 
           # --- WEEKLY BURST (Saturday cron at hour 5 UTC) ---
           if [ "$DAY" = "6" ] && [ "$HOUR" -lt 7 ]; then
-            echo "Weekly burst mode: making 4-5 commits"
+            echo "Weekly burst mode"
             for i in 1 2 3 4; do
               fetch_investments
               update_content
@@ -153,7 +169,7 @@ jobs:
               git add .
               git commit -m "🧹 Minor cleanup and content refresh: $DATE" || true
             fi
-            git push
+            create_and_merge_pr "🔄 Weekly burst update: $DATE"
             exit 0
           fi
 
@@ -171,4 +187,4 @@ jobs:
           update_content
           git add .
           git commit -m "📊 Market snapshot + content update: $DATE" || exit 0
-          git push
+          create_and_merge_pr "📊 Market snapshot + content update: $DATE"
