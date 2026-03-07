@@ -1,0 +1,193 @@
+name: Daily Multi-Project Update
+
+on:
+  schedule:
+    # 3 daily slots (Mon-Sun) — each makes 1 commit with all folders
+    - cron: '20 2 * * *'    # ~7:50 AM IST
+    - cron: '50 8 * * *'    # ~2:20 PM IST
+    - cron: '15 15 * * *'   # ~8:45 PM IST
+    # Weekly burst: Saturday — makes 4-5 commits in one run
+    - cron: '0 5 * * 6'     # ~10:30 AM IST Saturday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config user.name "Kousik-Automation"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Run Updates
+        run: |
+          DAY=$(date -u +%u)   # 1=Mon ... 6=Sat 7=Sun
+          HOUR=$(date -u +%H)
+
+          # --- Content arrays (shared by daily + weekly) ---
+
+          QUOTES=(
+            "People's lives don't end when they die. It ends when they lose faith. - Itachi Uchiha (Naruto)"
+            "The world isn't perfect. But it's there for us, doing the best it can. - Roy Mustang (FMA)"
+            "If you don't take risks, you can't create a future. - Monkey D. Luffy (One Piece)"
+            "A lesson without pain is meaningless. - Edward Elric (FMA: Brotherhood)"
+            "Hard work is worthless for those that don't believe in themselves. - Naruto Uzumaki"
+            "Power comes in response to a need, not a desire. - Goku (Dragon Ball Z)"
+            "The only ones who should kill are those prepared to be killed. - Lelouch (Code Geass)"
+            "Fear is not evil. It tells you what your weakness is. - Gildarts (Fairy Tail)"
+            "If you don't like your destiny, don't accept it. - Naruto Uzumaki"
+            "Reject common sense to make the impossible possible. - Simon (Gurren Lagann)"
+            "Being weak is nothing to be ashamed of. Staying weak is. - Fuegoleon (Black Clover)"
+            "You should enjoy the little detours to the fullest. - Ging Freecss (HxH)"
+            "Simplicity is the easiest path to true beauty. - Seishuu Handa (Barakamon)"
+            "Whatever you lose, you'll find it again. But what you throw away you'll never get back. - Kenshin Himura"
+            "When you give up, that's when the game ends. - Mitsuyoshi Anzai (Slam Dunk)"
+            "Even if I die, you keep living okay? Live to see the end of this world. - Zoro (One Piece)"
+            "It's not the face that makes someone a monster; it's the choices they make. - Naruto Uzumaki"
+            "You can die anytime, but living takes true courage. - Kenshin Himura (Rurouni Kenshin)"
+            "Believe in yourself. Not in the you who believes in me. Believe in the you who believes in yourself. - Kamina (Gurren Lagann)"
+            "Who decides limits? And based on what? You said you worked hard? Well, maybe you need to work a little harder. - Saitama (One Punch Man)"
+            "The moment you think of giving up, think of the reason why you held on so long. - Natsu Dragneel (Fairy Tail)"
+            "Those who stand at the top determine what's wrong and what's right. - Sosuke Aizen (Bleach)"
+            "In this world, wherever there is light, there are also shadows. - Madara Uchiha (Naruto)"
+            "Life is not a game of luck. If you wanna win, work hard. - Sora (No Game No Life)"
+            "A dropout will beat a genius through hard work. - Rock Lee (Naruto)"
+            "We are all like fireworks: we climb, we shine and always go our separate ways. - Hitsugaya (Bleach)"
+            "I don't want to conquer anything. I just think the guy with the most freedom is the Pirate King. - Luffy (One Piece)"
+            "Vision without action is a daydream. Action without vision is a nightmare. - Japanese Proverb (Mushishi)"
+            "Do not fear death. Fear the unlived life. - Makoto Shishio (Rurouni Kenshin)"
+            "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness. - Matsumoto (Bleach)"
+          )
+
+          HEADLINES=(
+            "AI code assistants are reshaping developer workflows across enterprises"
+            "Rust adoption surges as companies prioritize memory-safe languages"
+            "WebAssembly gains traction for server-side and edge computing"
+            "Kubernetes 1.30 introduces simplified cluster management features"
+            "Open-source LLMs challenge proprietary models in coding benchmarks"
+            "GitHub Copilot expands to support multi-file editing and planning"
+            "TypeScript 6.0 announced with enhanced type inference capabilities"
+            "Cloud-native databases see rapid adoption for real-time analytics"
+            "Edge computing frameworks emerge to reduce latency in IoT deployments"
+            "Zero-trust security models become the default for cloud architectures"
+            "gRPC and protocol buffers gain momentum over REST for microservices"
+            "Serverless computing costs drop as providers optimize cold starts"
+            "Vector databases become essential infrastructure for AI applications"
+            "Linux kernel 7.x improves scheduler for heterogeneous CPU architectures"
+            "Container security scanning becomes mandatory in CI/CD pipelines"
+            "Java 24 virtual threads show 10x throughput improvement in benchmarks"
+            "PostgreSQL 18 introduces native JSON schema validation"
+            "GraphQL federation simplifies API management in distributed systems"
+            "Observability platforms shift from monitoring to predictive analysis"
+            "RISC-V ecosystem expands with new development boards and toolchains"
+            "Spring Boot 4 embraces native compilation for faster startup"
+            "Deno 3.0 positions itself as the unified JavaScript runtime"
+            "Apache Kafka alternatives emerge with simpler operational models"
+            "DevSecOps practices now required by major compliance frameworks"
+            "ARM-based cloud instances deliver better price-performance for CI/CD"
+            "Incremental static regeneration becomes the norm for web frameworks"
+            "eBPF revolutionizes Linux networking and observability tooling"
+            "Microservices teams adopt platform engineering for self-service infra"
+            "AI-powered testing tools auto-generate unit and integration tests"
+            "WASM-based plugin systems replace traditional extension architectures"
+          )
+
+          TIPS=(
+            "Stream API: list.stream().filter(x -> x > 10).collect(Collectors.toList()) filters elements elegantly."
+            "Optional: Optional.ofNullable(obj).orElse(defaultVal) avoids null checks gracefully."
+            "Records: record Point(int x, int y) {} — immutable data carriers since Java 16."
+            "Text Blocks: triple-quote multi-line strings — cleaner SQL/JSON templates since Java 15."
+            "Pattern Matching: if (obj instanceof String s) — no explicit cast needed since Java 16."
+            "Sealed Classes: sealed class Shape permits Circle, Square {} — control your hierarchy."
+            "Virtual Threads: Thread.startVirtualThread(() -> task()) — lightweight concurrency in Java 21."
+            "Switch Expressions: var result = switch(day) { case MON -> 1; default -> 0; } — cleaner switches."
+            "var keyword: var list = new ArrayList<String>() — local type inference since Java 10."
+            "CompletableFuture: supplyAsync(() -> compute()).thenApply(r -> transform(r)) for async chains."
+            "Map.of(): Map.of(key, value) — immutable map factory since Java 9."
+            "String methods: strip(), isBlank(), repeat(3) — handy since Java 11."
+            "HttpClient: HttpClient.newHttpClient().send(request, BodyHandlers.ofString()) — modern HTTP since Java 11."
+            "Collectors.groupingBy: stream.collect(Collectors.groupingBy(Employee::dept)) — powerful data grouping."
+            "Try-with-resources: try (var br = new BufferedReader(...)) {} — auto-closes resources."
+            "Method references: list.forEach(System.out::println) — concise lambda alternative."
+            "Predicate chaining: predicate1.and(predicate2).or(predicate3) — composable filters."
+            "Unmodifiable collections: Collections.unmodifiableList(list) or List.copyOf(list) for safety."
+            "Stream.toList(): stream.toList() — shorter than Collectors.toList() since Java 16."
+            "Arrays.stream: Arrays.stream(arr).sum() — quick array operations via streams."
+            "Instant.now() for UTC timestamps, LocalDateTime.now() for local time."
+            "Objects.requireNonNull(param, msg) — fail-fast validation pattern."
+            "Enum with methods: Enums can have constructors, fields, and abstract methods."
+            "Functional interfaces: @FunctionalInterface ensures exactly one abstract method."
+            "ConcurrentHashMap: Thread-safe map with computeIfAbsent for lazy init."
+            "Stream.flatMap: listOfLists.stream().flatMap(Collection::stream) — flattens nested structures."
+            "Comparator.comparing: list.sort(Comparator.comparing(Person::name).thenComparing(Person::age))."
+            "Structured Concurrency (preview): try (var scope = new StructuredTaskScope()) {} — Java 21+."
+            "String Templates (preview): string interpolation coming in future Java."
+            "Collectors.toMap: stream.collect(Collectors.toMap(Item::id, Item::name)) — build maps from streams."
+          )
+
+          # --- Helper: update all 4 folders ---
+          update_all() {
+            local SEED=$1
+            local DATE=$(date '+%Y-%m-%d')
+            local TIME=$(date '+%H:%M')
+
+            # Stock tracker
+            BTC=$(curl -sf "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd" || echo '{}')
+            if [ "$BTC" != "{}" ]; then
+              BTC_PRICE=$(echo "$BTC" | jq '.bitcoin.usd')
+              ETH_PRICE=$(echo "$BTC" | jq '.ethereum.usd')
+              ENTRY="{\"date\": \"$DATE\", \"time\": \"$TIME\", \"bitcoin_usd\": $BTC_PRICE, \"ethereum_usd\": $ETH_PRICE}"
+            else
+              ENTRY="{\"date\": \"$DATE\", \"time\": \"$TIME\", \"note\": \"API unavailable\"}"
+            fi
+            jq --argjson entry "$ENTRY" '. += [$entry]' stock-tracker/data.json > tmp.json && mv tmp.json stock-tracker/data.json
+
+            # Anime quote
+            IDX=$(( ($(date +%j) + SEED) % ${#QUOTES[@]} ))
+            echo -e "\n## $DATE ($TIME)\n> ${QUOTES[$IDX]}" >> anime-log/quotes.md
+
+            # Tech news
+            IDX=$(( ($(date +%j) + SEED) % ${#HEADLINES[@]} ))
+            echo -e "\n## $DATE ($TIME)\n- ${HEADLINES[$IDX]}" >> tech-news/news.md
+
+            # Java tip
+            IDX=$(( ($(date +%j) + SEED) % ${#TIPS[@]} ))
+            echo -e "\n## $DATE ($TIME)\n$${TIPS[$IDX]}" >> blog-draft/java-tips.md
+          }
+
+          # --- WEEKLY BURST (Saturday cron at hour 5 UTC) ---
+          if [ "$DAY" = "6" ] && [ "$HOUR" -lt 7 ]; then
+            echo "Weekly burst mode: making 4-5 commits"
+            for i in 1 2 3 4; do
+              update_all $i
+              git add .
+              MSGS=("Refactor daily content layout" "Update project data" "Improve content formatting" "Add latest entries")
+              git commit -m "${MSGS[$((i-1))]}: $DATE" || true
+            done
+            # 50% chance of a 5th commit
+            if [ $((RANDOM % 2)) -eq 0 ]; then
+              update_all 5
+              git add .
+              git commit -m "Minor cleanup and content refresh: $DATE" || true
+            fi
+            git push
+            exit 0
+          fi
+
+          # --- DAILY MODE: ~30% chance to skip (so 2-3 commits/day) ---
+          ROLL=$((RANDOM % 100))
+          if [ "$ROLL" -lt 30 ]; then
+            echo "Skipping this slot for natural variation (rolled $ROLL)"
+            exit 0
+          fi
+
+          DATE=$(date '+%Y-%m-%d')
+          update_all $HOUR
+          git add .
+          git commit -m "Update daily content: $DATE" || exit 0
+          git push
