@@ -22,3 +22,6 @@
 
 ## 2026-03-07 (10:53)
 - [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
+
+## 2026-03-07 (11:21)
+- [Helix: A post-modern text editor](https://helix-editor.com/)
