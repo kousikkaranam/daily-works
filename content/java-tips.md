@@ -7,3 +7,6 @@
 
 ## 2026-03-07 (15:11)
 Stream API: list.stream().filter(x -> x > 10)
+
+## 2026-03-07 (10:28)
+java.lang.IllegalArgumentException: attempt to create delete event with null entity

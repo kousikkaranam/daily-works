@@ -13,3 +13,6 @@
 
 ## 2026-03-07 (10:22)
 - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
+
+## 2026-03-07 (10:28)
+- [Tell HN: I'm 60 years old. Claude Code has re-ignited a passion]()

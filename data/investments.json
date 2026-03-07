@@ -35,5 +35,17 @@
     "bitcoin_usd": 67982,
     "ethereum_usd": 1985.51,
     "gold_inr_10g": 152909.41
+  },
+  {
+    "date": "2026-03-07",
+    "time": "10:28",
+    "reliance_inr": null,
+    "tcs_inr": null,
+    "infosys_inr": null,
+    "hdfc_bank_inr": null,
+    "icici_bank_inr": null,
+    "bitcoin_usd": 67944,
+    "ethereum_usd": 1984.95,
+    "gold_inr_10g": 152909.41
   }
 ]
