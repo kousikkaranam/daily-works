@@ -128,9 +128,12 @@ jobs:
             fi
           }
 
-          # --- Helper: push branch, create PR, auto-merge ---
+          # --- Helper: push branch, create PR, merge immediately ---
           create_and_merge_pr() {
             local MSG="$1"
+            # Ensure we're up to date with main before branching
+            git fetch origin main
+            git rebase origin/main || true
             git checkout -b "$BRANCH"
             git push -u origin "$BRANCH"
             PR_URL=$(gh pr create \
@@ -139,8 +142,9 @@ jobs:
               --base main \
               --head "$BRANCH")
             echo "Created PR: $PR_URL"
-            gh pr merge "$PR_URL" --squash --auto --delete-branch
-            echo "Auto-merge enabled for PR"
+            # Merge immediately (no waiting for auto-merge queue)
+            gh pr merge "$PR_URL" --squash --delete-branch
+            echo "PR merged: $PR_URL"
           }
 
           # --- EARLY MORNING INVESTMENT (hour 1 UTC = ~6:30 AM IST) — NEVER skipped ---
