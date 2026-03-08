@@ -27,3 +27,7 @@
 ## 2026-03-07 (15:37)
 > "To wish for your own happiness is sometimes coupled with another's unhappiness. Since I couldn't pray for my own happiness, I prayed to the moon in the night sky for the happiness of the one whose warm hand I held."
 > — Yuuta Takemoto (Honey and Clover)
+
+## 2026-03-08 (09:25)
+> "Women tend to kill when it's not necessary. They kill for reasons of passion. For trivial reasons like love and hate."
+> — Lieutenant Colonel Yuuki (Joker Game)

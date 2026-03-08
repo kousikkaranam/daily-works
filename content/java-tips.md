@@ -22,3 +22,6 @@ What is the difference between transaction isolation levels and optimistic/pessi
 
 ## 2026-03-07 (15:37)
 Is there a Java tool that increases the project version in pom.xml with each commit or push?
+
+## 2026-03-08 (09:25)
+LibGDX autoscale text in Label

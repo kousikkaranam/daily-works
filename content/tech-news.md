@@ -28,3 +28,6 @@
 
 ## 2026-03-07 (15:37)
 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+
+## 2026-03-08 (09:25)
+- [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
