@@ -19,3 +19,6 @@ Why does Apache PDFBox use SHA-1? Is it still secure?
 
 ## 2026-03-07 (11:21)
 What is the difference between transaction isolation levels and optimistic/pessimistic concurrency control?
+
+## 2026-03-07 (15:37)
+Is there a Java tool that increases the project version in pom.xml with each commit or push?
