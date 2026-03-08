@@ -28,3 +28,6 @@
 
 ## 2026-03-07 (15:37)
 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+
+## 2026-03-08 (04:20)
+- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
