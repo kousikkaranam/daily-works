@@ -31,3 +31,7 @@
 ## 2026-03-08 (09:25)
 > "Women tend to kill when it's not necessary. They kill for reasons of passion. For trivial reasons like love and hate."
 > — Lieutenant Colonel Yuuki (Joker Game)
+
+## 2026-03-09 (03:36)
+> "People who sin say that they had to... had to survive. People who sin say that it's too late to stop now. The shadow called Sin dogs them steadily from behind, silently, without a word. Remorse and Agony are repeated, only to end up at Despair. But what sinners don't know, or what they have forgotten, is that there is a light, a light which keeps shining on them ever so warmly. A light that will never fade."
+> — Vash the Stampede (Trigun)

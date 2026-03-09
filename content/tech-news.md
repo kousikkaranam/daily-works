@@ -31,3 +31,6 @@
 
 ## 2026-03-08 (09:25)
 - [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
+
+## 2026-03-09 (03:36)
+- [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
