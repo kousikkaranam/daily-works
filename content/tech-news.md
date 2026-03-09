@@ -34,3 +34,6 @@
 
 ## 2026-03-09 (03:36)
 - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
+
+## 2026-03-09 (04:26)
+- [FrameBook](https://fb.edoo.gg)

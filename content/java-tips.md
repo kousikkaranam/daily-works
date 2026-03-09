@@ -28,3 +28,6 @@ LibGDX autoscale text in Label
 
 ## 2026-03-09 (03:36)
 In annotation processing, why does a processor process a file it has generated, even when that file is not annotated with a supported annotation?
+
+## 2026-03-09 (04:26)
+What exercises improve problem-solving skills in programming?
