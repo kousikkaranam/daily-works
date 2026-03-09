@@ -37,3 +37,6 @@
 
 ## 2026-03-09 (04:26)
 - [FrameBook](https://fb.edoo.gg)
+
+## 2026-03-09 (09:32)
+- [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
