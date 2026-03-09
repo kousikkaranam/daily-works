@@ -34,3 +34,6 @@ What exercises improve problem-solving skills in programming?
 
 ## 2026-03-09 (09:32)
 Java Garbage Collection Induced Latency affecting Performance
+
+## 2026-03-09 (16:13)
+How to Create a Composite Index on Multiple Columns in GridDB Using Java API?
