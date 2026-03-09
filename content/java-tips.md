@@ -31,3 +31,6 @@ In annotation processing, why does a processor process a file it has generated, 
 
 ## 2026-03-09 (04:26)
 What exercises improve problem-solving skills in programming?
+
+## 2026-03-09 (09:32)
+Java Garbage Collection Induced Latency affecting Performance
