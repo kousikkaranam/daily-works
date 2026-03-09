@@ -25,3 +25,6 @@ Is there a Java tool that increases the project version in pom.xml with each com
 
 ## 2026-03-08 (09:25)
 LibGDX autoscale text in Label
+
+## 2026-03-09 (03:36)
+In annotation processing, why does a processor process a file it has generated, even when that file is not annotated with a supported annotation?
