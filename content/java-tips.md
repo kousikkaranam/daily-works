@@ -40,3 +40,6 @@ How to Create a Composite Index on Multiple Columns in GridDB Using Java API?
 
 ## 2026-03-10 (04:18)
 what&#x27;s the best way to audit oldValues in spring boot?
+
+## 2026-03-10 (16:15)
+Get List of JSON Objects with WebClient
