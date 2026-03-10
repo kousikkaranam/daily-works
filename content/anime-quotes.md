@@ -47,3 +47,7 @@
 ## 2026-03-09 (16:13)
 > "We didn’t give up on our dreams! We changed our dreams into your dream! That’s what parents do! That’s what a family does!"
 > — Furukawa Akio (Clannad)
+
+## 2026-03-10 (04:18)
+> "[a giant satellite bomb is headed towards the city] If that thing hits, do you think we'll have school tomorrow?"
+> — Mamimi Samejima (FLCL)

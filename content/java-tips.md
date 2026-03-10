@@ -37,3 +37,6 @@ Java Garbage Collection Induced Latency affecting Performance
 
 ## 2026-03-09 (16:13)
 How to Create a Composite Index on Multiple Columns in GridDB Using Java API?
+
+## 2026-03-10 (04:18)
+what&#x27;s the best way to audit oldValues in spring boot?

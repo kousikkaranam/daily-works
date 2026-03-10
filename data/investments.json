@@ -451,5 +451,52 @@
     "bitcoin_usd": 68779,
     "ethereum_usd": 2024.62,
     "gold_inr_10g": 151048.66
+  },
+  {
+    "date": "2026-03-10",
+    "time": "04:18",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.89,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 26.05,
+        "currency": "INR"
+      },
+      {
+        "name": "CUPID LIMITED",
+        "symbol": "CUPID.NS",
+        "price": 94.25,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Hims & Hers Health, Inc.",
+        "symbol": "HIMS",
+        "price": 22.16,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 182.65,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 11.44,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 69708,
+    "ethereum_usd": 2034.76,
+    "gold_inr_10g": 153190.27
   }
 ]
