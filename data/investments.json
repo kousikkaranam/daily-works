@@ -498,5 +498,52 @@
     "bitcoin_usd": 69708,
     "ethereum_usd": 2034.76,
     "gold_inr_10g": 153190.27
+  },
+  {
+    "date": "2026-03-10",
+    "time": "16:15",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 10.01,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 26.01,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 19.91,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NIO Inc.",
+        "symbol": "NIO",
+        "price": 5.4424,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 185.45,
+        "currency": "USD"
+      },
+      {
+        "name": "Hims & Hers Health, Inc.",
+        "symbol": "HIMS",
+        "price": 22.877,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 71118,
+    "ethereum_usd": 2072.44,
+    "gold_inr_10g": 154972.70
   }
 ]

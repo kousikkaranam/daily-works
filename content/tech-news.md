@@ -46,3 +46,6 @@
 
 ## 2026-03-10 (04:18)
 - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+
+## 2026-03-10 (16:15)
+- [Launch HN: Didit (YC W26) – Stripe for Identity Verification]()
