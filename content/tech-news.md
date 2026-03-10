@@ -43,3 +43,6 @@
 
 ## 2026-03-09 (16:13)
 - [Unlocking Python's Cores:Energy Implications of Removing the GIL](https://arxiv.org/abs/2603.04782)
+
+## 2026-03-10 (04:18)
+- [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
