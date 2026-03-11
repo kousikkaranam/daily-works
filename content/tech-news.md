@@ -55,3 +55,6 @@
 
 ## 2026-03-11 (09:27)
 - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+
+## 2026-03-11 (16:03)
+- [AI Agent Hacks McKinsey](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
