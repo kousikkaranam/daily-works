@@ -49,3 +49,6 @@
 
 ## 2026-03-10 (16:15)
 - [Launch HN: Didit (YC W26) – Stripe for Identity Verification]()
+
+## 2026-03-11 (03:27)
+- [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba)

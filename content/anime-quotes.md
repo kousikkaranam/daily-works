@@ -55,3 +55,7 @@
 ## 2026-03-10 (16:15)
 > "All truth is meaningless. In the end, 'meaning' comes from the mind of each individual human. Even when there is a single truth, it can mean different things to different individuals. The truth has no meaning in itself!"
 > — Furudo Erika (Umineko: When They Cry)
+
+## 2026-03-11 (03:27)
+> "Something that's supposed to die and doesn't will eventually rot away, whether it's a man or a nation."
+> — Reinhard von Lohengramm (Legend of the Galactic Heroes)
