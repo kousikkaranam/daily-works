@@ -43,3 +43,6 @@ what&#x27;s the best way to audit oldValues in spring boot?
 
 ## 2026-03-10 (16:15)
 Get List of JSON Objects with WebClient
+
+## 2026-03-11 (03:27)
+Should virtual threads die fast?
