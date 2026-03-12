@@ -49,3 +49,6 @@ Should virtual threads die fast?
 
 ## 2026-03-11 (16:03)
 Display javascript alert as toast
+
+## 2026-03-12 (03:34)
+How to change the user that registers CUPS as a job requester from the Java Print API?

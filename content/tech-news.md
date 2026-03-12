@@ -58,3 +58,6 @@
 
 ## 2026-03-11 (16:03)
 - [AI Agent Hacks McKinsey](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+
+## 2026-03-12 (03:34)
+- [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
