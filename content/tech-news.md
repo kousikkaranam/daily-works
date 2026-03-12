@@ -64,3 +64,6 @@
 
 ## 2026-03-12 (04:22)
 - [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/)
+
+## 2026-03-12 (09:28)
+- [Temporal: The 9-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)

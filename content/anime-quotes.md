@@ -75,3 +75,7 @@
 ## 2026-03-12 (04:22)
 > "Immortality is wasted on the young."
 > — Alucard (Hellsing)
+
+## 2026-03-12 (09:28)
+> "[Last words] All right then, I'll put you out of your misery. [Her hands are sliced off] Eh?"
+> — Teresa (Claymore)

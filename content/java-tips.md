@@ -55,3 +55,6 @@ How to change the user that registers CUPS as a job requester from the Java Prin
 
 ## 2026-03-12 (04:22)
 Java Spark mapPartitions retry causing duplicate inserts into BigQuery on task failure
+
+## 2026-03-12 (09:28)
+Do you support The Imagine project?
