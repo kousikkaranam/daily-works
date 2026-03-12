@@ -52,3 +52,6 @@ Display javascript alert as toast
 
 ## 2026-03-12 (03:34)
 How to change the user that registers CUPS as a job requester from the Java Print API?
+
+## 2026-03-12 (04:22)
+Java Spark mapPartitions retry causing duplicate inserts into BigQuery on task failure

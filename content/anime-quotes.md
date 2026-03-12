@@ -71,3 +71,7 @@
 ## 2026-03-12 (03:34)
 > "Nicol was fifteen. He loved the piano and Kira just cut him down."
 > — Lacus Clyne (Mobile Suit Gundam SEED)
+
+## 2026-03-12 (04:22)
+> "Immortality is wasted on the young."
+> — Alucard (Hellsing)
