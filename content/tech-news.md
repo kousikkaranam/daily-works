@@ -61,3 +61,6 @@
 
 ## 2026-03-12 (03:34)
 - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
+
+## 2026-03-12 (04:22)
+- [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/)
