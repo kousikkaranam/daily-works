@@ -79,3 +79,7 @@
 ## 2026-03-12 (09:28)
 > "[Last words] All right then, I'll put you out of your misery. [Her hands are sliced off] Eh?"
 > — Teresa (Claymore)
+
+## 2026-03-13 (03:30)
+> "This pain is nothing when compared to the pain I’ve received in the past 12 years."
+> — Kyros (One Piece)
