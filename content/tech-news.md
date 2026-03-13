@@ -76,3 +76,6 @@
 
 ## 2026-03-13 (09:24)
 - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
+
+## 2026-03-13 (15:58)
+- [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
