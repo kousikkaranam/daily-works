@@ -58,3 +58,6 @@ Java Spark mapPartitions retry causing duplicate inserts into BigQuery on task f
 
 ## 2026-03-12 (09:28)
 Do you support The Imagine project?
+
+## 2026-03-13 (03:30)
+Error: Unable to access jarfile ERROR MESSAGE
