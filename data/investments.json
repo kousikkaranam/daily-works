@@ -921,5 +921,52 @@
     "bitcoin_usd": 71321,
     "ethereum_usd": 2115.48,
     "gold_inr_10g": 151851.79
+  },
+  {
+    "date": "2026-03-13",
+    "time": "09:24",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.28,
+        "currency": "INR"
+      },
+      {
+        "name": "IFCI LTD",
+        "symbol": "IFCI.NS",
+        "price": 57.61,
+        "currency": "INR"
+      },
+      {
+        "name": "NTPC GREEN ENERGY LIMITED",
+        "symbol": "NTPCGREEN.NS",
+        "price": 95.86,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 183.14,
+        "currency": "USD"
+      },
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 10.33,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 10.55,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 71729,
+    "ethereum_usd": 2101.52,
+    "gold_inr_10g": 151162.71
   }
 ]
