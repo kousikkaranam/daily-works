@@ -61,3 +61,6 @@ Do you support The Imagine project?
 
 ## 2026-03-13 (03:30)
 Error: Unable to access jarfile ERROR MESSAGE
+
+## 2026-03-13 (04:21)
+AWS OpenSearch Service. Request failed: [security_exception] authentication/authorization failure
