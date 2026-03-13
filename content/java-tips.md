@@ -67,3 +67,6 @@ AWS OpenSearch Service. Request failed: [security_exception] authentication/auth
 
 ## 2026-03-13 (09:24)
 Sending gzip data using restclient or postman
+
+## 2026-03-13 (15:58)
+GoogleJib is stuck at 80 percent while creating docker image

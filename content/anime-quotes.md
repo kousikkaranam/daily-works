@@ -91,3 +91,7 @@
 ## 2026-03-13 (09:24)
 > "Sad memories are a part of what makes me who I am."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-03-13 (15:58)
+> "Can’t stand morons like you who can’t get the damned point! Basically, you’re saying: we wanna cause trouble, be our pal! What a joke! I’ve always admired All Might’s triumphs. No matter what any of you jerks say, nothings ever gonna change that."
+> — Bakugou Katsuki (My Hero Academia)
