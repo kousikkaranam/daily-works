@@ -64,3 +64,6 @@ Error: Unable to access jarfile ERROR MESSAGE
 
 ## 2026-03-13 (04:21)
 AWS OpenSearch Service. Request failed: [security_exception] authentication/authorization failure
+
+## 2026-03-13 (09:24)
+Sending gzip data using restclient or postman

@@ -73,3 +73,6 @@
 
 ## 2026-03-13 (04:21)
 - [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
+
+## 2026-03-13 (09:24)
+- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
