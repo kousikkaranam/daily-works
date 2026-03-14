@@ -76,3 +76,6 @@ How to retrieve yarn&#x27;s logs programmatically using java
 
 ## 2026-03-14 (03:29)
 How can I check if a Spring @Transactional method is actually running in a transaction? [duplicate]
+
+## 2026-03-14 (03:29)
+Does the Java Memory Model permit reordering writes to a volatile variable into a loop?
