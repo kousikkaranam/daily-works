@@ -143,3 +143,7 @@
 ## 2026-03-14 (05:41)
 > "Isn’t there something strange in becoming friends because you’re asked? Friends aren’t given; you’re supposed to make them."
 > — Fujibayashi Kyou (Clannad)
+
+## 2026-03-14 (05:41)
+> "Romance can strengthen people, but it can also make them useless."
+> — Deishū Kaiki (Monogatari Series: Second Season)

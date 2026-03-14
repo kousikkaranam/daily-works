@@ -115,3 +115,6 @@
 
 ## 2026-03-14 (05:41)
 - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+
+## 2026-03-14 (05:41)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
