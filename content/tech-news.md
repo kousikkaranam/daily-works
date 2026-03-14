@@ -88,3 +88,18 @@
 
 ## 2026-03-14 (03:29)
 - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+
+## 2026-03-14 (04:19)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+
+## 2026-03-14 (04:19)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+
+## 2026-03-14 (04:19)
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
+
+## 2026-03-14 (04:19)
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
+
+## 2026-03-14 (04:19)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)

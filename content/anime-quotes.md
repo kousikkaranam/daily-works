@@ -107,3 +107,23 @@
 ## 2026-03-14 (03:29)
 > "I don't want what another man can give me. If he grants me anything, then it's his to give and not my own."
 > — Guts (Berserk)
+
+## 2026-03-14 (04:19)
+> "If I were to survive, but couldn't protect what was important to me, then I might as well be dead."
+> — Tama (Gintama)
+
+## 2026-03-14 (04:19)
+> "When I was at the brink of life and death, I used all of my will to survive. I drew upon a different power than that of self-sacrifice and mastered an ultimate technique. The will to live is stronger than anything else. That was the ray of light that my master risked his life to show me. As Hitokiri Battousai, I have committed so many crimes that I cannot possibly repent for them. That is why I had secretly believed that it didn't matter when I died or was killed. However, now... even if I am formally punished or restrained. I will never lose the will to live."
+> — Kenshin Himura (Rurouni Kenshin)
+
+## 2026-03-14 (04:19)
+> "Sometimes we women must fight too, don't underestimate us!"
+> — Gi-gan (Yona of the Dawn)
+
+## 2026-03-14 (04:19)
+> "Hey God, if you're there, my life has really sucked. So please, for once, let me have a sweet dream."
+> — Kyōko Sakura (Puella Magi Madoka Magica)
+
+## 2026-03-14 (04:19)
+> "One who relies overly on a single skill will be brought low by that very same skill."
+> — Aikurō Mikisugi (Kill la Kill)

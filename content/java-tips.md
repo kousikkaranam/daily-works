@@ -79,3 +79,15 @@ How can I check if a Spring @Transactional method is actually running in a trans
 
 ## 2026-03-14 (03:29)
 Does the Java Memory Model permit reordering writes to a volatile variable into a loop?
+
+## 2026-03-14 (04:19)
+ClamAV INSTREAM scan from Java returns OK for file containing EICAR signature [closed]
+
+## 2026-03-14 (04:19)
+How do I call Java code from C in a plugin and avoid random fails
+
+## 2026-03-14 (04:19)
+java.sql.SQLException: Listener refused the connection with the following error: ORA-12505
+
+## 2026-03-14 (04:19)
+NullAway dereferenced error using @EnsuresNonNullIf validation method
