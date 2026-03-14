@@ -76,3 +76,15 @@
 
 ## 2026-03-13 (09:24)
 - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
+
+## 2026-03-14 (03:28)
+- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+
+## 2026-03-14 (03:28)
+- [Can I run AI locally?](https://www.canirun.ai/)
+
+## 2026-03-14 (03:29)
+- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+
+## 2026-03-14 (03:29)
+- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)

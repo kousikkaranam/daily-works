@@ -67,3 +67,15 @@ AWS OpenSearch Service. Request failed: [security_exception] authentication/auth
 
 ## 2026-03-13 (09:24)
 Sending gzip data using restclient or postman
+
+## 2026-03-14 (03:28)
+GoogleJib is stuck at 80 percent while creating docker image
+
+## 2026-03-14 (03:28)
+How to retrieve yarn&#x27;s logs programmatically using java
+
+## 2026-03-14 (03:29)
+How can I check if a Spring @Transactional method is actually running in a transaction? [duplicate]
+
+## 2026-03-14 (03:29)
+Does the Java Memory Model permit reordering writes to a volatile variable into a loop?

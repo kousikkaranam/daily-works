@@ -91,3 +91,19 @@
 ## 2026-03-13 (09:24)
 > "Sad memories are a part of what makes me who I am."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-03-14 (03:28)
+> "I was too bent on fulfilling my objectives… I failed to see things from a larger perspective. I failed to build up a good relationship with them."
+> — Yoshioka Futaba (Blue Spring Ride)
+
+## 2026-03-14 (03:28)
+> "Are you selling soup or donkey piss?"
+> — Jigo (Princess Mononoke)
+
+## 2026-03-14 (03:29)
+> "Loyalty is only given meaning through one's actions."
+> — Futayo Honda (Horizon in the Middle of Nowhere)
+
+## 2026-03-14 (03:29)
+> "I don't want what another man can give me. If he grants me anything, then it's his to give and not my own."
+> — Guts (Berserk)
