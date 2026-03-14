@@ -85,3 +85,6 @@ ClamAV INSTREAM scan from Java returns OK for file containing EICAR signature [c
 
 ## 2026-03-14 (04:19)
 How do I call Java code from C in a plugin and avoid random fails
+
+## 2026-03-14 (04:19)
+java.sql.SQLException: Listener refused the connection with the following error: ORA-12505

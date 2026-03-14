@@ -97,3 +97,6 @@
 
 ## 2026-03-14 (04:19)
 - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
+
+## 2026-03-14 (04:19)
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
