@@ -82,3 +82,6 @@
 
 ## 2026-03-14 (03:28)
 - [Can I run AI locally?](https://www.canirun.ai/)
+
+## 2026-03-14 (03:29)
+- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)

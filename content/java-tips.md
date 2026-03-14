@@ -73,3 +73,6 @@ GoogleJib is stuck at 80 percent while creating docker image
 
 ## 2026-03-14 (03:28)
 How to retrieve yarn&#x27;s logs programmatically using java
+
+## 2026-03-14 (03:29)
+How can I check if a Spring @Transactional method is actually running in a transaction? [duplicate]
