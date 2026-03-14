@@ -79,3 +79,6 @@ How can I check if a Spring @Transactional method is actually running in a trans
 
 ## 2026-03-14 (03:29)
 Does the Java Memory Model permit reordering writes to a volatile variable into a loop?
+
+## 2026-03-14 (04:19)
+ClamAV INSTREAM scan from Java returns OK for file containing EICAR signature [closed]
