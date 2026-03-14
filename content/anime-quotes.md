@@ -91,3 +91,7 @@
 ## 2026-03-13 (09:24)
 > "Sad memories are a part of what makes me who I am."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-03-14 (03:28)
+> "I was too bent on fulfilling my objectives… I failed to see things from a larger perspective. I failed to build up a good relationship with them."
+> — Yoshioka Futaba (Blue Spring Ride)

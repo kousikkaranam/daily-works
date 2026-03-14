@@ -76,3 +76,6 @@
 
 ## 2026-03-13 (09:24)
 - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
+
+## 2026-03-14 (03:28)
+- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
