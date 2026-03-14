@@ -88,3 +88,6 @@ How do I call Java code from C in a plugin and avoid random fails
 
 ## 2026-03-14 (04:19)
 java.sql.SQLException: Listener refused the connection with the following error: ORA-12505
+
+## 2026-03-14 (04:19)
+NullAway dereferenced error using @EnsuresNonNullIf validation method
