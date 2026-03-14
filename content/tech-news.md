@@ -106,3 +106,6 @@
 
 ## 2026-03-14 (05:40)
 - [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
+
+## 2026-03-14 (05:40)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
