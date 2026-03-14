@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-03-07",
-    "time": "15:37",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 10.06,
-        "currency": "INR"
-      },
-      {
-        "name": "FILATEX FASHIONS LIMITED",
-        "symbol": "FILATFASH.NS",
-        "price": 0.19,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 25.08,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 177.82,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 9.83,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 11.18,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 68006,
-    "ethereum_usd": 1984.72,
-    "gold_inr_10g": 152909.41
-  },
-  {
     "date": "2026-03-08",
     "time": "01:44",
     "top_indian": [
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": null,
     "ethereum_usd": null,
+    "gold_inr_10g": 149370.71
+  },
+  {
+    "date": "2026-03-14",
+    "time": "09:05",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.27,
+        "currency": "INR"
+      },
+      {
+        "name": "IFCI LTD",
+        "symbol": "IFCI.NS",
+        "price": 57.21,
+        "currency": "INR"
+      },
+      {
+        "name": "NTPC GREEN ENERGY LIMITED",
+        "symbol": "NTPCGREEN.NS",
+        "price": 98.15,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 180.25,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 10.3,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 8.24,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 70622,
+    "ethereum_usd": 2074.74,
     "gold_inr_10g": 149370.71
   }
 ]

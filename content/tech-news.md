@@ -118,3 +118,6 @@
 
 ## 2026-03-14 (05:41)
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+
+## 2026-03-14 (09:05)
+- [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)

@@ -100,3 +100,6 @@ Spring batching rollback issue [closed]
 
 ## 2026-03-14 (05:41)
 Is Java still worth learning to get a job soon? Seniors &#x2014; please spit the truth
+
+## 2026-03-14 (09:05)
+In springboot projects, how to implement front-end preview of pdf, word, excel
