@@ -95,3 +95,7 @@
 ## 2026-03-14 (03:28)
 > "I was too bent on fulfilling my objectives… I failed to see things from a larger perspective. I failed to build up a good relationship with them."
 > — Yoshioka Futaba (Blue Spring Ride)
+
+## 2026-03-14 (03:28)
+> "Are you selling soup or donkey piss?"
+> — Jigo (Princess Mononoke)

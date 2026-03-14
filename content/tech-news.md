@@ -79,3 +79,6 @@
 
 ## 2026-03-14 (03:28)
 - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+
+## 2026-03-14 (03:28)
+- [Can I run AI locally?](https://www.canirun.ai/)
