@@ -127,3 +127,23 @@
 ## 2026-03-14 (04:19)
 > "One who relies overly on a single skill will be brought low by that very same skill."
 > — Aikurō Mikisugi (Kill la Kill)
+
+## 2026-03-14 (05:40)
+> "Don't retreat, Tetsuzaemon. No matter what. You stand firm right behind me!"
+> — Komamura Sajin (Bleach)
+
+## 2026-03-14 (05:40)
+> "Stop living in the past like an old man."
+> — Taiga Aisaka (Toradora!)
+
+## 2026-03-14 (05:40)
+> "Neither God nor the Devil can give aid to those without the will to fight…"
+> — Brook (One Piece)
+
+## 2026-03-14 (05:41)
+> "Isn’t there something strange in becoming friends because you’re asked? Friends aren’t given; you’re supposed to make them."
+> — Fujibayashi Kyou (Clannad)
+
+## 2026-03-14 (05:41)
+> "Romance can strengthen people, but it can also make them useless."
+> — Deishū Kaiki (Monogatari Series: Second Season)

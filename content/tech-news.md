@@ -103,3 +103,18 @@
 
 ## 2026-03-14 (04:19)
 - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+
+## 2026-03-14 (05:40)
+- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
+
+## 2026-03-14 (05:40)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+
+## 2026-03-14 (05:40)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+
+## 2026-03-14 (05:41)
+- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+
+## 2026-03-14 (05:41)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
