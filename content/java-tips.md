@@ -97,3 +97,6 @@ Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.6.7:r
 
 ## 2026-03-14 (05:40)
 Spring batching rollback issue [closed]
+
+## 2026-03-14 (05:41)
+Is Java still worth learning to get a job soon? Seniors &#x2014; please spit the truth
