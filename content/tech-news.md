@@ -103,3 +103,6 @@
 
 ## 2026-03-14 (04:19)
 - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+
+## 2026-03-14 (05:40)
+- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
