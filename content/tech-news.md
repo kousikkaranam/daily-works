@@ -109,3 +109,6 @@
 
 ## 2026-03-14 (05:40)
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+
+## 2026-03-14 (05:40)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
