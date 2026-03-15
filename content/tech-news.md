@@ -124,3 +124,6 @@
 
 ## 2026-03-15 (03:52)
 - [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
+
+## 2026-03-15 (04:41)
+- [Mathematics Distillation Challenge – Equational Theories](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
