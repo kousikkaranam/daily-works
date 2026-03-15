@@ -163,3 +163,7 @@
 ## 2026-03-15 (09:18)
 > "People cannot change the past. All we can do, is accept our own actions. If you still wish to be burdened by your sins, let it show in your future actions. It is your choice how to perceive something that has already happened."
 > — Kotomine Kirei (Fate/stay night)
+
+## 2026-03-15 (15:44)
+> "This is your life right? Then decide for yourself! If you want to protect everything with your hands then do so, if you want to abandon everything then do so. But, what do you yourself want to do right now? Can you really be satisfied giving someone else that you don’t really understand your most important thing?"
+> — Kamijou Touma (A Certain Magical Index)

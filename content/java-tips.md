@@ -109,3 +109,6 @@ Spring Integration SFTP mainframe: failed to write file; nested exception is 3: 
 
 ## 2026-03-15 (09:18)
 Nexus 2.0 not caching remote artifacts
+
+## 2026-03-15 (15:44)
+How do remove maven from eclipse?

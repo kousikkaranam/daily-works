@@ -130,3 +130,6 @@
 
 ## 2026-03-15 (09:18)
 - [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
+
+## 2026-03-15 (15:44)
+- [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
