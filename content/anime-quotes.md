@@ -155,3 +155,7 @@
 ## 2026-03-15 (03:52)
 > "If you turn your eyes away from sad things, they'll happen again one day. If you keep running away, you'll keep repeating the same mistakes. That's why you have to face the truth straight on."
 > — Riki Naoe (Little Busters!)
+
+## 2026-03-15 (04:41)
+> "Romance is just trying to convey your feelings to another person."
+> — Tadashi Isogai (Living for the Day After Tomorrow)

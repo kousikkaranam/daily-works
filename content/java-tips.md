@@ -103,3 +103,6 @@ Is Java still worth learning to get a job soon? Seniors &#x2014; please spit the
 
 ## 2026-03-14 (09:05)
 In springboot projects, how to implement front-end preview of pdf, word, excel
+
+## 2026-03-15 (04:41)
+Spring Integration SFTP mainframe: failed to write file; nested exception is 3: Permission denied
