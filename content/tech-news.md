@@ -127,3 +127,6 @@
 
 ## 2026-03-15 (04:41)
 - [Mathematics Distillation Challenge – Equational Theories](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
+
+## 2026-03-15 (09:18)
+- [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)

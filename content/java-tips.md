@@ -106,3 +106,6 @@ In springboot projects, how to implement front-end preview of pdf, word, excel
 
 ## 2026-03-15 (04:41)
 Spring Integration SFTP mainframe: failed to write file; nested exception is 3: Permission denied
+
+## 2026-03-15 (09:18)
+Nexus 2.0 not caching remote artifacts
