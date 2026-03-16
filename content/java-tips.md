@@ -115,3 +115,6 @@ How do remove maven from eclipse?
 
 ## 2026-03-16 (03:56)
 java - update .json file (using json.simple)
+
+## 2026-03-16 (04:48)
+Spring boot : java.lang.AbstractMethodError: Receiver class org.springframework.jms.config.JmsListenerEndpointRegistry
