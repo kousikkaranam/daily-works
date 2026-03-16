@@ -142,3 +142,6 @@
 
 ## 2026-03-16 (09:46)
 - [Kona EV Hacking](http://techno-fandom.org/~hobbit/cars/ev/)
+
+## 2026-03-16 (16:17)
+- [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
