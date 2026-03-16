@@ -118,3 +118,6 @@ java - update .json file (using json.simple)
 
 ## 2026-03-16 (04:48)
 Spring boot : java.lang.AbstractMethodError: Receiver class org.springframework.jms.config.JmsListenerEndpointRegistry
+
+## 2026-03-16 (09:46)
+How to make the ResourceResponse to forward the request to error page in liferay portlet
