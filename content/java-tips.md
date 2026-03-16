@@ -121,3 +121,6 @@ Spring boot : java.lang.AbstractMethodError: Receiver class org.springframework.
 
 ## 2026-03-16 (09:46)
 How to make the ResourceResponse to forward the request to error page in liferay portlet
+
+## 2026-03-16 (16:17)
+Encountering &quot;10006 TXN_AUTH_REQUIRED&quot; error in GridDB during client request execution
