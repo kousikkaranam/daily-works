@@ -112,3 +112,6 @@ Nexus 2.0 not caching remote artifacts
 
 ## 2026-03-15 (15:44)
 How do remove maven from eclipse?
+
+## 2026-03-16 (03:56)
+java - update .json file (using json.simple)
