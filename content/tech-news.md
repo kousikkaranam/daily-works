@@ -139,3 +139,6 @@
 
 ## 2026-03-16 (04:48)
 - [The 49MB web page](https://thatshubham.com/blog/news-audit)
+
+## 2026-03-16 (09:46)
+- [Kona EV Hacking](http://techno-fandom.org/~hobbit/cars/ev/)
