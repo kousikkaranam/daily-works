@@ -183,3 +183,7 @@
 ## 2026-03-16 (16:17)
 > "Sometimes you can't see what's right in front of you."
 > — Ryuunosuke Uryuu (Fate/Zero)
+
+## 2026-03-17 (03:36)
+> "He may seem cold-blooded, but he's more human and his heart is more brittle than anyone else... so much so that if you filled it with human love or betrayal, it'd break easily... which is why I think he chose to avoid it all from the start: to love humanity. Do you understand? Not to accept it, not to face it, but he chose to avoid it."
+> — Shinra Kishitani (Durarara!!)
