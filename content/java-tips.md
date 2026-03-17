@@ -127,3 +127,6 @@ Encountering &quot;10006 TXN_AUTH_REQUIRED&quot; error in GridDB during client r
 
 ## 2026-03-17 (03:36)
 Wildfly 39 JSF Login authentication
+
+## 2026-03-17 (04:26)
+Error creating bean with name &#x27;kafkaListenerContainerFactory

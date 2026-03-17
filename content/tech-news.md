@@ -148,3 +148,6 @@
 
 ## 2026-03-17 (03:36)
 - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
+
+## 2026-03-17 (04:26)
+- [Beyond has dropped “meat” from its name and expanded its high-protein drink line](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/)
