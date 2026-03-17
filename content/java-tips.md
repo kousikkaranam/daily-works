@@ -124,3 +124,6 @@ How to make the ResourceResponse to forward the request to error page in liferay
 
 ## 2026-03-16 (16:17)
 Encountering &quot;10006 TXN_AUTH_REQUIRED&quot; error in GridDB during client request execution
+
+## 2026-03-17 (03:36)
+Wildfly 39 JSF Login authentication
