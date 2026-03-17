@@ -151,3 +151,6 @@
 
 ## 2026-03-17 (04:26)
 - [Beyond has dropped “meat” from its name and expanded its high-protein drink line](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/)
+
+## 2026-03-17 (09:39)
+- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
