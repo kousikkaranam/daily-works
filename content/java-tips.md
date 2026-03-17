@@ -130,3 +130,6 @@ Wildfly 39 JSF Login authentication
 
 ## 2026-03-17 (04:26)
 Error creating bean with name &#x27;kafkaListenerContainerFactory
+
+## 2026-03-17 (09:39)
+Spring Data JPA Pagination without count query
