@@ -139,3 +139,6 @@ How to contextually allow spaces between tokens?
 
 ## 2026-03-18 (04:32)
 Spring Security OAuth2 Authorization Server to support Device Authorization Flow with public clients using ClientAuthenticationMethod.NONE
+
+## 2026-03-18 (09:37)
+mvn gluonfx:link errors on Zorin OS 18. liblibchelper.a and -lstdc&#x2B;&#x2B; No such file or directory [closed]
