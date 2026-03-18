@@ -133,3 +133,6 @@ Error creating bean with name &#x27;kafkaListenerContainerFactory
 
 ## 2026-03-17 (09:39)
 Spring Data JPA Pagination without count query
+
+## 2026-03-18 (03:43)
+How to contextually allow spaces between tokens?
