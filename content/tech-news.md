@@ -163,3 +163,6 @@
 
 ## 2026-03-18 (09:37)
 - [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
+
+## 2026-03-18 (16:18)
+- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)

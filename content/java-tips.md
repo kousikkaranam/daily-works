@@ -142,3 +142,6 @@ Spring Security OAuth2 Authorization Server to support Device Authorization Flow
 
 ## 2026-03-18 (09:37)
 mvn gluonfx:link errors on Zorin OS 18. liblibchelper.a and -lstdc&#x2B;&#x2B; No such file or directory [closed]
+
+## 2026-03-18 (16:18)
+Java: Using Enum for Linked List sorting question
