@@ -157,3 +157,6 @@
 
 ## 2026-03-18 (03:43)
 - [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
+
+## 2026-03-18 (04:32)
+- [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)

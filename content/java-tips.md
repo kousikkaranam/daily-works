@@ -136,3 +136,6 @@ Spring Data JPA Pagination without count query
 
 ## 2026-03-18 (03:43)
 How to contextually allow spaces between tokens?
+
+## 2026-03-18 (04:32)
+Spring Security OAuth2 Authorization Server to support Device Authorization Flow with public clients using ClientAuthenticationMethod.NONE
