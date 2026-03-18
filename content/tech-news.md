@@ -154,3 +154,6 @@
 
 ## 2026-03-17 (09:39)
 - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+
+## 2026-03-18 (03:43)
+- [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
