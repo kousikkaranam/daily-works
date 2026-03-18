@@ -160,3 +160,6 @@
 
 ## 2026-03-18 (04:32)
 - [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
+
+## 2026-03-18 (09:37)
+- [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
