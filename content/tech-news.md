@@ -169,3 +169,6 @@
 
 ## 2026-03-19 (03:42)
 - [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+
+## 2026-03-19 (09:28)
+- [Why Cloudflare rule order matters?](https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html)
