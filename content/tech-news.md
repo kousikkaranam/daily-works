@@ -166,3 +166,6 @@
 
 ## 2026-03-18 (16:18)
 - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
+
+## 2026-03-19 (03:42)
+- [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
