@@ -169,3 +169,6 @@
 
 ## 2026-03-19 (03:42)
 - [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+
+## 2026-03-19 (04:31)
+- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
