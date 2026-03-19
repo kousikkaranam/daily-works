@@ -172,3 +172,6 @@
 
 ## 2026-03-19 (09:28)
 - [Why Cloudflare rule order matters?](https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html)
+
+## 2026-03-19 (16:09)
+- [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
