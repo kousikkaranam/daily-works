@@ -211,3 +211,7 @@
 ## 2026-03-18 (16:18)
 > "Fear is freedom! Subjugation is liberation! Contradiction is truth! These are the truths of this world! Surrender to those truths, you pigs who fawn over clothing!"
 > — Satsuki Kiryuuin (Kill la Kill)
+
+## 2026-03-19 (03:42)
+> "Indeed. I wanted to see Oceanus with my own eyes. Unfortunately, my dream never came true. Oceanus is still my final destination. A dream that never ends. Go ahead and laugh. Two thousand years later, and I still have the same dream. Every bit the fool as well. And so boy... a pact with a fellow idiot seems ideal."
+> — Rider (Fate/Zero)
