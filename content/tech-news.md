@@ -178,3 +178,6 @@
 
 ## 2026-03-20 (03:32)
 - [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+
+## 2026-03-20 (04:22)
+- [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
