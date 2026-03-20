@@ -154,3 +154,6 @@ Incompatible version of libocijdbc
 
 ## 2026-03-19 (16:09)
 Java HttpClient proxy authentication failing to call getPasswordAuthentication() but still returning status code 407
+
+## 2026-03-20 (03:32)
+Jackson MismatchedInputException (no String-argument constructor/factory method to deserialize from String value)

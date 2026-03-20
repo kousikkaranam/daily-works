@@ -175,3 +175,6 @@
 
 ## 2026-03-19 (16:09)
 - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
+
+## 2026-03-20 (03:32)
+- [Push events into a running session with channels](https://code.claude.com/docs/en/channels)

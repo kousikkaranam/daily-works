@@ -223,3 +223,7 @@
 ## 2026-03-19 (16:09)
 > "Rarely does one have the chance to exchange blows with heroes from another age. And with the chance to fight as many as six, I can't allow one of them to fall right now. Look at Saber and Lancer. Both are valiant warriors I would love to duel with. It'd be a pity to let either die."
 > — Rider (Fate/Zero)
+
+## 2026-03-20 (03:32)
+> "I was reckless when I was young. I educated myself by cursing the heartlessness of the world. The world was cruel - so I made myself more heartless and used that as a weapon, trying to follow through on my ideals."
+> — Emiya Kiritsugu (Fate/stay night)
