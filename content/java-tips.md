@@ -160,3 +160,6 @@ Jackson MismatchedInputException (no String-argument constructor/factory method 
 
 ## 2026-03-20 (04:22)
 Java this Keyword used to call other Constructors
+
+## 2026-03-20 (09:25)
+What causes&quot;***** Out of Package Error Occurred&quot; in Standalone java JPA2.1 Application
