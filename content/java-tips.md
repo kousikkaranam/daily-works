@@ -196,3 +196,6 @@ Looking for an idea for a project to work on while studying programming
 
 ## 2026-03-21 (05:36)
 Reactor Netty Server and Requests with trailing slashes
+
+## 2026-03-21 (09:04)
+java.lang.NoClassDefFoundError: gherkin/formatter/Reporter for Cucumber with extent reports

@@ -223,3 +223,6 @@
 
 ## 2026-03-21 (05:36)
 - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
+
+## 2026-03-21 (09:04)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
