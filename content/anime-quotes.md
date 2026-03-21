@@ -251,3 +251,19 @@
 ## 2026-03-21 (03:24)
 > "Knocking others down to gain an advantage is a fruitless endeavor. It means they've given up on winning any other way."
 > — Saiki Michiru (ReLIFE)
+
+## 2026-03-21 (04:14)
+> "If you become perplexed or make errors, in the end have the kind of life that you can have pride in living. The kind where you can say, "I persevered." Repeating delightful things and sad things. And in that way keep getting older. I persevered."
+> — Kyoko Honda (Fruits Basket)
+
+## 2026-03-21 (04:14)
+> "If you want to do damage to the other ship you have to ram them in the middle! Now do it again!"
+> — Death the Kid (Soul Eater)
+
+## 2026-03-21 (04:14)
+> "You mean that we failed again to prevent a bombing? What are you doing, Hijikata-san? You should take this job more seriously."
+> — Okita Sougo (Gintama)
+
+## 2026-03-21 (04:14)
+> "When a person is hard to reach, someone has to extend their hand to that person to get to them, because of that dream, because they dream that freedom really exists, the roses will look up at the sky when they bloom."
+> — Ringo Noyamano (Air Gear)
