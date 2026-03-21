@@ -172,3 +172,6 @@ How to check if a date is after today java
 
 ## 2026-03-21 (03:24)
 Unable to retrieve the correct message in @GlobalHandler
+
+## 2026-03-21 (03:24)
+What else does the industry expect from a Java backend developer in 2026?

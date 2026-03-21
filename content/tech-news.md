@@ -193,3 +193,6 @@
 
 ## 2026-03-21 (03:24)
 - [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
+
+## 2026-03-21 (03:24)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
