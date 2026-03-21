@@ -169,3 +169,6 @@ Spring Boot 4: How to define ObjectMapper based on autoconfiguration?
 
 ## 2026-03-21 (03:24)
 How to check if a date is after today java
+
+## 2026-03-21 (03:24)
+Unable to retrieve the correct message in @GlobalHandler

@@ -190,3 +190,6 @@
 
 ## 2026-03-21 (03:24)
 - [OpenCode – Open source AI coding agent](https://opencode.ai/)
+
+## 2026-03-21 (03:24)
+- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
