@@ -184,3 +184,15 @@
 
 ## 2026-03-20 (09:25)
 - [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
+
+## 2026-03-21 (03:24)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
+
+## 2026-03-21 (03:24)
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
+
+## 2026-03-21 (03:24)
+- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
+
+## 2026-03-21 (03:24)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)

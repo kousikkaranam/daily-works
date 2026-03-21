@@ -235,3 +235,19 @@
 ## 2026-03-20 (09:25)
 > "While many can pursue their dreams in solitude, other dreams are like great storms blowing hundreds, even thousands of dreams apart in their wake. Dreams breathe life into men and can cage them in suffering. Men live and die by their dreams. But long after they have been abandoned they still smolder deep in men's hearts. Some see nothing more than life and death. They are dead, for they have no dreams."
 > — Griffith (Berserk)
+
+## 2026-03-21 (03:24)
+> "DEATH is so unfair. It comes to those who don't need it. But not the people who are asking for it."
+> — Yuu Otosaka (Charlotte)
+
+## 2026-03-21 (03:24)
+> "You shouldn't judge people by how they look."
+> — Yato (Noragami)
+
+## 2026-03-21 (03:24)
+> "Nothing beats a cup of herbal tea in the morning."
+> — Excalibur (Soul Eater)
+
+## 2026-03-21 (03:24)
+> "Knocking others down to gain an advantage is a fruitless endeavor. It means they've given up on winning any other way."
+> — Saiki Michiru (ReLIFE)
