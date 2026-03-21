@@ -284,3 +284,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-21 (05:36)
 > "Then stand up right away! And don’t act like you’re about to die! It’s not like you!"
 > — Usopp (One Piece)
+
+## 2026-03-21 (05:36)
+> "If you want to run from your past, fine. But whatever you do, don't run away from your present or worse, your future."
+> — Kyohei Kadota (Durarara!!)

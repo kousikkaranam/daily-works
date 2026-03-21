@@ -193,3 +193,6 @@ How to LOCK TABLE ... do stuff ... UNLOCK TABLE with Spring Boot?
 
 ## 2026-03-21 (05:36)
 Looking for an idea for a project to work on while studying programming
+
+## 2026-03-21 (05:36)
+Reactor Netty Server and Requests with trailing slashes
