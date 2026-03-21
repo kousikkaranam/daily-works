@@ -187,3 +187,6 @@ Java NIO: Ideal approach to high-speed sequentially streaming large binary data 
 
 ## 2026-03-21 (04:14)
 How to check if Current Hour falls between certain range
+
+## 2026-03-21 (05:36)
+How to LOCK TABLE ... do stuff ... UNLOCK TABLE with Spring Boot?

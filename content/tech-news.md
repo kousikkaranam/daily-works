@@ -211,3 +211,6 @@
 
 ## 2026-03-21 (05:36)
 - [The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
+
+## 2026-03-21 (05:36)
+- [A look at content scrambling in DVDs](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
