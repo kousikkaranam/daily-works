@@ -199,3 +199,6 @@
 
 ## 2026-03-21 (04:14)
 - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
+
+## 2026-03-21 (04:14)
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)

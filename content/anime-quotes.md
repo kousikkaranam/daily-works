@@ -255,3 +255,7 @@
 ## 2026-03-21 (04:14)
 > "If you become perplexed or make errors, in the end have the kind of life that you can have pride in living. The kind where you can say, "I persevered." Repeating delightful things and sad things. And in that way keep getting older. I persevered."
 > — Kyoko Honda (Fruits Basket)
+
+## 2026-03-21 (04:14)
+> "If you want to do damage to the other ship you have to ram them in the middle! Now do it again!"
+> — Death the Kid (Soul Eater)
