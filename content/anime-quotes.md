@@ -288,3 +288,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-21 (05:36)
 > "If you want to run from your past, fine. But whatever you do, don't run away from your present or worse, your future."
 > — Kyohei Kadota (Durarara!!)
+
+## 2026-03-21 (09:04)
+> "You think you can just escape? Walk out of this world like it's some bad movie? It's too easy to make like a bird. To flap your wings as you chicken out after causing all these problems. The tough part's walking. Taking what comes along and walking right through it. That's what real people do."
+> — Eikichi Onizuka (Great Teacher Onizuka)
