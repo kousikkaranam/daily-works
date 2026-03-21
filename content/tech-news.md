@@ -214,3 +214,6 @@
 
 ## 2026-03-21 (05:36)
 - [A look at content scrambling in DVDs](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
+
+## 2026-03-21 (05:36)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
