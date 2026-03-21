@@ -267,3 +267,24 @@
 ## 2026-03-21 (04:14)
 > "When a person is hard to reach, someone has to extend their hand to that person to get to them, because of that dream, because they dream that freedom really exists, the roses will look up at the sky when they bloom."
 > — Ringo Noyamano (Air Gear)
+
+## 2026-03-21 (05:36)
+> "Gohan, let it go. It is not a sin to fight for the right cause. There are those who words alone will not reach."
+> — Android 16 (Dragon Ball)
+
+## 2026-03-21 (05:36)
+> "I don't have have much time. It's not that I'm busy, but I'm only willing to give you about two and a half more minutes of my life!"
+> — Shizuo Heiwajima (Durarara!!)
+
+## 2026-03-21 (05:36)
+> "Maybe we can't help feeling scared alone! But we're all right here, together! We've got out friends close by!
+Now there's nothing to fear, because we are not alone!"
+> — Natsu Dragneel (Fairy Tail)
+
+## 2026-03-21 (05:36)
+> "Then stand up right away! And don’t act like you’re about to die! It’s not like you!"
+> — Usopp (One Piece)
+
+## 2026-03-21 (05:36)
+> "If you want to run from your past, fine. But whatever you do, don't run away from your present or worse, your future."
+> — Kyohei Kadota (Durarara!!)
