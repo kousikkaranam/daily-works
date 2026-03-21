@@ -175,3 +175,6 @@ Unable to retrieve the correct message in @GlobalHandler
 
 ## 2026-03-21 (03:24)
 What else does the industry expect from a Java backend developer in 2026?
+
+## 2026-03-21 (04:14)
+How to Test Builder Pattern that Returns an Object with No Accessors?
