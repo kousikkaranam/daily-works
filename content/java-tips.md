@@ -166,3 +166,6 @@ What causes&quot;***** Out of Package Error Occurred&quot; in Standalone java JP
 
 ## 2026-03-21 (03:24)
 Spring Boot 4: How to define ObjectMapper based on autoconfiguration?
+
+## 2026-03-21 (03:24)
+How to check if a date is after today java

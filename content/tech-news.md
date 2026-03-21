@@ -187,3 +187,6 @@
 
 ## 2026-03-21 (03:24)
 - [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
+
+## 2026-03-21 (03:24)
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
