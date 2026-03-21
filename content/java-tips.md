@@ -199,3 +199,6 @@ Reactor Netty Server and Requests with trailing slashes
 
 ## 2026-03-21 (09:04)
 java.lang.NoClassDefFoundError: gherkin/formatter/Reporter for Cucumber with extent reports
+
+## 2026-03-21 (15:41)
+Verification of Element in Viewport in Selenium

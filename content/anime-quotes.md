@@ -292,3 +292,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-21 (09:04)
 > "You think you can just escape? Walk out of this world like it's some bad movie? It's too easy to make like a bird. To flap your wings as you chicken out after causing all these problems. The tough part's walking. Taking what comes along and walking right through it. That's what real people do."
 > — Eikichi Onizuka (Great Teacher Onizuka)
+
+## 2026-03-21 (15:41)
+> "No, order exists to protect the people. We must not aim our guns at the wrong people. What we should eliminate are our doubting hearts and minds."
+> — Yomogawa Ayame (Kabaneri of the Iron Fortress)

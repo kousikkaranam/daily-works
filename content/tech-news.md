@@ -226,3 +226,6 @@
 
 ## 2026-03-21 (09:04)
 - [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
+
+## 2026-03-21 (15:41)
+- [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
