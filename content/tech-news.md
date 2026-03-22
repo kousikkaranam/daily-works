@@ -235,3 +235,6 @@
 
 ## 2026-03-22 (09:05)
 - [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
+
+## 2026-03-22 (15:42)
+- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)

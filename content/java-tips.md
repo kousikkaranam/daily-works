@@ -208,3 +208,6 @@ Go to implementation (CTRL &#x2B; F12) not working
 
 ## 2026-03-22 (09:05)
 How do I design a generic Response builder / RESTful Web Service using Spring MVC?
+
+## 2026-03-22 (15:42)
+Why does not Files.newByteChannel return FileChannel?
