@@ -296,3 +296,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-21 (15:41)
 > "No, order exists to protect the people. We must not aim our guns at the wrong people. What we should eliminate are our doubting hearts and minds."
 > — Yomogawa Ayame (Kabaneri of the Iron Fortress)
+
+## 2026-03-22 (04:29)
+> "If you don't know what state you wounds are in, of where you're hurting if you don't know that for yourself, there's no point in trying to share it with others, is there?"
+> — Hisomu Yoshiharu (Kiznaiver)

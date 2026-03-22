@@ -229,3 +229,6 @@
 
 ## 2026-03-21 (15:41)
 - [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
+
+## 2026-03-22 (04:29)
+- [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)

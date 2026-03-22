@@ -202,3 +202,6 @@ java.lang.NoClassDefFoundError: gherkin/formatter/Reporter for Cucumber with ext
 
 ## 2026-03-21 (15:41)
 Verification of Element in Viewport in Selenium
+
+## 2026-03-22 (04:29)
+Go to implementation (CTRL &#x2B; F12) not working
