@@ -300,3 +300,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-22 (04:29)
 > "If you don't know what state you wounds are in, of where you're hurting if you don't know that for yourself, there's no point in trying to share it with others, is there?"
 > — Hisomu Yoshiharu (Kiznaiver)
+
+## 2026-03-22 (09:05)
+> "This is the world you've stuck yourself into, if you aren't strong enough to lead, then you lose the privilege of getting what you want."
+> — Genkai (Yu Yu Hakusho)

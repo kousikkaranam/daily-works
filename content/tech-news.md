@@ -232,3 +232,6 @@
 
 ## 2026-03-22 (04:29)
 - [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
+
+## 2026-03-22 (09:05)
+- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
