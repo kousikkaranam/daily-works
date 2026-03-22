@@ -205,3 +205,6 @@ Verification of Element in Viewport in Selenium
 
 ## 2026-03-22 (04:29)
 Go to implementation (CTRL &#x2B; F12) not working
+
+## 2026-03-22 (09:05)
+How do I design a generic Response builder / RESTful Web Service using Spring MVC?
