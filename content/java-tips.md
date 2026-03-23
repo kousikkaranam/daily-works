@@ -217,3 +217,6 @@ How to setup Spring JDBC Connection Pooling with Spring Boot?
 
 ## 2026-03-23 (04:38)
 Is there a more succinct way to convert a String to a Set of Characters in Java?
+
+## 2026-03-23 (16:10)
+MySQLTransactionRollbackException: Deadlock found when trying to get lock;
