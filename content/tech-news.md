@@ -238,3 +238,6 @@
 
 ## 2026-03-22 (15:42)
 - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
+
+## 2026-03-23 (03:45)
+- [The hottest new phone is Tin Can, a 'landline' for kids](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
