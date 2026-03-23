@@ -214,3 +214,6 @@ Why does not Files.newByteChannel return FileChannel?
 
 ## 2026-03-23 (03:45)
 How to setup Spring JDBC Connection Pooling with Spring Boot?
+
+## 2026-03-23 (04:38)
+Is there a more succinct way to convert a String to a Set of Characters in Java?

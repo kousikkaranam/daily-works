@@ -241,3 +241,6 @@
 
 ## 2026-03-23 (03:45)
 - [The hottest new phone is Tin Can, a 'landline' for kids](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
+
+## 2026-03-23 (04:38)
+- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
