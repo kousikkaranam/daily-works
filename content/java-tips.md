@@ -211,3 +211,6 @@ How do I design a generic Response builder / RESTful Web Service using Spring MV
 
 ## 2026-03-22 (15:42)
 Why does not Files.newByteChannel return FileChannel?
+
+## 2026-03-23 (03:45)
+How to setup Spring JDBC Connection Pooling with Spring Boot?
