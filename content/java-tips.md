@@ -223,3 +223,6 @@ MySQLTransactionRollbackException: Deadlock found when trying to get lock;
 
 ## 2026-03-24 (03:37)
 Issue with Java StringEscapeUtils.escapeHtml4()
+
+## 2026-03-24 (16:18)
+How to map native sql results to oneToMany field with SqlResultSetMapping in JPA

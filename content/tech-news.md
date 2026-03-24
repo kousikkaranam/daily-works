@@ -250,3 +250,6 @@
 
 ## 2026-03-24 (03:37)
 - [Epoch confirms GPT5.4 pro solved a frontier math open problem for the first time](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+
+## 2026-03-24 (16:18)
+- [Major insider trading on oil detected ahead of Iran talks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6)
