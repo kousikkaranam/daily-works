@@ -247,3 +247,6 @@
 
 ## 2026-03-23 (16:10)
 - [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+
+## 2026-03-24 (03:37)
+- [Epoch confirms GPT5.4 pro solved a frontier math open problem for the first time](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)

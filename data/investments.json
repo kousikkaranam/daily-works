@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-03-18",
-    "time": "03:42",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.25,
-        "currency": "INR"
-      },
-      {
-        "name": "FILATEX FASHIONS LIMITED",
-        "symbol": "FILATFASH.NS",
-        "price": 0.17,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 24.46,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 17.37,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 181.93,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 11.28,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 74506,
-    "ethereum_usd": 2343.74,
-    "gold_inr_10g": 148566.88
-  },
-  {
-    "date": "2026-03-18",
     "time": "04:32",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 70368,
     "ethereum_usd": 2135.76,
     "gold_inr_10g": 132068.49
+  },
+  {
+    "date": "2026-03-24",
+    "time": "03:37",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 8.7,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 19.74,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATAGOLD",
+        "symbol": "TATAGOLD.NS",
+        "price": 13.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 175.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Coeur Mining, Inc.",
+        "symbol": "CDE",
+        "price": 17.89,
+        "currency": "USD"
+      },
+      {
+        "name": "Super Micro Computer, Inc.",
+        "symbol": "SMCI",
+        "price": 21.58,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 70444,
+    "ethereum_usd": 2135.58,
+    "gold_inr_10g": 130683.10
   }
 ]
