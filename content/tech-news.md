@@ -250,3 +250,6 @@
 
 ## 2026-03-24 (03:37)
 - [Epoch confirms GPT5.4 pro solved a frontier math open problem for the first time](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+
+## 2026-03-24 (04:27)
+- [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
