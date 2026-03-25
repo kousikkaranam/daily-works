@@ -226,3 +226,6 @@ Issue with Java StringEscapeUtils.escapeHtml4()
 
 ## 2026-03-24 (16:18)
 How to map native sql results to oneToMany field with SqlResultSetMapping in JPA
+
+## 2026-03-25 (03:40)
+Spring Boot - JpaRepository not initializing when using multiple DataSources
