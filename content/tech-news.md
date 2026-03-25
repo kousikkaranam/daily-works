@@ -253,3 +253,6 @@
 
 ## 2026-03-24 (16:18)
 - [Major insider trading on oil detected ahead of Iran talks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6)
+
+## 2026-03-25 (03:40)
+- [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
