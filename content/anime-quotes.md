@@ -332,3 +332,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-25 (03:40)
 > "The natural enemy of the strong is the weak, but the natural enemy of the weak is not the strong - it is the ones that are even weaker."
 > — Sora (No Game, No Life)
+
+## 2026-03-26 (03:49)
+> "Oh wow! That’s the ceremonial crown of Jerra III, also known as the Tragic Prince. He was lost atseaon his coronation day in the sixteenth century!"
+> — Kurapika (Hunter x Hunter)

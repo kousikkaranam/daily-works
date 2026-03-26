@@ -229,3 +229,6 @@ How to map native sql results to oneToMany field with SqlResultSetMapping in JPA
 
 ## 2026-03-25 (03:40)
 Spring Boot - JpaRepository not initializing when using multiple DataSources
+
+## 2026-03-26 (03:49)
+Is Freemarker 2.3.34 compatible with Jakarta EE11?
