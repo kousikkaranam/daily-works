@@ -259,3 +259,6 @@
 
 ## 2026-03-26 (03:49)
 - [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259)
+
+## 2026-03-26 (04:41)
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
