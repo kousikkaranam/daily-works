@@ -265,3 +265,6 @@
 
 ## 2026-03-26 (09:45)
 - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
+
+## 2026-03-26 (16:35)
+- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
