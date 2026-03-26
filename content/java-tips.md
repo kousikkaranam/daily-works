@@ -235,3 +235,6 @@ Is Freemarker 2.3.34 compatible with Jakarta EE11?
 
 ## 2026-03-26 (04:41)
 Creating enums with lombok
+
+## 2026-03-26 (09:45)
+Do people even use gradle when building spring boot projects anymore? [closed]

@@ -262,3 +262,6 @@
 
 ## 2026-03-26 (04:41)
 - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+
+## 2026-03-26 (09:45)
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3)
