@@ -344,3 +344,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-26 (09:45)
 > "No matter what you're doing, the most essential thing is to not give up. Fail as many times as it takes. Keep trying persistantly untill you can call yourself 'avarage'. If you can collect a nice group of avarage-level skills, that's already above-avarage. You've created your own sort of 'talent'."
 > — Yuuji Kazami (The Fruit of Grisaia)
+
+## 2026-03-26 (16:35)
+> ""Checkmate" doesn't mean you've simply cornered the enemy king. It's a declaration that the enemy king is yours. That's why I said it the first time I met you. "Checkmate.""
+> — Sora (No Game, No Life)
