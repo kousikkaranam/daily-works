@@ -352,3 +352,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-27 (03:51)
 > "It's quite basic actually, perhaps the simplest of tricks there is. True it may not seem so simple from an ordinary persons point of view, some people may even consider it a baffling, utterly perplexing problem. Things will often appear complicated on the outside while in truth they are simplicity itself. Of course how one sees these things depends on the person, many people find there is a fine line separating the complex to the very simple."
 > — Excalibur (Soul Eater)
+
+## 2026-03-27 (16:06)
+> "Killing you now will be as easy as strangling a baby."
+> — Kurotsuchi Mayuri (Bleach)

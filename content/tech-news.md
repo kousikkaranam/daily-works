@@ -271,3 +271,6 @@
 
 ## 2026-03-27 (03:51)
 - [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
+
+## 2026-03-27 (16:06)
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
