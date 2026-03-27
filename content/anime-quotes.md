@@ -348,3 +348,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-26 (16:35)
 > ""Checkmate" doesn't mean you've simply cornered the enemy king. It's a declaration that the enemy king is yours. That's why I said it the first time I met you. "Checkmate.""
 > — Sora (No Game, No Life)
+
+## 2026-03-27 (03:51)
+> "It's quite basic actually, perhaps the simplest of tricks there is. True it may not seem so simple from an ordinary persons point of view, some people may even consider it a baffling, utterly perplexing problem. Things will often appear complicated on the outside while in truth they are simplicity itself. Of course how one sees these things depends on the person, many people find there is a fine line separating the complex to the very simple."
+> — Excalibur (Soul Eater)
