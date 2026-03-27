@@ -241,3 +241,6 @@ Do people even use gradle when building spring boot projects anymore? [closed]
 
 ## 2026-03-26 (16:35)
 Netbeans Local deploy fails while glassfish remote deploy works
+
+## 2026-03-27 (03:51)
+Explicitly deserialising a subclass without class identifier
