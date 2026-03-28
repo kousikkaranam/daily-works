@@ -301,3 +301,6 @@
 
 ## 2026-03-28 (04:29)
 - [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
+
+## 2026-03-28 (05:52)
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
