@@ -307,3 +307,6 @@
 
 ## 2026-03-28 (05:52)
 - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
+
+## 2026-03-28 (05:52)
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)

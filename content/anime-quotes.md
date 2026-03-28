@@ -400,3 +400,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (05:52)
 > "Wanting to do it and being suitable for it are different issues."
 > — Iida Tenya (My Hero Academia)
+
+## 2026-03-28 (05:52)
+> "Even if you have two of the exact same person, they could change enormously depending on their upbringing."
+> — Ushiromiya Ange (Umineko: When They Cry)
