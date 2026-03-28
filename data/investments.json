@@ -136,53 +136,6 @@
         "currency": "USD"
       }
     ],
-    "bitcoin_usd": 70743,
-    "ethereum_usd": 2155.97,
-    "gold_inr_10g": 135280.13
-  },
-  {
-    "date": "2026-03-21",
-    "time": "04:14",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.34,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 16.36,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.34,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Comcast Corporation",
-        "symbol": "CMCSA",
-        "price": 29.02,
-        "currency": "USD"
-      },
-      {
-        "name": "Super Micro Computer, Inc.",
-        "symbol": "SMCI",
-        "price": 20.53,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 172.7,
-        "currency": "USD"
-      }
-    ],
     "bitcoin_usd": null,
     "ethereum_usd": null,
     "gold_inr_10g": 135280.13
@@ -1402,6 +1355,53 @@
         "name": "Intel Corporation",
         "symbol": "INTC",
         "price": 43.13,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 66205,
+    "ethereum_usd": 1989.56,
+    "gold_inr_10g": 137052.78
+  },
+  {
+    "date": "2026-03-28",
+    "time": "04:28",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 8.89,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 18.12,
+        "currency": "INR"
+      },
+      {
+        "name": "Alstone Textiles (India) Ltd",
+        "symbol": "ALSTONE.BO",
+        "price": 0.11,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 167.52,
+        "currency": "USD"
+      },
+      {
+        "name": "Grab Holdings Limited",
+        "symbol": "GRAB",
+        "price": 3.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "price": 361.83,
         "currency": "USD"
       }
     ],

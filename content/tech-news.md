@@ -289,3 +289,6 @@
 
 ## 2026-03-28 (04:28)
 - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+
+## 2026-03-28 (04:28)
+- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
