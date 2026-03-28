@@ -372,3 +372,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (03:39)
 > "Men who can’t wipe away the tears from a woman’s eyes aren’t real men."
 > — Sanji (One Piece)
+
+## 2026-03-28 (04:28)
+> "The weaker person is the more he gets hung up on other people's pain and then he self-destructs"
+> — Donquixote Doflamingo (One Piece)
