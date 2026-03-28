@@ -392,3 +392,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (04:29)
 > "Caring for things brings a lot of trouble."
 > — Kou Mabuchi (Blue Spring Ride)
+
+## 2026-03-28 (05:52)
+> "Getting kicked out of school won't kill me, but losing my way of life most certainly will."
+> — Shikishima Kiriko (Ultimate Otaku Teacher)
+
+## 2026-03-28 (05:52)
+> "Wanting to do it and being suitable for it are different issues."
+> — Iida Tenya (My Hero Academia)
+
+## 2026-03-28 (05:52)
+> "Even if you have two of the exact same person, they could change enormously depending on their upbringing."
+> — Ushiromiya Ange (Umineko: When They Cry)
+
+## 2026-03-28 (05:52)
+> "Then let me ask you, if your God would allow my madness to flourish across the globe, then wouldn't it seem to you that any god like that would be just as mad as I?"
+> — Montana Max (Hellsing Ultimate)
