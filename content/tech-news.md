@@ -274,3 +274,15 @@
 
 ## 2026-03-27 (16:06)
 - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
+
+## 2026-03-28 (03:38)
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/)
+
+## 2026-03-28 (03:38)
+- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+
+## 2026-03-28 (03:38)
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
+
+## 2026-03-28 (03:39)
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
