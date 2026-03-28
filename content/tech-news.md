@@ -316,3 +316,6 @@
 
 ## 2026-03-28 (09:21)
 - [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
+
+## 2026-03-28 (15:47)
+- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
