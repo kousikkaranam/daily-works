@@ -253,3 +253,6 @@ How to receive JSON message from a Solace JMS queue, the queue is already create
 
 ## 2026-03-28 (03:38)
 Error in SQL Developer
+
+## 2026-03-28 (03:39)
+Parsing date with optional time component [duplicate]

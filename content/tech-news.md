@@ -283,3 +283,6 @@
 
 ## 2026-03-28 (03:38)
 - [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
+
+## 2026-03-28 (03:39)
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
