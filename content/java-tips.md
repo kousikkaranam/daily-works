@@ -271,3 +271,6 @@ With Spring Security how do i determine if the current api request should be aut
 
 ## 2026-03-28 (05:52)
 How to mock array of String
+
+## 2026-03-28 (05:52)
+There is no Action mapped for namespace / and action name HelloWorld

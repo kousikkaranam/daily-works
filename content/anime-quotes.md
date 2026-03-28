@@ -404,3 +404,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (05:52)
 > "Even if you have two of the exact same person, they could change enormously depending on their upbringing."
 > — Ushiromiya Ange (Umineko: When They Cry)
+
+## 2026-03-28 (05:52)
+> "Then let me ask you, if your God would allow my madness to flourish across the globe, then wouldn't it seem to you that any god like that would be just as mad as I?"
+> — Montana Max (Hellsing Ultimate)
