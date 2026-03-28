@@ -274,3 +274,6 @@ How to mock array of String
 
 ## 2026-03-28 (05:52)
 There is no Action mapped for namespace / and action name HelloWorld
+
+## 2026-03-28 (09:21)
+TWA postMessage not working - No navigation events or message channel callbacks

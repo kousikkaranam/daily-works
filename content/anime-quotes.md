@@ -408,3 +408,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (05:52)
 > "Then let me ask you, if your God would allow my madness to flourish across the globe, then wouldn't it seem to you that any god like that would be just as mad as I?"
 > — Montana Max (Hellsing Ultimate)
+
+## 2026-03-28 (09:21)
+> "Love for the dead is pointless. We fight to keep them alive, that is all."
+> — Olivier Mira Armstrong (Fullmetal Alchemist)
