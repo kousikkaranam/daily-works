@@ -262,3 +262,6 @@ What is a referent in Java?
 
 ## 2026-03-28 (04:28)
 Injecting dependencies into custom Jackson deserializer
+
+## 2026-03-28 (04:29)
+How to sort a set based on another paired set in Java?
