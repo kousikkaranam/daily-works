@@ -388,3 +388,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (04:29)
 > "Gekokujou."
 > — Wakashi Hiyoshi (Prince Of Tennis)
+
+## 2026-03-28 (04:29)
+> "Caring for things brings a lot of trouble."
+> — Kou Mabuchi (Blue Spring Ride)
