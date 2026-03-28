@@ -244,3 +244,6 @@ Netbeans Local deploy fails while glassfish remote deploy works
 
 ## 2026-03-27 (03:51)
 Explicitly deserialising a subclass without class identifier
+
+## 2026-03-28 (03:38)
+GridDB Java client throws &quot;Row key already exists&quot; when inserting multiple rows in loop [closed]

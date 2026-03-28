@@ -274,3 +274,6 @@
 
 ## 2026-03-27 (16:06)
 - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
+
+## 2026-03-28 (03:38)
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/)
