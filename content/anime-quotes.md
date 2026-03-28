@@ -364,3 +364,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (03:38)
 > "I don't know much about you. You were the one who selfishly entered my world...yet you immediately plunged into silence. What were you thinking? Did you really pick on me just because it was fun? Which one is serious and which one of it is just a joke? That's enough now, making me all messed up like this."
 > — Misaki Ayuzawa (Maid Sama!)
+
+## 2026-03-28 (03:38)
+> "Being a detective isn't about bringing someone down, but rather protecting someone."
+> — Kougami Shinya (Psycho-Pass)

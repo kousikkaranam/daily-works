@@ -250,3 +250,6 @@ GridDB Java client throws &quot;Row key already exists&quot; when inserting mult
 
 ## 2026-03-28 (03:38)
 How to receive JSON message from a Solace JMS queue, the queue is already created
+
+## 2026-03-28 (03:38)
+Error in SQL Developer

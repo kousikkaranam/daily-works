@@ -280,3 +280,6 @@
 
 ## 2026-03-28 (03:38)
 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+
+## 2026-03-28 (03:38)
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
