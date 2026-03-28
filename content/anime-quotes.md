@@ -396,3 +396,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (05:52)
 > "Getting kicked out of school won't kill me, but losing my way of life most certainly will."
 > — Shikishima Kiriko (Ultimate Otaku Teacher)
+
+## 2026-03-28 (05:52)
+> "Wanting to do it and being suitable for it are different issues."
+> — Iida Tenya (My Hero Academia)
