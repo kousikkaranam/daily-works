@@ -256,3 +256,15 @@ Error in SQL Developer
 
 ## 2026-03-28 (03:39)
 Parsing date with optional time component [duplicate]
+
+## 2026-03-28 (04:28)
+What is a referent in Java?
+
+## 2026-03-28 (04:28)
+Injecting dependencies into custom Jackson deserializer
+
+## 2026-03-28 (04:29)
+How to sort a set based on another paired set in Java?
+
+## 2026-03-28 (04:29)
+With Spring Security how do i determine if the current api request should be authenticated or not?

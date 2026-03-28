@@ -286,3 +286,18 @@
 
 ## 2026-03-28 (03:39)
 - [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
+
+## 2026-03-28 (04:28)
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+
+## 2026-03-28 (04:28)
+- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+
+## 2026-03-28 (04:28)
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/)
+
+## 2026-03-28 (04:29)
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/)
+
+## 2026-03-28 (04:29)
+- [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
