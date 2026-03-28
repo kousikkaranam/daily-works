@@ -292,3 +292,6 @@
 
 ## 2026-03-28 (04:28)
 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+
+## 2026-03-28 (04:28)
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/)

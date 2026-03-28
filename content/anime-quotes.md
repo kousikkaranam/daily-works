@@ -380,3 +380,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-28 (04:28)
 > "I'm sure that the boy I killed, who shared that skill, must also have grown up knowing the pain of which I speak. We are special. We are powerful. And we are feared."
 > — Haku (Naruto)
+
+## 2026-03-28 (04:28)
+> "Life is never fair. I'm sure you're well aware of that."
+> — Decim (Death Parade)

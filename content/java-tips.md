@@ -259,3 +259,6 @@ Parsing date with optional time component [duplicate]
 
 ## 2026-03-28 (04:28)
 What is a referent in Java?
+
+## 2026-03-28 (04:28)
+Injecting dependencies into custom Jackson deserializer
