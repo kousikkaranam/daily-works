@@ -277,3 +277,6 @@ There is no Action mapped for namespace / and action name HelloWorld
 
 ## 2026-03-28 (09:21)
 TWA postMessage not working - No navigation events or message channel callbacks
+
+## 2026-03-29 (03:56)
+IllegalStateException: ApplicationContext failure
