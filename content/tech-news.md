@@ -325,3 +325,6 @@
 
 ## 2026-03-29 (04:45)
 - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
+
+## 2026-03-29 (09:21)
+- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
