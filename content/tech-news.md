@@ -319,3 +319,6 @@
 
 ## 2026-03-28 (15:47)
 - [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
+
+## 2026-03-29 (03:56)
+- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
