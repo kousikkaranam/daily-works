@@ -280,3 +280,6 @@ TWA postMessage not working - No navigation events or message channel callbacks
 
 ## 2026-03-29 (03:56)
 IllegalStateException: ApplicationContext failure
+
+## 2026-03-29 (04:45)
+Hibernate ERROR: unexpected end of subtree when calling custom functions
