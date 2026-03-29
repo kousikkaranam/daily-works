@@ -328,3 +328,6 @@
 
 ## 2026-03-29 (09:21)
 - [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
+
+## 2026-03-29 (15:46)
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
