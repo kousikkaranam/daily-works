@@ -334,3 +334,6 @@
 
 ## 2026-03-30 (04:10)
 - [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
+
+## 2026-03-30 (10:00)
+- [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)

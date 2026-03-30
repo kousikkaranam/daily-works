@@ -436,3 +436,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-30 (04:10)
 > "Going against the flow… takes a lot of courage. I respect that. Maybe people who can do it are just stupid, but… Well… What I’m sure of is that people like that are rare."
 > — Annie Leonhart (Attack on Titan)
+
+## 2026-03-30 (10:00)
+> "They call certain methods of fighting good and others evil, acting as if there were some nobility to the battlefield. Such illusions, perpetrated by heroes throughout history, have led countless young men to their bloody deaths, all for the sake of this valor and glory."
+> — Emiya Kiritsugu (Fate/stay night)
