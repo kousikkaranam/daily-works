@@ -292,3 +292,6 @@ Using between in QueryDSL for date parameters
 
 ## 2026-03-30 (10:00)
 Spring Boot Application Fails with &quot;Missing preceding open capture character&quot; in Path Pattern Despite Correct Mappings
+
+## 2026-03-30 (16:13)
+NL (Dutch) locale in Swing does not seem to work

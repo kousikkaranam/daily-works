@@ -440,3 +440,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-03-30 (10:00)
 > "They call certain methods of fighting good and others evil, acting as if there were some nobility to the battlefield. Such illusions, perpetrated by heroes throughout history, have led countless young men to their bloody deaths, all for the sake of this valor and glory."
 > — Emiya Kiritsugu (Fate/stay night)
+
+## 2026-03-30 (16:13)
+> "A poor choice seals our fate."
+> — Kurama (Yu Yu Hakusho)
