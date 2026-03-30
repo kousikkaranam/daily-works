@@ -289,3 +289,6 @@ how to programmatically get a photo from the device&#x27;s memory
 
 ## 2026-03-30 (04:10)
 Using between in QueryDSL for date parameters
+
+## 2026-03-30 (10:00)
+Spring Boot Application Fails with &quot;Missing preceding open capture character&quot; in Path Pattern Despite Correct Mappings
