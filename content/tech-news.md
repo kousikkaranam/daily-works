@@ -337,3 +337,6 @@
 
 ## 2026-03-30 (10:00)
 - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
+
+## 2026-03-30 (16:13)
+- [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
