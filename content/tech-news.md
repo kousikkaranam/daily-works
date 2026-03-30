@@ -331,3 +331,6 @@
 
 ## 2026-03-29 (15:46)
 - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+
+## 2026-03-30 (04:10)
+- [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
