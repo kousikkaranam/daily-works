@@ -286,3 +286,6 @@ Hibernate ERROR: unexpected end of subtree when calling custom functions
 
 ## 2026-03-29 (09:21)
 how to programmatically get a photo from the device&#x27;s memory
+
+## 2026-03-30 (04:10)
+Using between in QueryDSL for date parameters
