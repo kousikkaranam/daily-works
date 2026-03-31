@@ -295,3 +295,6 @@ Spring Boot Application Fails with &quot;Missing preceding open capture characte
 
 ## 2026-03-30 (16:13)
 NL (Dutch) locale in Swing does not seem to work
+
+## 2026-03-31 (04:44)
+Fast read text file character-by-character(java)
