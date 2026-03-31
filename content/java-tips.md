@@ -298,3 +298,6 @@ NL (Dutch) locale in Swing does not seem to work
 
 ## 2026-03-31 (04:44)
 Fast read text file character-by-character(java)
+
+## 2026-03-31 (09:45)
+Error with JOptionPane, method showMessageDialog not applicable

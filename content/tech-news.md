@@ -343,3 +343,6 @@
 
 ## 2026-03-31 (04:44)
 - [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)
+
+## 2026-03-31 (09:45)
+- [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
