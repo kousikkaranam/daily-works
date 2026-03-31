@@ -340,3 +340,6 @@
 
 ## 2026-03-30 (16:13)
 - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
+
+## 2026-03-31 (04:44)
+- [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)
