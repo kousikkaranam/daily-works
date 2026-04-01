@@ -301,3 +301,6 @@ Fast read text file character-by-character(java)
 
 ## 2026-03-31 (09:45)
 Error with JOptionPane, method showMessageDialog not applicable
+
+## 2026-04-01 (05:07)
+BeanCreationException: Error creating bean with name &#x27;org.springframework.context.annotation.internalPersistenceAnnotationProcessor&#x27;:

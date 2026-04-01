@@ -346,3 +346,6 @@
 
 ## 2026-03-31 (09:45)
 - [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
+
+## 2026-04-01 (05:07)
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)

@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-03-25",
-    "time": "03:40",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.88,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 21.69,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATAGOLD",
-        "symbol": "TATAGOLD.NS",
-        "price": 13.56,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 175.2,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 10.68,
-        "currency": "USD"
-      },
-      {
-        "name": "ImmunityBio, Inc.",
-        "symbol": "IBRX",
-        "price": 7.415,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 70736,
-    "ethereum_usd": 2157.48,
-    "gold_inr_10g": 138305.50
-  },
-  {
     "date": "2026-03-26",
     "time": "03:49",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 66429,
     "ethereum_usd": 2028.06,
     "gold_inr_10g": 138718.69
+  },
+  {
+    "date": "2026-04-01",
+    "time": "05:07",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 8.8,
+        "currency": "INR"
+      },
+      {
+        "name": "Alstone Textiles (India) Ltd",
+        "symbol": "ALSTONE.BO",
+        "price": 0.12,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 22.9,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 174.4,
+        "currency": "USD"
+      },
+      {
+        "name": "Snap Inc.",
+        "symbol": "SNAP",
+        "price": 4.6,
+        "currency": "USD"
+      },
+      {
+        "name": "Apellis Pharmaceuticals, Inc.",
+        "symbol": "APLS",
+        "price": 40.23,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 68150,
+    "ethereum_usd": 2107.29,
+    "gold_inr_10g": 141199.29
   }
 ]
