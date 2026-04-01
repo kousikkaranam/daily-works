@@ -352,3 +352,6 @@
 
 ## 2026-04-01 (09:50)
 - [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
+
+## 2026-04-01 (16:13)
+- [We Built It with Slide Rules. Then We Forgot How](https://unmitigatedrisk.com/?p=1227)
