@@ -346,3 +346,6 @@
 
 ## 2026-03-31 (09:45)
 - [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
+
+## 2026-04-01 (04:13)
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)

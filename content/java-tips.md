@@ -301,3 +301,6 @@ Fast read text file character-by-character(java)
 
 ## 2026-03-31 (09:45)
 Error with JOptionPane, method showMessageDialog not applicable
+
+## 2026-04-01 (04:13)
+When i use Assert.assertFalse(), to check the absence of an element, my scripts are getting failed
