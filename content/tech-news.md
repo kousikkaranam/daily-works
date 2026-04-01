@@ -349,3 +349,6 @@
 
 ## 2026-04-01 (05:07)
 - [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+
+## 2026-04-01 (09:50)
+- [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
