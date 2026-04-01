@@ -304,3 +304,6 @@ Error with JOptionPane, method showMessageDialog not applicable
 
 ## 2026-04-01 (05:07)
 BeanCreationException: Error creating bean with name &#x27;org.springframework.context.annotation.internalPersistenceAnnotationProcessor&#x27;:
+
+## 2026-04-01 (09:50)
+How to avoid &quot;Continuous access evaluation resulted in challenge with result: InteractionRequired and code: TokenCreatedWithOutdatedPolicies&quot;
