@@ -361,3 +361,6 @@
 
 ## 2026-04-02 (04:38)
 - [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
+
+## 2026-04-02 (09:44)
+- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)

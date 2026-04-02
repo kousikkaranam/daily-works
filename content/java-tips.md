@@ -316,3 +316,6 @@ Java Socket does not honor timeout
 
 ## 2026-04-02 (04:38)
 Array out of bounds exception in a recursive program for calculating determinant
+
+## 2026-04-02 (09:44)
+Maven WildFly deploy could not resolve dependencies
