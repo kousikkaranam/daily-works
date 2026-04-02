@@ -355,3 +355,6 @@
 
 ## 2026-04-01 (16:13)
 - [We Built It with Slide Rules. Then We Forgot How](https://unmitigatedrisk.com/?p=1227)
+
+## 2026-04-02 (03:46)
+- [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
