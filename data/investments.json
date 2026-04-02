@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-03-26",
-    "time": "16:35",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.04,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.12,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.4,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 173.925,
-        "currency": "USD"
-      },
-      {
-        "name": "MARA Holdings, Inc.",
-        "symbol": "MARA",
-        "price": 8.81,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 44.875,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 68911,
-    "ethereum_usd": 2065.39,
-    "gold_inr_10g": 132815.86
-  },
-  {
     "date": "2026-03-27",
     "time": "03:51",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 66577,
     "ethereum_usd": 2052.71,
     "gold_inr_10g": 140965.95
+  },
+  {
+    "date": "2026-04-02",
+    "time": "04:38",
+    "top_indian": [
+      {
+        "name": "Alstone Textiles (India) Ltd",
+        "symbol": "ALSTONE.BO",
+        "price": 0.12,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 8.16,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 25.63,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 175.75,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 48.03,
+        "currency": "USD"
+      },
+      {
+        "name": "Nike, Inc.",
+        "symbol": "NKE",
+        "price": 44.63,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 66363,
+    "ethereum_usd": 2048.87,
+    "gold_inr_10g": 140382.43
   }
 ]
