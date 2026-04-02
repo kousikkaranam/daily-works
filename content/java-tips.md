@@ -310,3 +310,6 @@ How to avoid &quot;Continuous access evaluation resulted in challenge with resul
 
 ## 2026-04-01 (16:13)
 How to implement a stacked notification layout using RecyclerView in Android?
+
+## 2026-04-02 (03:46)
+Java Socket does not honor timeout
