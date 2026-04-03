@@ -319,3 +319,6 @@ Array out of bounds exception in a recursive program for calculating determinant
 
 ## 2026-04-02 (09:44)
 Maven WildFly deploy could not resolve dependencies
+
+## 2026-04-03 (04:39)
+java.net.SocketException: Connection reset by peer: socket write error When serving a file
