@@ -322,3 +322,6 @@ Maven WildFly deploy could not resolve dependencies
 
 ## 2026-04-03 (04:39)
 java.net.SocketException: Connection reset by peer: socket write error When serving a file
+
+## 2026-04-03 (09:38)
+Writing an entire list to a file in java
