@@ -370,3 +370,18 @@
 
 ## 2026-04-03 (09:38)
 - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
+
+## 2026-04-04 (03:36)
+- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
+
+## 2026-04-04 (03:36)
+- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+
+## 2026-04-04 (03:36)
+- [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
+
+## 2026-04-04 (03:36)
+- [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html)
+
+## 2026-04-04 (03:36)
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw]()

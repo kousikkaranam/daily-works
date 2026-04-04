@@ -484,3 +484,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-03 (09:38)
 > "I live every day of my life like there’s no tomorrow so that when my number’s up, I can check out with no regrets! No way this horde of zombies is gonna end Mirko the Hero."
 > — Rumi Usagiyama (My Hero Academia)
+
+## 2026-04-04 (03:36)
+> "The individual exists because there is a point of reference to identify itself."
+> — Haruka Shitow (RahXephon)
+
+## 2026-04-04 (03:36)
+> "It's as if you are stuck in some predetermined program, following some predetermined script. If you really want to live in reality, then fight against it. Break through destiny with your own hands, and build your own reality!"
+> — Sarutobi Ayame (Gintama)
+
+## 2026-04-04 (03:36)
+> "I know that we can be foolish and make mistakes and we get hurt so easily. But with each mistake, we improve ourselves and with each wound, we don’t want to be hurt again. We keep moving on. We cherish the past, the present, and the future."
+> — Lina Inverse (Slayers)
+
+## 2026-04-04 (03:36)
+> "Humans are so... interesting."
+> — Ryuk (Death Note)
