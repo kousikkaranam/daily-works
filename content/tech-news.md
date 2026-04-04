@@ -412,3 +412,6 @@
 
 ## 2026-04-04 (05:53)
 - [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
+
+## 2026-04-04 (09:22)
+- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)

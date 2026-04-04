@@ -361,3 +361,6 @@ TLS Key Schedule is failing via Server_Handshake_traffic_secret
 
 ## 2026-04-04 (05:53)
 Is it possible to create a symbolic link on Android?
+
+## 2026-04-04 (09:22)
+Spring Boot application moving from Java 17 to Java 25 gives Exception java.lang.NoClassDefFoundError: sun/security/action/GetPropertyAction

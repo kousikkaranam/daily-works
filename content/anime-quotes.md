@@ -536,3 +536,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (05:53)
 > "I would no longer fight against my feelings because I realized how useless and ineffective it was to fight them."
 > — Kyoko Mogami (Skip Beat!)
+
+## 2026-04-04 (09:22)
+> "I have one question for you. What kind of woman is your type?"
+> — Aoi Todo (Jujutsu Kaisen)
