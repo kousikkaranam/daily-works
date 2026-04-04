@@ -520,3 +520,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (04:26)
 > "Normal? What's normal? To only do what the masses do? And what is the benefit of that? Where is the problem in adopting a custom that is "abnormal" if it has no negative effect on the world at large?"
 > — Yuuko Ichihara (xxxHOLiC)
+
+## 2026-04-04 (05:52)
+> "Nothing can be communicated without words but if you really care about someone, even the smallest details are important to notice."
+> — Hikaru Hitachiin (Ouran High School Host Club)
+
+## 2026-04-04 (05:52)
+> "Care about me!!!"
+> — Yui (Angel Beats!)
+
+## 2026-04-04 (05:52)
+> "Your high school life will be over before you know it. There are things you can only do now. You should do as many of them as you can."
+> — Youichi Tanaka (Blue Spring Ride)
+
+## 2026-04-04 (05:53)
+> "I would no longer fight against my feelings because I realized how useless and ineffective it was to fight them."
+> — Kyoko Mogami (Skip Beat!)
