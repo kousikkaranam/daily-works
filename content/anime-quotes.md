@@ -500,3 +500,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (03:36)
 > "Humans are so... interesting."
 > — Ryuk (Death Note)
+
+## 2026-04-04 (04:26)
+> "Trust? I hate that word, but coming from you it sounds different."
+> — Porco Rosso (Porco Rosso)
+
+## 2026-04-04 (04:26)
+> "You always seem to look back. The scenery in front of you, the people near you, don't you see it? Live right now. That's what life is."
+> — Izumi Yukihira (Gakuen Alice)
+
+## 2026-04-04 (04:26)
+> "[To Orihime] I've repaid my debt to you. Now, you're gonna accompany me on a little errand."
+> — Grimmjow Jeagerjaques (Bleach)
+
+## 2026-04-04 (04:26)
+> "What exactly is the end? The end. The end. The end. I've seen the end over and over. What is the end?"
+> — Johann Liebert (Monster)
+
+## 2026-04-04 (04:26)
+> "Normal? What's normal? To only do what the masses do? And what is the benefit of that? Where is the problem in adopting a custom that is "abnormal" if it has no negative effect on the world at large?"
+> — Yuuko Ichihara (xxxHOLiC)
