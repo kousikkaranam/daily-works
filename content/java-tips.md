@@ -343,3 +343,6 @@ Getting weird results from java string codepoints on a windows machine
 
 ## 2026-04-04 (04:26)
 Selecting intermediate nodes in a TreeGrid
+
+## 2026-04-04 (04:26)
+How to read a text file into an array list of objects in Java
