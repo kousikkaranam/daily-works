@@ -400,3 +400,6 @@
 
 ## 2026-04-04 (04:26)
 - [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
+
+## 2026-04-04 (05:52)
+- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
