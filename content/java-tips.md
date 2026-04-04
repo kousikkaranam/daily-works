@@ -355,3 +355,6 @@ why are there two ways to write print in java, maybe more idk
 
 ## 2026-04-04 (05:52)
 Spring Cloud Stream Kafka: Batch mode fails to map JSON to Abstract Class DTO (returns byte[] instead of List)
+
+## 2026-04-04 (05:52)
+TLS Key Schedule is failing via Server_Handshake_traffic_secret

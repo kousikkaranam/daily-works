@@ -406,3 +406,6 @@
 
 ## 2026-04-04 (05:52)
 - [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+
+## 2026-04-04 (05:52)
+- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)

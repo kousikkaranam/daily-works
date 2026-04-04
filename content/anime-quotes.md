@@ -528,3 +528,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (05:52)
 > "Care about me!!!"
 > — Yui (Angel Beats!)
+
+## 2026-04-04 (05:52)
+> "Your high school life will be over before you know it. There are things you can only do now. You should do as many of them as you can."
+> — Youichi Tanaka (Blue Spring Ride)
