@@ -331,3 +331,6 @@ How to configure vmlens-maven-plugin to fail on deadlock in CI/CD?
 
 ## 2026-04-04 (03:36)
 Recommendation of material, YouTube channel etc for dentist loving computer science?
+
+## 2026-04-04 (03:36)
+Create install msi java visual studio code

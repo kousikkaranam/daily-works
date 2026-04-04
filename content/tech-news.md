@@ -376,3 +376,6 @@
 
 ## 2026-04-04 (03:36)
 - [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+
+## 2026-04-04 (03:36)
+- [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
