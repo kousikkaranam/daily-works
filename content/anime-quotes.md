@@ -492,3 +492,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (03:36)
 > "It's as if you are stuck in some predetermined program, following some predetermined script. If you really want to live in reality, then fight against it. Break through destiny with your own hands, and build your own reality!"
 > — Sarutobi Ayame (Gintama)
+
+## 2026-04-04 (03:36)
+> "I know that we can be foolish and make mistakes and we get hurt so easily. But with each mistake, we improve ourselves and with each wound, we don’t want to be hurt again. We keep moving on. We cherish the past, the present, and the future."
+> — Lina Inverse (Slayers)

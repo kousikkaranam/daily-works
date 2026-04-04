@@ -379,3 +379,6 @@
 
 ## 2026-04-04 (03:36)
 - [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
+
+## 2026-04-04 (03:36)
+- [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html)
