@@ -512,3 +512,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (04:26)
 > "[To Orihime] I've repaid my debt to you. Now, you're gonna accompany me on a little errand."
 > — Grimmjow Jeagerjaques (Bleach)
+
+## 2026-04-04 (04:26)
+> "What exactly is the end? The end. The end. The end. I've seen the end over and over. What is the end?"
+> — Johann Liebert (Monster)
