@@ -496,3 +496,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (03:36)
 > "I know that we can be foolish and make mistakes and we get hurt so easily. But with each mistake, we improve ourselves and with each wound, we don’t want to be hurt again. We keep moving on. We cherish the past, the present, and the future."
 > — Lina Inverse (Slayers)
+
+## 2026-04-04 (03:36)
+> "Humans are so... interesting."
+> — Ryuk (Death Note)

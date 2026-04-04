@@ -334,3 +334,6 @@ Recommendation of material, YouTube channel etc for dentist loving computer scie
 
 ## 2026-04-04 (03:36)
 Create install msi java visual studio code
+
+## 2026-04-04 (03:36)
+Visual Studio Code unable to create java gradle projects

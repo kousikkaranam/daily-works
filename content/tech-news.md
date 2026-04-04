@@ -382,3 +382,6 @@
 
 ## 2026-04-04 (03:36)
 - [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html)
+
+## 2026-04-04 (03:36)
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw]()
