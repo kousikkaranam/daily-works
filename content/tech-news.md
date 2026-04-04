@@ -397,3 +397,6 @@
 
 ## 2026-04-04 (04:26)
 - [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
+
+## 2026-04-04 (04:26)
+- [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)

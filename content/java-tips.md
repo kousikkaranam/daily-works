@@ -346,3 +346,6 @@ Selecting intermediate nodes in a TreeGrid
 
 ## 2026-04-04 (04:26)
 How to read a text file into an array list of objects in Java
+
+## 2026-04-04 (04:26)
+i don&#x27;t understand boolean
