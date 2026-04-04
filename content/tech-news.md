@@ -370,3 +370,6 @@
 
 ## 2026-04-03 (09:38)
 - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
+
+## 2026-04-04 (03:36)
+- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)

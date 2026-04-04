@@ -325,3 +325,6 @@ java.net.SocketException: Connection reset by peer: socket write error When serv
 
 ## 2026-04-03 (09:38)
 Writing an entire list to a file in java
+
+## 2026-04-04 (03:36)
+How to configure vmlens-maven-plugin to fail on deadlock in CI/CD?
