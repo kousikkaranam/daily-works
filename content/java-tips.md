@@ -358,3 +358,6 @@ Spring Cloud Stream Kafka: Batch mode fails to map JSON to Abstract Class DTO (r
 
 ## 2026-04-04 (05:52)
 TLS Key Schedule is failing via Server_Handshake_traffic_secret
+
+## 2026-04-04 (05:53)
+Is it possible to create a symbolic link on Android?
