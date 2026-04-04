@@ -385,3 +385,6 @@
 
 ## 2026-04-04 (03:36)
 - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw]()
+
+## 2026-04-04 (04:26)
+- [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
