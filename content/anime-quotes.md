@@ -504,3 +504,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-04 (04:26)
 > "Trust? I hate that word, but coming from you it sounds different."
 > — Porco Rosso (Porco Rosso)
+
+## 2026-04-04 (04:26)
+> "You always seem to look back. The scenery in front of you, the people near you, don't you see it? Live right now. That's what life is."
+> — Izumi Yukihira (Gakuen Alice)

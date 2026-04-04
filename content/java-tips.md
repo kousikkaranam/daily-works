@@ -340,3 +340,6 @@ Visual Studio Code unable to create java gradle projects
 
 ## 2026-04-04 (04:26)
 Getting weird results from java string codepoints on a windows machine
+
+## 2026-04-04 (04:26)
+Selecting intermediate nodes in a TreeGrid
