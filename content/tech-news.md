@@ -418,3 +418,6 @@
 
 ## 2026-04-05 (03:55)
 - [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
+
+## 2026-04-05 (15:47)
+- [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
