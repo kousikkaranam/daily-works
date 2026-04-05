@@ -415,3 +415,6 @@
 
 ## 2026-04-04 (09:22)
 - [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+
+## 2026-04-05 (03:55)
+- [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
