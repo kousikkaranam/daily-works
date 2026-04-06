@@ -421,3 +421,6 @@
 
 ## 2026-04-05 (15:47)
 - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
+
+## 2026-04-06 (04:09)
+- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
