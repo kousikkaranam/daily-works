@@ -430,3 +430,6 @@
 
 ## 2026-04-07 (03:51)
 - [Graph-go – zero config, full visibility](https://github.com/guilherme-grimm/graph-go)
+
+## 2026-04-07 (04:42)
+- [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
