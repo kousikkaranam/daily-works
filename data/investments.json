@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-03-30",
-    "time": "10:00",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.54,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.11,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 17.28,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 167.52,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 43.13,
-        "currency": "USD"
-      },
-      {
-        "name": "Grab Holdings Limited",
-        "symbol": "GRAB",
-        "price": 3.57,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 67435,
-    "ethereum_usd": 2052.79,
-    "gold_inr_10g": 138432.27
-  },
-  {
-    "date": "2026-03-30",
     "time": "16:13",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 68748,
     "ethereum_usd": 2106.92,
     "gold_inr_10g": 139457.17
+  },
+  {
+    "date": "2026-04-07",
+    "time": "04:42",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 8.68,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 8.65,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 29.04,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 177.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Hologic, Inc.",
+        "symbol": "HOLX",
+        "price": 76.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Plug Power, Inc.",
+        "symbol": "PLUG",
+        "price": 2.69,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 68835,
+    "ethereum_usd": 2112.36,
+    "gold_inr_10g": 139847.15
   }
 ]
