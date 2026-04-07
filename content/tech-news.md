@@ -436,3 +436,6 @@
 
 ## 2026-04-07 (09:49)
 - [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
+
+## 2026-04-07 (16:18)
+- [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
