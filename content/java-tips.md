@@ -379,3 +379,6 @@ Installing Java 8 on a Mac: Why can&#x27;t I download the file? It re-directs to
 
 ## 2026-04-07 (04:42)
 How would you describe the Java programming language to a beginner?
+
+## 2026-04-07 (09:49)
+Java 8 for use from IntelliJ on Mac OS X

@@ -433,3 +433,6 @@
 
 ## 2026-04-07 (04:42)
 - [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
+
+## 2026-04-07 (09:49)
+- [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
