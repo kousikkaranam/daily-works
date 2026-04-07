@@ -427,3 +427,6 @@
 
 ## 2026-04-06 (05:06)
 - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
+
+## 2026-04-07 (03:51)
+- [Graph-go – zero config, full visibility](https://github.com/guilherme-grimm/graph-go)
