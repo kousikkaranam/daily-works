@@ -382,3 +382,6 @@ How would you describe the Java programming language to a beginner?
 
 ## 2026-04-07 (09:49)
 Java 8 for use from IntelliJ on Mac OS X
+
+## 2026-04-08 (04:45)
+Load lucene-core dependency at runtime

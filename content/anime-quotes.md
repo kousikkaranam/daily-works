@@ -572,3 +572,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-07 (16:18)
 > "I don't need you anymore. I'm tired of you. (To Haru)"
 > — Sohma Rin (Fruits Basket)
+
+## 2026-04-08 (04:45)
+> "There's nothing special about being born. Not a thing. Most of the universe is just death, nothing more. In this universe of ours, the birth of a new life on some corner of our planet is nothing but a tiny, insignificant flash. Death is a normal thing. So why live?"
+> — Johann Liebert (Monster)

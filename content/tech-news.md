@@ -439,3 +439,6 @@
 
 ## 2026-04-07 (16:18)
 - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
+
+## 2026-04-08 (04:45)
+- [Binary obfuscation used in AAA Games](https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html)
