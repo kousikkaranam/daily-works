@@ -388,3 +388,6 @@ Load lucene-core dependency at runtime
 
 ## 2026-04-09 (09:56)
 Best practice for passing IDs to other entities?
+
+## 2026-04-09 (16:42)
+solr exception Expected mime type application/octet-stream but got text/html
