@@ -442,3 +442,6 @@
 
 ## 2026-04-08 (04:45)
 - [Binary obfuscation used in AAA Games](https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html)
+
+## 2026-04-09 (09:56)
+- [Haunted Paper Toys](http://ravensblight.com/papertoys.html)
