@@ -385,3 +385,6 @@ Java 8 for use from IntelliJ on Mac OS X
 
 ## 2026-04-08 (04:45)
 Load lucene-core dependency at runtime
+
+## 2026-04-09 (09:56)
+Best practice for passing IDs to other entities?
