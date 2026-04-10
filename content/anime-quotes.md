@@ -588,3 +588,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-10 (04:10)
 > "Money can buy companionship, but not its quality."
 > — Fleur Boland (Spice and Wolf)
+
+## 2026-04-10 (05:08)
+> "When you are experienced you can become overly confident and such confidence can prove fatal."
+> — Horo (Spice and Wolf)
