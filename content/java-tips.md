@@ -397,3 +397,6 @@ IntelliJ or EclipseIDE. Which is better?
 
 ## 2026-04-10 (05:08)
 Eclipse Tomcat Error: &quot;Could not launch in profiling mode because no profilers are configured.&quot;
+
+## 2026-04-10 (09:51)
+Configure path-style in Java SDK Amazon S3
