@@ -451,3 +451,6 @@
 
 ## 2026-04-10 (04:10)
 - [The Raft Consensus Algorithm Explained Through "Mean Girls"](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+
+## 2026-04-10 (05:08)
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)

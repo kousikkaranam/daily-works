@@ -394,3 +394,6 @@ solr exception Expected mime type application/octet-stream but got text/html
 
 ## 2026-04-10 (04:10)
 IntelliJ or EclipseIDE. Which is better?
+
+## 2026-04-10 (05:08)
+Eclipse Tomcat Error: &quot;Could not launch in profiling mode because no profilers are configured.&quot;
