@@ -457,3 +457,6 @@
 
 ## 2026-04-10 (09:51)
 - [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html)
+
+## 2026-04-10 (16:08)
+- [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)
