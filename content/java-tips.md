@@ -400,3 +400,6 @@ Eclipse Tomcat Error: &quot;Could not launch in profiling mode because no profil
 
 ## 2026-04-10 (09:51)
 Configure path-style in Java SDK Amazon S3
+
+## 2026-04-10 (16:08)
+How can I use spring injection, A repository class in a mapstruct mapper?
