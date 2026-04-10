@@ -448,3 +448,6 @@
 
 ## 2026-04-09 (16:42)
 - [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
+
+## 2026-04-10 (04:10)
+- [The Raft Consensus Algorithm Explained Through "Mean Girls"](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
