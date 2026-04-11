@@ -487,3 +487,6 @@
 
 ## 2026-04-11 (04:29)
 - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
+
+## 2026-04-11 (05:56)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
