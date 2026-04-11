@@ -439,3 +439,6 @@ How to exclude packages from CheckStyle analysis in a mavenized multi-module pro
 
 ## 2026-04-11 (05:56)
 PcapPlusPlus - Create a RawPacket with a byte array
+
+## 2026-04-11 (09:25)
+Remove row from flexTable in GWT

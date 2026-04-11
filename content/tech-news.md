@@ -502,3 +502,6 @@
 
 ## 2026-04-11 (05:56)
 - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+
+## 2026-04-11 (09:25)
+- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)

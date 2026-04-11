@@ -656,3 +656,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-11 (05:56)
 > "You're wrong. It's not the world that's messed up; it's those of us in it. Yes, some ghouls walk a path that leaves sorrow in their wake, but just like humans, we can choose a different path altogether. We have a lot to learn, both your kind and mine. We need to stop fighting, and start talking. Because when it comes to the state of the world, you can't point your finger at ghouls or humans. We're all to blame."
 > — Kaneki Ken (Tokyo Ghoul)
+
+## 2026-04-11 (09:25)
+> "It is not society that determines people's futures.  It is people who determine society's future."
+> — Akane Tsunemori (Psycho-Pass)
