@@ -421,3 +421,6 @@ SSL handshake_failure on Websphere 8.5 (working on Tomcat)
 
 ## 2026-04-11 (04:29)
 Android : Migrating to Navigation Rail
+
+## 2026-04-11 (04:29)
+Creating a File using PrintWriter in Java, and Writing to that File

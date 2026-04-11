@@ -624,3 +624,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-11 (04:29)
 > "People make a lot of mistakes, and strength is necessary to straighten those out."
 > — Yahiro Samukawa (Guilty Crown)
+
+## 2026-04-11 (04:29)
+> "Forget him. Forget his name. Forget his face. Forget his kiss, his warm embrace. Forget the love that you once knew. Remember he has someone new. Forget him when they played your song. Remember you cried all night long. Forget how close you once were. Remember he has chosen her. Forget how you memorized his walk. Forget the way he used to talk. Forget the things he used to say. Remember he has gone away. Forget his laugh. Forget his grin. Forget the dimples on his chin. Forget the way he held you tight. Remember he's with her tonight. Forget the time that went so fast. Forget the love that moved, it's past. Forget he said he'd leave you never. Remember he has gone forever..."
+> — Mai Taniyama (Ghost Hunt)

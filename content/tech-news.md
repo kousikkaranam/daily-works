@@ -478,3 +478,6 @@
 
 ## 2026-04-11 (04:29)
 - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
+
+## 2026-04-11 (04:29)
+- [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
