@@ -403,3 +403,15 @@ Configure path-style in Java SDK Amazon S3
 
 ## 2026-04-10 (16:08)
 How can I use spring injection, A repository class in a mapstruct mapper?
+
+## 2026-04-11 (03:39)
+POST request failed with 405 Not Allowed when Spring Security is on
+
+## 2026-04-11 (03:39)
+Java string not reversing correctly using loop [duplicate]
+
+## 2026-04-11 (03:39)
+How to disable SSL in sonar-cxx plugin when using an HTTP SonarQube server?
+
+## 2026-04-11 (03:39)
+Finding the Location of a Button in a Table
