@@ -412,3 +412,6 @@ Java string not reversing correctly using loop [duplicate]
 
 ## 2026-04-11 (03:39)
 How to disable SSL in sonar-cxx plugin when using an HTTP SonarQube server?
+
+## 2026-04-11 (03:39)
+Finding the Location of a Button in a Table
