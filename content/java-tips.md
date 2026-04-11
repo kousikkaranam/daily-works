@@ -409,3 +409,6 @@ POST request failed with 405 Not Allowed when Spring Security is on
 
 ## 2026-04-11 (03:39)
 Java string not reversing correctly using loop [duplicate]
+
+## 2026-04-11 (03:39)
+How to disable SSL in sonar-cxx plugin when using an HTTP SonarQube server?
