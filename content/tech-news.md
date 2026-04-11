@@ -487,3 +487,18 @@
 
 ## 2026-04-11 (04:29)
 - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
+
+## 2026-04-11 (05:56)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+
+## 2026-04-11 (05:56)
+- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+
+## 2026-04-11 (05:56)
+- [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
+
+## 2026-04-11 (05:56)
+- [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
+
+## 2026-04-11 (05:56)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)

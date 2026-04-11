@@ -636,3 +636,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-11 (04:29)
 > "A hero must be tough, strong and beautiful... As well as able to promptly and splendidly eradicate evil."
 > — Sweet Mask (One Punch Man)
+
+## 2026-04-11 (05:56)
+> "We have choices. Some people like to stand in the rain without an umbrella. That's what it means to live free."
+> — Roger Smith (The Big O)
+
+## 2026-04-11 (05:56)
+> "I don't understand the feelings of the weak. The law of the world is survival at its fittest. Its how the weak are weeded out. It just means those people that died were too weak. Its only natural for the weak to perish."
+> — Esdeath (Akame ga Kill!)
+
+## 2026-04-11 (05:56)
+> "Goodbye, vice captain. Why don't you suck on some mayonnaise in the afterlife? [he shoots, blowing up the whole wall]"
+> — Okita Sougo (Gintama)
+
+## 2026-04-11 (05:56)
+> "Well, well, if it isn't the holy monk."
+> — Naraku (InuYasha)
+
+## 2026-04-11 (05:56)
+> "You're wrong. It's not the world that's messed up; it's those of us in it. Yes, some ghouls walk a path that leaves sorrow in their wake, but just like humans, we can choose a different path altogether. We have a lot to learn, both your kind and mine. We need to stop fighting, and start talking. Because when it comes to the state of the world, you can't point your finger at ghouls or humans. We're all to blame."
+> — Kaneki Ken (Tokyo Ghoul)

@@ -1,194 +1,6 @@
 [
   {
     "date": "2026-04-04",
-    "time": "04:26",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.58,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 28.34,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 177.39,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 50.38,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 8.82,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 66826,
-    "ethereum_usd": 2049.43,
-    "gold_inr_10g": 140254.07
-  },
-  {
-    "date": "2026-04-04",
-    "time": "04:26",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.58,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 28.34,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 177.39,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 50.38,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 8.82,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": null,
-    "ethereum_usd": null,
-    "gold_inr_10g": 140254.07
-  },
-  {
-    "date": "2026-04-04",
-    "time": "05:52",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.58,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 28.34,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 177.39,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 50.38,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 8.82,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 66898,
-    "ethereum_usd": 2053.08,
-    "gold_inr_10g": 140254.07
-  },
-  {
-    "date": "2026-04-04",
-    "time": "05:52",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.58,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 28.34,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 177.39,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 50.38,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 8.82,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 66898,
-    "ethereum_usd": 2053.08,
-    "gold_inr_10g": 140254.07
-  },
-  {
-    "date": "2026-04-04",
     "time": "05:52",
     "top_indian": [
       {
@@ -1407,6 +1219,194 @@
     ],
     "bitcoin_usd": 72746,
     "ethereum_usd": 2239.88,
+    "gold_inr_10g": 141938.20
+  },
+  {
+    "date": "2026-04-11",
+    "time": "05:56",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 40.88,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.25,
+        "currency": "INR"
+      },
+      {
+        "name": "FILATEX FASHIONS LIMITED",
+        "symbol": "FILATFASH.NS",
+        "price": 0.21,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 188.63,
+        "currency": "USD"
+      },
+      {
+        "name": "Palantir Technologies Inc.",
+        "symbol": "PLTR",
+        "price": 128.06,
+        "currency": "USD"
+      },
+      {
+        "name": "Hologic, Inc.",
+        "symbol": "HOLX",
+        "price": 76.01,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 72786,
+    "ethereum_usd": 2235.18,
+    "gold_inr_10g": 141938.20
+  },
+  {
+    "date": "2026-04-11",
+    "time": "05:56",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 40.88,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.25,
+        "currency": "INR"
+      },
+      {
+        "name": "FILATEX FASHIONS LIMITED",
+        "symbol": "FILATFASH.NS",
+        "price": 0.21,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 188.63,
+        "currency": "USD"
+      },
+      {
+        "name": "Palantir Technologies Inc.",
+        "symbol": "PLTR",
+        "price": 128.06,
+        "currency": "USD"
+      },
+      {
+        "name": "Hologic, Inc.",
+        "symbol": "HOLX",
+        "price": 76.01,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 72786,
+    "ethereum_usd": 2235.18,
+    "gold_inr_10g": 141938.20
+  },
+  {
+    "date": "2026-04-11",
+    "time": "05:56",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 40.88,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.25,
+        "currency": "INR"
+      },
+      {
+        "name": "FILATEX FASHIONS LIMITED",
+        "symbol": "FILATFASH.NS",
+        "price": 0.21,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 188.63,
+        "currency": "USD"
+      },
+      {
+        "name": "Palantir Technologies Inc.",
+        "symbol": "PLTR",
+        "price": 128.06,
+        "currency": "USD"
+      },
+      {
+        "name": "Hologic, Inc.",
+        "symbol": "HOLX",
+        "price": 76.01,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 72786,
+    "ethereum_usd": 2235.18,
+    "gold_inr_10g": 141938.20
+  },
+  {
+    "date": "2026-04-11",
+    "time": "05:56",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 40.88,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.25,
+        "currency": "INR"
+      },
+      {
+        "name": "FILATEX FASHIONS LIMITED",
+        "symbol": "FILATFASH.NS",
+        "price": 0.21,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 188.63,
+        "currency": "USD"
+      },
+      {
+        "name": "Palantir Technologies Inc.",
+        "symbol": "PLTR",
+        "price": 128.06,
+        "currency": "USD"
+      },
+      {
+        "name": "Hologic, Inc.",
+        "symbol": "HOLX",
+        "price": 76.01,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": null,
+    "ethereum_usd": null,
     "gold_inr_10g": 141938.20
   }
 ]
