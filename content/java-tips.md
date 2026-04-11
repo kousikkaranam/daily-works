@@ -403,3 +403,6 @@ Configure path-style in Java SDK Amazon S3
 
 ## 2026-04-10 (16:08)
 How can I use spring injection, A repository class in a mapstruct mapper?
+
+## 2026-04-11 (03:39)
+POST request failed with 405 Not Allowed when Spring Security is on
