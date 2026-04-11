@@ -427,3 +427,6 @@ Creating a File using PrintWriter in Java, and Writing to that File
 
 ## 2026-04-11 (04:29)
 Repeating command in gwt
+
+## 2026-04-11 (05:56)
+How to set GWT Flextable first row (i.e heading) declaratively using UiBinder?
