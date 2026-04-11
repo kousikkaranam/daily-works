@@ -484,3 +484,6 @@
 
 ## 2026-04-11 (04:29)
 - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+
+## 2026-04-11 (04:29)
+- [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
