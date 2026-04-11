@@ -472,3 +472,18 @@
 
 ## 2026-04-11 (03:39)
 - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+
+## 2026-04-11 (04:29)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+
+## 2026-04-11 (04:29)
+- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
+
+## 2026-04-11 (04:29)
+- [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
+
+## 2026-04-11 (04:29)
+- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+
+## 2026-04-11 (04:29)
+- [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)

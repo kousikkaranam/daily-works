@@ -616,3 +616,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-11 (03:39)
 > "You may come to a standstill or get irritated because things don't work out the way you want them to, but what you gain from hard work will never betray you."
 > — Tooru Miyagishi (Hanasaku Iroha: Blossoms for Tomorrow)
+
+## 2026-04-11 (04:29)
+> "Life is like a tube of toothpaste. When you've used all the toothpaste down the last squeeze, that's when you've really lived. Live with all your might. And struggle as long as you have life."
+> — Sonozaki Mion (Higurashi: When They Cry)
+
+## 2026-04-11 (04:29)
+> "People make a lot of mistakes, and strength is necessary to straighten those out."
+> — Yahiro Samukawa (Guilty Crown)
+
+## 2026-04-11 (04:29)
+> "Forget him. Forget his name. Forget his face. Forget his kiss, his warm embrace. Forget the love that you once knew. Remember he has someone new. Forget him when they played your song. Remember you cried all night long. Forget how close you once were. Remember he has chosen her. Forget how you memorized his walk. Forget the way he used to talk. Forget the things he used to say. Remember he has gone away. Forget his laugh. Forget his grin. Forget the dimples on his chin. Forget the way he held you tight. Remember he's with her tonight. Forget the time that went so fast. Forget the love that moved, it's past. Forget he said he'd leave you never. Remember he has gone forever..."
+> — Mai Taniyama (Ghost Hunt)
+
+## 2026-04-11 (04:29)
+> "I'm too naive. With thoughts like "If I saved someone maybe I can start all over again.""
+> — Accelerator (A Certain Magical Index)
+
+## 2026-04-11 (04:29)
+> "A hero must be tough, strong and beautiful... As well as able to promptly and splendidly eradicate evil."
+> — Sweet Mask (One Punch Man)

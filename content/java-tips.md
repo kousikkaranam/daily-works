@@ -415,3 +415,15 @@ How to disable SSL in sonar-cxx plugin when using an HTTP SonarQube server?
 
 ## 2026-04-11 (03:39)
 Finding the Location of a Button in a Table
+
+## 2026-04-11 (04:29)
+SSL handshake_failure on Websphere 8.5 (working on Tomcat)
+
+## 2026-04-11 (04:29)
+Android : Migrating to Navigation Rail
+
+## 2026-04-11 (04:29)
+Creating a File using PrintWriter in Java, and Writing to that File
+
+## 2026-04-11 (04:29)
+Repeating command in gwt
