@@ -475,3 +475,6 @@
 
 ## 2026-04-11 (04:29)
 - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+
+## 2026-04-11 (04:29)
+- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
