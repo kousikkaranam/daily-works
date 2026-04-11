@@ -505,3 +505,6 @@
 
 ## 2026-04-11 (09:25)
 - [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+
+## 2026-04-11 (15:47)
+- [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
