@@ -481,3 +481,6 @@
 
 ## 2026-04-11 (04:29)
 - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
+
+## 2026-04-11 (04:29)
+- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
