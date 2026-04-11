@@ -472,3 +472,6 @@
 
 ## 2026-04-11 (03:39)
 - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+
+## 2026-04-11 (04:29)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
