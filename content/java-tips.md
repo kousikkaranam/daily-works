@@ -406,3 +406,6 @@ How can I use spring injection, A repository class in a mapstruct mapper?
 
 ## 2026-04-11 (03:39)
 POST request failed with 405 Not Allowed when Spring Security is on
+
+## 2026-04-11 (03:39)
+Java string not reversing correctly using loop [duplicate]

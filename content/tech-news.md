@@ -463,3 +463,6 @@
 
 ## 2026-04-11 (03:39)
 - [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
+
+## 2026-04-11 (03:39)
+- [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
