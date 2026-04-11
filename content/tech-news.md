@@ -496,3 +496,6 @@
 
 ## 2026-04-11 (05:56)
 - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
+
+## 2026-04-11 (05:56)
+- [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)

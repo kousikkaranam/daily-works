@@ -648,3 +648,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-11 (05:56)
 > "Goodbye, vice captain. Why don't you suck on some mayonnaise in the afterlife? [he shoots, blowing up the whole wall]"
 > — Okita Sougo (Gintama)
+
+## 2026-04-11 (05:56)
+> "Well, well, if it isn't the holy monk."
+> — Naraku (InuYasha)
