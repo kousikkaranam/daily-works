@@ -430,3 +430,6 @@ Repeating command in gwt
 
 ## 2026-04-11 (05:56)
 How to set GWT Flextable first row (i.e heading) declaratively using UiBinder?
+
+## 2026-04-11 (05:56)
+TestNG tests breakup into nested classes

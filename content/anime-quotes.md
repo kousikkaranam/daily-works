@@ -644,3 +644,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-11 (05:56)
 > "I don't understand the feelings of the weak. The law of the world is survival at its fittest. Its how the weak are weeded out. It just means those people that died were too weak. Its only natural for the weak to perish."
 > — Esdeath (Akame ga Kill!)
+
+## 2026-04-11 (05:56)
+> "Goodbye, vice captain. Why don't you suck on some mayonnaise in the afterlife? [he shoots, blowing up the whole wall]"
+> — Okita Sougo (Gintama)

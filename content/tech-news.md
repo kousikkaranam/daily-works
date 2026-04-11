@@ -493,3 +493,6 @@
 
 ## 2026-04-11 (05:56)
 - [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+
+## 2026-04-11 (05:56)
+- [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
