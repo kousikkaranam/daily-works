@@ -436,3 +436,6 @@ TestNG tests breakup into nested classes
 
 ## 2026-04-11 (05:56)
 How to exclude packages from CheckStyle analysis in a mavenized multi-module project?
+
+## 2026-04-11 (05:56)
+PcapPlusPlus - Create a RawPacket with a byte array

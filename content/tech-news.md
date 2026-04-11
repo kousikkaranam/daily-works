@@ -499,3 +499,6 @@
 
 ## 2026-04-11 (05:56)
 - [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
+
+## 2026-04-11 (05:56)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
