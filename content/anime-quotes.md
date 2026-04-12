@@ -672,3 +672,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-12 (05:07)
 > "You're wrong... You're wrong about that as well, Oz! We're just two people who met through someone called 'Elliot'. You're quite mistaken thinking we were friends through him. Because I don't know a thing about you!"
 > — Leo Baskerville (Pandora Hearts)
+
+## 2026-04-12 (09:31)
+> "You disgust me. I am a Grim Reaper, I refuse to grant anyone the freedom to kill!"
+> — Death the Kid (Soul Eater)
