@@ -442,3 +442,6 @@ PcapPlusPlus - Create a RawPacket with a byte array
 
 ## 2026-04-11 (09:25)
 Remove row from flexTable in GWT
+
+## 2026-04-12 (04:12)
+SpringBoot &amp; Docker desktop &amp; IntelliJ Idea
