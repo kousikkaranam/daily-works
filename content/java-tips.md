@@ -445,3 +445,6 @@ Remove row from flexTable in GWT
 
 ## 2026-04-12 (04:12)
 SpringBoot &amp; Docker desktop &amp; IntelliJ Idea
+
+## 2026-04-12 (05:07)
+Connection pool issue in hibernate 6 spring boot 3 [closed]
