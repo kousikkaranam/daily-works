@@ -448,3 +448,6 @@ SpringBoot &amp; Docker desktop &amp; IntelliJ Idea
 
 ## 2026-04-12 (05:07)
 Connection pool issue in hibernate 6 spring boot 3 [closed]
+
+## 2026-04-12 (09:31)
+How to run headless Chrome in Gitlab

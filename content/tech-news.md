@@ -514,3 +514,6 @@
 
 ## 2026-04-12 (05:07)
 - [Dark Castle](https://darkcastle.co.uk/)
+
+## 2026-04-12 (09:31)
+- [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
