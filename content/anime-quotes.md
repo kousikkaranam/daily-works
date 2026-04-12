@@ -668,3 +668,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-12 (04:12)
 > "I really am... shinobi trash. But the one thing I still learned is this. That void is something that everyone helps you fill. Just because you face adversity and hardships, is no reason to give up on this world. A person willing to throw away all those memories... of their friends and comrades, will never find peace of mind. Resorting to something like that isn't going to bury that hole. If you persevere and endure, someone will be there to support you!"
 > — Hatake Kakashi (Naruto)
+
+## 2026-04-12 (05:07)
+> "You're wrong... You're wrong about that as well, Oz! We're just two people who met through someone called 'Elliot'. You're quite mistaken thinking we were friends through him. Because I don't know a thing about you!"
+> — Leo Baskerville (Pandora Hearts)

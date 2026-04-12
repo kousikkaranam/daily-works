@@ -511,3 +511,6 @@
 
 ## 2026-04-12 (04:12)
 - [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+
+## 2026-04-12 (05:07)
+- [Dark Castle](https://darkcastle.co.uk/)
