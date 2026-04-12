@@ -508,3 +508,6 @@
 
 ## 2026-04-11 (15:47)
 - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
+
+## 2026-04-12 (04:12)
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
