@@ -517,3 +517,6 @@
 
 ## 2026-04-12 (09:31)
 - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
+
+## 2026-04-13 (05:23)
+- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
