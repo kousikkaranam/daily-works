@@ -523,3 +523,6 @@
 
 ## 2026-04-13 (10:22)
 - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+
+## 2026-04-13 (16:38)
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)

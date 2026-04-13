@@ -458,3 +458,6 @@ How to learn programming
 ## 2026-04-13 (10:22)
 How to read &#x201C;
 &#x201D; text in file as a newline?
+
+## 2026-04-13 (16:38)
+Java reading from Text file [closed]
