@@ -451,3 +451,6 @@ Connection pool issue in hibernate 6 spring boot 3 [closed]
 
 ## 2026-04-12 (09:31)
 How to run headless Chrome in Gitlab
+
+## 2026-04-13 (05:23)
+How to learn programming
