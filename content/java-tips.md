@@ -454,3 +454,7 @@ How to run headless Chrome in Gitlab
 
 ## 2026-04-13 (05:23)
 How to learn programming
+
+## 2026-04-13 (10:22)
+How to read &#x201C;
+&#x201D; text in file as a newline?

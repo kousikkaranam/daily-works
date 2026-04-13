@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-04-06",
-    "time": "05:06",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 8.44,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 29.42,
-        "currency": "INR"
-      },
-      {
-        "name": "Alstone Textiles (India) Ltd",
-        "symbol": "ALSTONE.BO",
-        "price": 0.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 177.39,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 50.38,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 8.82,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 69121,
-    "ethereum_usd": 2130.05,
-    "gold_inr_10g": 139711.96
-  },
-  {
     "date": "2026-04-07",
     "time": "03:51",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 70811,
     "ethereum_usd": 2186.47,
     "gold_inr_10g": 141397.34
+  },
+  {
+    "date": "2026-04-13",
+    "time": "10:22",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.25,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.27,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 45.86,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 188.63,
+        "currency": "USD"
+      },
+      {
+        "name": "Palantir Technologies Inc.",
+        "symbol": "PLTR",
+        "price": 128.06,
+        "currency": "USD"
+      },
+      {
+        "name": "Hologic, Inc.",
+        "symbol": "HOLX",
+        "price": 76.01,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 70777,
+    "ethereum_usd": 2185.59,
+    "gold_inr_10g": 141214.60
   }
 ]

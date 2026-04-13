@@ -520,3 +520,6 @@
 
 ## 2026-04-13 (05:23)
 - [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
+
+## 2026-04-13 (10:22)
+- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
