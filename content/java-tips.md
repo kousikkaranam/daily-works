@@ -470,3 +470,6 @@ How to lazily fetch, process each row, and print the results as CSV in jOOQ?
 
 ## 2026-04-14 (10:01)
 Java - How to get Windows network drive full path from drive letter
+
+## 2026-04-14 (16:20)
+How to solve concurrency in java
