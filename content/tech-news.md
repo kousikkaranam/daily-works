@@ -526,3 +526,6 @@
 
 ## 2026-04-13 (16:38)
 - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+
+## 2026-04-14 (04:11)
+- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)

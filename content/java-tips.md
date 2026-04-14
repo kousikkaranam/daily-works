@@ -461,3 +461,6 @@ How to read &#x201C;
 
 ## 2026-04-13 (16:38)
 Java reading from Text file [closed]
+
+## 2026-04-14 (04:11)
+Why does @XmlJavaTypeAdapter on the root object not work with Marshaller.marshal in JDK 8?
