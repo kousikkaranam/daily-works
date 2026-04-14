@@ -467,3 +467,6 @@ Why does @XmlJavaTypeAdapter on the root object not work with Marshaller.marshal
 
 ## 2026-04-14 (05:06)
 How to lazily fetch, process each row, and print the results as CSV in jOOQ?
+
+## 2026-04-14 (10:01)
+Java - How to get Windows network drive full path from drive letter

@@ -532,3 +532,6 @@
 
 ## 2026-04-14 (05:06)
 - [A new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+
+## 2026-04-14 (10:01)
+- [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
