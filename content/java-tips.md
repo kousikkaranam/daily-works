@@ -464,3 +464,6 @@ Java reading from Text file [closed]
 
 ## 2026-04-14 (04:11)
 Why does @XmlJavaTypeAdapter on the root object not work with Marshaller.marshal in JDK 8?
+
+## 2026-04-14 (05:06)
+How to lazily fetch, process each row, and print the results as CSV in jOOQ?

@@ -692,3 +692,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-14 (04:11)
 > "For all my life... I've wanted strength. I didn't want those things precious to me to be taken away from me anymore. But, to have strength means to invite disaster to come to you. And strength alone can't really protect you."
 > — Kurogane (Tsubasa RESERVoir CHRoNiCLE)
+
+## 2026-04-14 (05:06)
+> "Another story of Fruits Basket manga has begun. I have something very important to tell everyone. Yuki is actually...A GIRL!"
+> — Sohma Shigure (Fruits Basket)
