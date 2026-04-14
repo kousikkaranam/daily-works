@@ -529,3 +529,6 @@
 
 ## 2026-04-14 (04:11)
 - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+
+## 2026-04-14 (05:06)
+- [A new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
