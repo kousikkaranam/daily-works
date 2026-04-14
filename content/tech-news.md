@@ -535,3 +535,6 @@
 
 ## 2026-04-14 (10:01)
 - [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+
+## 2026-04-14 (16:20)
+- [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
