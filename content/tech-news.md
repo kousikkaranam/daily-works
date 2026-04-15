@@ -544,3 +544,6 @@
 
 ## 2026-04-15 (05:07)
 - [Picasso's Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59)
+
+## 2026-04-15 (16:15)
+- [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)

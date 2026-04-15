@@ -476,3 +476,6 @@ How to solve concurrency in java
 
 ## 2026-04-15 (04:10)
 Frame extraction from video is too slow (like CapCut/VN/InShot apps) in Android despite using FFmpeg, MediaCodec, MediaExtractor and OpenCV [closed]
+
+## 2026-04-15 (16:15)
+How do you simulate a REST API interface?
