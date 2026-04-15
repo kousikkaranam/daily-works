@@ -541,3 +541,6 @@
 
 ## 2026-04-15 (04:10)
 - [Claude Code Routines](https://code.claude.com/docs/en/routines)
+
+## 2026-04-15 (05:07)
+- [Picasso's Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59)
