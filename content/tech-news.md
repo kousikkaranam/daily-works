@@ -538,3 +538,6 @@
 
 ## 2026-04-14 (16:20)
 - [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
+
+## 2026-04-15 (04:10)
+- [Claude Code Routines](https://code.claude.com/docs/en/routines)
