@@ -704,3 +704,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-14 (16:20)
 > "There are still times when our different ways of thinking make me hesitate but I feel like there are ways we can balance each other because we're different."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-04-15 (04:10)
+> "It makes you sad when someone suddenly just up and disappears without a word. If you're just going to end up hurt in the end, you're better off not forming any bonds at all."
+> — Yozora Mikazuki (Boku wa Tomodachi ga Sukunai)
