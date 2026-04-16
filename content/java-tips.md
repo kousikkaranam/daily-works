@@ -479,3 +479,6 @@ Frame extraction from video is too slow (like CapCut/VN/InShot apps) in Android 
 
 ## 2026-04-15 (16:15)
 How do you simulate a REST API interface?
+
+## 2026-04-16 (04:17)
+Setting the &quot;mail.imaps.fetchsize&quot; property to a large number using JavaMail have any impacts?

@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-04-10",
-    "time": "05:08",
-    "top_indian": [
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 38.4,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.27,
-        "currency": "INR"
-      },
-      {
-        "name": "FILATEX FASHIONS LIMITED",
-        "symbol": "FILATFASH.NS",
-        "price": 0.21,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 61.72,
-        "currency": "USD"
-      },
-      {
-        "name": "Hologic, Inc.",
-        "symbol": "HOLX",
-        "price": 76.01,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 183.91,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 72134,
-    "ethereum_usd": 2196.06,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-04-10",
     "time": "09:51",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 73964,
     "ethereum_usd": 2339.33,
     "gold_inr_10g": 144265.67
+  },
+  {
+    "date": "2026-04-16",
+    "time": "04:17",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.56,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 19.21,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.48,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Snap Inc.",
+        "symbol": "SNAP",
+        "price": 6.04,
+        "currency": "USD"
+      },
+      {
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "price": 391.95,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 74939,
+    "ethereum_usd": 2359.13,
+    "gold_inr_10g": 145043.32
   }
 ]
