@@ -547,3 +547,6 @@
 
 ## 2026-04-15 (16:15)
 - [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
+
+## 2026-04-16 (04:17)
+- [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
