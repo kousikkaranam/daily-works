@@ -485,3 +485,6 @@ Setting the &quot;mail.imaps.fetchsize&quot; property to a large number using Ja
 
 ## 2026-04-16 (05:12)
 log4j not creating log files
+
+## 2026-04-16 (16:49)
+How to deal with MyBatis in WebFlux stack

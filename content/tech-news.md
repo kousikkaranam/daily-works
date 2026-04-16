@@ -553,3 +553,6 @@
 
 ## 2026-04-16 (05:12)
 - [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
+
+## 2026-04-16 (16:49)
+- [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
