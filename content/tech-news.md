@@ -550,3 +550,6 @@
 
 ## 2026-04-16 (04:17)
 - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
+
+## 2026-04-16 (05:12)
+- [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
