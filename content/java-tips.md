@@ -482,3 +482,6 @@ How do you simulate a REST API interface?
 
 ## 2026-04-16 (04:17)
 Setting the &quot;mail.imaps.fetchsize&quot; property to a large number using JavaMail have any impacts?
+
+## 2026-04-16 (05:12)
+log4j not creating log files
