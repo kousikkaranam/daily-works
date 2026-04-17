@@ -556,3 +556,6 @@
 
 ## 2026-04-16 (16:49)
 - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
+
+## 2026-04-17 (05:11)
+- [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)

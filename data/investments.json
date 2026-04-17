@@ -89,53 +89,6 @@
         "currency": "USD"
       }
     ],
-    "bitcoin_usd": 72983,
-    "ethereum_usd": 2246.38,
-    "gold_inr_10g": 141938.20
-  },
-  {
-    "date": "2026-04-11",
-    "time": "03:39",
-    "top_indian": [
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 40.88,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.25,
-        "currency": "INR"
-      },
-      {
-        "name": "FILATEX FASHIONS LIMITED",
-        "symbol": "FILATFASH.NS",
-        "price": 0.21,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 188.63,
-        "currency": "USD"
-      },
-      {
-        "name": "Palantir Technologies Inc.",
-        "symbol": "PLTR",
-        "price": 128.06,
-        "currency": "USD"
-      },
-      {
-        "name": "Hologic, Inc.",
-        "symbol": "HOLX",
-        "price": 76.01,
-        "currency": "USD"
-      }
-    ],
     "bitcoin_usd": 72976,
     "ethereum_usd": 2245.92,
     "gold_inr_10g": 141938.20
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 74345,
     "ethereum_usd": 2321.7,
     "gold_inr_10g": 143835.62
+  },
+  {
+    "date": "2026-04-17",
+    "time": "05:11",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 41.5,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.62,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 52.12,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.35,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 68.5,
+        "currency": "USD"
+      },
+      {
+        "name": "D-Wave Quantum Inc.",
+        "symbol": "QBTS",
+        "price": 21.52,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 74633,
+    "ethereum_usd": 2322.27,
+    "gold_inr_10g": 144073.64
   }
 ]
