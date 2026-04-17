@@ -728,3 +728,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-16 (16:49)
 > "I'll tell you a way that I heard to figure out if you like someone or not. Imagine, when you find a rainbow, when you found a shooting star, when you found a cafe you like, when your change is 777 yen or something. If it's Raku, it's fine to imagine the first time a leaf stood up in your tea. When you found a beautiful sunset, or if you found your taste in music, or if you win a pretty good prize in the lottery, those small things in everyday life. When you encounter those small happiness or luck, who is the very first person you want to tell that to? Whose face came into your mind?"
 > — Maiko Shuu (Nisekoi: False Love)
+
+## 2026-04-17 (05:11)
+> "People... are not born equal. That's the hard truth I learned at age four. But that... was my first and last setback."
+> — Midoriya Izuku (My Hero Academia)
