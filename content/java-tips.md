@@ -518,3 +518,6 @@ How do I determine the concrete subclass of an Object knowing only the abstract 
 
 ## 2026-04-18 (06:10)
 i want to count occurrence of each word in a given sentence in java
+
+## 2026-04-18 (09:33)
+What is the difference between spring.cloud.gateway.server.webflux.httpclient.response-timeout and spring.cloud.gateway.httpclient.response-timeout
