@@ -571,3 +571,15 @@
 
 ## 2026-04-18 (03:50)
 - [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+## 2026-04-18 (04:41)
+- [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
+
+## 2026-04-18 (04:41)
+- [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+## 2026-04-18 (04:41)
+- [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+## 2026-04-18 (04:41)
+- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
