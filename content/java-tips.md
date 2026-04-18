@@ -488,3 +488,6 @@ log4j not creating log files
 
 ## 2026-04-16 (16:49)
 How to deal with MyBatis in WebFlux stack
+
+## 2026-04-18 (03:50)
+Java ReferenceQueue and garbage collection
