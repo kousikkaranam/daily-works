@@ -772,3 +772,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-18 (06:10)
 > "My only ambition is simply to kill as many people as humanly possible."
 > — Bankotsu (InuYasha)
+
+## 2026-04-18 (06:10)
+> "I’m going to be the magic emperor! This is something I’ll never give up on!"
+> — Asta (Black Clover)

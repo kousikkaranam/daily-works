@@ -512,3 +512,6 @@ Getting an java.io.IOException: The parameter is incorrect when trying to read/w
 
 ## 2026-04-18 (06:09)
 Is there a cheap way to wait and wake threads in Java?
+
+## 2026-04-18 (06:10)
+How do I determine the concrete subclass of an Object knowing only the abstract superclass?
