@@ -580,3 +580,6 @@
 
 ## 2026-04-18 (04:41)
 - [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+## 2026-04-18 (04:41)
+- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
