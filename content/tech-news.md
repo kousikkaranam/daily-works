@@ -586,3 +586,6 @@
 
 ## 2026-04-18 (06:09)
 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
+
+## 2026-04-18 (06:10)
+- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
