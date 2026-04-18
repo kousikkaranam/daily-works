@@ -491,3 +491,6 @@ How to deal with MyBatis in WebFlux stack
 
 ## 2026-04-18 (03:50)
 Java ReferenceQueue and garbage collection
+
+## 2026-04-18 (03:50)
+Annotated setters that return class insance
