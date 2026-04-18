@@ -592,3 +592,6 @@
 
 ## 2026-04-18 (06:10)
 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
+
+## 2026-04-18 (06:10)
+- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
