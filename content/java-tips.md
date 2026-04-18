@@ -500,3 +500,6 @@ Behaviour at reading linebased data from a socket
 
 ## 2026-04-18 (03:50)
 How to fix Flutter &quot;Toolchain installation `usr/lib/jvm/java-21-openjdk` does not provide the required capabilities&quot; error
+
+## 2026-04-18 (04:41)
+Junit 5 - No ParameterResolver registered for parameter

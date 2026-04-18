@@ -95,53 +95,6 @@
   },
   {
     "date": "2026-04-11",
-    "time": "04:29",
-    "top_indian": [
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 40.88,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.25,
-        "currency": "INR"
-      },
-      {
-        "name": "FILATEX FASHIONS LIMITED",
-        "symbol": "FILATFASH.NS",
-        "price": 0.21,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 188.63,
-        "currency": "USD"
-      },
-      {
-        "name": "Palantir Technologies Inc.",
-        "symbol": "PLTR",
-        "price": 128.06,
-        "currency": "USD"
-      },
-      {
-        "name": "Hologic, Inc.",
-        "symbol": "HOLX",
-        "price": 76.01,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 72746,
-    "ethereum_usd": 2239.88,
-    "gold_inr_10g": 141938.20
-  },
-  {
-    "date": "2026-04-11",
     "time": "05:56",
     "top_indian": [
       {
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": null,
     "ethereum_usd": null,
+    "gold_inr_10g": 144299.67
+  },
+  {
+    "date": "2026-04-18",
+    "time": "04:41",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.61,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 40.82,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 52.93,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 201.68,
+        "currency": "USD"
+      },
+      {
+        "name": "Netflix, Inc.",
+        "symbol": "NFLX",
+        "price": 97.31,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 68.5,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77072,
+    "ethereum_usd": 2407.44,
     "gold_inr_10g": 144299.67
   }
 ]
