@@ -559,3 +559,15 @@
 
 ## 2026-04-17 (05:11)
 - [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
+
+## 2026-04-18 (03:50)
+- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
+
+## 2026-04-18 (03:50)
+- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
+
+## 2026-04-18 (03:50)
+- [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+## 2026-04-18 (03:50)
+- [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)

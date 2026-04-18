@@ -488,3 +488,15 @@ log4j not creating log files
 
 ## 2026-04-16 (16:49)
 How to deal with MyBatis in WebFlux stack
+
+## 2026-04-18 (03:50)
+Java ReferenceQueue and garbage collection
+
+## 2026-04-18 (03:50)
+Annotated setters that return class insance
+
+## 2026-04-18 (03:50)
+Behaviour at reading linebased data from a socket
+
+## 2026-04-18 (03:50)
+How to fix Flutter &quot;Toolchain installation `usr/lib/jvm/java-21-openjdk` does not provide the required capabilities&quot; error
