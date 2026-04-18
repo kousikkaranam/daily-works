@@ -598,3 +598,6 @@
 
 ## 2026-04-18 (09:33)
 - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
+
+## 2026-04-18 (15:54)
+- [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
