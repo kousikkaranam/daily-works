@@ -494,3 +494,6 @@ Java ReferenceQueue and garbage collection
 
 ## 2026-04-18 (03:50)
 Annotated setters that return class insance
+
+## 2026-04-18 (03:50)
+Behaviour at reading linebased data from a socket
