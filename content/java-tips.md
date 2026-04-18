@@ -521,3 +521,6 @@ i want to count occurrence of each word in a given sentence in java
 
 ## 2026-04-18 (09:33)
 What is the difference between spring.cloud.gateway.server.webflux.httpclient.response-timeout and spring.cloud.gateway.httpclient.response-timeout
+
+## 2026-04-18 (15:54)
+Unable to tunnel through proxy. Proxy returns &quot;HTTP/1.1 407 Proxy Authorization Required&quot;
