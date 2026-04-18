@@ -503,3 +503,6 @@ How to fix Flutter &quot;Toolchain installation `usr/lib/jvm/java-21-openjdk` do
 
 ## 2026-04-18 (04:41)
 Junit 5 - No ParameterResolver registered for parameter
+
+## 2026-04-18 (04:41)
+NullPointException on custom built search when query yields no result
