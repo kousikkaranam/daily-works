@@ -509,3 +509,6 @@ NullPointException on custom built search when query yields no result
 
 ## 2026-04-18 (04:41)
 Getting an java.io.IOException: The parameter is incorrect when trying to read/write to a disk partition
+
+## 2026-04-18 (06:09)
+Is there a cheap way to wait and wake threads in Java?
