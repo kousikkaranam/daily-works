@@ -601,3 +601,6 @@
 
 ## 2026-04-18 (15:54)
 - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
+
+## 2026-04-19 (09:32)
+- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
