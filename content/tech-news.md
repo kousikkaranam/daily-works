@@ -604,3 +604,6 @@
 
 ## 2026-04-19 (09:32)
 - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+
+## 2026-04-19 (15:54)
+- [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)

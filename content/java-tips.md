@@ -527,3 +527,6 @@ Unable to tunnel through proxy. Proxy returns &quot;HTTP/1.1 407 Proxy Authoriza
 
 ## 2026-04-19 (09:32)
 How to fix CORS policy blocked request error when calling API from frontend? [duplicate]
+
+## 2026-04-19 (15:54)
+comparing two REST services to each other
