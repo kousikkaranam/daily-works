@@ -524,3 +524,6 @@ What is the difference between spring.cloud.gateway.server.webflux.httpclient.re
 
 ## 2026-04-18 (15:54)
 Unable to tunnel through proxy. Proxy returns &quot;HTTP/1.1 407 Proxy Authorization Required&quot;
+
+## 2026-04-19 (09:32)
+How to fix CORS policy blocked request error when calling API from frontend? [duplicate]
