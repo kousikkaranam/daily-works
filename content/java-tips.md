@@ -530,3 +530,6 @@ How to fix CORS policy blocked request error when calling API from frontend? [du
 
 ## 2026-04-19 (15:54)
 comparing two REST services to each other
+
+## 2026-04-20 (16:36)
+Getting javac to work in the PATH environment variable
