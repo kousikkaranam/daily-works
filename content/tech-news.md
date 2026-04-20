@@ -607,3 +607,6 @@
 
 ## 2026-04-19 (15:54)
 - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
+
+## 2026-04-20 (16:36)
+- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
