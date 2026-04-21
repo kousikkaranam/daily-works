@@ -616,3 +616,6 @@
 
 ## 2026-04-21 (10:05)
 - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
+
+## 2026-04-21 (16:20)
+- [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
