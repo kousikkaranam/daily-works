@@ -533,3 +533,6 @@ comparing two REST services to each other
 
 ## 2026-04-20 (16:36)
 Getting javac to work in the PATH environment variable
+
+## 2026-04-21 (05:09)
+Eclipse - Target &quot;unknown&quot; in Android device chooser
