@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-04-14",
-    "time": "04:11",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.25,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 38.27,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 45.86,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.37,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 189.31,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 65.18,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 74479,
-    "ethereum_usd": 2366.8,
-    "gold_inr_10g": 143149.94
-  },
-  {
-    "date": "2026-04-14",
     "time": "05:06",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 76415,
     "ethereum_usd": 2327.33,
     "gold_inr_10g": 143310.21
+  },
+  {
+    "date": "2026-04-21",
+    "time": "16:20",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.55,
+        "currency": "INR"
+      },
+      {
+        "name": "BILLIONBRAINS GARAGE VN L",
+        "symbol": "GROWW.NS",
+        "price": 214.01,
+        "currency": "INR"
+      },
+      {
+        "name": "BANK OF MAHARASHTRA",
+        "symbol": "MAHABANK.NS",
+        "price": 80.18,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Navitas Semiconductor Corporati",
+        "symbol": "NVTS",
+        "price": 15.755,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 66.755,
+        "currency": "USD"
+      },
+      {
+        "name": "Plug Power, Inc.",
+        "symbol": "PLUG",
+        "price": 3.105,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 75945,
+    "ethereum_usd": 2315.6,
+    "gold_inr_10g": 141812.53
   }
 ]

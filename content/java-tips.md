@@ -539,3 +539,6 @@ Eclipse - Target &quot;unknown&quot; in Android device chooser
 
 ## 2026-04-21 (10:05)
 How can a class that implements an interface return another interface in a method?
+
+## 2026-04-21 (16:20)
+Port android app from Android Studio to Microsoft Visual Studio
