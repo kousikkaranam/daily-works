@@ -610,3 +610,6 @@
 
 ## 2026-04-20 (16:36)
 - [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
+
+## 2026-04-21 (05:09)
+- [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
