@@ -613,3 +613,6 @@
 
 ## 2026-04-21 (05:09)
 - [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
+
+## 2026-04-21 (10:05)
+- [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
