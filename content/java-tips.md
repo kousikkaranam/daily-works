@@ -542,3 +542,6 @@ How can a class that implements an interface return another interface in a metho
 
 ## 2026-04-21 (16:20)
 Port android app from Android Studio to Microsoft Visual Studio
+
+## 2026-04-22 (05:08)
+Java inheritance in method with generic types
