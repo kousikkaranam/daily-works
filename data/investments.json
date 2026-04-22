@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-04-14",
-    "time": "10:01",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.25,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 38.27,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 45.86,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.37,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 189.31,
-        "currency": "USD"
-      },
-      {
-        "name": "Hologic, Inc.",
-        "symbol": "HOLX",
-        "price": 76.01,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 74526,
-    "ethereum_usd": 2387.88,
-    "gold_inr_10g": 143441.09
-  },
-  {
-    "date": "2026-04-14",
     "time": "16:20",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 77484,
     "ethereum_usd": 2364.69,
     "gold_inr_10g": 143083.36
+  },
+  {
+    "date": "2026-04-22",
+    "time": "10:05",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.54,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 20.13,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 54.57,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 199.88,
+        "currency": "USD"
+      },
+      {
+        "name": "Navitas Semiconductor Corporati",
+        "symbol": "NVTS",
+        "price": 15.33,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 66.26,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77981,
+    "ethereum_usd": 2386.29,
+    "gold_inr_10g": 142975.02
   }
 ]
