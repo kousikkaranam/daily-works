@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-04-14",
-    "time": "05:06",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.25,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 38.27,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 45.86,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.37,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 189.31,
-        "currency": "USD"
-      },
-      {
-        "name": "Hologic, Inc.",
-        "symbol": "HOLX",
-        "price": 76.01,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 74360,
-    "ethereum_usd": 2363.6,
-    "gold_inr_10g": 143279.01
-  },
-  {
-    "date": "2026-04-14",
     "time": "10:01",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 75945,
     "ethereum_usd": 2315.6,
     "gold_inr_10g": 141812.53
+  },
+  {
+    "date": "2026-04-22",
+    "time": "05:08",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.53,
+        "currency": "INR"
+      },
+      {
+        "name": "Alstone Textiles (India) Ltd",
+        "symbol": "ALSTONE.BO",
+        "price": 0.14,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 19.84,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 199.88,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 66.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Navitas Semiconductor Corporati",
+        "symbol": "NVTS",
+        "price": 15.33,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77484,
+    "ethereum_usd": 2364.69,
+    "gold_inr_10g": 143083.36
   }
 ]

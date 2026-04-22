@@ -619,3 +619,6 @@
 
 ## 2026-04-21 (16:20)
 - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
+
+## 2026-04-22 (05:08)
+- [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
