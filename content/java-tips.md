@@ -548,3 +548,6 @@ Java inheritance in method with generic types
 
 ## 2026-04-22 (10:05)
 Android Studio disable Compact Middle Package not working
+
+## 2026-04-23 (05:12)
+DuplicateMappingException represented by different logical column names

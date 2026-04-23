@@ -625,3 +625,6 @@
 
 ## 2026-04-22 (10:05)
 - [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
+
+## 2026-04-23 (05:12)
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
