@@ -628,3 +628,6 @@
 
 ## 2026-04-23 (05:12)
 - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+
+## 2026-04-23 (16:53)
+- [Investigation uncovers two sophisticated telecom surveillance campaigns](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
