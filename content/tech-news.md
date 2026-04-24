@@ -634,3 +634,6 @@
 
 ## 2026-04-24 (04:19)
 - [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency)
+
+## 2026-04-24 (05:17)
+- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
