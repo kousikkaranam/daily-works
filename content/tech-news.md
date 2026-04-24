@@ -637,3 +637,6 @@
 
 ## 2026-04-24 (05:17)
 - [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
+
+## 2026-04-24 (10:11)
+- [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
