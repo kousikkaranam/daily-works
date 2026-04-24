@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-04-15",
-    "time": "05:07",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.45,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 39.87,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 48.22,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 196.51,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 63.81,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.35,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 74357,
-    "ethereum_usd": 2334.82,
-    "gold_inr_10g": 144691.45
-  },
-  {
-    "date": "2026-04-15",
     "time": "16:15",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 78351,
     "ethereum_usd": 2330.86,
     "gold_inr_10g": 142965.23
+  },
+  {
+    "date": "2026-04-24",
+    "time": "04:19",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.43,
+        "currency": "INR"
+      },
+      {
+        "name": "DHARAN INFRA-EPC LIMITED",
+        "symbol": "DHARAN.NS",
+        "price": 0.17,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 19.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 10.33,
+        "currency": "USD"
+      },
+      {
+        "name": "QuantumScape Corporation",
+        "symbol": "QS",
+        "price": 7.41,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 199.64,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77722,
+    "ethereum_usd": 2309.13,
+    "gold_inr_10g": 141384.58
   }
 ]

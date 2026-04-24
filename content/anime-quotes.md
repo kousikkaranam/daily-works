@@ -824,3 +824,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-23 (16:53)
 > "I know that I'm not alone, but I want to be strong even when I am."
 > — Taichi Mashima (Chihayafuru 2)
+
+## 2026-04-24 (04:19)
+> "A fair warning... we ninja of the Sand aren't as easygoing as those of the Leaf. But getting close to Kuroari so carelessly...isn't good!"
+> — Kankuro (Naruto)

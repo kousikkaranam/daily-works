@@ -554,3 +554,6 @@ DuplicateMappingException represented by different logical column names
 
 ## 2026-04-23 (16:53)
 Best practices in writing Java and the right way in learning it?
+
+## 2026-04-24 (04:19)
+Joda DateTime equals vs isEqual
