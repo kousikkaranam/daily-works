@@ -864,3 +864,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-25 (04:44)
 > "Isn't it lonely when you wake up and you don't hear any voices?"
 > — Nako Oshimizu (Hanasaku Iroha: Blossoms for Tomorrow)
+
+## 2026-04-25 (04:44)
+> "Just like humans, approve killing animals in society, we, approve the killing of humans."
+> — Mutou Tohru (Shiki)

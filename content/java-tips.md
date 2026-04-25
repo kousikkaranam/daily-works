@@ -584,3 +584,6 @@ How to include javax package with Gradle
 
 ## 2026-04-25 (04:44)
 Gson ignore null when deserializing object
+
+## 2026-04-25 (04:44)
+JPA Criteria Query with predicate that compares a field annotated @Convert gets a ORA-00932 upon execution
