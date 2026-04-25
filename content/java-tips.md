@@ -596,3 +596,6 @@ How to use RequestBodyAdvice
 
 ## 2026-04-25 (06:17)
 GWT MouseOver performance
+
+## 2026-04-25 (06:17)
+How should I continue learning Java programming?
