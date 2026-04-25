@@ -649,3 +649,6 @@
 
 ## 2026-04-25 (03:53)
 - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+
+## 2026-04-25 (03:53)
+- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)

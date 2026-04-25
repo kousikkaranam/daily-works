@@ -572,3 +572,6 @@ Measure Code Coverage only on New Code
 
 ## 2026-04-25 (03:53)
 How to remove line breaks from a file in Java?
+
+## 2026-04-25 (03:53)
+What project types best prepare students for real-world software engineering?
