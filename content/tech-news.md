@@ -640,3 +640,18 @@
 
 ## 2026-04-24 (10:11)
 - [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+
+## 2026-04-25 (03:53)
+- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+
+## 2026-04-25 (03:53)
+- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+
+## 2026-04-25 (03:53)
+- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+
+## 2026-04-25 (03:53)
+- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+
+## 2026-04-25 (03:53)
+- [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)

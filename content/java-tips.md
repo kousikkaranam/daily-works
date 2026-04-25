@@ -563,3 +563,18 @@ Reading Properties file in Java
 
 ## 2026-04-24 (10:11)
 Using Hibernate connection with JasperReports
+
+## 2026-04-25 (03:53)
+postEfficient mapping between index and permutation for very large n
+
+## 2026-04-25 (03:53)
+Measure Code Coverage only on New Code
+
+## 2026-04-25 (03:53)
+How to remove line breaks from a file in Java?
+
+## 2026-04-25 (03:53)
+What project types best prepare students for real-world software engineering?
+
+## 2026-04-25 (03:53)
+Spring boot: flyway: Schema validation: missing table [products]
