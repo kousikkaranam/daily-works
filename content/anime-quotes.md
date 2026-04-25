@@ -880,3 +880,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-25 (06:17)
 > "No one's going to give you a map. You've got to walk your own path."
 > — Hilda (Outlaw Star)
+
+## 2026-04-25 (06:17)
+> "You're right. Whether I ever see that girl again or not, that doesn't change the fact that this promise is important to me. I'm gonna go on treasuring it."
+> — Ichijou Raku (Nisekoi: False Love)

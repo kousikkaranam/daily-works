@@ -593,3 +593,6 @@ java.lang.ClassCastException: cannot be cast to com.google.protobuf.Message
 
 ## 2026-04-25 (06:17)
 How to use RequestBodyAdvice
+
+## 2026-04-25 (06:17)
+GWT MouseOver performance
