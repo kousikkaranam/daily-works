@@ -640,3 +640,6 @@
 
 ## 2026-04-24 (10:11)
 - [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+
+## 2026-04-25 (03:53)
+- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
