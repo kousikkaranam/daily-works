@@ -646,3 +646,6 @@
 
 ## 2026-04-25 (03:53)
 - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+
+## 2026-04-25 (03:53)
+- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)

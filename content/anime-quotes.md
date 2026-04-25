@@ -844,3 +844,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-25 (03:53)
 > "Oh, I almost forgot. In the event that anyone besides big-headed Near or the deluded murderer is reading these notes, then I should at least perform the basic courtesy of introducing myself, here at the end of the prologue. I am your narrator, your navigator, your storyteller. For anyone else but those two, my identity may be of no interest, but I am the old world's runner-up, the best dresser that died like a dog, Mihael Keehl. I once called myself Mello and was addressed by that name, but that was a long time ago."
 > — Mello (Death Note)
+
+## 2026-04-25 (03:53)
+> "Humans can lie with words. And they can deceive with actions. You can't trust their eyes, voices, or expressions. But when they're about to die, their faces show the truth, no matter what."
+> — Hans Humpty (Rokka: Braves of the Six Flowers)

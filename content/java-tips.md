@@ -569,3 +569,6 @@ postEfficient mapping between index and permutation for very large n
 
 ## 2026-04-25 (03:53)
 Measure Code Coverage only on New Code
+
+## 2026-04-25 (03:53)
+How to remove line breaks from a file in Java?
