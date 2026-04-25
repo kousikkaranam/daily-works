@@ -587,3 +587,6 @@ Gson ignore null when deserializing object
 
 ## 2026-04-25 (04:44)
 JPA Criteria Query with predicate that compares a field annotated @Convert gets a ORA-00932 upon execution
+
+## 2026-04-25 (04:44)
+java.lang.ClassCastException: cannot be cast to com.google.protobuf.Message

@@ -868,3 +868,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-25 (04:44)
 > "Just like humans, approve killing animals in society, we, approve the killing of humans."
 > — Mutou Tohru (Shiki)
+
+## 2026-04-25 (04:44)
+> "If you can't see what's important, then it's because you're too ashamed to open your eyes."
+> — Ganta Igarashi (Deadman Wonderland)

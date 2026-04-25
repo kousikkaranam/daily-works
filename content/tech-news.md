@@ -667,3 +667,6 @@
 
 ## 2026-04-25 (04:44)
 - [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+
+## 2026-04-25 (04:44)
+- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
