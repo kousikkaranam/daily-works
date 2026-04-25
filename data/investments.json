@@ -30,53 +30,6 @@
         "currency": "USD"
       },
       {
-        "name": "Netflix, Inc.",
-        "symbol": "NFLX",
-        "price": 97.31,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 68.5,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77072,
-    "ethereum_usd": 2407.44,
-    "gold_inr_10g": 144299.67
-  },
-  {
-    "date": "2026-04-18",
-    "time": "04:41",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.61,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 40.82,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 52.93,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 201.68,
-        "currency": "USD"
-      },
-      {
         "name": "Intel Corporation",
         "symbol": "INTC",
         "price": 68.5,
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": null,
     "ethereum_usd": null,
+    "gold_inr_10g": 142797.14
+  },
+  {
+    "date": "2026-04-25",
+    "time": "06:17",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 9.52,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 19.29,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 53.91,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 82.54,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 208.27,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 10.46,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77559,
+    "ethereum_usd": 2317.17,
     "gold_inr_10g": 142797.14
   }
 ]
