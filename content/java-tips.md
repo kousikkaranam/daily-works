@@ -590,3 +590,12 @@ JPA Criteria Query with predicate that compares a field annotated @Convert gets 
 
 ## 2026-04-25 (04:44)
 java.lang.ClassCastException: cannot be cast to com.google.protobuf.Message
+
+## 2026-04-25 (06:17)
+How to use RequestBodyAdvice
+
+## 2026-04-25 (06:17)
+GWT MouseOver performance
+
+## 2026-04-25 (06:17)
+How should I continue learning Java programming?

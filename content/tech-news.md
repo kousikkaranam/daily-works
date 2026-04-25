@@ -670,3 +670,18 @@
 
 ## 2026-04-25 (04:44)
 - [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
+
+## 2026-04-25 (06:17)
+- [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
+
+## 2026-04-25 (06:17)
+- [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
+
+## 2026-04-25 (06:17)
+- [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
+
+## 2026-04-25 (06:17)
+- [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
+
+## 2026-04-25 (06:17)
+- [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
