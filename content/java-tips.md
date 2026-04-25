@@ -578,3 +578,6 @@ What project types best prepare students for real-world software engineering?
 
 ## 2026-04-25 (03:53)
 Spring boot: flyway: Schema validation: missing table [products]
+
+## 2026-04-25 (04:44)
+How to include javax package with Gradle
