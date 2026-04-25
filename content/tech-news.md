@@ -655,3 +655,18 @@
 
 ## 2026-04-25 (03:53)
 - [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
+
+## 2026-04-25 (04:44)
+- [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
+
+## 2026-04-25 (04:44)
+- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+
+## 2026-04-25 (04:44)
+- [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
+
+## 2026-04-25 (04:44)
+- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+
+## 2026-04-25 (04:44)
+- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)

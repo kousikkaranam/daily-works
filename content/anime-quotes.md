@@ -852,3 +852,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-25 (03:53)
 > "He’s utterly insane!"
 > — Genthru (Hunter x Hunter)
+
+## 2026-04-25 (04:44)
+> "Kira... what are you thinking about, now?"
+> — Athrun Zala (Mobile Suit Gundam SEED)
+
+## 2026-04-25 (04:44)
+> "I have no interest in being a villain, and I don’t think that I can become a good person. I’m at a halfway point where I’m not even sure which path I should walk down… but I guess even there, I can still interfere in someone’s life and help bring things to a positive conclusion…"
+> — Accelerator (A Certain Magical Index)
+
+## 2026-04-25 (04:44)
+> "Isn't it lonely when you wake up and you don't hear any voices?"
+> — Nako Oshimizu (Hanasaku Iroha: Blossoms for Tomorrow)
+
+## 2026-04-25 (04:44)
+> "Just like humans, approve killing animals in society, we, approve the killing of humans."
+> — Mutou Tohru (Shiki)
+
+## 2026-04-25 (04:44)
+> "If you can't see what's important, then it's because you're too ashamed to open your eyes."
+> — Ganta Igarashi (Deadman Wonderland)
