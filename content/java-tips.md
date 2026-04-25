@@ -581,3 +581,6 @@ Spring boot: flyway: Schema validation: missing table [products]
 
 ## 2026-04-25 (04:44)
 How to include javax package with Gradle
+
+## 2026-04-25 (04:44)
+Gson ignore null when deserializing object
