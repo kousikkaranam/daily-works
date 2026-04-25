@@ -575,3 +575,6 @@ How to remove line breaks from a file in Java?
 
 ## 2026-04-25 (03:53)
 What project types best prepare students for real-world software engineering?
+
+## 2026-04-25 (03:53)
+Spring boot: flyway: Schema validation: missing table [products]

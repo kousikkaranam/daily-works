@@ -652,3 +652,6 @@
 
 ## 2026-04-25 (03:53)
 - [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+
+## 2026-04-25 (03:53)
+- [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
