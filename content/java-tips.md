@@ -566,3 +566,6 @@ Using Hibernate connection with JasperReports
 
 ## 2026-04-25 (03:53)
 postEfficient mapping between index and permutation for very large n
+
+## 2026-04-25 (03:53)
+Measure Code Coverage only on New Code
