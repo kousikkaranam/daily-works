@@ -900,3 +900,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-26 (05:21)
 > "If you want to get to know someone, you need to make an effort to learn why they're angry."
 > — Mito Freecss (Hunter x Hunter)
+
+## 2026-04-26 (09:37)
+> "I say... that people do not live just so that they can someday die. It is because they are alive that they someday die. There is no point to living. The same goes for judgment. Judgment must be performed hand in hand with both life and death. It is something that must be performed hand in hand with humans."
+> — Decim (Death Parade)
