@@ -691,3 +691,6 @@
 
 ## 2026-04-26 (05:21)
 - [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)
+
+## 2026-04-26 (09:37)
+- [Tell HN: An app is silently installing itself on my iPhone every day]()

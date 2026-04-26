@@ -602,3 +602,6 @@ How should I continue learning Java programming?
 
 ## 2026-04-26 (04:25)
 Difference in character-set reading from command line
+
+## 2026-04-26 (09:37)
+AV Pipeline Kit Demo not working, what&#x27;s the problem?
