@@ -694,3 +694,6 @@
 
 ## 2026-04-26 (09:37)
 - [Tell HN: An app is silently installing itself on my iPhone every day]()
+
+## 2026-04-26 (15:58)
+- [The West forgot how to make things, now it’s forgetting how to code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)

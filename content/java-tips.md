@@ -605,3 +605,6 @@ Difference in character-set reading from command line
 
 ## 2026-04-26 (09:37)
 AV Pipeline Kit Demo not working, what&#x27;s the problem?
+
+## 2026-04-26 (15:58)
+uninstall openjdk in mac
