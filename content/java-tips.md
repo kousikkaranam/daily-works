@@ -599,3 +599,6 @@ GWT MouseOver performance
 
 ## 2026-04-25 (06:17)
 How should I continue learning Java programming?
+
+## 2026-04-26 (04:25)
+Difference in character-set reading from command line
