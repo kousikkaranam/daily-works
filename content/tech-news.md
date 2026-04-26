@@ -685,3 +685,6 @@
 
 ## 2026-04-25 (06:17)
 - [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
+
+## 2026-04-26 (04:25)
+- [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
