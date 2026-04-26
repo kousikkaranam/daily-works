@@ -688,3 +688,6 @@
 
 ## 2026-04-26 (04:25)
 - [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
+
+## 2026-04-26 (05:21)
+- [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)

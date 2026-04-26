@@ -896,3 +896,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-26 (04:25)
 > "Girls are so annoying. They’re always stubborn and full of jealousy, gossiping about who gets along with whom and who loves whom. Violent too."
 > — Rentarou Kurahashi (Love Lab)
+
+## 2026-04-26 (05:21)
+> "If you want to get to know someone, you need to make an effort to learn why they're angry."
+> — Mito Freecss (Hunter x Hunter)
