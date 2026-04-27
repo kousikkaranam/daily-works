@@ -617,3 +617,6 @@ How to handle &#xFFFC; (object replacement character) in URL
 
 ## 2026-04-27 (10:34)
 AAPT: error: unexpected element &lt;activity&gt; found in &lt;manifest&gt;&lt;application&gt;&lt;activity&gt;
+
+## 2026-04-27 (16:56)
+EOFException: Unexpected end of ZLIB input stream
