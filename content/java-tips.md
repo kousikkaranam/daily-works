@@ -611,3 +611,6 @@ uninstall openjdk in mac
 
 ## 2026-04-27 (04:32)
 Java&#x27;s tries traversal [closed]
+
+## 2026-04-27 (05:33)
+How to handle &#xFFFC; (object replacement character) in URL
