@@ -703,3 +703,6 @@
 
 ## 2026-04-27 (05:33)
 - [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
+
+## 2026-04-27 (10:34)
+- [Rust Memory Management: Ownership vs. Reference Counting](https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html)
