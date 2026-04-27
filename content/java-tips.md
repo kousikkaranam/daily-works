@@ -614,3 +614,6 @@ Java&#x27;s tries traversal [closed]
 
 ## 2026-04-27 (05:33)
 How to handle &#xFFFC; (object replacement character) in URL
+
+## 2026-04-27 (10:34)
+AAPT: error: unexpected element &lt;activity&gt; found in &lt;manifest&gt;&lt;application&gt;&lt;activity&gt;
