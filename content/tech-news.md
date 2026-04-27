@@ -706,3 +706,6 @@
 
 ## 2026-04-27 (10:34)
 - [Rust Memory Management: Ownership vs. Reference Counting](https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html)
+
+## 2026-04-27 (16:56)
+- [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
