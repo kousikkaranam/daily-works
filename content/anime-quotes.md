@@ -908,3 +908,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-26 (15:58)
 > "Please remember that there are times to take someone's hand and lead them along... But also times when you must be stern and let them fend for themselves."
 > — Korosensei (Assassination Classroom)
+
+## 2026-04-27 (04:32)
+> "*to Inuyasha* I quite miss you as well, little brother."
+> — Sesshomaru (InuYasha)
