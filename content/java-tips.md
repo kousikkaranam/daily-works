@@ -629,3 +629,6 @@ In 2026, is MERN stack still a good choice for getting a software job, or should
 
 ## 2026-04-28 (10:35)
 Create a GUID / UUID in Java
+
+## 2026-04-28 (17:02)
+Where exactly are static variables are located in Java

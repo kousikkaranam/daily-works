@@ -718,3 +718,6 @@
 
 ## 2026-04-28 (10:35)
 - [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
+
+## 2026-04-28 (17:02)
+- [FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger](https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/)
