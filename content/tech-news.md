@@ -709,3 +709,6 @@
 
 ## 2026-04-27 (16:56)
 - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
+
+## 2026-04-28 (04:36)
+- [Ted Nyman – High Performance Git](https://gitperf.com/)

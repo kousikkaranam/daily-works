@@ -620,3 +620,6 @@ AAPT: error: unexpected element &lt;activity&gt; found in &lt;manifest&gt;&lt;ap
 
 ## 2026-04-27 (16:56)
 EOFException: Unexpected end of ZLIB input stream
+
+## 2026-04-28 (04:36)
+In 2026, is MERN stack still a good choice for getting a software job, or should I switch to Java Spring Boot?
