@@ -623,3 +623,6 @@ EOFException: Unexpected end of ZLIB input stream
 
 ## 2026-04-28 (04:36)
 In 2026, is MERN stack still a good choice for getting a software job, or should I switch to Java Spring Boot?
+
+## 2026-04-28 (05:40)
+@Transactional Spring MyBatis not working

@@ -712,3 +712,6 @@
 
 ## 2026-04-28 (04:36)
 - [Ted Nyman – High Performance Git](https://gitperf.com/)
+
+## 2026-04-28 (05:40)
+- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)

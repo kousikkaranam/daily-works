@@ -924,3 +924,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-27 (16:56)
 > "Oh, life is fun! Try sayin' that ten times fast ten thousand times a minute every day for the rest of your life and it'll screw with your head so bad that all problems will disappear like MAGIC! Okay okay okay, I've gotten past the sadness and as of now I'm evolving to a HIGHER STAAAATE! Right? Tell me you all think so! Life is a magnificent beast, and it excites me!"
 > — Graham Specter (Baccano!)
+
+## 2026-04-28 (05:40)
+> "Life is like a playground swing, the higher and farther forward you go as you swing, it carries the risk of falling just as far back."
+> — Jiro (Toriko)
