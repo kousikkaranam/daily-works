@@ -715,3 +715,6 @@
 
 ## 2026-04-28 (05:40)
 - [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
+
+## 2026-04-28 (10:35)
+- [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)

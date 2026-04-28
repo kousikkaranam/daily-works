@@ -626,3 +626,6 @@ In 2026, is MERN stack still a good choice for getting a software job, or should
 
 ## 2026-04-28 (05:40)
 @Transactional Spring MyBatis not working
+
+## 2026-04-28 (10:35)
+Create a GUID / UUID in Java
