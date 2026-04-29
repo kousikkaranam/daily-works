@@ -632,3 +632,6 @@ Create a GUID / UUID in Java
 
 ## 2026-04-28 (17:02)
 Where exactly are static variables are located in Java
+
+## 2026-04-29 (05:34)
+How to read xml file in selenium driver
