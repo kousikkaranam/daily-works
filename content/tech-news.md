@@ -721,3 +721,6 @@
 
 ## 2026-04-28 (17:02)
 - [FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger](https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/)
+
+## 2026-04-29 (05:34)
+- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
