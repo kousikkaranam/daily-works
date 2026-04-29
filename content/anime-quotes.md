@@ -936,3 +936,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-28 (17:02)
 > "People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder."
 > — Ai Haibara (Case Closed)
+
+## 2026-04-29 (10:31)
+> "But they say a woman is better off with an unloved man, versus a man who loves her."
+> — Senjougahara Hitagi (Nisemonogatari)
