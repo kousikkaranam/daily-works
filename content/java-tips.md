@@ -635,3 +635,6 @@ Where exactly are static variables are located in Java
 
 ## 2026-04-29 (05:34)
 How to read xml file in selenium driver
+
+## 2026-04-29 (16:53)
+Number of lines in a file in Java

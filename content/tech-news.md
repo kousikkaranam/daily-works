@@ -727,3 +727,6 @@
 
 ## 2026-04-29 (10:31)
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+
+## 2026-04-29 (16:53)
+- [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
