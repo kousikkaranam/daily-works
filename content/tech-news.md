@@ -724,3 +724,6 @@
 
 ## 2026-04-29 (05:34)
 - [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
+
+## 2026-04-29 (10:31)
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
