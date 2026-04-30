@@ -730,3 +730,6 @@
 
 ## 2026-04-29 (16:53)
 - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
+
+## 2026-04-30 (04:34)
+- [Zed 1.0](https://zed.dev/blog/zed-1-0)

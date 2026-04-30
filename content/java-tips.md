@@ -638,3 +638,6 @@ How to read xml file in selenium driver
 
 ## 2026-04-29 (16:53)
 Number of lines in a file in Java
+
+## 2026-04-30 (04:34)
+Code convention for if-else, for statements in Java
