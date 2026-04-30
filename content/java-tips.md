@@ -641,3 +641,6 @@ Number of lines in a file in Java
 
 ## 2026-04-30 (04:34)
 Code convention for if-else, for statements in Java
+
+## 2026-04-30 (10:29)
+How to fix error in Postman POST and Delete request with SpringBoot?
