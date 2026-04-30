@@ -736,3 +736,6 @@
 
 ## 2026-04-30 (10:29)
 - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
+
+## 2026-04-30 (16:47)
+- [Claude Code refuses requests or charges extra if your commits mention "OpenClaw"](https://twitter.com/theo/status/2049645973350363168)
