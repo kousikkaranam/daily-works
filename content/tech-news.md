@@ -733,3 +733,6 @@
 
 ## 2026-04-30 (04:34)
 - [Zed 1.0](https://zed.dev/blog/zed-1-0)
+
+## 2026-04-30 (10:29)
+- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
