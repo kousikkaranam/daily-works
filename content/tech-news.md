@@ -739,3 +739,6 @@
 
 ## 2026-04-30 (16:47)
 - [Claude Code refuses requests or charges extra if your commits mention "OpenClaw"](https://twitter.com/theo/status/2049645973350363168)
+
+## 2026-05-01 (04:52)
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)

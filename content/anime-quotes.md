@@ -956,3 +956,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-04-30 (16:47)
 > "You can't just wait. You need to make things happen yourself."
 > — Tokie (Sakamichi no Apollon)
+
+## 2026-05-01 (04:52)
+> "Who am I? One name you might have for me is the world, or you might call me the universe, or perhaps God, or perhaps the Truth. I am All, and I am One. So, of course, this also means that I am you. I am the truth of your despair, the inescapable price of your boastfulness. And now, I will bestow upon you the despair you deserve."
+> — Truth (Fullmetal Alchemist: Brotherhood)
