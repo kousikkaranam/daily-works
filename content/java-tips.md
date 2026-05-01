@@ -647,3 +647,6 @@ How to fix error in Postman POST and Delete request with SpringBoot?
 
 ## 2026-04-30 (16:47)
 Using the FileWriter with a full path
+
+## 2026-05-01 (04:52)
+Spring Security: saved SecurityContext got a Null authentication
