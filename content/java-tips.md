@@ -650,3 +650,6 @@ Using the FileWriter with a full path
 
 ## 2026-05-01 (04:52)
 Spring Security: saved SecurityContext got a Null authentication
+
+## 2026-05-01 (05:49)
+liquibase.exception.MigrationFailedException: Migration failed for change set - Error during database initialization for all integration tests
