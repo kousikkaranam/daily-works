@@ -653,3 +653,6 @@ Spring Security: saved SecurityContext got a Null authentication
 
 ## 2026-05-01 (05:49)
 liquibase.exception.MigrationFailedException: Migration failed for change set - Error during database initialization for all integration tests
+
+## 2026-05-01 (10:11)
+Integer -&gt; double unboxes, but Double -&gt; int doesn&#x27;t unbox. Why?

@@ -964,3 +964,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-01 (05:49)
 > "They say some defeats are meaningful and losing makes you stronger. Do you understand what that means? For living creatures victory is life, and defeat means death. It's an extreme example, but humans retain that instinct. Those who know the terror of defeat, hunger for victory."
 > — Teppei Kiyoshi (Kuroko's Basketball - duplicate)
+
+## 2026-05-01 (10:11)
+> "We reset, and return to our separate lives. You can't reset your life, but you can reset your relationships."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
