@@ -748,3 +748,6 @@
 
 ## 2026-05-01 (10:11)
 - [Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)
+
+## 2026-05-01 (16:09)
+- [Ask HN: Who wants to be hired? (May 2026)]()
