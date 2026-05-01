@@ -745,3 +745,6 @@
 
 ## 2026-05-01 (05:49)
 - [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
+
+## 2026-05-01 (10:11)
+- [Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)
