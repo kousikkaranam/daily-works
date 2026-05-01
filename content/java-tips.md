@@ -656,3 +656,6 @@ liquibase.exception.MigrationFailedException: Migration failed for change set - 
 
 ## 2026-05-01 (10:11)
 Integer -&gt; double unboxes, but Double -&gt; int doesn&#x27;t unbox. Why?
+
+## 2026-05-01 (16:09)
+How would I implement hard to bypass licensing and obfuscation to Java files?
