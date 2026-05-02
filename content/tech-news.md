@@ -760,3 +760,6 @@
 
 ## 2026-05-02 (04:20)
 - [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
+
+## 2026-05-02 (04:20)
+- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
