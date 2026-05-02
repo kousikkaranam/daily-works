@@ -796,3 +796,6 @@
 
 ## 2026-05-02 (09:46)
 - [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
+
+## 2026-05-02 (16:01)
+- [Barman – Backup and Recovery Manager for PostgreSQL](https://github.com/EnterpriseDB/barman)

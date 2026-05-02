@@ -686,3 +686,6 @@ How to call a method with a separate thread in Java?
 
 ## 2026-05-02 (06:58)
 Ajax JQuery to Spring @RequestBody? How do I pass data?
+
+## 2026-05-02 (16:01)
+How do I return from a method an object of the class on which the method is invoked?
