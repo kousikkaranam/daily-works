@@ -775,3 +775,6 @@
 
 ## 2026-05-02 (05:19)
 - [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
+
+## 2026-05-02 (05:19)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
