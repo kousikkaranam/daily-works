@@ -1,194 +1,6 @@
 [
   {
     "date": "2026-04-25",
-    "time": "04:44",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.52,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 19.29,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 53.91,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 82.54,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 208.27,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.46,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77625,
-    "ethereum_usd": 2317.66,
-    "gold_inr_10g": 142797.14
-  },
-  {
-    "date": "2026-04-25",
-    "time": "04:44",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.52,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 19.29,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 53.91,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 82.54,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 208.27,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.46,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77625,
-    "ethereum_usd": 2317.66,
-    "gold_inr_10g": 142797.14
-  },
-  {
-    "date": "2026-04-25",
-    "time": "04:44",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.52,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 19.29,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 53.91,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 82.54,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 208.27,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.46,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77625,
-    "ethereum_usd": 2317.66,
-    "gold_inr_10g": 142797.14
-  },
-  {
-    "date": "2026-04-25",
-    "time": "04:44",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 9.52,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 19.29,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 53.91,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 82.54,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 208.27,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.46,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": null,
-    "ethereum_usd": null,
-    "gold_inr_10g": 142797.14
-  },
-  {
-    "date": "2026-04-25",
     "time": "06:17",
     "top_indian": [
       {
@@ -1408,5 +1220,193 @@
     "bitcoin_usd": 78611,
     "ethereum_usd": 2310.72,
     "gold_inr_10g": 141749.53
+  },
+  {
+    "date": "2026-05-02",
+    "time": "04:20",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 10.18,
+        "currency": "INR"
+      },
+      {
+        "name": "HFCL LIMITED",
+        "symbol": "HFCL.NS",
+        "price": 115.96,
+        "currency": "INR"
+      },
+      {
+        "name": "MEESHO LIMITED",
+        "symbol": "MEESHO.NS",
+        "price": 194.0,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 99.62,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.3,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 78280,
+    "ethereum_usd": 2302.06,
+    "gold_inr_10g": 141030.66
+  },
+  {
+    "date": "2026-05-02",
+    "time": "04:20",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 10.18,
+        "currency": "INR"
+      },
+      {
+        "name": "HFCL LIMITED",
+        "symbol": "HFCL.NS",
+        "price": 115.96,
+        "currency": "INR"
+      },
+      {
+        "name": "MEESHO LIMITED",
+        "symbol": "MEESHO.NS",
+        "price": 194.0,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 99.62,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.3,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 78280,
+    "ethereum_usd": 2302.06,
+    "gold_inr_10g": 141030.66
+  },
+  {
+    "date": "2026-05-02",
+    "time": "04:20",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 10.18,
+        "currency": "INR"
+      },
+      {
+        "name": "HFCL LIMITED",
+        "symbol": "HFCL.NS",
+        "price": 115.96,
+        "currency": "INR"
+      },
+      {
+        "name": "MEESHO LIMITED",
+        "symbol": "MEESHO.NS",
+        "price": 194.0,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 99.62,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.3,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 78280,
+    "ethereum_usd": 2302.06,
+    "gold_inr_10g": 141030.66
+  },
+  {
+    "date": "2026-05-02",
+    "time": "04:20",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 10.18,
+        "currency": "INR"
+      },
+      {
+        "name": "HFCL LIMITED",
+        "symbol": "HFCL.NS",
+        "price": 115.96,
+        "currency": "INR"
+      },
+      {
+        "name": "MEESHO LIMITED",
+        "symbol": "MEESHO.NS",
+        "price": 194.0,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 99.62,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.3,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": null,
+    "ethereum_usd": null,
+    "gold_inr_10g": 141030.66
   }
 ]
