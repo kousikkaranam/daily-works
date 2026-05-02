@@ -778,3 +778,6 @@
 
 ## 2026-05-02 (05:19)
 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
+
+## 2026-05-02 (06:58)
+- [LFM2-24B-A2B: Scaling Up the LFM2 Architecture](https://www.liquid.ai/blog/lfm2-24b-a2b)
