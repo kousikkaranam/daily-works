@@ -787,3 +787,6 @@
 
 ## 2026-05-02 (06:58)
 - [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
+
+## 2026-05-02 (06:58)
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)

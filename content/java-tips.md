@@ -683,3 +683,6 @@ How to get the ConnectionStatus of a VPN with &quot;Get-VpnConnection&quot; Powe
 
 ## 2026-05-02 (06:58)
 How to call a method with a separate thread in Java?
+
+## 2026-05-02 (06:58)
+Ajax JQuery to Spring @RequestBody? How do I pass data?

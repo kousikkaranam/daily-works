@@ -1020,3 +1020,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-02 (06:58)
 > "Being lucky seems to be your greatest tactic."
 > — Hiei (Yu Yu Hakusho)
+
+## 2026-05-02 (06:58)
+> "Life is a succession of committing sin. Life is evil itself. I'm conscious that I'm evil. And so are all of you."
+> — Yoshimura (Tokyo Ghoul √A)
