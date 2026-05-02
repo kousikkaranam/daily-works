@@ -671,3 +671,6 @@ Can one &quot;unhide&quot; hidden methods?
 
 ## 2026-05-02 (05:19)
 API for study purpose
+
+## 2026-05-02 (05:19)
+How to include milliseconds in a formatted date string?

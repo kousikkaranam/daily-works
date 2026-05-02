@@ -769,3 +769,6 @@
 
 ## 2026-05-02 (05:19)
 - [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
+
+## 2026-05-02 (05:19)
+- [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
