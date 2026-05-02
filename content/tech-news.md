@@ -757,3 +757,6 @@
 
 ## 2026-05-02 (04:20)
 - [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
+
+## 2026-05-02 (04:20)
+- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)

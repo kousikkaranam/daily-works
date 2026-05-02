@@ -665,3 +665,6 @@ Difference of behaviors between Virtual Threads &amp; Classical Threads regardin
 
 ## 2026-05-02 (04:20)
 How to modify the HTML when copying a JTable&#x27;s cells?
+
+## 2026-05-02 (04:20)
+Can one &quot;unhide&quot; hidden methods?
