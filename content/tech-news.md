@@ -751,3 +751,6 @@
 
 ## 2026-05-01 (16:09)
 - [Ask HN: Who wants to be hired? (May 2026)]()
+
+## 2026-05-02 (04:20)
+- [To Restore an Island Paradise, Add Fungi](https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi)
