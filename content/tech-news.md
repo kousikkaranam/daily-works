@@ -790,3 +790,6 @@
 
 ## 2026-05-02 (06:58)
 - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+
+## 2026-05-02 (06:58)
+- [Spirit Airlines Is Winding Down All Operations](https://www.spiritrestructuring.com/)
