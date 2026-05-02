@@ -781,3 +781,6 @@
 
 ## 2026-05-02 (06:58)
 - [LFM2-24B-A2B: Scaling Up the LFM2 Architecture](https://www.liquid.ai/blog/lfm2-24b-a2b)
+
+## 2026-05-02 (06:58)
+- [LFM2-24B-A2B: Scaling Up the LFM2 Architecture](https://www.liquid.ai/blog/lfm2-24b-a2b)
