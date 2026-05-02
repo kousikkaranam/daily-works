@@ -674,3 +674,6 @@ API for study purpose
 
 ## 2026-05-02 (05:19)
 How to include milliseconds in a formatted date string?
+
+## 2026-05-02 (05:19)
+Cannot find package org.junit when compiling java file in command prompt
