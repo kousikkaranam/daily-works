@@ -662,3 +662,6 @@ How would I implement hard to bypass licensing and obfuscation to Java files?
 
 ## 2026-05-02 (04:20)
 Difference of behaviors between Virtual Threads &amp; Classical Threads regarding &#x27;synchronized&#x27;?
+
+## 2026-05-02 (04:20)
+How to modify the HTML when copying a JTable&#x27;s cells?
