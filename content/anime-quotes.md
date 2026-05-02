@@ -1008,3 +1008,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-02 (05:19)
 > "I am not so grand, not as a god. I am Horo, and Horo is all that I am."
 > — Horo (Spice and Wolf)
+
+## 2026-05-02 (06:58)
+> "Not one wish ever gets granted in this world."
+> — Tobi (Naruto)
+
+## 2026-05-02 (06:58)
+> "They're part of who I am. No matter how much they hurt, they're important to me."
+> — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-05-02 (06:58)
+> "Being lucky seems to be your greatest tactic."
+> — Hiei (Yu Yu Hakusho)
+
+## 2026-05-02 (06:58)
+> "Life is a succession of committing sin. Life is evil itself. I'm conscious that I'm evil. And so are all of you."
+> — Yoshimura (Tokyo Ghoul √A)
+
+## 2026-05-02 (06:58)
+> "I could go one step farther if I wanted to."
+> — Son Goku (Dragon Ball)
