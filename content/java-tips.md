@@ -668,3 +668,15 @@ How to modify the HTML when copying a JTable&#x27;s cells?
 
 ## 2026-05-02 (04:20)
 Can one &quot;unhide&quot; hidden methods?
+
+## 2026-05-02 (05:19)
+API for study purpose
+
+## 2026-05-02 (05:19)
+How to include milliseconds in a formatted date string?
+
+## 2026-05-02 (05:19)
+Cannot find package org.junit when compiling java file in command prompt
+
+## 2026-05-02 (05:19)
+How to get the ConnectionStatus of a VPN with &quot;Get-VpnConnection&quot; PowerShell command sent with Runtime.exec()?
