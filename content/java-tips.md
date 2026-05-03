@@ -692,3 +692,6 @@ How do I return from a method an object of the class on which the method is invo
 
 ## 2026-05-03 (04:42)
 Tamper Proof Excel Document using java
+
+## 2026-05-03 (09:55)
+Environment-Specific Configuration Values During a Jenkins &#x2B; Maven Build
