@@ -799,3 +799,6 @@
 
 ## 2026-05-02 (16:01)
 - [Barman – Backup and Recovery Manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
+
+## 2026-05-03 (04:42)
+- [Dav2d](https://code.videolan.org/videolan/dav2d)
