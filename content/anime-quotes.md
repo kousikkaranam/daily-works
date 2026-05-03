@@ -1040,3 +1040,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-03 (04:42)
 > "Don't you think forcing people to help with something pointless is far more cruel?"
 > — Fukase (Haven't You Heard? I'm Sakamoto)
+
+## 2026-05-03 (05:39)
+> "I'm still a man too, I wanted to look calm and composed in front of everyone. Especially in front of the one I'm in love with."
+> — Ooga Kazuomi (ReLIFE)
