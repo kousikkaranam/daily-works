@@ -805,3 +805,6 @@
 
 ## 2026-05-03 (05:39)
 - [Do_not_track](https://donottrack.sh/)
+
+## 2026-05-03 (09:55)
+- [Dav2d](https://code.videolan.org/videolan/dav2d)
