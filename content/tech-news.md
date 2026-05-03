@@ -808,3 +808,6 @@
 
 ## 2026-05-03 (09:55)
 - [Dav2d](https://code.videolan.org/videolan/dav2d)
+
+## 2026-05-03 (16:01)
+- [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679)
