@@ -1060,3 +1060,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-04 (10:36)
 > "It's simple. Even the strongest tree will die if left in the dark. I find that to be the best way to describe us. A giant oak, crashing through a dark soil, bringing order to an otherwise chaotic land. The Shinobi have done their job for centuries, and done it well. But in recent years, we have caught glimpses of the outside world, and asked: "Why not us? Have we not earned the privilege others take for free?"."
 > — Touya (Yu Yu Hakusho)
+
+## 2026-05-04 (17:01)
+> "Many things can be achieved, as long as you believe in it."
+> — Yoh Asakura (Shaman King)

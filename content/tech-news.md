@@ -817,3 +817,6 @@
 
 ## 2026-05-04 (10:36)
 - [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
+
+## 2026-05-04 (17:01)
+- [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
