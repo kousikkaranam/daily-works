@@ -814,3 +814,6 @@
 
 ## 2026-05-04 (05:45)
 - [Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
+
+## 2026-05-04 (10:36)
+- [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
