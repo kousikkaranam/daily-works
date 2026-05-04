@@ -701,3 +701,6 @@ Docker Postgres slow query time using indexes
 
 ## 2026-05-04 (05:45)
 Transaction Propagation in EJBs methods
+
+## 2026-05-04 (17:01)
+Is there a standard java exception class that means &quot;The object was not found&quot;?
