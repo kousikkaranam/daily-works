@@ -698,3 +698,6 @@ Environment-Specific Configuration Values During a Jenkins &#x2B; Maven Build
 
 ## 2026-05-03 (16:01)
 Docker Postgres slow query time using indexes
+
+## 2026-05-04 (05:45)
+Transaction Propagation in EJBs methods

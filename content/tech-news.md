@@ -811,3 +811,6 @@
 
 ## 2026-05-03 (16:01)
 - [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679)
+
+## 2026-05-04 (05:45)
+- [Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
