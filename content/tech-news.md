@@ -823,3 +823,6 @@
 
 ## 2026-05-05 (04:18)
 - [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+
+## 2026-05-05 (05:24)
+- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)

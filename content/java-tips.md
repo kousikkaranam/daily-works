@@ -707,3 +707,6 @@ Is there a standard java exception class that means &quot;The object was not fou
 
 ## 2026-05-05 (04:18)
 How to convert AAR to JAR
+
+## 2026-05-05 (05:24)
+How to access Java native method from other project in Flutter
