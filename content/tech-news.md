@@ -826,3 +826,6 @@
 
 ## 2026-05-05 (05:24)
 - [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+
+## 2026-05-05 (10:25)
+- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
