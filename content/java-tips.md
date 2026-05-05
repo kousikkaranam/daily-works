@@ -704,3 +704,6 @@ Transaction Propagation in EJBs methods
 
 ## 2026-05-04 (17:01)
 Is there a standard java exception class that means &quot;The object was not found&quot;?
+
+## 2026-05-05 (04:18)
+How to convert AAR to JAR
