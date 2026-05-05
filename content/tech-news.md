@@ -820,3 +820,6 @@
 
 ## 2026-05-04 (17:01)
 - [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
+
+## 2026-05-05 (04:18)
+- [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
