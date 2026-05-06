@@ -710,3 +710,6 @@ How to convert AAR to JAR
 
 ## 2026-05-05 (05:24)
 How to access Java native method from other project in Flutter
+
+## 2026-05-06 (05:38)
+How to resolve enunciate error for maven project&gt;
