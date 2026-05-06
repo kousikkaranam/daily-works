@@ -829,3 +829,6 @@
 
 ## 2026-05-05 (10:25)
 - [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+
+## 2026-05-06 (05:38)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
