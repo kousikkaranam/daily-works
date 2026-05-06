@@ -716,3 +716,6 @@ How to resolve enunciate error for maven project&gt;
 
 ## 2026-05-06 (10:50)
 Reading very large text files in java
+
+## 2026-05-06 (16:54)
+In Java, how do I set a cell Editor in two different columns for the same data type?

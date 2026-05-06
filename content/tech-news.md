@@ -835,3 +835,6 @@
 
 ## 2026-05-06 (10:50)
 - [Batteries Not Included, or Required, for These Smart Home Sensors](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors)
+
+## 2026-05-06 (16:54)
+- [What makes a good smartphone camera?](https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera)
