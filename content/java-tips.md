@@ -713,3 +713,6 @@ How to access Java native method from other project in Flutter
 
 ## 2026-05-06 (05:38)
 How to resolve enunciate error for maven project&gt;
+
+## 2026-05-06 (10:50)
+Reading very large text files in java

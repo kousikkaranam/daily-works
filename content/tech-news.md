@@ -832,3 +832,6 @@
 
 ## 2026-05-06 (05:38)
 - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+
+## 2026-05-06 (10:50)
+- [Batteries Not Included, or Required, for These Smart Home Sensors](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors)
