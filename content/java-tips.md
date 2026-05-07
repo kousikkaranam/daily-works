@@ -722,3 +722,6 @@ In Java, how do I set a cell Editor in two different columns for the same data t
 
 ## 2026-05-07 (10:53)
 Certificate for &lt;jcenter.bintray.com&gt; doesn&#x27;t match any of the subject alternative names
+
+## 2026-05-07 (17:03)
+javax.validation.ConstraintViolationException, ConstraintViolationImpl{interpolatedMessage=&#x27;may not be null&#x27;, propertyPath=

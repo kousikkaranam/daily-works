@@ -841,3 +841,6 @@
 
 ## 2026-05-07 (10:53)
 - [Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)](https://www.ticalc.org/programming/columns/83plus-bas/cherny/)
+
+## 2026-05-07 (17:03)
+- [PySimpleGUI 6](https://github.com/PySimpleGUI/PySimpleGUI)
