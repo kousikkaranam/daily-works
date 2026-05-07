@@ -719,3 +719,6 @@ Reading very large text files in java
 
 ## 2026-05-06 (16:54)
 In Java, how do I set a cell Editor in two different columns for the same data type?
+
+## 2026-05-07 (10:53)
+Certificate for &lt;jcenter.bintray.com&gt; doesn&#x27;t match any of the subject alternative names

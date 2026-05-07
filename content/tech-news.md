@@ -838,3 +838,6 @@
 
 ## 2026-05-06 (16:54)
 - [What makes a good smartphone camera?](https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera)
+
+## 2026-05-07 (10:53)
+- [Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)](https://www.ticalc.org/programming/columns/83plus-bas/cherny/)
