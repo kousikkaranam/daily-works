@@ -728,3 +728,6 @@ javax.validation.ConstraintViolationException, ConstraintViolationImpl{interpola
 
 ## 2026-05-08 (04:17)
 NanoHTTPD Example Build Error: Could not resolve dependencies for project
+
+## 2026-05-08 (10:08)
+Elasticsearch Java API Client returns aggregation key as String instead of numeric

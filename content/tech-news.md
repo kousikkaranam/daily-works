@@ -847,3 +847,6 @@
 
 ## 2026-05-08 (04:17)
 - [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
+
+## 2026-05-08 (10:08)
+- [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
