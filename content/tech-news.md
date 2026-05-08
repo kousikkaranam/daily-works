@@ -850,3 +850,6 @@
 
 ## 2026-05-08 (10:08)
 - [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+
+## 2026-05-08 (16:44)
+- [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)

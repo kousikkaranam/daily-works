@@ -1104,3 +1104,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-08 (10:08)
 > "I dont need to believe in God to believe in myself."
 > — Genjo Sanzo (Saiyuki)
+
+## 2026-05-08 (16:44)
+> "Yuji, You’re a strong kid, so help people."
+> — Wasuke Itadori (Jujutsu Kaisen)

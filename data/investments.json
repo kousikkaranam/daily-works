@@ -89,53 +89,6 @@
         "currency": "USD"
       }
     ],
-    "bitcoin_usd": 78280,
-    "ethereum_usd": 2302.06,
-    "gold_inr_10g": 141030.66
-  },
-  {
-    "date": "2026-05-02",
-    "time": "04:20",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 10.18,
-        "currency": "INR"
-      },
-      {
-        "name": "HFCL LIMITED",
-        "symbol": "HFCL.NS",
-        "price": 115.96,
-        "currency": "INR"
-      },
-      {
-        "name": "MEESHO LIMITED",
-        "symbol": "MEESHO.NS",
-        "price": 194.0,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 99.62,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 13.3,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 198.45,
-        "currency": "USD"
-      }
-    ],
     "bitcoin_usd": null,
     "ethereum_usd": null,
     "gold_inr_10g": 141030.66
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 79969,
     "ethereum_usd": 2285.9,
     "gold_inr_10g": 142978.61
+  },
+  {
+    "date": "2026-05-08",
+    "time": "16:44",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 11.24,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 22.94,
+        "currency": "INR"
+      },
+      {
+        "name": "GTL INFRA.LTD",
+        "symbol": "GTLINFRA.NS",
+        "price": 1.38,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 215.6899,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 117.07,
+        "currency": "USD"
+      },
+      {
+        "name": "IREN LIMITED",
+        "symbol": "IREN",
+        "price": 58.967,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 79781,
+    "ethereum_usd": 2289.32,
+    "gold_inr_10g": 143048.39
   }
 ]

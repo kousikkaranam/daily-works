@@ -731,3 +731,6 @@ NanoHTTPD Example Build Error: Could not resolve dependencies for project
 
 ## 2026-05-08 (10:08)
 Elasticsearch Java API Client returns aggregation key as String instead of numeric
+
+## 2026-05-08 (16:44)
+Java Comparing two strings throws still true
