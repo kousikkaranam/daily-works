@@ -725,3 +725,6 @@ Certificate for &lt;jcenter.bintray.com&gt; doesn&#x27;t match any of the subjec
 
 ## 2026-05-07 (17:03)
 javax.validation.ConstraintViolationException, ConstraintViolationImpl{interpolatedMessage=&#x27;may not be null&#x27;, propertyPath=
+
+## 2026-05-08 (04:17)
+NanoHTTPD Example Build Error: Could not resolve dependencies for project

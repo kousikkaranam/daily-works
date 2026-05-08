@@ -1096,3 +1096,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-07 (17:03)
 > "Even in the depths of the darkest oceans, some light always pierces through."
 > — Kousei Arima (Your Lie in April)
+
+## 2026-05-08 (04:17)
+> "Chicks dig guys in black."
+> — Haji (Blood+)

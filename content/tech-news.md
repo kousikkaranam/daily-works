@@ -844,3 +844,6 @@
 
 ## 2026-05-07 (17:03)
 - [PySimpleGUI 6](https://github.com/PySimpleGUI/PySimpleGUI)
+
+## 2026-05-08 (04:17)
+- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
