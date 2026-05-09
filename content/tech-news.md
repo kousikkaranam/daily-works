@@ -856,3 +856,6 @@
 
 ## 2026-05-09 (04:26)
 - [The React2Shell Story](https://lachlan.nz/blog/the-react2shell-story/)
+
+## 2026-05-09 (04:26)
+- [Light without electricity? Glowing algae could make it possible](https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible)

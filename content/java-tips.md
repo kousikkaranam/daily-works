@@ -737,3 +737,6 @@ Java Comparing two strings throws still true
 
 ## 2026-05-09 (04:26)
 How to use AT commands in Android applications?
+
+## 2026-05-09 (04:26)
+IntelliJ IDEA: never use wildcard imports
