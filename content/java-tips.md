@@ -746,3 +746,18 @@ Headers exchange, messages not routed by headers x-match = all
 
 ## 2026-05-09 (04:26)
 RouterFunction&lt;ServerResponse&gt;: &quot;Non-null type argument is expected&quot;
+
+## 2026-05-09 (05:30)
+Visual studio code cannot find java libraries
+
+## 2026-05-09 (05:30)
+Swagger UI endpoint not exposed
+
+## 2026-05-09 (05:30)
+Generating and executing Java .class bytecode on Android at runtime without use of storage space
+
+## 2026-05-09 (05:30)
+How to post job on social media platform?
+
+## 2026-05-09 (05:30)
+How to check for Java class member order
