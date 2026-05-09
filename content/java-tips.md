@@ -761,3 +761,6 @@ How to post job on social media platform?
 
 ## 2026-05-09 (05:30)
 How to check for Java class member order
+
+## 2026-05-09 (09:55)
+issue with starting java web start application on linux
