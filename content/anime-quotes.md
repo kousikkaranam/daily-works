@@ -1108,3 +1108,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-08 (16:44)
 > "Yuji, You’re a strong kid, so help people."
 > — Wasuke Itadori (Jujutsu Kaisen)
+
+## 2026-05-09 (04:26)
+> "This may come as something of a surprise, but I'm a sore loser."
+> — Miroku (InuYasha)

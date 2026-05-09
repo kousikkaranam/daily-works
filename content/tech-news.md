@@ -853,3 +853,6 @@
 
 ## 2026-05-08 (16:44)
 - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
+
+## 2026-05-09 (04:26)
+- [The React2Shell Story](https://lachlan.nz/blog/the-react2shell-story/)

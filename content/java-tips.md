@@ -734,3 +734,6 @@ Elasticsearch Java API Client returns aggregation key as String instead of numer
 
 ## 2026-05-08 (16:44)
 Java Comparing two strings throws still true
+
+## 2026-05-09 (04:26)
+How to use AT commands in Android applications?
