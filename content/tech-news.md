@@ -883,3 +883,6 @@
 
 ## 2026-05-09 (09:55)
 - [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
+
+## 2026-05-09 (16:08)
+- [How LEDs are made (2014)](https://learn.sparkfun.com/tutorials/how-leds-are-made/all)
