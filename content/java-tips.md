@@ -755,3 +755,6 @@ Swagger UI endpoint not exposed
 
 ## 2026-05-09 (05:30)
 Generating and executing Java .class bytecode on Android at runtime without use of storage space
+
+## 2026-05-09 (05:30)
+How to post job on social media platform?
