@@ -749,3 +749,6 @@ RouterFunction&lt;ServerResponse&gt;: &quot;Non-null type argument is expected&q
 
 ## 2026-05-09 (05:30)
 Visual studio code cannot find java libraries
+
+## 2026-05-09 (05:30)
+Swagger UI endpoint not exposed
