@@ -740,3 +740,6 @@ How to use AT commands in Android applications?
 
 ## 2026-05-09 (04:26)
 IntelliJ IDEA: never use wildcard imports
+
+## 2026-05-09 (04:26)
+Headers exchange, messages not routed by headers x-match = all
