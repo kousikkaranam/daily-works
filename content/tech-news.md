@@ -877,3 +877,6 @@
 
 ## 2026-05-09 (05:30)
 - [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html)
+
+## 2026-05-09 (05:30)
+- [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
