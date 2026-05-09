@@ -1108,3 +1108,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-08 (16:44)
 > "Yuji, You’re a strong kid, so help people."
 > — Wasuke Itadori (Jujutsu Kaisen)
+
+## 2026-05-09 (04:26)
+> "This may come as something of a surprise, but I'm a sore loser."
+> — Miroku (InuYasha)
+
+## 2026-05-09 (04:26)
+> "In order to accomplish something, first you had to believe in yourself that you could do it."
+> — Adlet Mayer (Rokka: Braves of the Six Flowers)
+
+## 2026-05-09 (04:26)
+> "[upon arriving at Szayel Aporro Grantz's location] Arrancar, Arrancar, Arrancar... Espada! Hueco Mundo is quite the treasure trove."
+> — Kurotsuchi Mayuri (Bleach)
+
+## 2026-05-09 (04:26)
+> "Kindness can sometime translate to hostility."
+> — Senjougahara Hitagi (Bakemonogatari)

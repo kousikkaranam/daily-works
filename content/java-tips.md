@@ -734,3 +734,15 @@ Elasticsearch Java API Client returns aggregation key as String instead of numer
 
 ## 2026-05-08 (16:44)
 Java Comparing two strings throws still true
+
+## 2026-05-09 (04:26)
+How to use AT commands in Android applications?
+
+## 2026-05-09 (04:26)
+IntelliJ IDEA: never use wildcard imports
+
+## 2026-05-09 (04:26)
+Headers exchange, messages not routed by headers x-match = all
+
+## 2026-05-09 (04:26)
+RouterFunction&lt;ServerResponse&gt;: &quot;Non-null type argument is expected&quot;
