@@ -862,3 +862,6 @@
 
 ## 2026-05-09 (04:26)
 - [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
+
+## 2026-05-09 (04:26)
+- [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso)
