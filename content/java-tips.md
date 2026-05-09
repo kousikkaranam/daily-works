@@ -746,3 +746,6 @@ Headers exchange, messages not routed by headers x-match = all
 
 ## 2026-05-09 (04:26)
 RouterFunction&lt;ServerResponse&gt;: &quot;Non-null type argument is expected&quot;
+
+## 2026-05-09 (05:30)
+Visual studio code cannot find java libraries

@@ -865,3 +865,6 @@
 
 ## 2026-05-09 (04:26)
 - [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso)
+
+## 2026-05-09 (05:30)
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
