@@ -880,3 +880,6 @@
 
 ## 2026-05-09 (05:30)
 - [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
+
+## 2026-05-09 (09:55)
+- [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
