@@ -770,3 +770,6 @@ Cannot resolve symbol &#x27;productoRepository&#x27; in Spring Boot service clas
 
 ## 2026-05-10 (04:48)
 Embed strings inside localized validation error messages
+
+## 2026-05-10 (16:10)
+Get explanations with OWL API &#x2B; Openllet for data assertion axioms

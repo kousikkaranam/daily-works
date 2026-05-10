@@ -889,3 +889,6 @@
 
 ## 2026-05-10 (04:48)
 - [Emerich Juettner: The One Dollar Counterfeiter](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html)
+
+## 2026-05-10 (16:10)
+- [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
