@@ -767,3 +767,6 @@ issue with starting java web start application on linux
 
 ## 2026-05-09 (16:08)
 Cannot resolve symbol &#x27;productoRepository&#x27; in Spring Boot service class [closed]
+
+## 2026-05-10 (04:48)
+Embed strings inside localized validation error messages
