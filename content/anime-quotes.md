@@ -1156,3 +1156,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-11 (05:00)
 > "If there are things you learn with friends, there must also be things you learn without friends. They must be of equal worth, two sides of the same coin."
 > — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+
+## 2026-05-11 (11:47)
+> "Look, you.  All this talk about monsters...that's what people have called me ever since I was a kid.  I've snapped and lost sight of everything around me, and I've made trouble for Celty more than once or twice.  Even so, she still heard me out, without interrupting.  And so now it's my turn to hear her out, all right?"
+> — Shizuo Heiwajima (Durarara!!)

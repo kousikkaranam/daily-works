@@ -776,3 +776,6 @@ Get explanations with OWL API &#x2B; Openllet for data assertion axioms
 
 ## 2026-05-11 (05:00)
 Unable to run JUnit test in IntelliJ
+
+## 2026-05-11 (11:47)
+Effective hiking - dynamic programming

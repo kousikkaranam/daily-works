@@ -895,3 +895,6 @@
 
 ## 2026-05-11 (05:00)
 - [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+
+## 2026-05-11 (11:47)
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
