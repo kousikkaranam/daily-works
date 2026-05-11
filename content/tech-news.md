@@ -898,3 +898,6 @@
 
 ## 2026-05-11 (11:47)
 - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+
+## 2026-05-11 (17:30)
+- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
