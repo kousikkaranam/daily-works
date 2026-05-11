@@ -892,3 +892,6 @@
 
 ## 2026-05-10 (16:10)
 - [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
+
+## 2026-05-11 (05:00)
+- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)

@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-03",
-    "time": "04:42",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 10.18,
-        "currency": "INR"
-      },
-      {
-        "name": "HFCL LIMITED",
-        "symbol": "HFCL.NS",
-        "price": 115.96,
-        "currency": "INR"
-      },
-      {
-        "name": "MEESHO LIMITED",
-        "symbol": "MEESHO.NS",
-        "price": 194.0,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 99.62,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 13.3,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 198.45,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 78200,
-    "ethereum_usd": 2303.23,
-    "gold_inr_10g": 140978.20
-  },
-  {
-    "date": "2026-05-03",
     "time": "05:39",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 81389,
     "ethereum_usd": 2345.42,
     "gold_inr_10g": 143239.09
+  },
+  {
+    "date": "2026-05-11",
+    "time": "05:00",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 11.82,
+        "currency": "INR"
+      },
+      {
+        "name": "LENSKART SOLUTIONS LTD",
+        "symbol": "LENSKART-BL.NS",
+        "price": 473.4,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 22.83,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 124.895,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 215.217,
+        "currency": "USD"
+      },
+      {
+        "name": "IREN LIMITED",
+        "symbol": "IREN",
+        "price": 61.2,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 80830,
+    "ethereum_usd": 2333.36,
+    "gold_inr_10g": 142106.91
   }
 ]
