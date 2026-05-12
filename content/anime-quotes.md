@@ -1172,3 +1172,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-12 (05:47)
 > "It hasn't withered. I won't let it wither. We might just be little branches, but if the branches break off, the tree really will wither. That's why I won't break off. Even if winter comes and the leaves fall off, even if the wind comes and all the other little branches break off... Even if I am the last branch left, I won't break off. I'm sure we'll be together till the end."
 > — Kagura (Gintama)
+
+## 2026-05-12 (11:04)
+> "*To Kuchiki Rukia* Are you any different!? You sacrificed yourself to save me that time!! At that time were you thinking about complicated stuff like "this is my Shinigami duty"!? That's not what sacrificing yourself is! At the very least... I'm different! I haven't accepted any commitment. If things get bad I might run away... since I'm not a good enough person to be able to sacrifice my life for total strangers. But unfortunately I'm also not trash that can live happily without paying back his debts!"
+> — Kurosaki Ichigo (Bleach)
