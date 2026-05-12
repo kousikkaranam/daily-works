@@ -910,3 +910,6 @@
 
 ## 2026-05-12 (11:04)
 - [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
+
+## 2026-05-12 (17:23)
+- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
