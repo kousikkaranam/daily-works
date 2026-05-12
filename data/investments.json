@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "time": "16:00",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 10.18,
-        "currency": "INR"
-      },
-      {
-        "name": "HFCL LIMITED",
-        "symbol": "HFCL.NS",
-        "price": 115.96,
-        "currency": "INR"
-      },
-      {
-        "name": "MEESHO LIMITED",
-        "symbol": "MEESHO.NS",
-        "price": 194.0,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 99.62,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 13.3,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 198.45,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 78648,
-    "ethereum_usd": 2327.11,
-    "gold_inr_10g": 140978.20
-  },
-  {
     "date": "2026-05-04",
     "time": "05:45",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 81579,
     "ethereum_usd": 2328.15,
     "gold_inr_10g": 143551.15
+  },
+  {
+    "date": "2026-05-12",
+    "time": "04:40",
+    "top_indian": [
+      {
+        "name": "BILLIONBRAINS GARAGE VN L",
+        "symbol": "GROWW.NS",
+        "price": 186.69,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 11.9,
+        "currency": "INR"
+      },
+      {
+        "name": "LENSKART SOLUTIONS LTD",
+        "symbol": "LENSKART-BL.NS",
+        "price": 473.4,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 129.44,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 219.44,
+        "currency": "USD"
+      },
+      {
+        "name": "Plug Power, Inc.",
+        "symbol": "PLUG",
+        "price": 3.52,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 81222,
+    "ethereum_usd": 2311.86,
+    "gold_inr_10g": 144940.99
   }
 ]

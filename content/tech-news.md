@@ -901,3 +901,6 @@
 
 ## 2026-05-11 (17:30)
 - [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+
+## 2026-05-12 (04:40)
+- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
