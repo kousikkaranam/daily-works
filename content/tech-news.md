@@ -904,3 +904,6 @@
 
 ## 2026-05-12 (04:40)
 - [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+
+## 2026-05-12 (05:47)
+- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
