@@ -779,3 +779,6 @@ Unable to run JUnit test in IntelliJ
 
 ## 2026-05-11 (11:47)
 Effective hiking - dynamic programming
+
+## 2026-05-12 (04:40)
+HttpClient connection timeout configuration for Hashicrop Consul Watch
