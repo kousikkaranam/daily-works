@@ -785,3 +785,6 @@ HttpClient connection timeout configuration for Hashicrop Consul Watch
 
 ## 2026-05-12 (05:47)
 Lombok&#x27;s chainable setters &#x2B; MapStruct
+
+## 2026-05-12 (11:04)
+How to start using Chainsaw for Log4j?

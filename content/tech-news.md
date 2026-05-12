@@ -907,3 +907,6 @@
 
 ## 2026-05-12 (05:47)
 - [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
+
+## 2026-05-12 (11:04)
+- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
