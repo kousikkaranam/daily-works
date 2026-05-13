@@ -791,3 +791,6 @@ How to start using Chainsaw for Log4j?
 
 ## 2026-05-12 (17:23)
 Improving structure of a Java base conversion program
+
+## 2026-05-13 (11:15)
+Request header field is not allowed by Access-Control-Allow-Headers in preflight response
