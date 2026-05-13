@@ -919,3 +919,6 @@
 
 ## 2026-05-13 (05:57)
 - [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
+
+## 2026-05-13 (11:15)
+- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
