@@ -1176,3 +1176,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-12 (11:04)
 > "*To Kuchiki Rukia* Are you any different!? You sacrificed yourself to save me that time!! At that time were you thinking about complicated stuff like "this is my Shinigami duty"!? That's not what sacrificing yourself is! At the very least... I'm different! I haven't accepted any commitment. If things get bad I might run away... since I'm not a good enough person to be able to sacrifice my life for total strangers. But unfortunately I'm also not trash that can live happily without paying back his debts!"
 > — Kurosaki Ichigo (Bleach)
+
+## 2026-05-13 (04:51)
+> "It's better trusting someone than to die doubting people altogether."
+> — Kaitou Kid (Case Closed)
