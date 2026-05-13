@@ -916,3 +916,6 @@
 
 ## 2026-05-13 (04:51)
 - [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
+
+## 2026-05-13 (05:57)
+- [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
