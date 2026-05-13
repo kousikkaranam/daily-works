@@ -913,3 +913,6 @@
 
 ## 2026-05-12 (17:23)
 - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
+
+## 2026-05-13 (04:51)
+- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
