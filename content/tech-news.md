@@ -925,3 +925,6 @@
 
 ## 2026-05-14 (04:50)
 - [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
+
+## 2026-05-14 (05:56)
+- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
