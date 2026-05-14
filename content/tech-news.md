@@ -928,3 +928,6 @@
 
 ## 2026-05-14 (05:56)
 - [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
+
+## 2026-05-14 (17:16)
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
