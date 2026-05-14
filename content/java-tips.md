@@ -794,3 +794,6 @@ Improving structure of a Java base conversion program
 
 ## 2026-05-13 (11:15)
 Request header field is not allowed by Access-Control-Allow-Headers in preflight response
+
+## 2026-05-14 (04:50)
+Maven cannot resolve spring-boot-starter-data-jpa-test dependency in Spring Boot 4.0.6

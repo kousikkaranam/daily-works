@@ -922,3 +922,6 @@
 
 ## 2026-05-13 (11:15)
 - [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+
+## 2026-05-14 (04:50)
+- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
