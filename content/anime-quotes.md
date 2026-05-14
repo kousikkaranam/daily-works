@@ -1188,3 +1188,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-13 (11:15)
 > "[when Naruto transforms into a woman in front of the whole class] CUT THE STUPID TRICKS! THIS IS YOUR LAST WARNING!!"
 > — Iruka Umino (Naruto)
+
+## 2026-05-14 (04:50)
+> "It's always a lot more easier to let something fall apart than it is to try to hold it together."
+> — Ayasegawa Yumichika (Bleach)
