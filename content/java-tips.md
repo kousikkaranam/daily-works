@@ -800,3 +800,6 @@ Maven cannot resolve spring-boot-starter-data-jpa-test dependency in Spring Boot
 
 ## 2026-05-14 (05:56)
 Confused about single-dispatch in Java vs multiple dispatch
+
+## 2026-05-14 (17:16)
+word with the most vowels

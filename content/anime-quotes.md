@@ -1192,3 +1192,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-14 (04:50)
 > "It's always a lot more easier to let something fall apart than it is to try to hold it together."
 > — Ayasegawa Yumichika (Bleach)
+
+## 2026-05-14 (17:16)
+> "You just went for my head, didn't you? You know you could kill someone by hitting a vital spot in their head, right? If you know this, then you were trying to kill me, right? So whatever I do next is what you deserve, right?"
+> — Shizuo Heiwajima (Durarara!!)
