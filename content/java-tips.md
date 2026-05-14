@@ -797,3 +797,6 @@ Request header field is not allowed by Access-Control-Allow-Headers in preflight
 
 ## 2026-05-14 (04:50)
 Maven cannot resolve spring-boot-starter-data-jpa-test dependency in Spring Boot 4.0.6
+
+## 2026-05-14 (05:56)
+Confused about single-dispatch in Java vs multiple dispatch
