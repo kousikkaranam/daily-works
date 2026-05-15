@@ -931,3 +931,6 @@
 
 ## 2026-05-14 (17:16)
 - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+
+## 2026-05-15 (06:04)
+- [A few words on DS4](https://antirez.com/news/165)

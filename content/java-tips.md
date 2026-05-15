@@ -803,3 +803,6 @@ Confused about single-dispatch in Java vs multiple dispatch
 
 ## 2026-05-14 (17:16)
 word with the most vowels
+
+## 2026-05-15 (06:04)
+Why does my Java matrix addition method return incorrect values?

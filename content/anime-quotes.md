@@ -1196,3 +1196,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-14 (17:16)
 > "You just went for my head, didn't you? You know you could kill someone by hitting a vital spot in their head, right? If you know this, then you were trying to kill me, right? So whatever I do next is what you deserve, right?"
 > — Shizuo Heiwajima (Durarara!!)
+
+## 2026-05-15 (06:04)
+> "Is it that you get the power, then you choose to protect someone else? No! We first want to protect someone, that's why we try to get stronger in the first place."
+> — Kamijou Touma (A Certain Magical Index)
