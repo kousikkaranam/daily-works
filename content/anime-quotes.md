@@ -1200,3 +1200,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-15 (06:04)
 > "Is it that you get the power, then you choose to protect someone else? No! We first want to protect someone, that's why we try to get stronger in the first place."
 > — Kamijou Touma (A Certain Magical Index)
+
+## 2026-05-15 (11:05)
+> "In essence, language accounts for a mere 30% of human communication. The other 70% is made up of information collected from eye movements and other body language. With that, even a loner who never takes part in conversation can pull off 70% of what we consider communication."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
