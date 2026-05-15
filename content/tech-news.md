@@ -937,3 +937,6 @@
 
 ## 2026-05-15 (11:05)
 - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+
+## 2026-05-15 (17:00)
+- [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)

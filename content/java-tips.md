@@ -809,3 +809,6 @@ Why does my Java matrix addition method return incorrect values?
 
 ## 2026-05-15 (11:05)
 Map unavailable authorization server to 503
+
+## 2026-05-15 (17:00)
+How to add multiple headers to RestClient for Spring Boot 3.2
