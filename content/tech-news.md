@@ -934,3 +934,6 @@
 
 ## 2026-05-15 (06:04)
 - [A few words on DS4](https://antirez.com/news/165)
+
+## 2026-05-15 (11:05)
+- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
