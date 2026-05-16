@@ -827,3 +827,12 @@ Map custom exception to error response code, keep default ErrorAttributes
 
 ## 2026-05-16 (04:31)
 Can&#x27;t get swagger2 to display swagger-ui.html
+
+## 2026-05-16 (05:35)
+How to do a Mongo aggregation query in Spring Data?
+
+## 2026-05-16 (05:35)
+Monitoring datasource connection pool on Wildfly9
+
+## 2026-05-16 (05:35)
+How can I update keycloak&#x27;s user details programmatically (java), without using rest admin api?

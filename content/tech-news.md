@@ -955,3 +955,15 @@
 
 ## 2026-05-16 (04:31)
 - [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+
+## 2026-05-16 (05:35)
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+
+## 2026-05-16 (05:35)
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+
+## 2026-05-16 (05:35)
+- [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
+
+## 2026-05-16 (05:35)
+- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
