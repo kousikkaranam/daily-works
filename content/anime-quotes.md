@@ -1208,3 +1208,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-15 (17:00)
 > "Anyone accepting defeat will be punished by running ten laps around the school, naked! And you'll have to yell "Green Martians are chasing me!" for the whole ten laps!"
 > — Haruhi Suzumiya (The Melancholy of Haruhi Suzumiya)
+
+## 2026-05-16 (04:31)
+> "[to Ichigo] You're a Soul Reaper and I'm a Hollow. Whichever side loses will be massacred! It's been that way for over a thousand years! Who needs any more reason than that?! Now bring it! The last man standing gets to go home alive! That's all there is to it!"
+> — Grimmjow Jeagerjaques (Bleach)
+
+## 2026-05-16 (04:31)
+> "Look at this world, so many people deserve to be killed. At the same time, a murderer must be ready to be killed as he lives. That's what retribution is. So, in this world, evil or whatever, a person strongly determined to live is the one who survives in the end."
+> — Genjo Sanzo (Saiyuki)
+
+## 2026-05-16 (04:31)
+> "If you keep saving butterflies, spiders will starve to death! But... wanting to save them both is a contradiction. What would you rather do? Keep deliberating? The butterfly will be eaten in the meantime."
+> — Millions Knives (Trigun)
+
+## 2026-05-16 (04:31)
+> "I said she's not an Angel. She's a human, just like us. Didn't you notice?"
+> — Yuri Nakamura (Angel Beats!)
+
+## 2026-05-16 (04:31)
+> "Better to ask and be a fool once than never to ask and be a fool forever."
+> — Yumi Iguchi (Shirobako)

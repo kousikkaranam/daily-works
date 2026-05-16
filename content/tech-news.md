@@ -940,3 +940,18 @@
 
 ## 2026-05-15 (17:00)
 - [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
+
+## 2026-05-16 (04:31)
+- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
+
+## 2026-05-16 (04:31)
+- [Ploopy Bean: a trackpoint for every computer](https://ploopy.co/shop/bean-pointing-stick/)
+
+## 2026-05-16 (04:31)
+- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
+
+## 2026-05-16 (04:31)
+- [Ploopy Bean: a trackpoint for every computer](https://ploopy.co/shop/bean-pointing-stick/)
+
+## 2026-05-16 (04:31)
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
