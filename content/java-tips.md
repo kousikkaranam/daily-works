@@ -836,3 +836,6 @@ Monitoring datasource connection pool on Wildfly9
 
 ## 2026-05-16 (05:35)
 How can I update keycloak&#x27;s user details programmatically (java), without using rest admin api?
+
+## 2026-05-16 (07:10)
+@transactional annotated class wrapped with proxy, but transaction is not created
