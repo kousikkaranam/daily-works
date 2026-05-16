@@ -1236,3 +1236,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-16 (05:35)
 > "I was wrong, kill him."
 > — Kagome Higurashi (InuYasha)
+
+## 2026-05-16 (05:35)
+> "I don't think I'll learn anything if I don't try to do something about it on my own."
+> — Hishiro Chizuru (ReLIFE)

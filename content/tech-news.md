@@ -961,3 +961,6 @@
 
 ## 2026-05-16 (05:35)
 - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+
+## 2026-05-16 (05:35)
+- [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
