@@ -967,3 +967,6 @@
 
 ## 2026-05-16 (05:35)
 - [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
+
+## 2026-05-16 (07:10)
+- [The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/)
