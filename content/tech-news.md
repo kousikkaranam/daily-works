@@ -958,3 +958,6 @@
 
 ## 2026-05-16 (05:35)
 - [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+
+## 2026-05-16 (05:35)
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)

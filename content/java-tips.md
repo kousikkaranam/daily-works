@@ -830,3 +830,6 @@ Can&#x27;t get swagger2 to display swagger-ui.html
 
 ## 2026-05-16 (05:35)
 How to do a Mongo aggregation query in Spring Data?
+
+## 2026-05-16 (05:35)
+Monitoring datasource connection pool on Wildfly9
