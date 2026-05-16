@@ -970,3 +970,6 @@
 
 ## 2026-05-16 (07:10)
 - [The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/)
+
+## 2026-05-16 (10:03)
+- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
