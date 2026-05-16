@@ -839,3 +839,6 @@ How can I update keycloak&#x27;s user details programmatically (java), without u
 
 ## 2026-05-16 (07:10)
 @transactional annotated class wrapped with proxy, but transaction is not created
+
+## 2026-05-16 (10:03)
+Eclipse building the code again and again (without any changes)?
