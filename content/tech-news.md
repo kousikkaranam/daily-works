@@ -964,3 +964,6 @@
 
 ## 2026-05-16 (05:35)
 - [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
+
+## 2026-05-16 (05:35)
+- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
