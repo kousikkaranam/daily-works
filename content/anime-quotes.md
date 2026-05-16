@@ -1220,3 +1220,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-16 (04:31)
 > "If you keep saving butterflies, spiders will starve to death! But... wanting to save them both is a contradiction. What would you rather do? Keep deliberating? The butterfly will be eaten in the meantime."
 > — Millions Knives (Trigun)
+
+## 2026-05-16 (04:31)
+> "I said she's not an Angel. She's a human, just like us. Didn't you notice?"
+> — Yuri Nakamura (Angel Beats!)

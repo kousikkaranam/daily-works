@@ -821,3 +821,6 @@ IntelliJ (Access is denied)
 
 ## 2026-05-16 (04:31)
 How to send email with a file attachment using aws ses and java?
+
+## 2026-05-16 (04:31)
+Map custom exception to error response code, keep default ErrorAttributes
