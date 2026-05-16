@@ -818,3 +818,6 @@ How to add multiple headers to RestClient for Spring Boot 3.2
 
 ## 2026-05-16 (04:31)
 IntelliJ (Access is denied)
+
+## 2026-05-16 (04:31)
+How to send email with a file attachment using aws ses and java?
