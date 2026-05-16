@@ -1212,3 +1212,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-16 (04:31)
 > "[to Ichigo] You're a Soul Reaper and I'm a Hollow. Whichever side loses will be massacred! It's been that way for over a thousand years! Who needs any more reason than that?! Now bring it! The last man standing gets to go home alive! That's all there is to it!"
 > — Grimmjow Jeagerjaques (Bleach)
+
+## 2026-05-16 (04:31)
+> "Look at this world, so many people deserve to be killed. At the same time, a murderer must be ready to be killed as he lives. That's what retribution is. So, in this world, evil or whatever, a person strongly determined to live is the one who survives in the end."
+> — Genjo Sanzo (Saiyuki)

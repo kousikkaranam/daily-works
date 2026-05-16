@@ -943,3 +943,6 @@
 
 ## 2026-05-16 (04:31)
 - [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
+
+## 2026-05-16 (04:31)
+- [Ploopy Bean: a trackpoint for every computer](https://ploopy.co/shop/bean-pointing-stick/)
