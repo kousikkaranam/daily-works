@@ -940,3 +940,6 @@
 
 ## 2026-05-15 (17:00)
 - [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
+
+## 2026-05-16 (04:31)
+- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)

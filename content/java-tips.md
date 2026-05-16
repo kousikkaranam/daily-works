@@ -812,3 +812,6 @@ Map unavailable authorization server to 503
 
 ## 2026-05-15 (17:00)
 How to add multiple headers to RestClient for Spring Boot 3.2
+
+## 2026-05-16 (04:31)
+@Audited ruins query
