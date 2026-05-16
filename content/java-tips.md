@@ -824,3 +824,6 @@ How to send email with a file attachment using aws ses and java?
 
 ## 2026-05-16 (04:31)
 Map custom exception to error response code, keep default ErrorAttributes
+
+## 2026-05-16 (04:31)
+Can&#x27;t get swagger2 to display swagger-ui.html

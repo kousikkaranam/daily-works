@@ -1224,3 +1224,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-16 (04:31)
 > "I said she's not an Angel. She's a human, just like us. Didn't you notice?"
 > — Yuri Nakamura (Angel Beats!)
+
+## 2026-05-16 (04:31)
+> "Better to ask and be a fool once than never to ask and be a fool forever."
+> — Yumi Iguchi (Shirobako)
