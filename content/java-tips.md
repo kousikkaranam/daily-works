@@ -842,3 +842,6 @@ How can I update keycloak&#x27;s user details programmatically (java), without u
 
 ## 2026-05-16 (10:03)
 Eclipse building the code again and again (without any changes)?
+
+## 2026-05-17 (04:54)
+How to send multi-part file with request body
