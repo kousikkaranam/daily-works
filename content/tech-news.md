@@ -973,3 +973,6 @@
 
 ## 2026-05-16 (10:03)
 - [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
+
+## 2026-05-17 (04:54)
+- [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/)
