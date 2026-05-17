@@ -845,3 +845,6 @@ Eclipse building the code again and again (without any changes)?
 
 ## 2026-05-17 (04:54)
 How to send multi-part file with request body
+
+## 2026-05-17 (10:12)
+java.net.SocketException: Connection reset on Tomcat Only
