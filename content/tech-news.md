@@ -976,3 +976,6 @@
 
 ## 2026-05-17 (04:54)
 - [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/)
+
+## 2026-05-17 (05:56)
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
