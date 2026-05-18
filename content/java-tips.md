@@ -851,3 +851,6 @@ java.net.SocketException: Connection reset on Tomcat Only
 
 ## 2026-05-18 (05:09)
 HTTP 413 error when using spring boot with Angular 4
+
+## 2026-05-18 (12:14)
+Is Thymeleaf still maintained, and is there a Thymeleaf version compatible with Spring Boot 4 / Spring Framework 7?

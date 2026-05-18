@@ -985,3 +985,6 @@
 
 ## 2026-05-18 (05:09)
 - [GenCAD](https://gencad.github.io/)
+
+## 2026-05-18 (12:14)
+- [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
