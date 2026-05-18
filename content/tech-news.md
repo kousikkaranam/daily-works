@@ -988,3 +988,6 @@
 
 ## 2026-05-18 (12:14)
 - [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
+
+## 2026-05-18 (17:36)
+- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
