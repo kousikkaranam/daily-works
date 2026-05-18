@@ -982,3 +982,6 @@
 
 ## 2026-05-17 (10:12)
 - [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
+
+## 2026-05-18 (05:09)
+- [GenCAD](https://gencad.github.io/)

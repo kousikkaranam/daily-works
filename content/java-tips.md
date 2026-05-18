@@ -848,3 +848,6 @@ How to send multi-part file with request body
 
 ## 2026-05-17 (10:12)
 java.net.SocketException: Connection reset on Tomcat Only
+
+## 2026-05-18 (05:09)
+HTTP 413 error when using spring boot with Angular 4
