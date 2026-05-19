@@ -854,3 +854,6 @@ HTTP 413 error when using spring boot with Angular 4
 
 ## 2026-05-18 (12:14)
 Is Thymeleaf still maintained, and is there a Thymeleaf version compatible with Spring Boot 4 / Spring Framework 7?
+
+## 2026-05-19 (06:20)
+How to create @Controller and @Service instance conditionally on Spring
