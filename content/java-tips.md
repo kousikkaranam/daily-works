@@ -857,3 +857,6 @@ Is Thymeleaf still maintained, and is there a Thymeleaf version compatible with 
 
 ## 2026-05-19 (06:20)
 How to create @Controller and @Service instance conditionally on Spring
+
+## 2026-05-19 (17:41)
+Kafka Share Consumer issue
