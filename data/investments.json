@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-12",
-    "time": "04:40",
-    "top_indian": [
-      {
-        "name": "BILLIONBRAINS GARAGE VN L",
-        "symbol": "GROWW.NS",
-        "price": 186.69,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 11.9,
-        "currency": "INR"
-      },
-      {
-        "name": "LENSKART SOLUTIONS LTD",
-        "symbol": "LENSKART-BL.NS",
-        "price": 473.4,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 129.44,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 219.44,
-        "currency": "USD"
-      },
-      {
-        "name": "Plug Power, Inc.",
-        "symbol": "PLUG",
-        "price": 3.52,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81222,
-    "ethereum_usd": 2311.86,
-    "gold_inr_10g": 144940.99
-  },
-  {
-    "date": "2026-05-12",
     "time": "05:47",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 76909,
     "ethereum_usd": 2132.03,
     "gold_inr_10g": 141012.31
+  },
+  {
+    "date": "2026-05-19",
+    "time": "17:41",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.52,
+        "currency": "INR"
+      },
+      {
+        "name": "FINEOTEX CHEMICAL LIMITED",
+        "symbol": "FCL.NS",
+        "price": 33.22,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 36.58,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 111.97,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 223.9445,
+        "currency": "USD"
+      },
+      {
+        "name": "POET Technologies Inc.",
+        "symbol": "POET",
+        "price": 13.5565,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 76886,
+    "ethereum_usd": 2116.84,
+    "gold_inr_10g": 139565.29
   }
 ]

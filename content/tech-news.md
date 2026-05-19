@@ -994,3 +994,6 @@
 
 ## 2026-05-19 (06:20)
 - [PyTorch Landscape](https://pytorch.landscape2.io)
+
+## 2026-05-19 (17:41)
+- [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
