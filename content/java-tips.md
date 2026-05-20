@@ -863,3 +863,6 @@ Kafka Share Consumer issue
 
 ## 2026-05-20 (05:08)
 Red heat no se instala
+
+## 2026-05-20 (11:34)
+How to fix &quot;Continuous access evaluation resulted in challenge with result: InteractionRequired and code: TokenCreatedWithOutdatedPolicies&quot; in MSGraph
