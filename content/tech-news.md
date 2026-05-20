@@ -1000,3 +1000,6 @@
 
 ## 2026-05-20 (05:08)
 - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+
+## 2026-05-20 (11:34)
+- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
