@@ -997,3 +997,6 @@
 
 ## 2026-05-19 (17:41)
 - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
+
+## 2026-05-20 (05:08)
+- [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
