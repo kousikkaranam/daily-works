@@ -860,3 +860,6 @@ How to create @Controller and @Service instance conditionally on Spring
 
 ## 2026-05-19 (17:41)
 Kafka Share Consumer issue
+
+## 2026-05-20 (05:08)
+Red heat no se instala

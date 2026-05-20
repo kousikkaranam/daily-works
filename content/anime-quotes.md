@@ -1284,3 +1284,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-19 (17:41)
 > "(thinking) Haru understood me. He cared for me. He loved me."
 > — Sohma Rin (Fruits Basket)
+
+## 2026-05-20 (05:08)
+> "A man who raises his hands on a woman is trash. If I have to become trash in order to survive... It'll be just like dying."
+> — Abarai Renji (Bleach)
