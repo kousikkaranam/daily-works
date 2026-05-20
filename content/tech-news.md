@@ -1003,3 +1003,6 @@
 
 ## 2026-05-20 (11:34)
 - [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+
+## 2026-05-20 (18:01)
+- [Google's AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)

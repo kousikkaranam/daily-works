@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "time": "17:23",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 11.89,
-        "currency": "INR"
-      },
-      {
-        "name": "BILLIONBRAINS GARAGE VN L",
-        "symbol": "GROWW.NS",
-        "price": 183.09,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 22.06,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Plug Power, Inc.",
-        "symbol": "PLUG",
-        "price": 3.695,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 117.5399,
-        "currency": "USD"
-      },
-      {
-        "name": "Quantum Computing Inc.",
-        "symbol": "QUBT",
-        "price": 11.685,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 80346,
-    "ethereum_usd": 2273.26,
-    "gold_inr_10g": 143555.00
-  },
-  {
     "date": "2026-05-13",
     "time": "04:51",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 77391,
     "ethereum_usd": 2126.19,
     "gold_inr_10g": 139777.70
+  },
+  {
+    "date": "2026-05-20",
+    "time": "18:01",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.58,
+        "currency": "INR"
+      },
+      {
+        "name": "FINEOTEX CHEMICAL LIMITED",
+        "symbol": "FCL.NS",
+        "price": 34.12,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 36.96,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 118.14,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 224.58,
+        "currency": "USD"
+      },
+      {
+        "name": "T1 Energy Inc.",
+        "symbol": "TE",
+        "price": 8.7599,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77470,
+    "ethereum_usd": 2137.62,
+    "gold_inr_10g": 140793.81
   }
 ]

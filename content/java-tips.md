@@ -866,3 +866,6 @@ Red heat no se instala
 
 ## 2026-05-20 (11:34)
 How to fix &quot;Continuous access evaluation resulted in challenge with result: InteractionRequired and code: TokenCreatedWithOutdatedPolicies&quot; in MSGraph
+
+## 2026-05-20 (18:01)
+Simple Password Encryption using Spring Boot
