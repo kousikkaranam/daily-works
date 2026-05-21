@@ -866,3 +866,6 @@ Red heat no se instala
 
 ## 2026-05-20 (11:34)
 How to fix &quot;Continuous access evaluation resulted in challenge with result: InteractionRequired and code: TokenCreatedWithOutdatedPolicies&quot; in MSGraph
+
+## 2026-05-21 (05:12)
+Generate x509 Certificate in Java
