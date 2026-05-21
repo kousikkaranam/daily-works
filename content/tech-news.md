@@ -1003,3 +1003,6 @@
 
 ## 2026-05-20 (11:34)
 - [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+
+## 2026-05-21 (05:12)
+- [New features in GCC 16: Improved error messages and SARIF output](https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output)
