@@ -1006,3 +1006,6 @@
 
 ## 2026-05-21 (05:12)
 - [New features in GCC 16: Improved error messages and SARIF output](https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output)
+
+## 2026-05-21 (17:34)
+- [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)

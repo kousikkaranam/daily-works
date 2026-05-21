@@ -869,3 +869,6 @@ How to fix &quot;Continuous access evaluation resulted in challenge with result:
 
 ## 2026-05-21 (05:12)
 Generate x509 Certificate in Java
+
+## 2026-05-21 (17:34)
+Custom Cursor java
