@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-13",
-    "time": "04:51",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.44,
-        "currency": "INR"
-      },
-      {
-        "name": "LENSKART SOLUTIONS LTD",
-        "symbol": "LENSKART-BL.NS",
-        "price": 473.4,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATAGOLD",
-        "symbol": "TATAGOLD.NS",
-        "price": 15.33,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Plug Power, Inc.",
-        "symbol": "PLUG",
-        "price": 3.56,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 120.61,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 220.78,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81202,
-    "ethereum_usd": 2305.44,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-05-13",
     "time": "05:57",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 77956,
     "ethereum_usd": 2143.65,
     "gold_inr_10g": 141117.33
+  },
+  {
+    "date": "2026-05-21",
+    "time": "17:34",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.62,
+        "currency": "INR"
+      },
+      {
+        "name": "IRB INFRA DEV LTD.",
+        "symbol": "IRB.NS",
+        "price": 22.84,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 18.56,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 221.52,
+        "currency": "USD"
+      },
+      {
+        "name": "Rigetti Computing, Inc.",
+        "symbol": "RGTI",
+        "price": 21.425,
+        "currency": "USD"
+      },
+      {
+        "name": "NIO Inc.",
+        "symbol": "NIO",
+        "price": 5.58,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77922,
+    "ethereum_usd": 2146.14,
+    "gold_inr_10g": 141447.30
   }
 ]
