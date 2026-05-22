@@ -1015,3 +1015,6 @@
 
 ## 2026-05-22 (06:19)
 - [The surprising story behind the first British person in space](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space)
+
+## 2026-05-22 (17:18)
+- [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)

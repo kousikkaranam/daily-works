@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-14",
-    "time": "04:50",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.79,
-        "currency": "INR"
-      },
-      {
-        "name": "LENSKART SOLUTIONS LTD",
-        "symbol": "LENSKART-BL.NS",
-        "price": 473.4,
-        "currency": "INR"
-      },
-      {
-        "name": "DAVANGERE SUGAR COMPANY L",
-        "symbol": "DAVANGERE.NS",
-        "price": 3.75,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Ford Motor Company",
-        "symbol": "F",
-        "price": 13.57,
-        "currency": "USD"
-      },
-      {
-        "name": "Plug Power, Inc.",
-        "symbol": "PLUG",
-        "price": 3.96,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 14.71,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 79369,
-    "ethereum_usd": 2255.28,
-    "gold_inr_10g": 144934.66
-  },
-  {
-    "date": "2026-05-14",
     "time": "05:56",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 77387,
     "ethereum_usd": 2127.09,
     "gold_inr_10g": 139859.73
+  },
+  {
+    "date": "2026-05-22",
+    "time": "17:18",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.73,
+        "currency": "INR"
+      },
+      {
+        "name": "CENTRAL BANK OF INDIA",
+        "symbol": "CENTRALBK.NS",
+        "price": 31.27,
+        "currency": "INR"
+      },
+      {
+        "name": "JSW CEMENT LIMITED",
+        "symbol": "JSWCEMENT.NS",
+        "price": 137.99,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Rigetti Computing, Inc.",
+        "symbol": "RGTI",
+        "price": 26.465,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 15.655,
+        "currency": "USD"
+      },
+      {
+        "name": "D-Wave Quantum Inc.",
+        "symbol": "QBTS",
+        "price": 29.72,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 76901,
+    "ethereum_usd": 2123.32,
+    "gold_inr_10g": 139869.02
   }
 ]
