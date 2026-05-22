@@ -1300,3 +1300,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-21 (17:34)
 > "I've been through so many meetings and partings. They were like a heavy secret, but when I started to talk about them, they seemed to sparkle... I couldn't put them into words."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-05-22 (05:06)
+> "In life, nothing good comes out of hurrying."
+> — Nara Shikamaru (Naruto)
