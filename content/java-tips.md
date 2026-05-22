@@ -872,3 +872,6 @@ Generate x509 Certificate in Java
 
 ## 2026-05-21 (17:34)
 Custom Cursor java
+
+## 2026-05-22 (05:06)
+Copy constructor undefined
