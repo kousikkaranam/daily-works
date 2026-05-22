@@ -875,3 +875,6 @@ Custom Cursor java
 
 ## 2026-05-22 (05:06)
 Copy constructor undefined
+
+## 2026-05-22 (06:19)
+Counting 1&#x27;s in a 2D array of 1&#x27;s and 0&#x27;s with O(n) complexity
