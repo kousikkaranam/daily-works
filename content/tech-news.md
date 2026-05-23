@@ -1048,3 +1048,6 @@
 
 ## 2026-05-23 (05:48)
 - [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+
+## 2026-05-23 (07:26)
+- [Blood Pumping Mechanism of the Hoof (2020)](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
