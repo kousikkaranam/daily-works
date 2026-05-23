@@ -887,3 +887,6 @@ Determine the Highest Level that is Full - Binary Search Tree
 
 ## 2026-05-23 (04:45)
 UnknownCurrencyException: Unknown currency code: foo
+
+## 2026-05-23 (04:45)
+CellType cannot be resolved to a variable setCellType error Apache POI - Java
