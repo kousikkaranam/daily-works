@@ -1340,3 +1340,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-23 (05:47)
 > "Since when did the "Cat" set the rules for this house? You mean to tell me that you contribute more to this house than anyone else? Do you pay all the bills? I can't stand people who do absolutely nothing but complain all the time! (To Kyo)"
 > — Sohma Hiro (Fruits Basket)
+
+## 2026-05-23 (05:47)
+> "What repulsive creature makes my eardrums bleed?"
+> — Hiei (Yu Yu Hakusho)

@@ -902,3 +902,6 @@ java.net.HttpRetryException: cannot retry due to server authentication, in strea
 
 ## 2026-05-23 (05:47)
 Getting &quot;PKIX path validation failed: java.security.cert.CertPathValidatorException: timestamp check failed&quot; error on WEBLOGIC
+
+## 2026-05-23 (05:47)
+jboss web application deploying but not found

@@ -1039,3 +1039,6 @@
 
 ## 2026-05-23 (05:47)
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+
+## 2026-05-23 (05:47)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
