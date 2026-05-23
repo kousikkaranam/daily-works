@@ -890,3 +890,6 @@ UnknownCurrencyException: Unknown currency code: foo
 
 ## 2026-05-23 (04:45)
 CellType cannot be resolved to a variable setCellType error Apache POI - Java
+
+## 2026-05-23 (04:45)
+How do I retrieve the last inserted value in my database?

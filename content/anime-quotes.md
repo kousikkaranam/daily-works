@@ -1324,3 +1324,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-23 (04:45)
 > "The worst way to miss someone is to be sitting right next to them and know you can never have them."
 > — Mai Taniyama (Ghost Hunt)
+
+## 2026-05-23 (04:45)
+> "The world offers up a choice to live or die. The survival of the fittest that's the only governing law this world recognizes."
+> — Gai Tsutsugami (Guilty Crown)
