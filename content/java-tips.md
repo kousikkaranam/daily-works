@@ -884,3 +884,6 @@ How to get rid of the error Process &#x27;command&#x27; finished with non-zero e
 
 ## 2026-05-23 (04:45)
 Determine the Highest Level that is Full - Binary Search Tree
+
+## 2026-05-23 (04:45)
+UnknownCurrencyException: Unknown currency code: foo
