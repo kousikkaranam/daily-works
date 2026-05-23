@@ -908,3 +908,6 @@ jboss web application deploying but not found
 
 ## 2026-05-23 (05:48)
 Final classes vs. `volatile` fields
+
+## 2026-05-23 (07:26)
+Why am I getting error creating object in Minio?
