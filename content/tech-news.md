@@ -1051,3 +1051,6 @@
 
 ## 2026-05-23 (07:26)
 - [Blood Pumping Mechanism of the Hoof (2020)](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
+
+## 2026-05-23 (16:13)
+- [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities)
