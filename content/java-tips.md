@@ -905,3 +905,6 @@ Getting &quot;PKIX path validation failed: java.security.cert.CertPathValidatorE
 
 ## 2026-05-23 (05:47)
 jboss web application deploying but not found
+
+## 2026-05-23 (05:48)
+Final classes vs. `volatile` fields

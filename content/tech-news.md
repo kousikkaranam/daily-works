@@ -1042,3 +1042,6 @@
 
 ## 2026-05-23 (05:47)
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+
+## 2026-05-23 (05:48)
+- [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
