@@ -899,3 +899,6 @@ No EntityManager with actual transaction available for current thread - cannot r
 
 ## 2026-05-23 (05:47)
 java.net.HttpRetryException: cannot retry due to server authentication, in streaming mode
+
+## 2026-05-23 (05:47)
+Getting &quot;PKIX path validation failed: java.security.cert.CertPathValidatorException: timestamp check failed&quot; error on WEBLOGIC

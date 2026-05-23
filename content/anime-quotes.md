@@ -1336,3 +1336,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-23 (05:47)
 > "Please don’t apologize. If you did, and I forgave you, then it’d be like it was all a lie. I want to hold those memories we had dear. The fun times… The painful times… All of it. So please, don’t apologize."
 > — Fujibayashi Ryou (Clannad)
+
+## 2026-05-23 (05:47)
+> "Since when did the "Cat" set the rules for this house? You mean to tell me that you contribute more to this house than anyone else? Do you pay all the bills? I can't stand people who do absolutely nothing but complain all the time! (To Kyo)"
+> — Sohma Hiro (Fruits Basket)

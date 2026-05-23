@@ -1036,3 +1036,6 @@
 
 ## 2026-05-23 (05:47)
 - [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
+
+## 2026-05-23 (05:47)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
