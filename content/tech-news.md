@@ -1045,3 +1045,6 @@
 
 ## 2026-05-23 (05:48)
 - [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+
+## 2026-05-23 (05:48)
+- [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
