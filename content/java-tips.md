@@ -881,3 +881,6 @@ Counting 1&#x27;s in a 2D array of 1&#x27;s and 0&#x27;s with O(n) complexity
 
 ## 2026-05-22 (17:18)
 How to get rid of the error Process &#x27;command&#x27; finished with non-zero exit value 1 when starting a project with gradle?
+
+## 2026-05-23 (04:45)
+Determine the Highest Level that is Full - Binary Search Tree
