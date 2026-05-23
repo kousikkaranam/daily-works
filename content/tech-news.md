@@ -1033,3 +1033,18 @@
 
 ## 2026-05-23 (04:45)
 - [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
+
+## 2026-05-23 (05:47)
+- [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
+
+## 2026-05-23 (05:47)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+
+## 2026-05-23 (05:47)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+
+## 2026-05-23 (05:48)
+- [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+
+## 2026-05-23 (05:48)
+- [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)

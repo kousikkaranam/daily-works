@@ -1332,3 +1332,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-23 (04:45)
 > "*to Urameshi* Sacrificing your life to save billions of others. You've lit our torches and I won't let your death be in vain... even if it means I'll be joining you soon."
 > — Kazuma Kuwabara (Yu Yu Hakusho)
+
+## 2026-05-23 (05:47)
+> "Please don’t apologize. If you did, and I forgave you, then it’d be like it was all a lie. I want to hold those memories we had dear. The fun times… The painful times… All of it. So please, don’t apologize."
+> — Fujibayashi Ryou (Clannad)
+
+## 2026-05-23 (05:47)
+> "Since when did the "Cat" set the rules for this house? You mean to tell me that you contribute more to this house than anyone else? Do you pay all the bills? I can't stand people who do absolutely nothing but complain all the time! (To Kyo)"
+> — Sohma Hiro (Fruits Basket)
+
+## 2026-05-23 (05:47)
+> "What repulsive creature makes my eardrums bleed?"
+> — Hiei (Yu Yu Hakusho)
+
+## 2026-05-23 (05:48)
+> "If someone always follows the perfect path without ever facing hardship... Is it really what's best for that person?"
+> — Yoake Ryou (ReLIFE)
+
+## 2026-05-23 (05:48)
+> "It doesn't hurt! It's not hot! I'm not scared! I will not be beaten!"
+> — Maka Albarn (Soul Eater)

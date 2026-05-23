@@ -896,3 +896,15 @@ How do I retrieve the last inserted value in my database?
 
 ## 2026-05-23 (04:45)
 No EntityManager with actual transaction available for current thread - cannot reliably process &#x27;flush&#x27; call
+
+## 2026-05-23 (05:47)
+java.net.HttpRetryException: cannot retry due to server authentication, in streaming mode
+
+## 2026-05-23 (05:47)
+Getting &quot;PKIX path validation failed: java.security.cert.CertPathValidatorException: timestamp check failed&quot; error on WEBLOGIC
+
+## 2026-05-23 (05:47)
+jboss web application deploying but not found
+
+## 2026-05-23 (05:48)
+Final classes vs. `volatile` fields
