@@ -1018,3 +1018,18 @@
 
 ## 2026-05-22 (17:18)
 - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
+
+## 2026-05-23 (04:45)
+- [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+
+## 2026-05-23 (04:45)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+
+## 2026-05-23 (04:45)
+- [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
+
+## 2026-05-23 (04:45)
+- [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
+
+## 2026-05-23 (04:45)
+- [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
