@@ -896,3 +896,6 @@ How do I retrieve the last inserted value in my database?
 
 ## 2026-05-23 (04:45)
 No EntityManager with actual transaction available for current thread - cannot reliably process &#x27;flush&#x27; call
+
+## 2026-05-23 (05:47)
+java.net.HttpRetryException: cannot retry due to server authentication, in streaming mode

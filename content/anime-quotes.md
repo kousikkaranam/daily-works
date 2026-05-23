@@ -1332,3 +1332,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-23 (04:45)
 > "*to Urameshi* Sacrificing your life to save billions of others. You've lit our torches and I won't let your death be in vain... even if it means I'll be joining you soon."
 > — Kazuma Kuwabara (Yu Yu Hakusho)
+
+## 2026-05-23 (05:47)
+> "Please don’t apologize. If you did, and I forgave you, then it’d be like it was all a lie. I want to hold those memories we had dear. The fun times… The painful times… All of it. So please, don’t apologize."
+> — Fujibayashi Ryou (Clannad)
