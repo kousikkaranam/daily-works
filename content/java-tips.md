@@ -893,3 +893,6 @@ CellType cannot be resolved to a variable setCellType error Apache POI - Java
 
 ## 2026-05-23 (04:45)
 How do I retrieve the last inserted value in my database?
+
+## 2026-05-23 (04:45)
+No EntityManager with actual transaction available for current thread - cannot reliably process &#x27;flush&#x27; call
