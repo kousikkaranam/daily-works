@@ -1368,3 +1368,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-24 (06:11)
 > "Nature itself is absurd. Humans are the only ones who whine about it."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-05-24 (16:15)
+> "Among thousands of comrades and ten thousand enemies, only you... only you made me forget my dream. I see it!"
+> — Griffith (Berserk)
