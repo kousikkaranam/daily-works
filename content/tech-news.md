@@ -1060,3 +1060,6 @@
 
 ## 2026-05-24 (06:11)
 - [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
+
+## 2026-05-24 (16:15)
+- [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
