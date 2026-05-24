@@ -1054,3 +1054,6 @@
 
 ## 2026-05-23 (16:13)
 - [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities)
+
+## 2026-05-24 (05:05)
+- [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
