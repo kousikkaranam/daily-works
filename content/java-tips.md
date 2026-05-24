@@ -917,3 +917,6 @@ Play Framework Error: This exception has been logged with id 6k8i0i7j7
 
 ## 2026-05-24 (05:05)
 How would I use an index of a 2D array for a conditional statement?
+
+## 2026-05-24 (06:11)
+How can I edit the embed when the user reacts? [closed]
