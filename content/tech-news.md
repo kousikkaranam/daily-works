@@ -1057,3 +1057,6 @@
 
 ## 2026-05-24 (05:05)
 - [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+
+## 2026-05-24 (06:11)
+- [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
