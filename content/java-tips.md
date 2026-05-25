@@ -923,3 +923,6 @@ How can I edit the embed when the user reacts? [closed]
 
 ## 2026-05-24 (16:15)
 Java: Create text window to display console text
+
+## 2026-05-25 (05:24)
+How to write class object to bin file

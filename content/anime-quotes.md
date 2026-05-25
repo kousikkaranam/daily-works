@@ -1372,3 +1372,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-24 (16:15)
 > "Among thousands of comrades and ten thousand enemies, only you... only you made me forget my dream. I see it!"
 > — Griffith (Berserk)
+
+## 2026-05-25 (05:24)
+> "Don't use such strong words -- It makes your weakness all the more apparent."
+> — Aizen Sousuke (Bleach)
