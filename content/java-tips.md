@@ -929,3 +929,6 @@ How to write class object to bin file
 
 ## 2026-05-25 (06:46)
 Spring boot test using testcontainers postgresql
+
+## 2026-05-25 (17:16)
+Polynomials not printing properly

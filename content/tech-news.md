@@ -1069,3 +1069,6 @@
 
 ## 2026-05-25 (06:46)
 - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+
+## 2026-05-25 (17:16)
+- [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
