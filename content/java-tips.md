@@ -926,3 +926,6 @@ Java: Create text window to display console text
 
 ## 2026-05-25 (05:24)
 How to write class object to bin file
+
+## 2026-05-25 (06:46)
+Spring boot test using testcontainers postgresql
