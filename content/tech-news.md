@@ -1063,3 +1063,6 @@
 
 ## 2026-05-24 (16:15)
 - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+
+## 2026-05-25 (05:24)
+- [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
