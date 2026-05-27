@@ -1087,3 +1087,6 @@
 
 ## 2026-05-27 (12:00)
 - [What Gets Kept](https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind)
+
+## 2026-05-27 (18:07)
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
