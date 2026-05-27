@@ -1081,3 +1081,6 @@
 
 ## 2026-05-27 (05:21)
 - [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
+
+## 2026-05-27 (06:40)
+- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
