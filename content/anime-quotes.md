@@ -1396,3 +1396,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-27 (12:00)
 > "What's wrong isn't me, what's wrong is the world!"
 > — Kaneki Ken (Tokyo Ghoul)
+
+## 2026-05-27 (18:07)
+> "You don't have any power or technique like Jack Johnson or Jack Dempsey either! You know any boxer names? You know I'm right? If you're an American, of course you know! If you say you don't know, or something, I won't forgive you! I will never forgive you! And even if you know them, I still won't forgive you, though!"
+> — Ladd Russo (Baccano!)

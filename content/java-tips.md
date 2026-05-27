@@ -944,3 +944,6 @@ Why does my Java array print extra zeros in Eclipse?
 
 ## 2026-05-27 (12:00)
 H2GIS SFSUtilities wrapConnection
+
+## 2026-05-27 (18:07)
+Language Support for Java(TM) by Red Hat throwing error in vs code while installing

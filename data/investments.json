@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-19",
-    "time": "06:20",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.31,
-        "currency": "INR"
-      },
-      {
-        "name": "FINEOTEX CHEMICAL LIMITED",
-        "symbol": "FCL.NS",
-        "price": 34.08,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 36.88,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 108.17,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 222.32,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 13.74,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 76909,
-    "ethereum_usd": 2132.03,
-    "gold_inr_10g": 141012.31
-  },
-  {
-    "date": "2026-05-19",
     "time": "17:41",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 75653,
     "ethereum_usd": 2077.06,
     "gold_inr_10g": 136316.81
+  },
+  {
+    "date": "2026-05-27",
+    "time": "18:07",
+    "top_indian": [
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 22.87,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.18,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 57.53,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 212.725,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 15.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Redwire Corporation",
+        "symbol": "RDW",
+        "price": 23.71,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 74747,
+    "ethereum_usd": 2047.77,
+    "gold_inr_10g": 137021.92
   }
 ]
