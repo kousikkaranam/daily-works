@@ -941,3 +941,6 @@ I dont know why HashMap not preserve insertion order in Java?
 
 ## 2026-05-27 (06:40)
 Why does my Java array print extra zeros in Eclipse?
+
+## 2026-05-27 (12:00)
+H2GIS SFSUtilities wrapConnection

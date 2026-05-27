@@ -1084,3 +1084,6 @@
 
 ## 2026-05-27 (06:40)
 - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+
+## 2026-05-27 (12:00)
+- [What Gets Kept](https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind)
