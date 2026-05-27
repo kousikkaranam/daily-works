@@ -1078,3 +1078,6 @@
 
 ## 2026-05-26 (18:06)
 - [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+
+## 2026-05-27 (05:21)
+- [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)

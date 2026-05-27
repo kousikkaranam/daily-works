@@ -935,3 +935,6 @@ Polynomials not printing properly
 
 ## 2026-05-26 (18:06)
 Why can a subclass override a method but still use the parent version with super in Java?
+
+## 2026-05-27 (05:21)
+I dont know why HashMap not preserve insertion order in Java?
