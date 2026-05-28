@@ -1090,3 +1090,6 @@
 
 ## 2026-05-27 (18:07)
 - [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+
+## 2026-05-28 (05:12)
+- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)

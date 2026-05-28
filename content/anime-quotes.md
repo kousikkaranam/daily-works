@@ -1400,3 +1400,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-27 (18:07)
 > "You don't have any power or technique like Jack Johnson or Jack Dempsey either! You know any boxer names? You know I'm right? If you're an American, of course you know! If you say you don't know, or something, I won't forgive you! I will never forgive you! And even if you know them, I still won't forgive you, though!"
 > — Ladd Russo (Baccano!)
+
+## 2026-05-28 (05:12)
+> "I just realized I love learning things that I don't know anything about. It sort of feels like I'm one step closer to my dream."
+> — Midori Imai (Shirobako)
