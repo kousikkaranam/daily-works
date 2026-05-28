@@ -953,3 +953,6 @@ Importing a SSL certificate into a Java Keystore via a pfx file
 
 ## 2026-05-28 (12:13)
 Best way or recommended to switch between repository implementations in Spring Boot without manually editing application.properties?
+
+## 2026-05-28 (18:19)
+How to use equals() to replace &quot;String1==String2&quot; in Android Studio?
