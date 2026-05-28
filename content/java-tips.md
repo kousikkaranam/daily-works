@@ -947,3 +947,6 @@ H2GIS SFSUtilities wrapConnection
 
 ## 2026-05-27 (18:07)
 Language Support for Java(TM) by Red Hat throwing error in vs code while installing
+
+## 2026-05-28 (05:12)
+Importing a SSL certificate into a Java Keystore via a pfx file
