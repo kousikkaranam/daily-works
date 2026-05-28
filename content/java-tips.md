@@ -950,3 +950,6 @@ Language Support for Java(TM) by Red Hat throwing error in vs code while install
 
 ## 2026-05-28 (05:12)
 Importing a SSL certificate into a Java Keystore via a pfx file
+
+## 2026-05-28 (12:13)
+Best way or recommended to switch between repository implementations in Spring Boot without manually editing application.properties?

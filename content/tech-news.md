@@ -1093,3 +1093,6 @@
 
 ## 2026-05-28 (05:12)
 - [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
+
+## 2026-05-28 (12:13)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
