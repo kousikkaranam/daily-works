@@ -1096,3 +1096,6 @@
 
 ## 2026-05-28 (12:13)
 - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+
+## 2026-05-28 (18:19)
+- [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/)
