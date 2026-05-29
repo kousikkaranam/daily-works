@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-21",
-    "time": "05:12",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.73,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 19.01,
-        "currency": "INR"
-      },
-      {
-        "name": "SAMMAAN CAPITAL LIMITED",
-        "symbol": "SAMMAANCAP.NS",
-        "price": 154.61,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 118.96,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 223.47,
-        "currency": "USD"
-      },
-      {
-        "name": "T1 Energy Inc.",
-        "symbol": "TE",
-        "price": 8.7,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77956,
-    "ethereum_usd": 2143.65,
-    "gold_inr_10g": 141117.33
-  },
-  {
-    "date": "2026-05-21",
     "time": "17:34",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 73570,
     "ethereum_usd": 2020.24,
     "gold_inr_10g": 138946.45
+  },
+  {
+    "date": "2026-05-29",
+    "time": "05:16",
+    "top_indian": [
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 22.68,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.3,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.95,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 13.25,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 214.25,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 15.28,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 73497,
+    "ethereum_usd": 2009.85,
+    "gold_inr_10g": 138979.96
   }
 ]
