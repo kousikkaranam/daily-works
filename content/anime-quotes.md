@@ -1420,3 +1420,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-29 (06:33)
 > "After spending most of my life trying to live as someone else wanted, I’d apparently forgotten who I was."
 > — Iori Nagase (Kokoro Connect)
+
+## 2026-05-29 (18:16)
+> "Why..? How can she say things like that so easily? If we hear that from our parents, what are we supposed to do? Rin thinks that she's been "bad". But who do you think is the one who's being "bad" here!?! Having people take their anger out on us, being laughed at, not being taken seriously. We kids get hurt just like you do! Why can't you understand something so simple?! Apologize! APOLOGIZE! APOLOGIZE TO RIN!! [Rin's mom shuts the door] HEY!! I TOLD YOU TO APOLOGIZE!!"
+> — Sohma Hatsuharu (Fruits Basket)
