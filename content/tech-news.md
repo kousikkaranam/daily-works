@@ -1105,3 +1105,6 @@
 
 ## 2026-05-29 (06:33)
 - [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds)
+
+## 2026-05-29 (18:16)
+- [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)

@@ -962,3 +962,6 @@ How to compile this Java Server/Client code in CMD
 
 ## 2026-05-29 (06:33)
 Incrementing odd values using while loop shows wrong required values [duplicate]
+
+## 2026-05-29 (18:16)
+Weird compile error in Eclipse and Netbeans
