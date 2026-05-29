@@ -956,3 +956,6 @@ Best way or recommended to switch between repository implementations in Spring B
 
 ## 2026-05-28 (18:19)
 How to use equals() to replace &quot;String1==String2&quot; in Android Studio?
+
+## 2026-05-29 (05:16)
+How to compile this Java Server/Client code in CMD

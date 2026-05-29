@@ -1099,3 +1099,6 @@
 
 ## 2026-05-28 (18:19)
 - [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/)
+
+## 2026-05-29 (05:16)
+- [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
