@@ -1416,3 +1416,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-29 (05:16)
 > "...Watermelon. Or like a panda with a mean face, or like sandals with pressure points drawn on them, or the smell of a blackboard eraser, or a Sunday morning where you wake up and it's raining. Well, I like him more than hard bread."
 > — Mamimi Samejima (FLCL)
+
+## 2026-05-29 (06:33)
+> "After spending most of my life trying to live as someone else wanted, I’d apparently forgotten who I was."
+> — Iori Nagase (Kokoro Connect)
