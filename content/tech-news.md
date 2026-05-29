@@ -1102,3 +1102,6 @@
 
 ## 2026-05-29 (05:16)
 - [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+
+## 2026-05-29 (06:33)
+- [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds)
