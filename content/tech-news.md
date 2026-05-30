@@ -1108,3 +1108,18 @@
 
 ## 2026-05-29 (18:16)
 - [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)
+
+## 2026-05-30 (04:54)
+- [Math-to-Manim](https://github.com/HarleyCoops/Math-To-Manim)
+
+## 2026-05-30 (04:55)
+- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+
+## 2026-05-30 (04:55)
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+
+## 2026-05-30 (04:55)
+- [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
+
+## 2026-05-30 (04:55)
+- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)

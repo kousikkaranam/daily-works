@@ -965,3 +965,18 @@ Incrementing odd values using while loop shows wrong required values [duplicate]
 
 ## 2026-05-29 (18:16)
 Weird compile error in Eclipse and Netbeans
+
+## 2026-05-30 (04:54)
+Spring @Autowire with Inheritance
+
+## 2026-05-30 (04:55)
+Jackson in Spring Boot: Serialize a flat Map (adjacency list) into a nested JSON tree without intermediate objects
+
+## 2026-05-30 (04:55)
+Why is Spring Boot still loading JPA and Hibernate configuration when using another active profile?
+
+## 2026-05-30 (04:55)
+h:selectOneListBox Validation Error: Value is not Valid [duplicate]
+
+## 2026-05-30 (04:55)
+How should a beginner start contributing to open source projects, and what prerequisites are needed?

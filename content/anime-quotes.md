@@ -1424,3 +1424,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-29 (18:16)
 > "Why..? How can she say things like that so easily? If we hear that from our parents, what are we supposed to do? Rin thinks that she's been "bad". But who do you think is the one who's being "bad" here!?! Having people take their anger out on us, being laughed at, not being taken seriously. We kids get hurt just like you do! Why can't you understand something so simple?! Apologize! APOLOGIZE! APOLOGIZE TO RIN!! [Rin's mom shuts the door] HEY!! I TOLD YOU TO APOLOGIZE!!"
 > — Sohma Hatsuharu (Fruits Basket)
+
+## 2026-05-30 (04:54)
+> "Who cares about snow? Snow can't touch me, I could be naked out here and it wouldn't bother me at all."
+> — Black Star (Soul Eater)
+
+## 2026-05-30 (04:55)
+> "What's so fun about firing at targets that aren't moving?"
+> — Yzak Joule (Mobile Suit Gundam SEED)
+
+## 2026-05-30 (04:55)
+> ""Every experience is a tool to clear your path." It was none other than those students who taught me that."
+> — Karasuma Tadaomi (Assassination Classroom 2nd Season)
+
+## 2026-05-30 (04:55)
+> "Even if you are facing a bitter aspect of life... Drugs and murder are foul, without any excuse. Deserve a red card, for a loser."
+> — Shinichi Kudou (Case Closed)
+
+## 2026-05-30 (04:55)
+> "DON'T LEAVE ME!!"
+> — Sohma Kagura (Fruits Basket)
