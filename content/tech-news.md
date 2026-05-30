@@ -1108,3 +1108,6 @@
 
 ## 2026-05-29 (18:16)
 - [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)
+
+## 2026-05-30 (04:54)
+- [Math-to-Manim](https://github.com/HarleyCoops/Math-To-Manim)

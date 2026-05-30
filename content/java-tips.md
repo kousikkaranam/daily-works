@@ -965,3 +965,6 @@ Incrementing odd values using while loop shows wrong required values [duplicate]
 
 ## 2026-05-29 (18:16)
 Weird compile error in Eclipse and Netbeans
+
+## 2026-05-30 (04:54)
+Spring @Autowire with Inheritance
