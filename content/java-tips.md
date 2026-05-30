@@ -992,3 +992,6 @@ Redundant requests after pageable JPA Query with Joins
 
 ## 2026-05-30 (10:28)
 Springboot3 with Hibernate 6 error with class not found SpringPhysicalNamingStrategy
+
+## 2026-05-30 (16:16)
+clarity and guidance for oriented plan to pursue computer engineer as career path
