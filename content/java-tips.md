@@ -971,3 +971,6 @@ Spring @Autowire with Inheritance
 
 ## 2026-05-30 (04:55)
 Jackson in Spring Boot: Serialize a flat Map (adjacency list) into a nested JSON tree without intermediate objects
+
+## 2026-05-30 (04:55)
+Why is Spring Boot still loading JPA and Hibernate configuration when using another active profile?

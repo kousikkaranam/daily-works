@@ -1114,3 +1114,6 @@
 
 ## 2026-05-30 (04:55)
 - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+
+## 2026-05-30 (04:55)
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)
