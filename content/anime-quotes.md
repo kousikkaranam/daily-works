@@ -1440,3 +1440,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-30 (04:55)
 > "Even if you are facing a bitter aspect of life... Drugs and murder are foul, without any excuse. Deserve a red card, for a loser."
 > — Shinichi Kudou (Case Closed)
+
+## 2026-05-30 (04:55)
+> "DON'T LEAVE ME!!"
+> — Sohma Kagura (Fruits Basket)

@@ -977,3 +977,6 @@ Why is Spring Boot still loading JPA and Hibernate configuration when using anot
 
 ## 2026-05-30 (04:55)
 h:selectOneListBox Validation Error: Value is not Valid [duplicate]
+
+## 2026-05-30 (04:55)
+How should a beginner start contributing to open source projects, and what prerequisites are needed?
