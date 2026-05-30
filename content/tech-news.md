@@ -1129,3 +1129,6 @@
 
 ## 2026-05-30 (05:56)
 - [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
+
+## 2026-05-30 (05:56)
+- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
