@@ -1141,3 +1141,6 @@
 
 ## 2026-05-30 (10:28)
 - [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+
+## 2026-05-30 (16:16)
+- [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
