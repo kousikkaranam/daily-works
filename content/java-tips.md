@@ -980,3 +980,6 @@ h:selectOneListBox Validation Error: Value is not Valid [duplicate]
 
 ## 2026-05-30 (04:55)
 How should a beginner start contributing to open source projects, and what prerequisites are needed?
+
+## 2026-05-30 (05:56)
+How to make an interactive console version in Java for a simple linear regression model?

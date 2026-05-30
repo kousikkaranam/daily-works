@@ -1123,3 +1123,6 @@
 
 ## 2026-05-30 (04:55)
 - [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
+
+## 2026-05-30 (05:56)
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
