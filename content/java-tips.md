@@ -974,3 +974,6 @@ Jackson in Spring Boot: Serialize a flat Map (adjacency list) into a nested JSON
 
 ## 2026-05-30 (04:55)
 Why is Spring Boot still loading JPA and Hibernate configuration when using another active profile?
+
+## 2026-05-30 (04:55)
+h:selectOneListBox Validation Error: Value is not Valid [duplicate]

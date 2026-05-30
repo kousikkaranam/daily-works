@@ -1436,3 +1436,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-30 (04:55)
 > ""Every experience is a tool to clear your path." It was none other than those students who taught me that."
 > — Karasuma Tadaomi (Assassination Classroom 2nd Season)
+
+## 2026-05-30 (04:55)
+> "Even if you are facing a bitter aspect of life... Drugs and murder are foul, without any excuse. Deserve a red card, for a loser."
+> — Shinichi Kudou (Case Closed)
