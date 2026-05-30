@@ -986,3 +986,6 @@ How to make an interactive console version in Java for a simple linear regressio
 
 ## 2026-05-30 (05:56)
 Are beans created with @ConditionalOnProperty re-evaluated after Spring Boot startup? [closed]
+
+## 2026-05-30 (05:56)
+Redundant requests after pageable JPA Query with Joins

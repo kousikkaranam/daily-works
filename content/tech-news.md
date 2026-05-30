@@ -1132,3 +1132,6 @@
 
 ## 2026-05-30 (05:56)
 - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
+
+## 2026-05-30 (05:56)
+- [Math-to-Manim](https://github.com/HarleyCoops/Math-To-Manim)
