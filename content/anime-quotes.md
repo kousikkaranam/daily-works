@@ -1444,3 +1444,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-30 (04:55)
 > "DON'T LEAVE ME!!"
 > — Sohma Kagura (Fruits Basket)
+
+## 2026-05-30 (05:56)
+> "Marriage, the institution where one's existence goes to die. All married people prattle on about their so-called marital bliss about how they love saying "I'm home!" to their spouses, or how seeing their sleeping kids motivates them for tomorrow. But think about it: you can say "I'm home!" if you live your parents, you can even buy some mouthwash and say "I'm home!" to the hippos on the label. And if they're talking about seeing their sleeping kids, that just means they're working hellish overtime hours. How is that in any way blissful?"
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+
+## 2026-05-30 (05:56)
+> "Inability to overcome fear is human."
+> — Yun (Yona of the Dawn)
+
+## 2026-05-30 (05:56)
+> "Regardless of what happens our lives are finite. We all know that we will grow old and that someday our lives will end. That's why we try so hard to live each day to the fullest. That's why we keep stumbling on by trial and error. But it isn't just for ourselves, it's so we can leave some signposts for the people following in our foot steps. To cowards who cling to where they are and who have given up on trying to move forward there is no way to see how bright the future is even though it's just around the corner!"
+> — Meia Gisborn (Vandread)
+
+## 2026-05-30 (05:56)
+> "You must live life as long as you are still strong. Never look at your life as something insignificant."
+> — Natsu Dragneel (Fairy Tail)
