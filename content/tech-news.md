@@ -1138,3 +1138,6 @@
 
 ## 2026-05-30 (05:56)
 - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+
+## 2026-05-30 (10:28)
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)

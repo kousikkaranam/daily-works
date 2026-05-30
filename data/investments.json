@@ -48,53 +48,6 @@
   },
   {
     "date": "2026-05-23",
-    "time": "05:47",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.73,
-        "currency": "INR"
-      },
-      {
-        "name": "CENTRAL BANK OF INDIA",
-        "symbol": "CENTRALBK.NS",
-        "price": 31.27,
-        "currency": "INR"
-      },
-      {
-        "name": "JSW CEMENT LIMITED",
-        "symbol": "JSWCEMENT.NS",
-        "price": 137.99,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Rigetti Computing, Inc.",
-        "symbol": "RGTI",
-        "price": 26.42,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 215.33,
-        "currency": "USD"
-      },
-      {
-        "name": "D-Wave Quantum Inc.",
-        "symbol": "QBTS",
-        "price": 29.4,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 75425,
-    "ethereum_usd": 2063.64,
-    "gold_inr_10g": 139046.93
-  },
-  {
-    "date": "2026-05-23",
     "time": "07:26",
     "top_indian": [
       {
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": 73508,
     "ethereum_usd": 2013.55,
+    "gold_inr_10g": 138965.99
+  },
+  {
+    "date": "2026-05-30",
+    "time": "10:28",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.99,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 21.87,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.6,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "SoFi Technologies, Inc.",
+        "symbol": "SOFI",
+        "price": 18.22,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 211.14,
+        "currency": "USD"
+      },
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 13.22,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 73545,
+    "ethereum_usd": 2016.93,
     "gold_inr_10g": 138965.99
   }
 ]

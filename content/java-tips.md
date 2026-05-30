@@ -989,3 +989,6 @@ Are beans created with @ConditionalOnProperty re-evaluated after Spring Boot sta
 
 ## 2026-05-30 (05:56)
 Redundant requests after pageable JPA Query with Joins
+
+## 2026-05-30 (10:28)
+Springboot3 with Hibernate 6 error with class not found SpringPhysicalNamingStrategy
