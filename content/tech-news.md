@@ -1126,3 +1126,6 @@
 
 ## 2026-05-30 (05:56)
 - [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
+
+## 2026-05-30 (05:56)
+- [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
