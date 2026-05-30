@@ -1111,3 +1111,6 @@
 
 ## 2026-05-30 (04:54)
 - [Math-to-Manim](https://github.com/HarleyCoops/Math-To-Manim)
+
+## 2026-05-30 (04:55)
+- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)

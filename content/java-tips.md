@@ -968,3 +968,6 @@ Weird compile error in Eclipse and Netbeans
 
 ## 2026-05-30 (04:54)
 Spring @Autowire with Inheritance
+
+## 2026-05-30 (04:55)
+Jackson in Spring Boot: Serialize a flat Map (adjacency list) into a nested JSON tree without intermediate objects
