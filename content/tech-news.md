@@ -1144,3 +1144,6 @@
 
 ## 2026-05-30 (16:16)
 - [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
+
+## 2026-05-31 (05:22)
+- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
