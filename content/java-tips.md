@@ -995,3 +995,6 @@ Springboot3 with Hibernate 6 error with class not found SpringPhysicalNamingStra
 
 ## 2026-05-30 (16:16)
 clarity and guidance for oriented plan to pursue computer engineer as career path
+
+## 2026-05-31 (05:22)
+OpenJDK 64-Bit Server VM warning: You have loaded library which might have disabled stack guard
