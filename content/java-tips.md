@@ -1001,3 +1001,6 @@ OpenJDK 64-Bit Server VM warning: You have loaded library which might have disab
 
 ## 2026-05-31 (06:35)
 How to solve Could not determine the dependencies of task &#x27;:app:compileDebugJavaWithJavac&#x27; - Android
+
+## 2026-05-31 (10:35)
+Driver info: driver.version: unknown using ChromeDriver v78.0.3904.70 and Chrome browser v78.0.3904.97
