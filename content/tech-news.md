@@ -1150,3 +1150,6 @@
 
 ## 2026-05-31 (06:35)
 - [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+
+## 2026-05-31 (10:35)
+- [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)

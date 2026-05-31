@@ -1476,3 +1476,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-31 (06:35)
 > "No matter how many years it's been since they met, brothers are brothers, aren't they? Even without having seen, I can tell."
 > — Matahachi Hon'iden (Vagabond)
+
+## 2026-05-31 (10:35)
+> "If you use him, you’ll get rid of all the curses nearby in a flash."
+> — Satoru Gojo (Jujutsu Kaisen)
