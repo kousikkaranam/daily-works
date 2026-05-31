@@ -1153,3 +1153,6 @@
 
 ## 2026-05-31 (10:35)
 - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+
+## 2026-05-31 (16:36)
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)

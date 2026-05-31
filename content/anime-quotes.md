@@ -1480,3 +1480,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-31 (10:35)
 > "If you use him, you’ll get rid of all the curses nearby in a flash."
 > — Satoru Gojo (Jujutsu Kaisen)
+
+## 2026-05-31 (16:36)
+> "Look straight at the people you kill; don't take your eyes off them for a second. And don't ever forget them because they won't forget you."
+> — Solf J. Kimblee (Fullmetal Alchemist)
