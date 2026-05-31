@@ -1004,3 +1004,6 @@ How to solve Could not determine the dependencies of task &#x27;:app:compileDebu
 
 ## 2026-05-31 (10:35)
 Driver info: driver.version: unknown using ChromeDriver v78.0.3904.70 and Chrome browser v78.0.3904.97
+
+## 2026-05-31 (16:36)
+JPA @JoinColumn issues while joining on non primary key columns
