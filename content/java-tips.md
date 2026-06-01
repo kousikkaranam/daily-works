@@ -1007,3 +1007,6 @@ Driver info: driver.version: unknown using ChromeDriver v78.0.3904.70 and Chrome
 
 ## 2026-05-31 (16:36)
 JPA @JoinColumn issues while joining on non primary key columns
+
+## 2026-06-01 (06:08)
+Hibernate Query-by-Example with Date

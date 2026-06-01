@@ -1484,3 +1484,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-05-31 (16:36)
 > "Look straight at the people you kill; don't take your eyes off them for a second. And don't ever forget them because they won't forget you."
 > — Solf J. Kimblee (Fullmetal Alchemist)
+
+## 2026-06-01 (06:08)
+> "I  can neither live with you. Nor without you."
+> — Uta (Tokyo Ghoul)

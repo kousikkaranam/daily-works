@@ -1156,3 +1156,6 @@
 
 ## 2026-05-31 (16:36)
 - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+
+## 2026-06-01 (06:08)
+- [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
