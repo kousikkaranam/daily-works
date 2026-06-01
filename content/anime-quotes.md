@@ -1488,3 +1488,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-01 (06:08)
 > "I  can neither live with you. Nor without you."
 > — Uta (Tokyo Ghoul)
+
+## 2026-06-01 (07:23)
+> "Forget about me, and starting tomorrow live your own life. Don't keep dragging the dead into your life, otherwise your life would get screwed up and you won't be happy in the future, okay?"
+> — Misa Kurobane (Charlotte)

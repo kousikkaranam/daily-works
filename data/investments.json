@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-05-25",
-    "time": "05:24",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.94,
-        "currency": "INR"
-      },
-      {
-        "name": "DAVANGERE SUGAR COMPANY L",
-        "symbol": "DAVANGERE.NS",
-        "price": 4.12,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 19.0,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Rigetti Computing, Inc.",
-        "symbol": "RGTI",
-        "price": 26.42,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 215.33,
-        "currency": "USD"
-      },
-      {
-        "name": "D-Wave Quantum Inc.",
-        "symbol": "QBTS",
-        "price": 29.4,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77297,
-    "ethereum_usd": 2107.0,
-    "gold_inr_10g": 140472.98
-  },
-  {
-    "date": "2026-05-25",
     "time": "06:46",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 73198,
     "ethereum_usd": 1989.79,
     "gold_inr_10g": 138123.43
+  },
+  {
+    "date": "2026-06-01",
+    "time": "07:23",
+    "top_indian": [
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 19.2,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.27,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 40.42,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 211.14,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 114.68,
+        "currency": "USD"
+      },
+      {
+        "name": "Ford Motor Company",
+        "symbol": "F",
+        "price": 17.44,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 72952,
+    "ethereum_usd": 1984.7,
+    "gold_inr_10g": 137741.33
   }
 ]

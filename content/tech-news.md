@@ -1159,3 +1159,6 @@
 
 ## 2026-06-01 (06:08)
 - [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+
+## 2026-06-01 (07:23)
+- [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
