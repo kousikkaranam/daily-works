@@ -1010,3 +1010,6 @@ JPA @JoinColumn issues while joining on non primary key columns
 
 ## 2026-06-01 (06:08)
 Hibernate Query-by-Example with Date
+
+## 2026-06-02 (12:29)
+Unable to build Java project targeting JDK 11, Invalid target release 11

@@ -1162,3 +1162,6 @@
 
 ## 2026-06-01 (07:23)
 - [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
+
+## 2026-06-02 (12:29)
+- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
