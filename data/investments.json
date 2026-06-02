@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-05-25",
-    "time": "17:16",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.04,
-        "currency": "INR"
-      },
-      {
-        "name": "FINEOTEX CHEMICAL LIMITED",
-        "symbol": "FCL.NS",
-        "price": 39.03,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 53.99,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Rigetti Computing, Inc.",
-        "symbol": "RGTI",
-        "price": 26.42,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 215.33,
-        "currency": "USD"
-      },
-      {
-        "name": "D-Wave Quantum Inc.",
-        "symbol": "QBTS",
-        "price": 29.4,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77611,
-    "ethereum_usd": 2132.38,
-    "gold_inr_10g": 140959.74
-  },
-  {
     "date": "2026-05-26",
     "time": "06:17",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 69233,
     "ethereum_usd": 1977.49,
     "gold_inr_10g": 138489.80
+  },
+  {
+    "date": "2026-06-02",
+    "time": "18:54",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.16,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 18.99,
+        "currency": "INR"
+      },
+      {
+        "name": "NHPC LTD",
+        "symbol": "NHPC.NS",
+        "price": 72.29,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 11.755,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 222.535,
+        "currency": "USD"
+      },
+      {
+        "name": "Hewlett Packard Enterprise Comp",
+        "symbol": "HPE",
+        "price": 55.335,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 67117,
+    "ethereum_usd": 1904.48,
+    "gold_inr_10g": 137269.88
   }
 ]

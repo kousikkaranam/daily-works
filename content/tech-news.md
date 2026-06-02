@@ -1165,3 +1165,6 @@
 
 ## 2026-06-02 (12:29)
 - [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+
+## 2026-06-02 (18:54)
+- [Why Janet? (2023)](https://ianthehenry.com/posts/why-janet/)

@@ -1013,3 +1013,6 @@ Hibernate Query-by-Example with Date
 
 ## 2026-06-02 (12:29)
 Unable to build Java project targeting JDK 11, Invalid target release 11
+
+## 2026-06-02 (18:54)
+How to read channel messages with simple-slack-api?
