@@ -1492,3 +1492,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-01 (07:23)
 > "Forget about me, and starting tomorrow live your own life. Don't keep dragging the dead into your life, otherwise your life would get screwed up and you won't be happy in the future, okay?"
 > — Misa Kurobane (Charlotte)
+
+## 2026-06-02 (12:29)
+> "Even though we are going to shatter thousands of lives, wearing white is gonna make the blood look so pretty."
+> — Ladd Russo (Baccano!)
