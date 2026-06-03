@@ -1022,3 +1022,6 @@ Solve n-puzzle in Java
 
 ## 2026-06-03 (07:13)
 How to fix : &quot;Unable to commit against JDBC Connection&quot; error in hibernate when I update entity
+
+## 2026-06-03 (18:59)
+Scaling of ReferenceQueue/Cleaner handling
