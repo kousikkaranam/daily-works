@@ -1168,3 +1168,6 @@
 
 ## 2026-06-02 (18:54)
 - [Why Janet? (2023)](https://ianthehenry.com/posts/why-janet/)
+
+## 2026-06-03 (06:07)
+- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)

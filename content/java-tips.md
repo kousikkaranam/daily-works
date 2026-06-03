@@ -1016,3 +1016,6 @@ Unable to build Java project targeting JDK 11, Invalid target release 11
 
 ## 2026-06-02 (18:54)
 How to read channel messages with simple-slack-api?
+
+## 2026-06-03 (06:07)
+Solve n-puzzle in Java
