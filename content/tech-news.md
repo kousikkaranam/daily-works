@@ -1171,3 +1171,6 @@
 
 ## 2026-06-03 (06:07)
 - [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+
+## 2026-06-03 (07:13)
+- [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
