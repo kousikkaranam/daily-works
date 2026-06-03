@@ -1508,3 +1508,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-03 (07:13)
 > "You can go anywhere you want in this world with a single blade. This may be a virtual world, but I feel more alive here than in the real world."
 > — Kazuto Kirigaya (Sword Art Online)
+
+## 2026-06-03 (18:59)
+> "Maybe there've been times when I've been pissed and hated things, but it wasn't from this work. My dad's a no-show, my mom's lush and school sucks, but this job is the one damn thing I'm good at. If all the crap in my life hasn't screwed up yet, then neither will this and neither will you."
+> — Yuusuke Urameshi (Yu Yu Hakusho)

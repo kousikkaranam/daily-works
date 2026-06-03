@@ -1174,3 +1174,6 @@
 
 ## 2026-06-03 (07:13)
 - [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
+
+## 2026-06-03 (18:59)
+- [Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
