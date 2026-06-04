@@ -1028,3 +1028,6 @@ Scaling of ReferenceQueue/Cleaner handling
 
 ## 2026-06-04 (05:59)
 freemarker template syntax spring boot
+
+## 2026-06-04 (17:49)
+Java - Get current computer sound output
