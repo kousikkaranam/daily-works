@@ -1025,3 +1025,6 @@ How to fix : &quot;Unable to commit against JDBC Connection&quot; error in hiber
 
 ## 2026-06-03 (18:59)
 Scaling of ReferenceQueue/Cleaner handling
+
+## 2026-06-04 (05:59)
+freemarker template syntax spring boot
