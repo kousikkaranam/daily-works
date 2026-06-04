@@ -1512,3 +1512,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-03 (18:59)
 > "Maybe there've been times when I've been pissed and hated things, but it wasn't from this work. My dad's a no-show, my mom's lush and school sucks, but this job is the one damn thing I'm good at. If all the crap in my life hasn't screwed up yet, then neither will this and neither will you."
 > — Yuusuke Urameshi (Yu Yu Hakusho)
+
+## 2026-06-04 (05:59)
+> "Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?"
+> — Yuuji Kazami (The Fruit of Grisaia)
