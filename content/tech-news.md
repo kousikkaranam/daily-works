@@ -1180,3 +1180,6 @@
 
 ## 2026-06-04 (05:59)
 - [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+
+## 2026-06-04 (06:56)
+- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
