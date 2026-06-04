@@ -1183,3 +1183,6 @@
 
 ## 2026-06-04 (06:56)
 - [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
+
+## 2026-06-04 (17:49)
+- [Now Is the Best Time to Be a Duct Tape Engineer](https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23)
