@@ -1031,3 +1031,6 @@ freemarker template syntax spring boot
 
 ## 2026-06-04 (17:49)
 Java - Get current computer sound output
+
+## 2026-06-05 (05:22)
+How to fix checkmarx Trust Boundary Violation
