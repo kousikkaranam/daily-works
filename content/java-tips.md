@@ -1034,3 +1034,6 @@ Java - Get current computer sound output
 
 ## 2026-06-05 (05:22)
 How to fix checkmarx Trust Boundary Violation
+
+## 2026-06-05 (11:49)
+&quot;Spring Boot Project&quot; Error: Could not find or load main class fyp.fms.FleetManagementSystemApplication
