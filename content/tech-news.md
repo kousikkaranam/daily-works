@@ -1189,3 +1189,6 @@
 
 ## 2026-06-05 (05:22)
 - [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+
+## 2026-06-05 (06:43)
+- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
