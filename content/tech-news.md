@@ -1192,3 +1192,6 @@
 
 ## 2026-06-05 (06:43)
 - [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
+
+## 2026-06-05 (11:49)
+- [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
