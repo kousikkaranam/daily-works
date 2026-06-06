@@ -1067,3 +1067,6 @@ How to set MQOO_INPUT_EXCLUSIVE option for IBM MQ Connection Factory in Camel Co
 
 ## 2026-06-06 (10:33)
 Is spring boot going to be outdated and its developers will going to be laid off?
+
+## 2026-06-06 (16:19)
+How to get the email address from uid Firebase database?
