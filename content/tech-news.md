@@ -1213,3 +1213,6 @@
 
 ## 2026-06-06 (06:02)
 - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+
+## 2026-06-06 (06:02)
+- [No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators](https://irfanali.org/blog/zcom)

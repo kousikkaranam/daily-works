@@ -1055,3 +1055,6 @@ Cast class to subclass
 
 ## 2026-06-06 (06:02)
 Check if String only contains latin letters including accents
+
+## 2026-06-06 (06:02)
+Change Active Directory Password Via Spring LDAP

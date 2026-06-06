@@ -1560,3 +1560,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-06 (06:02)
 > "There are liars who only lie when there’s a reason to, and there are liars who also lie without a reason."
 > — Biscuit Krueger (Hunter x Hunter)
+
+## 2026-06-06 (06:02)
+> "A sin, once committed, is never forgotten. It haunts you for all eternity."
+> — Shinobu Nunotaba (A Certain Magical Index)
