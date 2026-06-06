@@ -1049,3 +1049,6 @@ JavaFx USE_COMPUTED_SIZE for Stage without using FXML
 
 ## 2026-06-06 (04:57)
 How to validate and sanitize HTTP Get with Spring Boot?
+
+## 2026-06-06 (06:02)
+Cast class to subclass
