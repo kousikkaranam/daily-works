@@ -1576,3 +1576,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-06 (07:42)
 > "Something as shady as a witch couldn't possibly exist."
 > — Ushiromiya Battler (Umineko: When They Cry)
+
+## 2026-06-06 (10:33)
+> "I don’t want to regret anything because of the way I lived."
+> — Yuji Itadori (Jujutsu Kaisen)
