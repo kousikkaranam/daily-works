@@ -1052,3 +1052,6 @@ How to validate and sanitize HTTP Get with Spring Boot?
 
 ## 2026-06-06 (06:02)
 Cast class to subclass
+
+## 2026-06-06 (06:02)
+Check if String only contains latin letters including accents

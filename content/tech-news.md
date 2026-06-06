@@ -1210,3 +1210,6 @@
 
 ## 2026-06-06 (06:02)
 - [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+
+## 2026-06-06 (06:02)
+- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)

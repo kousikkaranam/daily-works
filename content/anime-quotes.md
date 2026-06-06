@@ -1556,3 +1556,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-06 (06:02)
 > "While I'm performing it feels like it'll become real somewhere along the line."
 > — Hinazuki Kayo (Erased)
+
+## 2026-06-06 (06:02)
+> "There are liars who only lie when there’s a reason to, and there are liars who also lie without a reason."
+> — Biscuit Krueger (Hunter x Hunter)
