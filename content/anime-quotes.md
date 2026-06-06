@@ -1568,3 +1568,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-06 (06:02)
 > "[When Ino visits him in the hospital] Hehe. I'm also the type that gets girls to visit him. Take that, Shikamaru!"
 > — Chouji Akimichi (Naruto)
+
+## 2026-06-06 (06:03)
+> "Listen up you guys! This is the final battle! Grit your teeth and get ready to go with all your might! We're only aiming to win! It doesn't matter whether we're idiots or ordinary people or smart people! Everyone's to do whatever they can do! We're definitely... going to win this battle! Just watch, 3rd years...! I'm going to smash those heads of yours and show you how capable these idiots you look down on really are!"
+> — Sakamoto Yuuji (Baka & Test - Summon the Beasts)
