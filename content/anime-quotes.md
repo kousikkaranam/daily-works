@@ -1552,3 +1552,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-06 (04:57)
 > "(In response to Seaman's question) When real men do what they're supposed to, it's not always about what they want."
 > — Kazuma Kuwabara (Yu Yu Hakusho)
+
+## 2026-06-06 (06:02)
+> "While I'm performing it feels like it'll become real somewhere along the line."
+> — Hinazuki Kayo (Erased)
+
+## 2026-06-06 (06:02)
+> "There are liars who only lie when there’s a reason to, and there are liars who also lie without a reason."
+> — Biscuit Krueger (Hunter x Hunter)
+
+## 2026-06-06 (06:02)
+> "A sin, once committed, is never forgotten. It haunts you for all eternity."
+> — Shinobu Nunotaba (A Certain Magical Index)
+
+## 2026-06-06 (06:02)
+> "[When Ino visits him in the hospital] Hehe. I'm also the type that gets girls to visit him. Take that, Shikamaru!"
+> — Chouji Akimichi (Naruto)
+
+## 2026-06-06 (06:03)
+> "Listen up you guys! This is the final battle! Grit your teeth and get ready to go with all your might! We're only aiming to win! It doesn't matter whether we're idiots or ordinary people or smart people! Everyone's to do whatever they can do! We're definitely... going to win this battle! Just watch, 3rd years...! I'm going to smash those heads of yours and show you how capable these idiots you look down on really are!"
+> — Sakamoto Yuuji (Baka & Test - Summon the Beasts)

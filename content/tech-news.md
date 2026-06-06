@@ -1207,3 +1207,18 @@
 
 ## 2026-06-06 (04:57)
 - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+
+## 2026-06-06 (06:02)
+- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+
+## 2026-06-06 (06:02)
+- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+
+## 2026-06-06 (06:02)
+- [No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators](https://irfanali.org/blog/zcom)
+
+## 2026-06-06 (06:02)
+- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
+
+## 2026-06-06 (06:03)
+- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
