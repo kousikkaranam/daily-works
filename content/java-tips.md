@@ -1061,3 +1061,6 @@ Change Active Directory Password Via Spring LDAP
 
 ## 2026-06-06 (06:02)
 How to replace camera input stream for Android?
+
+## 2026-06-06 (07:42)
+How to set MQOO_INPUT_EXCLUSIVE option for IBM MQ Connection Factory in Camel Consumer with Spring boot?
