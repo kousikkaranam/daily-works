@@ -1195,3 +1195,6 @@
 
 ## 2026-06-05 (11:49)
 - [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
+
+## 2026-06-06 (04:57)
+- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)

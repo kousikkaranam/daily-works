@@ -1037,3 +1037,6 @@ How to fix checkmarx Trust Boundary Violation
 
 ## 2026-06-05 (11:49)
 &quot;Spring Boot Project&quot; Error: Could not find or load main class fyp.fms.FleetManagementSystemApplication
+
+## 2026-06-06 (04:57)
+Difference between spring-data-jpa and spring-boot-starter-data-jpa
