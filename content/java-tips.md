@@ -1037,3 +1037,15 @@ How to fix checkmarx Trust Boundary Violation
 
 ## 2026-06-05 (11:49)
 &quot;Spring Boot Project&quot; Error: Could not find or load main class fyp.fms.FleetManagementSystemApplication
+
+## 2026-06-06 (04:57)
+Difference between spring-data-jpa and spring-boot-starter-data-jpa
+
+## 2026-06-06 (04:57)
+Could not get unknown property &#x27;implementation&#x27; for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler
+
+## 2026-06-06 (04:57)
+JavaFx USE_COMPUTED_SIZE for Stage without using FXML
+
+## 2026-06-06 (04:57)
+How to validate and sanitize HTTP Get with Spring Boot?
