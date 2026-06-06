@@ -1216,3 +1216,6 @@
 
 ## 2026-06-06 (06:02)
 - [No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators](https://irfanali.org/blog/zcom)
+
+## 2026-06-06 (06:02)
+- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
