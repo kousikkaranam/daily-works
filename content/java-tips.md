@@ -1046,3 +1046,6 @@ Could not get unknown property &#x27;implementation&#x27; for object of type org
 
 ## 2026-06-06 (04:57)
 JavaFx USE_COMPUTED_SIZE for Stage without using FXML
+
+## 2026-06-06 (04:57)
+How to validate and sanitize HTTP Get with Spring Boot?

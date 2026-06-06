@@ -1548,3 +1548,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-06 (04:57)
 > "Nanao-chan is last place!"
 > — Shunsui Kyōraku (Bleach)
+
+## 2026-06-06 (04:57)
+> "(In response to Seaman's question) When real men do what they're supposed to, it's not always about what they want."
+> — Kazuma Kuwabara (Yu Yu Hakusho)
