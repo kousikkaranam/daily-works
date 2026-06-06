@@ -1064,3 +1064,6 @@ How to replace camera input stream for Android?
 
 ## 2026-06-06 (07:42)
 How to set MQOO_INPUT_EXCLUSIVE option for IBM MQ Connection Factory in Camel Consumer with Spring boot?
+
+## 2026-06-06 (10:33)
+Is spring boot going to be outdated and its developers will going to be laid off?

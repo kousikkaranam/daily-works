@@ -1225,3 +1225,6 @@
 
 ## 2026-06-06 (07:42)
 - [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
+
+## 2026-06-06 (10:33)
+- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
