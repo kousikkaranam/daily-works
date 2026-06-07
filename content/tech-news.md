@@ -1234,3 +1234,6 @@
 
 ## 2026-06-07 (06:42)
 - [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+
+## 2026-06-07 (10:55)
+- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)

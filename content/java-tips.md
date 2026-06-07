@@ -1073,3 +1073,6 @@ How to get the email address from uid Firebase database?
 
 ## 2026-06-07 (06:42)
 Getting this error out of a sudden java.lang.IllegalStateException: Request cannot be executed; I/O reactor status: STOPPED
+
+## 2026-06-07 (10:55)
+Malformed pom.xml exception Apache Maven
