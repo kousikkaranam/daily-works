@@ -1070,3 +1070,6 @@ Is spring boot going to be outdated and its developers will going to be laid off
 
 ## 2026-06-06 (16:19)
 How to get the email address from uid Firebase database?
+
+## 2026-06-07 (06:42)
+Getting this error out of a sudden java.lang.IllegalStateException: Request cannot be executed; I/O reactor status: STOPPED

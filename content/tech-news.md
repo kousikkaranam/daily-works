@@ -1231,3 +1231,6 @@
 
 ## 2026-06-06 (16:19)
 - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+
+## 2026-06-07 (06:42)
+- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
