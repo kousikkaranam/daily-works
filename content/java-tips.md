@@ -1076,3 +1076,6 @@ Getting this error out of a sudden java.lang.IllegalStateException: Request cann
 
 ## 2026-06-07 (10:55)
 Malformed pom.xml exception Apache Maven
+
+## 2026-06-07 (16:44)
+Malformed pom.xml exception Apache Maven [closed]

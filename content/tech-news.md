@@ -1237,3 +1237,6 @@
 
 ## 2026-06-07 (10:55)
 - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+
+## 2026-06-07 (16:44)
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
