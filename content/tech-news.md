@@ -1246,3 +1246,6 @@
 
 ## 2026-06-08 (12:49)
 - [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+
+## 2026-06-08 (18:07)
+- [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
