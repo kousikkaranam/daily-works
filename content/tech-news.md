@@ -1243,3 +1243,6 @@
 
 ## 2026-06-08 (07:04)
 - [1worldflag: A blue dot on a transparent background](https://1worldflag.com/)
+
+## 2026-06-08 (12:49)
+- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)

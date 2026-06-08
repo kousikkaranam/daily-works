@@ -1082,3 +1082,6 @@ Malformed pom.xml exception Apache Maven [closed]
 
 ## 2026-06-08 (07:04)
 java.lang.ExceptionInInitializerError when trying to mock
+
+## 2026-06-08 (12:49)
+Jenkins not working after upgrading to Java 21

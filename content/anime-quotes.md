@@ -1600,3 +1600,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-08 (07:04)
 > "For the first time, I felt honoured at being allowed to compete in this game of truth and error, and witches as a human... And ironically, that taught me that the truth is not necessarily only one when I believed that only one truth existed. By just broadening my field of vision a little, I can see a truth that is completely different. And no matter which one of the truths, if you can only see one of them, they will not be the right answer... Ah, in my life until now, I wonder how many truths have I turned away from because I was blinded by some trivial truth...? This is... the truth... of the world..."
 > — Furudo Erika (Umineko: When They Cry)
+
+## 2026-06-08 (12:49)
+> "My companions make my heart strong. If I'm fighting for those I love, I care not what happens to this body."
+> — Erza Scarlet (Fairy Tail)
