@@ -1085,3 +1085,6 @@ java.lang.ExceptionInInitializerError when trying to mock
 
 ## 2026-06-08 (12:49)
 Jenkins not working after upgrading to Java 21
+
+## 2026-06-08 (18:07)
+How to solve Failed to start component [StandardEngine[Catalina].StandardHost[localhost]?

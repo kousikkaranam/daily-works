@@ -1604,3 +1604,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-08 (12:49)
 > "My companions make my heart strong. If I'm fighting for those I love, I care not what happens to this body."
 > — Erza Scarlet (Fairy Tail)
+
+## 2026-06-08 (18:07)
+> "The peaceful world I'm fighting for is one where everyone has a smile on their face, not one where I have to pretend I didn't see you make my friend cry. I don't think that kind of peace is worth fighting for. And I don't think it's worth making sacrifices to achieve it."
+> — Emi Yusa (The Devil is a Part-Timer!)
