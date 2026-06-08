@@ -1079,3 +1079,6 @@ Malformed pom.xml exception Apache Maven
 
 ## 2026-06-07 (16:44)
 Malformed pom.xml exception Apache Maven [closed]
+
+## 2026-06-08 (07:04)
+java.lang.ExceptionInInitializerError when trying to mock
