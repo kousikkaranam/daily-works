@@ -1088,3 +1088,6 @@ Jenkins not working after upgrading to Java 21
 
 ## 2026-06-08 (18:07)
 How to solve Failed to start component [StandardEngine[Catalina].StandardHost[localhost]?
+
+## 2026-06-09 (11:45)
+What happens when JVM can&#x27;t allocate native heap (e.g. malloc() fails)?

@@ -1249,3 +1249,6 @@
 
 ## 2026-06-08 (18:07)
 - [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
+
+## 2026-06-09 (11:45)
+- [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/)

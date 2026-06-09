@@ -1608,3 +1608,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-08 (18:07)
 > "The peaceful world I'm fighting for is one where everyone has a smile on their face, not one where I have to pretend I didn't see you make my friend cry. I don't think that kind of peace is worth fighting for. And I don't think it's worth making sacrifices to achieve it."
 > — Emi Yusa (The Devil is a Part-Timer!)
+
+## 2026-06-09 (11:45)
+> "Even if you hate it or whatever, I'll never let go of you. If you run away, I'll probably come after you and lock you up."
+> — Akihiko Usami (Junjo Romantica)
