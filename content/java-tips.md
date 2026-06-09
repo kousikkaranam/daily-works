@@ -1091,3 +1091,6 @@ How to solve Failed to start component [StandardEngine[Catalina].StandardHost[lo
 
 ## 2026-06-09 (11:45)
 What happens when JVM can&#x27;t allocate native heap (e.g. malloc() fails)?
+
+## 2026-06-09 (17:29)
+Making a digital clock in Java

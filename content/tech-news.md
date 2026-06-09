@@ -1252,3 +1252,6 @@
 
 ## 2026-06-09 (11:45)
 - [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/)
+
+## 2026-06-09 (17:29)
+- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
