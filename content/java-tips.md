@@ -1094,3 +1094,6 @@ What happens when JVM can&#x27;t allocate native heap (e.g. malloc() fails)?
 
 ## 2026-06-09 (17:29)
 Making a digital clock in Java
+
+## 2026-06-10 (05:23)
+Where should I start with coding if I wish to become a full stack developer one day?

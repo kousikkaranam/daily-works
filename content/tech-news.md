@@ -1255,3 +1255,6 @@
 
 ## 2026-06-09 (17:29)
 - [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+
+## 2026-06-10 (05:23)
+- [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
