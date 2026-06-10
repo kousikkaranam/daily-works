@@ -1097,3 +1097,6 @@ Making a digital clock in Java
 
 ## 2026-06-10 (05:23)
 Where should I start with coding if I wish to become a full stack developer one day?
+
+## 2026-06-10 (06:42)
+Get file content from multipart format in Servlet 2.4
