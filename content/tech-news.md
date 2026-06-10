@@ -1258,3 +1258,6 @@
 
 ## 2026-06-10 (05:23)
 - [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
+
+## 2026-06-10 (06:42)
+- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
