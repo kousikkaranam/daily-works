@@ -1100,3 +1100,6 @@ Where should I start with coding if I wish to become a full stack developer one 
 
 ## 2026-06-10 (06:42)
 Get file content from multipart format in Servlet 2.4
+
+## 2026-06-10 (12:00)
+How to block all VPN connections to Java server?

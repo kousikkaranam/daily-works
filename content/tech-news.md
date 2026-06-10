@@ -1261,3 +1261,6 @@
 
 ## 2026-06-10 (06:42)
 - [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+
+## 2026-06-10 (12:00)
+- [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
