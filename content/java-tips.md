@@ -1103,3 +1103,6 @@ Get file content from multipart format in Servlet 2.4
 
 ## 2026-06-10 (12:00)
 How to block all VPN connections to Java server?
+
+## 2026-06-11 (05:55)
+Enabling Swagger springdoc-openapi-ui (OpenAPI 3.0) with Spring Security - Cannot access swagger-ui.html (401)
