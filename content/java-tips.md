@@ -1109,3 +1109,6 @@ Enabling Swagger springdoc-openapi-ui (OpenAPI 3.0) with Spring Security - Canno
 
 ## 2026-06-11 (07:05)
 Differences between Oracle JDK and OpenJDK
+
+## 2026-06-11 (12:31)
+Java enum with user-friendly names Best Practices
