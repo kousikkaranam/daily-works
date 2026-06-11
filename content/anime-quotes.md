@@ -1640,3 +1640,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-11 (12:31)
 > "When are we born? When do we die? Why are we born? Why do we die? The world has been destroyed and we've fallen countless times, always resurrecting from the ashes as Paradise. It has happened before, and it will happen again. An endless cycle of life and death. The world is a Paradise that was opened by someone, but this era too is almost at an end. We have acquired the means to exceed our natural span of life, never suspecting that the world itself was finalized in its existence. This knowledge has left me in despair, my fate has fallen and scattered like the petals of a dying flower, like the blast from a sand storm it has been worn down and weathered away. As if to be purified, the world will be encased in ice so that it can return to the beginning once more. Paradise is a world that is opened by someone..."
 > — Spirit Owl (Wolf's Rain)
+
+## 2026-06-11 (18:28)
+> "When you are down, how do you pick yourself up? People fall into two categories... depending on how they pick themselves up. The first one sees somebody who is worse off and thinks, "Hey! I am better off than that guy." And the second kind of guy sees a challenge and tries to raise himself to it."
+> — Gintama (Gintama)
