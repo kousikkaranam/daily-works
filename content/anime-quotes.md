@@ -1628,3 +1628,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-10 (12:00)
 > "From the moment a magus is born, he is someone that has "power". And some day, he will achieve a "greater power". This responsibility was already flowing in his "blood" before he realized this destiny. That is what it means to be born into this world as the child of a magus."
 > — Tohsaka Tokiomi (Fate/Zero)
+
+## 2026-06-11 (05:55)
+> "I do things my own way! So don’t give me any lip about it!"
+> — Roronoa Zoro (One Piece)
