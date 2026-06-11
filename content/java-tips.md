@@ -1112,3 +1112,6 @@ Differences between Oracle JDK and OpenJDK
 
 ## 2026-06-11 (12:31)
 Java enum with user-friendly names Best Practices
+
+## 2026-06-11 (18:28)
+Spring cloud function application is unable to find function on AWS Lamdba

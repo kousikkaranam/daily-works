@@ -1273,3 +1273,6 @@
 
 ## 2026-06-11 (12:31)
 - [BYD is bringing its 5-min 'Flash' electric car charging to Canada](https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/)
+
+## 2026-06-11 (18:28)
+- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
