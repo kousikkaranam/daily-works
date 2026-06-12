@@ -1115,3 +1115,6 @@ Java enum with user-friendly names Best Practices
 
 ## 2026-06-11 (18:28)
 Spring cloud function application is unable to find function on AWS Lamdba
+
+## 2026-06-12 (12:02)
+Is is possible to make a Spring bean local to a Configuration class?
