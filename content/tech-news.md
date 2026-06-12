@@ -1279,3 +1279,6 @@
 
 ## 2026-06-12 (12:02)
 - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+
+## 2026-06-12 (17:41)
+- [A dumpster arrived behind my university's library](https://yalereview.org/article/sheila-liming-the-end-of-books)
