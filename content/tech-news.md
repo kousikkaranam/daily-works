@@ -1276,3 +1276,6 @@
 
 ## 2026-06-11 (18:28)
 - [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
+
+## 2026-06-12 (12:02)
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
