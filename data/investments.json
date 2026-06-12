@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-05",
-    "time": "05:22",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 15.05,
-        "currency": "INR"
-      },
-      {
-        "name": null,
-        "symbol": "GMRAIRPORT-BL.NS",
-        "price": 97.75,
-        "currency": "INR"
-      },
-      {
-        "name": "ZEE ENTERTAINMENT ENT LTD",
-        "symbol": "ZEEL.NS",
-        "price": 112.3,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 218.66,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 16.62,
-        "currency": "USD"
-      },
-      {
-        "name": "BlackBerry Limited",
-        "symbol": "BB",
-        "price": 10.34,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63350,
-    "ethereum_usd": 1730.36,
-    "gold_inr_10g": 136979.68
-  },
-  {
-    "date": "2026-06-05",
     "time": "06:43",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 63630,
     "ethereum_usd": 1670.66,
     "gold_inr_10g": 129349.72
+  },
+  {
+    "date": "2026-06-12",
+    "time": "17:41",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.9,
+        "currency": "INR"
+      },
+      {
+        "name": "IFCI LTD",
+        "symbol": "IFCI.NS",
+        "price": 84.57,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 45.74,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 126.88,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 14.9884,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 14.9899,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 63795,
+    "ethereum_usd": 1668.87,
+    "gold_inr_10g": 129777.30
   }
 ]

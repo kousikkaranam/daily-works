@@ -1118,3 +1118,6 @@ Spring cloud function application is unable to find function on AWS Lamdba
 
 ## 2026-06-12 (12:02)
 Is is possible to make a Spring bean local to a Configuration class?
+
+## 2026-06-12 (17:41)
+ORA-00905: missing keyword in case expression
