@@ -1121,3 +1121,6 @@ Is is possible to make a Spring bean local to a Configuration class?
 
 ## 2026-06-12 (17:41)
 ORA-00905: missing keyword in case expression
+
+## 2026-06-13 (05:23)
+Custom OutputStreamAppender not run: LOGBACK: No context given for &lt;MYAPPENDER&gt;
