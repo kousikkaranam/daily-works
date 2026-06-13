@@ -1688,3 +1688,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-13 (08:17)
 > "Our names are given to us by God. I have betrayed God, and so I no longer have a name."
 > — Scar (Fullmetal Alchemist)
+
+## 2026-06-13 (16:46)
+> "Oddities are the world itself. They're linked to the world, unlike living beings. Science alone cannot shed light upon them, as there will always be people who'll be afraid of vampires. Although all forms of darkness could be lit up, darkness will never cease to exist."
+> — Bakemonogatari (Bakemonogatari)

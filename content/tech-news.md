@@ -1309,3 +1309,6 @@
 
 ## 2026-06-13 (08:17)
 - [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
+
+## 2026-06-13 (16:46)
+- [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
