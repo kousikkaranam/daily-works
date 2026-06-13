@@ -1130,3 +1130,6 @@ What is the most recommended way to store time in PostgreSQL using Java?
 
 ## 2026-06-13 (05:23)
 How to parse json-file with spring batch?
+
+## 2026-06-13 (06:32)
+Transform polar-MGRS Coordinates into WGS84 Lat Lon (java)

@@ -1294,3 +1294,6 @@
 
 ## 2026-06-13 (05:23)
 - [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+
+## 2026-06-13 (06:32)
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
