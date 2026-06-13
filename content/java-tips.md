@@ -1139,3 +1139,6 @@ How do I properly handle UTF8 encoded CSV files
 
 ## 2026-06-13 (06:32)
 Visual Studio Code: Supplied javaHome must be a valid directory. You supplied: D:\jdk
+
+## 2026-06-13 (06:32)
+driver = new AndroidDriver(new URL(&quot;http://127.0.0.1:4723/wd/hub&quot;), capabilities); in appium

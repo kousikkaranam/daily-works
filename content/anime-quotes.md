@@ -1680,3 +1680,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-13 (06:32)
 > "Maybe the future is bad. But there's a future beyond that, right?"
 > — Gasai Yuno (The Future Diary)
+
+## 2026-06-13 (06:32)
+> "Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo."
+> — Kazuya Hiramaru (Bakuman.)
