@@ -1676,3 +1676,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-13 (06:32)
 > "When you're on a bike, the ocean's a lot closer than you think. The autumn salt wind went right through to the back of my nose. And maybe it's because, like Haruko said, my head was empty."
 > — Naota Nandaba (FLCL)
+
+## 2026-06-13 (06:32)
+> "Maybe the future is bad. But there's a future beyond that, right?"
+> — Gasai Yuno (The Future Diary)
