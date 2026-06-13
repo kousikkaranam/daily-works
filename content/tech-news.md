@@ -1297,3 +1297,6 @@
 
 ## 2026-06-13 (06:32)
 - [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+
+## 2026-06-13 (06:32)
+- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)

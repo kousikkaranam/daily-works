@@ -1133,3 +1133,6 @@ How to parse json-file with spring batch?
 
 ## 2026-06-13 (06:32)
 Transform polar-MGRS Coordinates into WGS84 Lat Lon (java)
+
+## 2026-06-13 (06:32)
+How do I properly handle UTF8 encoded CSV files
