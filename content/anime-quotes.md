@@ -1652,3 +1652,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-12 (17:41)
 > "Losing sight of who you really are... that can be pretty scary."
 > — Michiru Kinushima (Plastic Memories)
+
+## 2026-06-13 (05:23)
+> "Often people have it wrong, mistakenly believing...that showing mercy to an enemy is kindness. They spare the foe whose life is in their hands... But don't you see? It's an empty existence... to go on living... alone and unloved... when defeat's already cost you your dream!"
+> — Haku (Naruto)
+
+## 2026-06-13 (05:23)
+> "I don't give a damn about the real world."
+> — Keima Katsuragi (The World God Only Knows)
+
+## 2026-06-13 (05:23)
+> "It shouldn’t be like this. How can I be so useless? Nothing has changed at all. Whether it’s my game console or a friend’s cat. I even failed to protect a junior."
+> — Kafka Hibino (Kaiju No. 8)
+
+## 2026-06-13 (05:23)
+> "If you only feel fear after knowing both the abilities of your enemy and yourself, flee with your tail between your legs. However, if you're going to stand firm and fight with a focused mind, you will definitely have victory within reach."
+> — Fullmetal Alchemist: Brotherhood (Fullmetal Alchemist: Brotherhood)
