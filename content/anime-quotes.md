@@ -1668,3 +1668,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-13 (05:23)
 > "If you only feel fear after knowing both the abilities of your enemy and yourself, flee with your tail between your legs. However, if you're going to stand firm and fight with a focused mind, you will definitely have victory within reach."
 > — Fullmetal Alchemist: Brotherhood (Fullmetal Alchemist: Brotherhood)
+
+## 2026-06-13 (06:32)
+> ""Isn't it okay? Even if you and someone meet for just a moment, that moment passes by...You might meet again somewhere, isn't that okay?""
+> — Lebanon (Darker than Black: Gemini of the Meteor)
+
+## 2026-06-13 (06:32)
+> "When you're on a bike, the ocean's a lot closer than you think. The autumn salt wind went right through to the back of my nose. And maybe it's because, like Haruko said, my head was empty."
+> — Naota Nandaba (FLCL)
+
+## 2026-06-13 (06:32)
+> "Maybe the future is bad. But there's a future beyond that, right?"
+> — Gasai Yuno (The Future Diary)
+
+## 2026-06-13 (06:32)
+> "Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo."
+> — Kazuya Hiramaru (Bakuman.)

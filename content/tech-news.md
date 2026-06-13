@@ -1294,3 +1294,15 @@
 
 ## 2026-06-13 (05:23)
 - [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+
+## 2026-06-13 (06:32)
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+
+## 2026-06-13 (06:32)
+- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
+
+## 2026-06-13 (06:32)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+
+## 2026-06-13 (06:32)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)

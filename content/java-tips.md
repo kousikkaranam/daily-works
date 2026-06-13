@@ -1130,3 +1130,15 @@ What is the most recommended way to store time in PostgreSQL using Java?
 
 ## 2026-06-13 (05:23)
 How to parse json-file with spring batch?
+
+## 2026-06-13 (06:32)
+Transform polar-MGRS Coordinates into WGS84 Lat Lon (java)
+
+## 2026-06-13 (06:32)
+How do I properly handle UTF8 encoded CSV files
+
+## 2026-06-13 (06:32)
+Visual Studio Code: Supplied javaHome must be a valid directory. You supplied: D:\jdk
+
+## 2026-06-13 (06:32)
+driver = new AndroidDriver(new URL(&quot;http://127.0.0.1:4723/wd/hub&quot;), capabilities); in appium
