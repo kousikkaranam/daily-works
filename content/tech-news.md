@@ -1288,3 +1288,6 @@
 
 ## 2026-06-13 (05:23)
 - [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+
+## 2026-06-13 (05:23)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
