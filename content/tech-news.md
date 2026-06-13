@@ -1291,3 +1291,6 @@
 
 ## 2026-06-13 (05:23)
 - [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+
+## 2026-06-13 (05:23)
+- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)

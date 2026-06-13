@@ -1664,3 +1664,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-13 (05:23)
 > "It shouldn’t be like this. How can I be so useless? Nothing has changed at all. Whether it’s my game console or a friend’s cat. I even failed to protect a junior."
 > — Kafka Hibino (Kaiju No. 8)
+
+## 2026-06-13 (05:23)
+> "If you only feel fear after knowing both the abilities of your enemy and yourself, flee with your tail between your legs. However, if you're going to stand firm and fight with a focused mind, you will definitely have victory within reach."
+> — Fullmetal Alchemist: Brotherhood (Fullmetal Alchemist: Brotherhood)

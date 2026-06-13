@@ -1127,3 +1127,6 @@ Custom OutputStreamAppender not run: LOGBACK: No context given for &lt;MYAPPENDE
 
 ## 2026-06-13 (05:23)
 What is the most recommended way to store time in PostgreSQL using Java?
+
+## 2026-06-13 (05:23)
+How to parse json-file with spring batch?
