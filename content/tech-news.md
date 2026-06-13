@@ -1285,3 +1285,6 @@
 
 ## 2026-06-13 (05:23)
 - [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
+
+## 2026-06-13 (05:23)
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
