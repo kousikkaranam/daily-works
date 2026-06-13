@@ -1306,3 +1306,6 @@
 
 ## 2026-06-13 (06:32)
 - [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+
+## 2026-06-13 (08:17)
+- [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)

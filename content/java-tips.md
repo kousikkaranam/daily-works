@@ -1142,3 +1142,6 @@ Visual Studio Code: Supplied javaHome must be a valid directory. You supplied: D
 
 ## 2026-06-13 (06:32)
 driver = new AndroidDriver(new URL(&quot;http://127.0.0.1:4723/wd/hub&quot;), capabilities); in appium
+
+## 2026-06-13 (08:17)
+Return &quot;text/plain&quot; while ignoring &#x27;Accept&#x27; header
