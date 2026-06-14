@@ -1151,3 +1151,6 @@ Spring Repository giving &quot;ORA-02289: sequence does not exist&quot; on an ex
 
 ## 2026-06-14 (05:55)
 driver = new AndroidDriver(new URL(&quot;http://127.0.0.1:4723/wd/hub&quot;), capabilities); in appium [closed]
+
+## 2026-06-14 (11:16)
+How to iterate through a spark dataset and update a column value in Java?

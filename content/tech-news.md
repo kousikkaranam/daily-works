@@ -1315,3 +1315,6 @@
 
 ## 2026-06-14 (05:55)
 - [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
+
+## 2026-06-14 (11:16)
+- [Tribblix: The retro Illumos distribution](http://tribblix.org/)
