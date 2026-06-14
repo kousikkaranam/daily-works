@@ -1312,3 +1312,6 @@
 
 ## 2026-06-13 (16:46)
 - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+
+## 2026-06-14 (05:55)
+- [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)

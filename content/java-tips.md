@@ -1148,3 +1148,6 @@ Return &quot;text/plain&quot; while ignoring &#x27;Accept&#x27; header
 
 ## 2026-06-13 (16:46)
 Spring Repository giving &quot;ORA-02289: sequence does not exist&quot; on an existent sequence, but shows lowercase name in error
+
+## 2026-06-14 (05:55)
+driver = new AndroidDriver(new URL(&quot;http://127.0.0.1:4723/wd/hub&quot;), capabilities); in appium [closed]
