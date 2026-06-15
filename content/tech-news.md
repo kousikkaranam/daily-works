@@ -1321,3 +1321,6 @@
 
 ## 2026-06-15 (07:39)
 - [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+
+## 2026-06-15 (14:47)
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)

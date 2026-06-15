@@ -1157,3 +1157,6 @@ How to iterate through a spark dataset and update a column value in Java?
 
 ## 2026-06-15 (07:39)
 Parameter &#x27;directory&#x27; is not a directory for a parameter which is a directory
+
+## 2026-06-15 (14:47)
+Is there a way to give Device Owner Permission in app without running it in Kiosk Mode?
