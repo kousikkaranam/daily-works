@@ -1154,3 +1154,6 @@ driver = new AndroidDriver(new URL(&quot;http://127.0.0.1:4723/wd/hub&quot;), ca
 
 ## 2026-06-14 (11:16)
 How to iterate through a spark dataset and update a column value in Java?
+
+## 2026-06-15 (07:39)
+Parameter &#x27;directory&#x27; is not a directory for a parameter which is a directory
