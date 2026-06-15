@@ -1318,3 +1318,6 @@
 
 ## 2026-06-14 (11:16)
 - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
+
+## 2026-06-15 (07:39)
+- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
