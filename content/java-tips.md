@@ -1163,3 +1163,6 @@ Is there a way to give Device Owner Permission in app without running it in Kios
 
 ## 2026-06-16 (06:36)
 How to make .publishOn(boundedElastic()) conditionally
+
+## 2026-06-16 (07:43)
+How to modify prometheus exposed metric names using Actuator in Spring-boot 2

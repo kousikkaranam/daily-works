@@ -1327,3 +1327,6 @@
 
 ## 2026-06-16 (06:36)
 - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?]()
+
+## 2026-06-16 (07:43)
+- [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
