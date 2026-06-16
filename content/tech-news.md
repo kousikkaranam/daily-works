@@ -1324,3 +1324,6 @@
 
 ## 2026-06-15 (14:47)
 - [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+
+## 2026-06-16 (06:36)
+- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?]()
