@@ -1166,3 +1166,6 @@ How to make .publishOn(boundedElastic()) conditionally
 
 ## 2026-06-16 (07:43)
 How to modify prometheus exposed metric names using Actuator in Spring-boot 2
+
+## 2026-06-16 (18:57)
+Spring Security deprecated issue

@@ -1333,3 +1333,6 @@
 
 ## 2026-06-16 (13:17)
 - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
+
+## 2026-06-16 (18:57)
+- [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
