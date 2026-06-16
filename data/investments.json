@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-07",
-    "time": "10:55",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.95,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 44.88,
-        "currency": "INR"
-      },
-      {
-        "name": "ZEE ENTERTAINMENT ENT LTD",
-        "symbol": "ZEEL.NS",
-        "price": 112.27,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 205.1,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 14.38,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 99.17,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 62354,
-    "ethereum_usd": 1625.64,
-    "gold_inr_10g": 132628.13
-  },
-  {
-    "date": "2026-06-07",
     "time": "16:44",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 66543,
     "ethereum_usd": 1812.99,
     "gold_inr_10g": 133342.28
+  },
+  {
+    "date": "2026-06-16",
+    "time": "06:36",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.6,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 57.75,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 23.9,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 15.46,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 14.82,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 127.86,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 66304,
+    "ethereum_usd": 1766.59,
+    "gold_inr_10g": 131513.83
   }
 ]

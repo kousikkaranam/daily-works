@@ -1160,3 +1160,6 @@ Parameter &#x27;directory&#x27; is not a directory for a parameter which is a di
 
 ## 2026-06-15 (14:47)
 Is there a way to give Device Owner Permission in app without running it in Kiosk Mode?
+
+## 2026-06-16 (06:36)
+How to make .publishOn(boundedElastic()) conditionally
