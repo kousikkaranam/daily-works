@@ -1330,3 +1330,6 @@
 
 ## 2026-06-16 (07:43)
 - [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+
+## 2026-06-16 (13:17)
+- [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
