@@ -1345,3 +1345,6 @@
 
 ## 2026-06-17 (12:40)
 - [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
+
+## 2026-06-17 (17:58)
+- [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
