@@ -1178,3 +1178,6 @@ How to deal with file uploading in test automation using selenium or webdriver
 
 ## 2026-06-17 (12:40)
 Spring boot version 3.0.0 is not working with jaeger 3.3.1 (latest version)
+
+## 2026-06-17 (17:58)
+How to implement atomic IO in your own DBMS?
