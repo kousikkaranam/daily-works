@@ -1728,3 +1728,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-17 (06:20)
 > "Don't judge me unless you have looked through my eyes, experienced what I went through and cried as many tears as me. Until then back-off, cause you have no idea."
 > — Lucy Heartfilia (Fairy Tail)
+
+## 2026-06-17 (07:27)
+> "If it's going to be a relationship of hardship and mental agony, you should put an end to it."
+> — Masafumi Takeuchi (We Were There)

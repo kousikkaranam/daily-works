@@ -1172,3 +1172,6 @@ Spring Security deprecated issue
 
 ## 2026-06-17 (06:20)
 How to stop Google sheet from auto convert dates to numbers?
+
+## 2026-06-17 (07:27)
+How to deal with file uploading in test automation using selenium or webdriver
