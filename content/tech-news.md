@@ -1342,3 +1342,6 @@
 
 ## 2026-06-17 (07:27)
 - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+
+## 2026-06-17 (12:40)
+- [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
