@@ -1336,3 +1336,6 @@
 
 ## 2026-06-16 (18:57)
 - [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
+
+## 2026-06-17 (06:20)
+- [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)

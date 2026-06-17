@@ -1169,3 +1169,6 @@ How to modify prometheus exposed metric names using Actuator in Spring-boot 2
 
 ## 2026-06-16 (18:57)
 Spring Security deprecated issue
+
+## 2026-06-17 (06:20)
+How to stop Google sheet from auto convert dates to numbers?
