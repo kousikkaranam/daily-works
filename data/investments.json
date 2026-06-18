@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-06-10",
-    "time": "12:00",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.88,
-        "currency": "INR"
-      },
-      {
-        "name": "EASY TRIP PLANNERS LTD",
-        "symbol": "EASEMYTRIP.NS",
-        "price": 8.82,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 47.32,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 13.85,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 208.19,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 14.09,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 60999,
-    "ethereum_usd": 1619.02,
-    "gold_inr_10g": 127254.98
-  },
-  {
     "date": "2026-06-11",
     "time": "05:55",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 63921,
     "ethereum_usd": 1729.14,
     "gold_inr_10g": 131158.13
+  },
+  {
+    "date": "2026-06-18",
+    "time": "07:09",
+    "top_indian": [
+      {
+        "name": "IFCI LTD",
+        "symbol": "IFCI.NS",
+        "price": 84.34,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 25.46,
+        "currency": "INR"
+      },
+      {
+        "name": "BHARAT COKING COAL LTD",
+        "symbol": "BHARATCOAL.NS",
+        "price": 43.68,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 191.82,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 15.42,
+        "currency": "USD"
+      },
+      {
+        "name": "SoFi Technologies, Inc.",
+        "symbol": "SOFI",
+        "price": 17.42,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64009,
+    "ethereum_usd": 1732.82,
+    "gold_inr_10g": 131024.21
   }
 ]

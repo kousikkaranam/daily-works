@@ -1184,3 +1184,6 @@ How to implement atomic IO in your own DBMS?
 
 ## 2026-06-18 (05:59)
 Accessing Private methods in subclass using super class reference
+
+## 2026-06-18 (07:09)
+JAVA_HOME is set, but Java command is still not recognized [duplicate]
