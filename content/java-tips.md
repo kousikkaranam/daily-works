@@ -1187,3 +1187,6 @@ Accessing Private methods in subclass using super class reference
 
 ## 2026-06-18 (07:09)
 JAVA_HOME is set, but Java command is still not recognized [duplicate]
+
+## 2026-06-18 (18:10)
+Caused by: java.lang.ClassNotFoundException: org.apache.camel.impl.BreakpointSupport
