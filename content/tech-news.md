@@ -1351,3 +1351,6 @@
 
 ## 2026-06-18 (05:59)
 - [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
+
+## 2026-06-18 (07:09)
+- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
