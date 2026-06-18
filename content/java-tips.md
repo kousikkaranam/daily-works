@@ -1181,3 +1181,6 @@ Spring boot version 3.0.0 is not working with jaeger 3.3.1 (latest version)
 
 ## 2026-06-17 (17:58)
 How to implement atomic IO in your own DBMS?
+
+## 2026-06-18 (05:59)
+Accessing Private methods in subclass using super class reference

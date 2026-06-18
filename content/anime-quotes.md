@@ -1740,3 +1740,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-17 (17:58)
 > "Now listen up, any power that surpasses reason, still comes from reason, right? Magic isn't some kind of miraculous power. It is a talent that only works when the flow of energy inside of us and the flow of energy in the natural world are in perfect synchronization. To perform magic one must have a strong mind and the ability to focus. It should take over your being and come pouring out of your soul! If all we do is worry about following rules, then our magic will never progress."
 > — Makarov Dreyar (Fairy Tail)
+
+## 2026-06-18 (05:59)
+> "We should work towards world peace. Like giving everyone in the world an Upa cushion."
+> — Mayuri Shiina (Steins Gate)
