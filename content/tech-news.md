@@ -1354,3 +1354,6 @@
 
 ## 2026-06-18 (07:09)
 - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+
+## 2026-06-18 (18:10)
+- [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
