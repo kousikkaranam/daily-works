@@ -1348,3 +1348,6 @@
 
 ## 2026-06-17 (17:58)
 - [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
+
+## 2026-06-18 (05:59)
+- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
