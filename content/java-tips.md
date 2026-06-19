@@ -1190,3 +1190,6 @@ JAVA_HOME is set, but Java command is still not recognized [duplicate]
 
 ## 2026-06-18 (18:10)
 Caused by: java.lang.ClassNotFoundException: org.apache.camel.impl.BreakpointSupport
+
+## 2026-06-19 (07:29)
+Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException:
