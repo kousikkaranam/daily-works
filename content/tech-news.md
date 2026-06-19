@@ -1363,3 +1363,6 @@
 
 ## 2026-06-19 (12:35)
 - [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10)
+
+## 2026-06-19 (17:26)
+- [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)

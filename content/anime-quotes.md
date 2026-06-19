@@ -1756,3 +1756,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-19 (12:35)
 > "You know... you really are something... (to Tohru)"
 > — Sohma Kyo (Fruits Basket)
+
+## 2026-06-19 (17:26)
+> "(to Komuro Takashi) In a war like this, there is no surrender or shit like that."
+> — Kouta Hirano (Highschool Of The Dead)
