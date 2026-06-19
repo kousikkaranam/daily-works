@@ -1360,3 +1360,6 @@
 
 ## 2026-06-19 (07:29)
 - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+
+## 2026-06-19 (12:35)
+- [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10)

@@ -1193,3 +1193,6 @@ Caused by: java.lang.ClassNotFoundException: org.apache.camel.impl.BreakpointSup
 
 ## 2026-06-19 (07:29)
 Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException:
+
+## 2026-06-19 (12:35)
+Gradle compile dependency is not added to classpath
