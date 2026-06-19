@@ -1357,3 +1357,6 @@
 
 ## 2026-06-18 (18:10)
 - [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
+
+## 2026-06-19 (07:29)
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
