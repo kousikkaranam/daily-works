@@ -1390,3 +1390,6 @@
 
 ## 2026-06-20 (06:41)
 - [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+
+## 2026-06-20 (08:18)
+- [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
