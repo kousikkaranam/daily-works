@@ -1760,3 +1760,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-19 (17:26)
 > "(to Komuro Takashi) In a war like this, there is no surrender or shit like that."
 > — Kouta Hirano (Highschool Of The Dead)
+
+## 2026-06-20 (05:20)
+> "Someone who cannot hate something, cannot love something, either."
+> — Yang Wenli (Legend of the Galactic Heroes)
+
+## 2026-06-20 (05:20)
+> "This little girl, who's not even half my size... taught me that tears can flow even from these silver eyes."
+> — Teresa (Claymore)
+
+## 2026-06-20 (05:20)
+> "Rules exist to make the game more interesting. You, who don't know basic things like that, have no right to create the systems people play by."
+> — Kagami Junichirou (Ultimate Otaku Teacher)
+
+## 2026-06-20 (05:20)
+> "I'm Tired...of Eatin' Stuff Like Toast with Jam for Breakfast...!"
+> — Denji (Chainsaw Man)
