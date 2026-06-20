@@ -1393,3 +1393,6 @@
 
 ## 2026-06-20 (08:18)
 - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
+
+## 2026-06-20 (11:02)
+- [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)

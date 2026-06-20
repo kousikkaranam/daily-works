@@ -1796,3 +1796,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-20 (08:18)
 > "Crazy baby."
 > — TK (Angel Beats!)
+
+## 2026-06-20 (11:02)
+> "Old man, everyone!! And you.. Luffy. Even though I've been good for nothing my whole life, even though I have the blood of a demon within me... You guys still loved me! Thank you so much!!"
+> — Portgas D. Ace (One Piece)
