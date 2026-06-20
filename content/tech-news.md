@@ -1381,3 +1381,6 @@
 
 ## 2026-06-20 (06:41)
 - [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+
+## 2026-06-20 (06:41)
+- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)

@@ -1780,3 +1780,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-20 (06:41)
 > "Why are you staring at me? Are you annoyed that I am the only one who has cake?"
 > — L Lawliet (Death Note)
+
+## 2026-06-20 (06:41)
+> "The strong don't win. The winners are the strong ones."
+> — Tsutomu Iwamura (Kuroko's Basketball - duplicate)
