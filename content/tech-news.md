@@ -1378,3 +1378,15 @@
 
 ## 2026-06-20 (05:20)
 - [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
+
+## 2026-06-20 (06:41)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+
+## 2026-06-20 (06:41)
+- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+
+## 2026-06-20 (06:41)
+- [The discovery that changed how scientists think about memory – IBM](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize)
+
+## 2026-06-20 (06:41)
+- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)

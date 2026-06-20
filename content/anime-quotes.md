@@ -1776,3 +1776,19 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-20 (05:20)
 > "I'm Tired...of Eatin' Stuff Like Toast with Jam for Breakfast...!"
 > — Denji (Chainsaw Man)
+
+## 2026-06-20 (06:41)
+> "Why are you staring at me? Are you annoyed that I am the only one who has cake?"
+> — L Lawliet (Death Note)
+
+## 2026-06-20 (06:41)
+> "The strong don't win. The winners are the strong ones."
+> — Tsutomu Iwamura (Kuroko's Basketball - duplicate)
+
+## 2026-06-20 (06:41)
+> "Gravel may be gravel, but me? I’m gravel that shatters diamonds!"
+> — Asta (Black Clover)
+
+## 2026-06-20 (06:41)
+> "[to Luppi] Hyourinmaru is the strongest of all ice-type Zanpakutoes. Your weapon may have eight arms, but mine is all the water in the atmosphere! Sennen Hyourou!! [causes several pillars of ice to form, before using them to crush Luppi] Sorry. Eight wasn't enough."
+> — Toushirou Hitsugaya (Bleach)
