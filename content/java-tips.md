@@ -1202,3 +1202,6 @@ Java process RSS &amp; MALLOC_ARENA_MAX relation
 
 ## 2026-06-20 (05:20)
 way to show plantuml diagram on markdown viewer of visual studio code [closed]
+
+## 2026-06-20 (05:20)
+Merge Sort count number of swaps and compares
