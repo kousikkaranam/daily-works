@@ -1768,3 +1768,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-20 (05:20)
 > "This little girl, who's not even half my size... taught me that tears can flow even from these silver eyes."
 > — Teresa (Claymore)
+
+## 2026-06-20 (05:20)
+> "Rules exist to make the game more interesting. You, who don't know basic things like that, have no right to create the systems people play by."
+> — Kagami Junichirou (Ultimate Otaku Teacher)

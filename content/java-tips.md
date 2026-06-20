@@ -1205,3 +1205,6 @@ way to show plantuml diagram on markdown viewer of visual studio code [closed]
 
 ## 2026-06-20 (05:20)
 Merge Sort count number of swaps and compares
+
+## 2026-06-20 (05:20)
+How to fix &quot;TLS Version 1.0 Protocol Detection and TLS Version 1.1 Protocol Deprecated&quot; Nessus Scan Vulnerability
