@@ -1387,3 +1387,6 @@
 
 ## 2026-06-20 (06:41)
 - [The discovery that changed how scientists think about memory – IBM](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize)
+
+## 2026-06-20 (06:41)
+- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
