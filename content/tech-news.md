@@ -1396,3 +1396,6 @@
 
 ## 2026-06-20 (11:02)
 - [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)
+
+## 2026-06-20 (16:51)
+- [Mencius (2016)](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)

@@ -1217,3 +1217,6 @@ Minecraft Forge Mod: gradle task failed, &quot;Could not resolve dependency: net
 
 ## 2026-06-20 (11:02)
 Is there anyway to get .mp4 and .png url of pinterest pins?
+
+## 2026-06-20 (16:51)
+How to resolve java.sql.SQLRecoverableException: IO Error: Connection timed out
