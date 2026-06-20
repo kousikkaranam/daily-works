@@ -1208,3 +1208,6 @@ Merge Sort count number of swaps and compares
 
 ## 2026-06-20 (05:20)
 How to fix &quot;TLS Version 1.0 Protocol Detection and TLS Version 1.1 Protocol Deprecated&quot; Nessus Scan Vulnerability
+
+## 2026-06-20 (06:41)
+Java Consider defining a bean of type in your configuration exception when add mongoDB support

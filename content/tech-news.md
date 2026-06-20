@@ -1378,3 +1378,6 @@
 
 ## 2026-06-20 (05:20)
 - [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
+
+## 2026-06-20 (06:41)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
