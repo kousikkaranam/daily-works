@@ -1760,3 +1760,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-19 (17:26)
 > "(to Komuro Takashi) In a war like this, there is no surrender or shit like that."
 > — Kouta Hirano (Highschool Of The Dead)
+
+## 2026-06-20 (05:20)
+> "Someone who cannot hate something, cannot love something, either."
+> — Yang Wenli (Legend of the Galactic Heroes)

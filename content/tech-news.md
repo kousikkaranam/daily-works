@@ -1366,3 +1366,6 @@
 
 ## 2026-06-19 (17:26)
 - [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
+
+## 2026-06-20 (05:20)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
