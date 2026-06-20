@@ -1384,3 +1384,6 @@
 
 ## 2026-06-20 (06:41)
 - [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+
+## 2026-06-20 (06:41)
+- [The discovery that changed how scientists think about memory – IBM](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize)
