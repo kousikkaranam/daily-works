@@ -1399,3 +1399,6 @@
 
 ## 2026-06-20 (16:51)
 - [Mencius (2016)](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
+
+## 2026-06-21 (06:07)
+- [Proportion-Integral-Derivative Controllers](https://en.wikipedia.org/wiki/PID_controller)

@@ -1804,3 +1804,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-20 (16:51)
 > "If you forced someone to do something they didn’t want to do, they’d just end up hating life."
 > — Chihiro Sengoku (The Pet Girl of Sakurasou)
+
+## 2026-06-21 (06:07)
+> "More than anyone else, humanity is a species which looks forward to tomorrow. Because of their dreams, they can bear with the unjustness of the present."
+> — Rory Mercury (GATE)
