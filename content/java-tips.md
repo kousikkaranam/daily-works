@@ -1223,3 +1223,6 @@ How to resolve java.sql.SQLRecoverableException: IO Error: Connection timed out
 
 ## 2026-06-21 (06:07)
 Parsing escaped JSON String org.json.JSONException: Missing value at character 1
+
+## 2026-06-21 (11:34)
+Java string comparison using bitwise xor
