@@ -1405,3 +1405,6 @@
 
 ## 2026-06-21 (07:10)
 - [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+
+## 2026-06-21 (11:34)
+- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
