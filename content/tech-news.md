@@ -1408,3 +1408,6 @@
 
 ## 2026-06-21 (11:34)
 - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+
+## 2026-06-21 (16:54)
+- [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
