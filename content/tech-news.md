@@ -1411,3 +1411,6 @@
 
 ## 2026-06-21 (16:54)
 - [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
+
+## 2026-06-22 (06:33)
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)

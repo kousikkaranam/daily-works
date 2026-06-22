@@ -1226,3 +1226,6 @@ Parsing escaped JSON String org.json.JSONException: Missing value at character 1
 
 ## 2026-06-21 (11:34)
 Java string comparison using bitwise xor
+
+## 2026-06-22 (06:33)
+Cannot apply class transformer without LoadTimeWeaver specified
