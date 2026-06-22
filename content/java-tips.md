@@ -1235,3 +1235,6 @@ spring batch :How it works in distributed environemnt
 
 ## 2026-06-22 (14:19)
 Does GridDB load the entire result set into memory when query.fetch() is called?
+
+## 2026-06-22 (18:52)
+How to verify/compare 2 values in Selenium?

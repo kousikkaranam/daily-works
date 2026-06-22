@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-16",
-    "time": "13:17",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.62,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 57.92,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 14.04,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 15.46,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 14.82,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 127.86,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 66191,
-    "ethereum_usd": 1804.08,
-    "gold_inr_10g": 132208.05
-  },
-  {
-    "date": "2026-06-16",
     "time": "18:57",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 65148,
     "ethereum_usd": 1762.84,
     "gold_inr_10g": 127459.07
+  },
+  {
+    "date": "2026-06-22",
+    "time": "18:52",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.82,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 24.96,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 18.22,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 16.275,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 163.1,
+        "currency": "USD"
+      },
+      {
+        "name": "Super Micro Computer, Inc.",
+        "symbol": "SMCI",
+        "price": 35.975,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64385,
+    "ethereum_usd": 1734.62,
+    "gold_inr_10g": 127264.81
   }
 ]
