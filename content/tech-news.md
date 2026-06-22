@@ -1420,3 +1420,6 @@
 
 ## 2026-06-22 (14:19)
 - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+
+## 2026-06-22 (18:52)
+- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
