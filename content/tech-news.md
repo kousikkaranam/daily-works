@@ -1414,3 +1414,6 @@
 
 ## 2026-06-22 (06:33)
 - [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+
+## 2026-06-22 (07:41)
+- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)

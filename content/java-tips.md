@@ -1229,3 +1229,6 @@ Java string comparison using bitwise xor
 
 ## 2026-06-22 (06:33)
 Cannot apply class transformer without LoadTimeWeaver specified
+
+## 2026-06-22 (07:41)
+spring batch :How it works in distributed environemnt
