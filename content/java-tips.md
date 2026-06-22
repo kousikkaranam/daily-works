@@ -1232,3 +1232,6 @@ Cannot apply class transformer without LoadTimeWeaver specified
 
 ## 2026-06-22 (07:41)
 spring batch :How it works in distributed environemnt
+
+## 2026-06-22 (14:19)
+Does GridDB load the entire result set into memory when query.fetch() is called?
