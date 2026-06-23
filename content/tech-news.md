@@ -1426,3 +1426,6 @@
 
 ## 2026-06-23 (05:06)
 - [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
+
+## 2026-06-23 (11:44)
+- [Plotnine](https://plotnine.org/)
