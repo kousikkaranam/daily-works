@@ -1238,3 +1238,6 @@ Does GridDB load the entire result set into memory when query.fetch() is called?
 
 ## 2026-06-22 (18:52)
 How to verify/compare 2 values in Selenium?
+
+## 2026-06-23 (05:06)
+HikariPool-1 - Connection is not available, request timed out after
