@@ -1241,3 +1241,6 @@ How to verify/compare 2 values in Selenium?
 
 ## 2026-06-23 (05:06)
 HikariPool-1 - Connection is not available, request timed out after
+
+## 2026-06-23 (11:44)
+Can you configure Spring controller specific Jackson deserialization?
