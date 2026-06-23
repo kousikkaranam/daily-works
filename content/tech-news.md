@@ -1423,3 +1423,6 @@
 
 ## 2026-06-22 (18:52)
 - [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+
+## 2026-06-23 (05:06)
+- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
