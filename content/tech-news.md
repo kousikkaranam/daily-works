@@ -1429,3 +1429,6 @@
 
 ## 2026-06-23 (11:44)
 - [Plotnine](https://plotnine.org/)
+
+## 2026-06-24 (05:04)
+- [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html)
