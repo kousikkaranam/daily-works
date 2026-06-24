@@ -1247,3 +1247,6 @@ Can you configure Spring controller specific Jackson deserialization?
 
 ## 2026-06-24 (05:04)
 Oracle TRUNC(date) vs PostgreSQL TRUNC(numeric) behavior in jOOQ (3.19.6) &#x2014; better approach than rewriting via parserListener?
+
+## 2026-06-24 (06:16)
+Is there a way to compress a string into a smaller string with reversibility?

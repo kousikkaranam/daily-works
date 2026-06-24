@@ -1432,3 +1432,6 @@
 
 ## 2026-06-24 (05:04)
 - [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html)
+
+## 2026-06-24 (06:16)
+- [Jerry's Map](http://www.jerrysmap.com/the-map)

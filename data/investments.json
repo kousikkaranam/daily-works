@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-17",
-    "time": "12:40",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.92,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 25.11,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 90.07,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 201.8,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 15.71,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 13.98,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64759,
-    "ethereum_usd": 1750.81,
-    "gold_inr_10g": 131768.44
-  },
-  {
-    "date": "2026-06-17",
     "time": "17:58",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 62712,
     "ethereum_usd": 1668.58,
     "gold_inr_10g": 123853.65
+  },
+  {
+    "date": "2026-06-24",
+    "time": "06:16",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.44,
+        "currency": "INR"
+      },
+      {
+        "name": "ROTO PUMPS LIMITED",
+        "symbol": "ROTO.NS",
+        "price": 75.89,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 24.93,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 16.14,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 156.11,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 132.28,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62762,
+    "ethereum_usd": 1671.63,
+    "gold_inr_10g": null
   }
 ]
