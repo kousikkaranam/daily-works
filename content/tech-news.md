@@ -1435,3 +1435,6 @@
 
 ## 2026-06-24 (06:16)
 - [Jerry's Map](http://www.jerrysmap.com/the-map)
+
+## 2026-06-24 (11:29)
+- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
