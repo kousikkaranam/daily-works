@@ -1244,3 +1244,6 @@ HikariPool-1 - Connection is not available, request timed out after
 
 ## 2026-06-23 (11:44)
 Can you configure Spring controller specific Jackson deserialization?
+
+## 2026-06-24 (05:04)
+Oracle TRUNC(date) vs PostgreSQL TRUNC(numeric) behavior in jOOQ (3.19.6) &#x2014; better approach than rewriting via parserListener?
