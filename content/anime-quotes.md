@@ -1856,3 +1856,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-25 (05:08)
 > "If you walk down the path that you believe is right, you cannot be wrong."
 > — Emiya Shirou (Fate/stay night)
+
+## 2026-06-25 (11:23)
+> "Battle was a thing which was won by living and which was lost by dying."
+> — Gate: Jieitai Kanochi nite Kaku Tatakaeri (GATE)
