@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-18",
-    "time": "05:59",
-    "top_indian": [
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 25.5,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 87.0,
-        "currency": "INR"
-      },
-      {
-        "name": "BHARAT COKING COAL LTD",
-        "symbol": "BHARATCOAL.NS",
-        "price": 43.04,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 191.82,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 15.42,
-        "currency": "USD"
-      },
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 17.42,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63921,
-    "ethereum_usd": 1729.14,
-    "gold_inr_10g": 131158.13
-  },
-  {
-    "date": "2026-06-18",
     "time": "07:09",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 62318,
     "ethereum_usd": 1656.21,
     "gold_inr_10g": 123335.43
+  },
+  {
+    "date": "2026-06-25",
+    "time": "05:08",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.24,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 20.81,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTHERSON SUMI WRNG IND L",
+        "symbol": "MSUMI.NS",
+        "price": 40.13,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.44,
+        "currency": "USD"
+      },
+      {
+        "name": "SoFi Technologies, Inc.",
+        "symbol": "SOFI",
+        "price": 17.31,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 199.0,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 61442,
+    "ethereum_usd": 1641.14,
+    "gold_inr_10g": 121568.05
   }
 ]
