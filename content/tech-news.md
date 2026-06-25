@@ -1438,3 +1438,6 @@
 
 ## 2026-06-24 (11:29)
 - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+
+## 2026-06-25 (05:08)
+- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)

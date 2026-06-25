@@ -1253,3 +1253,6 @@ Is there a way to compress a string into a smaller string with reversibility?
 
 ## 2026-06-24 (11:29)
 Compiling android studio failed
+
+## 2026-06-25 (05:08)
+Realm does not save attributes, object is not managed although copied to Realm
