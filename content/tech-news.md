@@ -1444,3 +1444,6 @@
 
 ## 2026-06-25 (11:23)
 - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+
+## 2026-06-25 (17:23)
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)

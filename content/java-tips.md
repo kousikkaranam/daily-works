@@ -1259,3 +1259,6 @@ Realm does not save attributes, object is not managed although copied to Realm
 
 ## 2026-06-25 (11:23)
 Mockito when and verify method difference
+
+## 2026-06-25 (17:23)
+PSQLException: FATAL: database &quot;mydb&quot; does not exist
