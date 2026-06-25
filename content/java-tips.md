@@ -1256,3 +1256,6 @@ Compiling android studio failed
 
 ## 2026-06-25 (05:08)
 Realm does not save attributes, object is not managed although copied to Realm
+
+## 2026-06-25 (11:23)
+Mockito when and verify method difference

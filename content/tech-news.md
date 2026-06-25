@@ -1441,3 +1441,6 @@
 
 ## 2026-06-25 (05:08)
 - [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+
+## 2026-06-25 (11:23)
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
