@@ -1447,3 +1447,6 @@
 
 ## 2026-06-25 (17:23)
 - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+
+## 2026-06-26 (05:13)
+- [Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB]()
