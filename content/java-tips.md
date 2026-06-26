@@ -1268,3 +1268,6 @@ Obtain Bearer token, using only Client ID and Secret. Is it possible
 
 ## 2026-06-26 (11:32)
 how to code a car shape of a f1 car moving on a track like f1 circuit
+
+## 2026-06-26 (17:08)
+sparkR: Error while instantiating &#x27;org.apache.spark.sql.hive.HiveSessionState&#x27;:

@@ -1456,3 +1456,6 @@
 
 ## 2026-06-26 (11:32)
 - [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+
+## 2026-06-26 (17:08)
+- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
