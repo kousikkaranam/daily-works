@@ -1453,3 +1453,6 @@
 
 ## 2026-06-26 (06:29)
 - [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+
+## 2026-06-26 (11:32)
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
