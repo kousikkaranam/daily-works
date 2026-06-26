@@ -1450,3 +1450,6 @@
 
 ## 2026-06-26 (05:13)
 - [Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB]()
+
+## 2026-06-26 (06:29)
+- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
