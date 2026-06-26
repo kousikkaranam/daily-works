@@ -1262,3 +1262,6 @@ Mockito when and verify method difference
 
 ## 2026-06-25 (17:23)
 PSQLException: FATAL: database &quot;mydb&quot; does not exist
+
+## 2026-06-26 (06:29)
+Obtain Bearer token, using only Client ID and Secret. Is it possible
