@@ -1283,3 +1283,6 @@ Unable to find method void org.jetbrains.kotlin.gradle.dsl.KotlinJvmOptions.setU
 
 ## 2026-06-27 (04:56)
 Compile error in jasper report-Error&#xA0;filling&#xA0;print
+
+## 2026-06-27 (04:56)
+Why is using --module-path so much slower than using --class-path?
