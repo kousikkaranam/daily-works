@@ -1277,3 +1277,6 @@ How to use knimatic character controller in first person camera?
 
 ## 2026-06-27 (04:56)
 Struts : call a a method of DispatchAction from another DispatchAction
+
+## 2026-06-27 (04:56)
+Unable to find method void org.jetbrains.kotlin.gradle.dsl.KotlinJvmOptions.setUseIR(boolean)
