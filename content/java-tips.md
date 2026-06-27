@@ -1274,3 +1274,6 @@ sparkR: Error while instantiating &#x27;org.apache.spark.sql.hive.HiveSessionSta
 
 ## 2026-06-27 (04:56)
 How to use knimatic character controller in first person camera?
+
+## 2026-06-27 (04:56)
+Struts : call a a method of DispatchAction from another DispatchAction
