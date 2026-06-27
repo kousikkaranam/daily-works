@@ -1876,3 +1876,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-26 (17:08)
 > "If you still love her, I can't help that, but don't meddle with her half-heartedly. If you can surpress your feelings, then leave it."
 > — Shuuko Murao (Blue Spring Ride)
+
+## 2026-06-27 (04:56)
+> "This strength doesn't make any sense. It's not fair. It's like he's made up of the world's unfairness. As if he is the personification of justice... of course. Didn't I already know? This world is unfair. Justice and evil are decided by others. That's how the world is. To oppose the unfair power known as justice, I have to obtain the unfair power known as evil. To defeat the unfair beings known as heroes I have to become an unfair being myself!"
+> — Garou (One Punch Man)

@@ -1459,3 +1459,6 @@
 
 ## 2026-06-26 (17:08)
 - [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
+
+## 2026-06-27 (04:56)
+- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
