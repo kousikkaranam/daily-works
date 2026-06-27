@@ -1,194 +1,6 @@
 [
   {
     "date": "2026-06-20",
-    "time": "06:41",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.92,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 85.73,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.48,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 185.0,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 133.99,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 210.69,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63670,
-    "ethereum_usd": 1724.31,
-    "gold_inr_10g": 126198.71
-  },
-  {
-    "date": "2026-06-20",
-    "time": "06:41",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.92,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 85.73,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.48,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 185.0,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 133.99,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 210.69,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63670,
-    "ethereum_usd": 1724.31,
-    "gold_inr_10g": 126198.71
-  },
-  {
-    "date": "2026-06-20",
-    "time": "06:41",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.92,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 85.73,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.48,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 185.0,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 133.99,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 210.69,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63670,
-    "ethereum_usd": 1724.31,
-    "gold_inr_10g": 126198.71
-  },
-  {
-    "date": "2026-06-20",
-    "time": "08:18",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.92,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 85.73,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.48,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 185.0,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 133.99,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 210.69,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63494,
-    "ethereum_usd": 1723.65,
-    "gold_inr_10g": 126198.71
-  },
-  {
-    "date": "2026-06-20",
     "time": "11:02",
     "top_indian": [
       {
@@ -1407,6 +1219,194 @@
     ],
     "bitcoin_usd": 60202,
     "ethereum_usd": 1578.19,
+    "gold_inr_10g": 124222.01
+  },
+  {
+    "date": "2026-06-27",
+    "time": "06:01",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.05,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTHERSON SUMI WRNG IND L",
+        "symbol": "MSUMI.NS",
+        "price": 41.03,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 21.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Hecla Mining Company",
+        "symbol": "HL",
+        "price": 15.54,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60160,
+    "ethereum_usd": 1576.61,
+    "gold_inr_10g": 124222.01
+  },
+  {
+    "date": "2026-06-27",
+    "time": "06:02",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.05,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTHERSON SUMI WRNG IND L",
+        "symbol": "MSUMI.NS",
+        "price": 41.03,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 21.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Hecla Mining Company",
+        "symbol": "HL",
+        "price": 15.54,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60160,
+    "ethereum_usd": 1576.61,
+    "gold_inr_10g": 124222.01
+  },
+  {
+    "date": "2026-06-27",
+    "time": "06:02",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.05,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTHERSON SUMI WRNG IND L",
+        "symbol": "MSUMI.NS",
+        "price": 41.03,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 21.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Hecla Mining Company",
+        "symbol": "HL",
+        "price": 15.54,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60160,
+    "ethereum_usd": 1576.61,
+    "gold_inr_10g": 124222.01
+  },
+  {
+    "date": "2026-06-27",
+    "time": "06:02",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.05,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTHERSON SUMI WRNG IND L",
+        "symbol": "MSUMI.NS",
+        "price": 41.03,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 21.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Hecla Mining Company",
+        "symbol": "HL",
+        "price": 15.54,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60160,
+    "ethereum_usd": 1576.61,
     "gold_inr_10g": 124222.01
   }
 ]

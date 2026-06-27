@@ -1896,3 +1896,15 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-27 (04:56)
 > "Aw, man. You're such a friggin' disgrace. I can't believe I spent so much time trying to defeat such a coward. Now get up and fight!"
 > — Kazuma Kuwabara (Yu Yu Hakusho)
+
+## 2026-06-27 (06:01)
+> "Adoration never leads to a balanced relationship."
+> — Ami Kawashima (Toradora!)
+
+## 2026-06-27 (06:02)
+> "I want to possess her...to make her belong to me, and only me. (about Rin)"
+> — Sohma Hatsuharu (Fruits Basket)
+
+## 2026-06-27 (06:02)
+> "I like you. I came here to get rejected properly. To end this, so I can move forward. To make me convinced of this broken heart, I want to get rejected properly."
+> — Yoshioka Futaba (Blue Spring Ride)
