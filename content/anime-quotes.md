@@ -1900,3 +1900,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-27 (06:01)
 > "Adoration never leads to a balanced relationship."
 > — Ami Kawashima (Toradora!)
+
+## 2026-06-27 (06:02)
+> "I want to possess her...to make her belong to me, and only me. (about Rin)"
+> — Sohma Hatsuharu (Fruits Basket)
