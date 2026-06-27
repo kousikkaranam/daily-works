@@ -1486,3 +1486,6 @@
 
 ## 2026-06-27 (06:02)
 - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+
+## 2026-06-27 (07:43)
+- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)

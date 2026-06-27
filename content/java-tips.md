@@ -1286,3 +1286,6 @@ Compile error in jasper report-Error&#xA0;filling&#xA0;print
 
 ## 2026-06-27 (04:56)
 Why is using --module-path so much slower than using --class-path?
+
+## 2026-06-27 (07:43)
+How the root object is added to the list (Leetcode 652 ) [closed]
