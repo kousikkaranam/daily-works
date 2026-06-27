@@ -1474,3 +1474,6 @@
 
 ## 2026-06-27 (04:56)
 - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+
+## 2026-06-27 (06:01)
+- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
