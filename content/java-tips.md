@@ -1289,3 +1289,6 @@ Why is using --module-path so much slower than using --class-path?
 
 ## 2026-06-27 (07:43)
 How the root object is added to the list (Leetcode 652 ) [closed]
+
+## 2026-06-27 (10:46)
+Failed to create assembly: Error creating assembly archive null: A tar file cannot include itself

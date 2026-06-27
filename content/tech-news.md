@@ -1489,3 +1489,6 @@
 
 ## 2026-06-27 (07:43)
 - [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+
+## 2026-06-27 (10:46)
+- [Beer CSS – Build material design in record time](https://www.beercss.com)
