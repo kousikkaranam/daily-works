@@ -1459,3 +1459,18 @@
 
 ## 2026-06-26 (17:08)
 - [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
+
+## 2026-06-27 (04:56)
+- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+
+## 2026-06-27 (04:56)
+- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+
+## 2026-06-27 (04:56)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+
+## 2026-06-27 (04:56)
+- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+
+## 2026-06-27 (04:56)
+- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)

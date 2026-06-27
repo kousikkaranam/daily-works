@@ -1876,3 +1876,23 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-26 (17:08)
 > "If you still love her, I can't help that, but don't meddle with her half-heartedly. If you can surpress your feelings, then leave it."
 > — Shuuko Murao (Blue Spring Ride)
+
+## 2026-06-27 (04:56)
+> "This strength doesn't make any sense. It's not fair. It's like he's made up of the world's unfairness. As if he is the personification of justice... of course. Didn't I already know? This world is unfair. Justice and evil are decided by others. That's how the world is. To oppose the unfair power known as justice, I have to obtain the unfair power known as evil. To defeat the unfair beings known as heroes I have to become an unfair being myself!"
+> — Garou (One Punch Man)
+
+## 2026-06-27 (04:56)
+> "And so... I have written down the lesson I've learned from this vital experience in form of a title suitable for a business reference book: "Never hold meetings. The outcome is determined before the meeting begins.""
+> — Watashi (Humanity Has Declined)
+
+## 2026-06-27 (04:56)
+> "Gintoki, will you take up your sword once again to cleanse this rotting nation? Lend me the strength of the fearsome white demon once again. [flashback to when they were fighting together] Is this it? Rather than falling into enemy hands, we should kill ourselves and die as warriors."
+> — Kotarō Katsura (Gintama)
+
+## 2026-06-27 (04:56)
+> "Fools who don’trespectthe past are likely to repeat it."
+> — Nico Robin (One Piece)
+
+## 2026-06-27 (04:56)
+> "Aw, man. You're such a friggin' disgrace. I can't believe I spent so much time trying to defeat such a coward. Now get up and fight!"
+> — Kazuma Kuwabara (Yu Yu Hakusho)
