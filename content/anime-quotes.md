@@ -1904,3 +1904,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-06-27 (06:02)
 > "I want to possess her...to make her belong to me, and only me. (about Rin)"
 > — Sohma Hatsuharu (Fruits Basket)
+
+## 2026-06-27 (06:02)
+> "I like you. I came here to get rejected properly. To end this, so I can move forward. To make me convinced of this broken heart, I want to get rejected properly."
+> — Yoshioka Futaba (Blue Spring Ride)
