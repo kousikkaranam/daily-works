@@ -1468,3 +1468,6 @@
 
 ## 2026-06-27 (04:56)
 - [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+
+## 2026-06-27 (04:56)
+- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)

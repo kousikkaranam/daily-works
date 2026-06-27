@@ -1280,3 +1280,6 @@ Struts : call a a method of DispatchAction from another DispatchAction
 
 ## 2026-06-27 (04:56)
 Unable to find method void org.jetbrains.kotlin.gradle.dsl.KotlinJvmOptions.setUseIR(boolean)
+
+## 2026-06-27 (04:56)
+Compile error in jasper report-Error&#xA0;filling&#xA0;print
