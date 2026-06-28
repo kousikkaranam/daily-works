@@ -1498,3 +1498,6 @@
 
 ## 2026-06-28 (06:37)
 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+
+## 2026-06-28 (10:54)
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)

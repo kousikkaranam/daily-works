@@ -1298,3 +1298,6 @@ Failed to create assembly: Error creating assembly archive null: A tar file cann
 
 ## 2026-06-28 (06:37)
 spring.cloud.config.server.native.search-locations does not work with placeholders in Spring Cloud Config server
+
+## 2026-06-28 (10:54)
+Replace static initialization function call with unnamed function? [duplicate]
