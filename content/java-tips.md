@@ -1295,3 +1295,6 @@ Failed to create assembly: Error creating assembly archive null: A tar file cann
 
 ## 2026-06-28 (05:20)
 3: Permission denied. at com.jcraft.jsch.ChannelSftp.throwStatusError(ChannelSftp.java:2846)
+
+## 2026-06-28 (06:37)
+spring.cloud.config.server.native.search-locations does not work with placeholders in Spring Cloud Config server
