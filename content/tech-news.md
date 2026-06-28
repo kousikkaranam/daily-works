@@ -1492,3 +1492,6 @@
 
 ## 2026-06-27 (10:46)
 - [Beer CSS – Build material design in record time](https://www.beercss.com)
+
+## 2026-06-28 (05:20)
+- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)

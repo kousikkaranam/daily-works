@@ -1292,3 +1292,6 @@ How the root object is added to the list (Leetcode 652 ) [closed]
 
 ## 2026-06-27 (10:46)
 Failed to create assembly: Error creating assembly archive null: A tar file cannot include itself
+
+## 2026-06-28 (05:20)
+3: Permission denied. at com.jcraft.jsch.ChannelSftp.throwStatusError(ChannelSftp.java:2846)
