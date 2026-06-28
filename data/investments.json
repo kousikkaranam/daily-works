@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-21",
-    "time": "11:34",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.89,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 85.95,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 22.47,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 185.0,
-        "currency": "USD"
-      },
-      {
-        "name": "Marvell Technology, Inc.",
-        "symbol": "MRVL",
-        "price": 310.58,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 210.69,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64212,
-    "ethereum_usd": 1723.2,
-    "gold_inr_10g": 126172.06
-  },
-  {
-    "date": "2026-06-21",
     "time": "16:54",
     "top_indian": [
       {
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": 59883,
     "ethereum_usd": 1564.71,
+    "gold_inr_10g": 124200.26
+  },
+  {
+    "date": "2026-06-28",
+    "time": "10:54",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.05,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTHERSON SUMI WRNG IND L",
+        "symbol": "MSUMI.NS",
+        "price": 41.03,
+        "currency": "INR"
+      },
+      {
+        "name": "TATAAML-TATSILV",
+        "symbol": "TATSILV.NS",
+        "price": 21.07,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 13.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Hecla Mining Company",
+        "symbol": "HL",
+        "price": 15.54,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60078,
+    "ethereum_usd": 1574.67,
     "gold_inr_10g": 124200.26
   }
 ]
