@@ -1501,3 +1501,6 @@
 
 ## 2026-06-28 (10:54)
 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+
+## 2026-06-29 (05:54)
+- [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
