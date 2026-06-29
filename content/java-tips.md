@@ -1301,3 +1301,6 @@ spring.cloud.config.server.native.search-locations does not work with placeholde
 
 ## 2026-06-28 (10:54)
 Replace static initialization function call with unnamed function? [duplicate]
+
+## 2026-06-29 (05:54)
+Why does Tomcat give 403 error on my POST form?
