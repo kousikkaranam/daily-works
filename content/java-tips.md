@@ -1310,3 +1310,6 @@ How to run Java applets in browser (with CMD)
 
 ## 2026-06-30 (11:32)
 Use custom validators in correct order
+
+## 2026-06-30 (17:16)
+My if statment allways gives the same output [duplicate]
