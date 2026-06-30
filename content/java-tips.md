@@ -1307,3 +1307,6 @@ Why does Tomcat give 403 error on my POST form?
 
 ## 2026-06-30 (06:33)
 How to run Java applets in browser (with CMD)
+
+## 2026-06-30 (11:32)
+Use custom validators in correct order
