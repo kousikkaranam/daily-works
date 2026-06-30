@@ -1304,3 +1304,6 @@ Replace static initialization function call with unnamed function? [duplicate]
 
 ## 2026-06-29 (05:54)
 Why does Tomcat give 403 error on my POST form?
+
+## 2026-06-30 (06:33)
+How to run Java applets in browser (with CMD)
