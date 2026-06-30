@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-22",
-    "time": "06:33",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.94,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 18.54,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 42.37,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 185.0,
-        "currency": "USD"
-      },
-      {
-        "name": "Marvell Technology, Inc.",
-        "symbol": "MRVL",
-        "price": 310.58,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 210.69,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64017,
-    "ethereum_usd": 1733.0,
-    "gold_inr_10g": 127413.54
-  },
-  {
-    "date": "2026-06-22",
     "time": "07:41",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 59862,
     "ethereum_usd": 1576.72,
     "gold_inr_10g": 123115.07
+  },
+  {
+    "date": "2026-06-30",
+    "time": "06:33",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 44.6,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.47,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA IRON AND STEEL L",
+        "symbol": "VISL.NS",
+        "price": 34.69,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Comcast Corporation",
+        "symbol": "CMCSA",
+        "price": 24.22,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.92,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 194.97,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 59573,
+    "ethereum_usd": 1590.46,
+    "gold_inr_10g": 122184.05
   }
 ]
