@@ -1510,3 +1510,6 @@
 
 ## 2026-06-30 (11:32)
 - [Sony erases digital content from libraries; reminded we don't own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
+
+## 2026-06-30 (17:16)
+- [County with 37 Data Centers Asks Schools to 'Conserve Electricity'](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
