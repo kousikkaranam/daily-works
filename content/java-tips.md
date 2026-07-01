@@ -1316,3 +1316,6 @@ My if statment allways gives the same output [duplicate]
 
 ## 2026-07-01 (05:26)
 Programatically build SQL insert strings based on existing data
+
+## 2026-07-01 (06:44)
+&quot;Error: no suitable method found for reduce&quot; when reducing an int[] array using streams

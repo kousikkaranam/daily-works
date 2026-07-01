@@ -1516,3 +1516,6 @@
 
 ## 2026-07-01 (05:26)
 - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+
+## 2026-07-01 (06:44)
+- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
