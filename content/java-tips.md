@@ -1322,3 +1322,6 @@ Programatically build SQL insert strings based on existing data
 
 ## 2026-07-01 (11:43)
 How to identify the origin of an Http request?
+
+## 2026-07-01 (17:23)
+ExceptionInInitializerError when using PowerMock
