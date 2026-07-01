@@ -1513,3 +1513,6 @@
 
 ## 2026-06-30 (17:16)
 - [County with 37 Data Centers Asks Schools to 'Conserve Electricity'](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
+
+## 2026-07-01 (05:26)
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)

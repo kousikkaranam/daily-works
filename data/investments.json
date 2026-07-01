@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-06-22",
-    "time": "18:52",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.82,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 24.96,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 18.22,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 16.275,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 163.1,
-        "currency": "USD"
-      },
-      {
-        "name": "Super Micro Computer, Inc.",
-        "symbol": "SMCI",
-        "price": 35.975,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64385,
-    "ethereum_usd": 1734.62,
-    "gold_inr_10g": 127264.81
-  },
-  {
     "date": "2026-06-23",
     "time": "05:06",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 58329,
     "ethereum_usd": 1568.51,
     "gold_inr_10g": 122396.96
+  },
+  {
+    "date": "2026-07-01",
+    "time": "05:26",
+    "top_indian": [
+      {
+        "name": "RELIANCE POWER LTD.",
+        "symbol": "RPOWER.NS",
+        "price": 28.98,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 45.36,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.5,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 18.07,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.7,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 200.09,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 59159,
+    "ethereum_usd": 1593.19,
+    "gold_inr_10g": 120992.89
   }
 ]
