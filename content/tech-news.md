@@ -1519,3 +1519,6 @@
 
 ## 2026-07-01 (06:44)
 - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
+
+## 2026-07-01 (11:43)
+- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
