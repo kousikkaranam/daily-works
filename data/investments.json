@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-24",
-    "time": "05:04",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.23,
-        "currency": "INR"
-      },
-      {
-        "name": "GMR Airports Limited",
-        "symbol": "GMRAIRPORT.BO",
-        "price": 107.55,
-        "currency": "INR"
-      },
-      {
-        "name": "ROTO PUMPS LIMITED",
-        "symbol": "ROTO.NS",
-        "price": 77.33,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 16.14,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 156.11,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 132.28,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 62712,
-    "ethereum_usd": 1668.58,
-    "gold_inr_10g": 123853.65
-  },
-  {
-    "date": "2026-06-24",
     "time": "06:16",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 58577,
     "ethereum_usd": 1570.03,
     "gold_inr_10g": 122597.32
+  },
+  {
+    "date": "2026-07-01",
+    "time": "17:23",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.64,
+        "currency": "INR"
+      },
+      {
+        "name": "RELIANCE POWER LTD.",
+        "symbol": "RPOWER.NS",
+        "price": 27.17,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 45.02,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 18.265,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 198.08,
+        "currency": "USD"
+      },
+      {
+        "name": "Opendoor Technologies Inc",
+        "symbol": "OPEN",
+        "price": 5.08,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60016,
+    "ethereum_usd": 1617.58,
+    "gold_inr_10g": 123927.75
   }
 ]
