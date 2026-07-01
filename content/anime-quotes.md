@@ -1948,3 +1948,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-07-01 (06:44)
 > "Wrong or not, I'll follow my own path!"
 > — Mine (Akame ga Kill!)
+
+## 2026-07-01 (11:43)
+> "People don't simply disappear from this world when they die. They only truly die when they are forgotten by those who are alive. That's why it doesn't matter whether I lived or died. No one knows of my existence, and I don't have I don't have a single friend. But... if you all won't forget about me... that is enough even if I die. With just that... I would be more alive than I ever have been."
+> — Tokou Nanami (Brynhildr in the Darkness)

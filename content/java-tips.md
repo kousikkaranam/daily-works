@@ -1319,3 +1319,6 @@ Programatically build SQL insert strings based on existing data
 
 ## 2026-07-01 (06:44)
 &quot;Error: no suitable method found for reduce&quot; when reducing an int[] array using streams
+
+## 2026-07-01 (11:43)
+How to identify the origin of an Http request?
