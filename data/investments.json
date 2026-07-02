@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-06-24",
-    "time": "06:16",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.44,
-        "currency": "INR"
-      },
-      {
-        "name": "ROTO PUMPS LIMITED",
-        "symbol": "ROTO.NS",
-        "price": 75.89,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 24.93,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 16.14,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 156.11,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 132.28,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 62762,
-    "ethereum_usd": 1671.63,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-06-24",
     "time": "11:29",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 60016,
     "ethereum_usd": 1617.58,
     "gold_inr_10g": 123927.75
+  },
+  {
+    "date": "2026-07-02",
+    "time": "06:10",
+    "top_indian": [
+      {
+        "name": "VEDANTA OIL AND GAS LTD",
+        "symbol": "VOGL.NS",
+        "price": 41.9,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.51,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA POWER LIMITED",
+        "symbol": "VEDPOWER.NS",
+        "price": 46.47,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 18.15,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 197.58,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.48,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 60378,
+    "ethereum_usd": 1621.87,
+    "gold_inr_10g": 124741.97
   }
 ]
