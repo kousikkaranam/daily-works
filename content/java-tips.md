@@ -1328,3 +1328,6 @@ ExceptionInInitializerError when using PowerMock
 
 ## 2026-07-02 (06:10)
 JUnit assertEquals( ) fails for two objects, but `equals()` returns true
+
+## 2026-07-03 (06:04)
+JMSWMQ0018: Failed to connect to queue manager with connection mode
