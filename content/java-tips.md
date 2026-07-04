@@ -1337,3 +1337,6 @@ java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~
 
 ## 2026-07-04 (04:38)
 How can I watermark an image in Java?
+
+## 2026-07-04 (04:38)
+How to get all the messages from kafka topic and count them using java?
