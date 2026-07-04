@@ -1980,3 +1980,24 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-07-04 (04:38)
 > "The pain of being alone is completely out of this world, isn't it? I don't know why, but I understand your feelings so much, it actually hurts."
 > — Naruto Uzumaki (Naruto)
+
+## 2026-07-04 (05:55)
+> "People who say they don't know their own feelings are deluding themselves. It's because you refuse to accept what you're thinking deep down in your heart, you think you don't understand."
+> — Kenji Yamaguchi (My Little Monster)
+
+## 2026-07-04 (05:55)
+> "A world created through oppresing others with brute force has no meaning!"
+> — Yuzu Hiiragi (Yu-Gi-Oh! Arc-V)
+
+## 2026-07-04 (05:55)
+> "Ever since your brother got taken down…
+I’ve had my eye on you. Because all that building resentment was written over your face. I know that when I see it. And I know just how much grudges like that… can cloud a person’s vision."
+> — Shoto Todoroki (My Hero Academia)
+
+## 2026-07-04 (05:55)
+> "Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back."
+> — Ushiromiya Ange (Umineko: When They Cry)
+
+## 2026-07-04 (05:55)
+> "My, my. So dangerous."
+> — Ukitake Jyuushirou (Bleach)
