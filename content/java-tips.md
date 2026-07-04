@@ -1334,3 +1334,6 @@ JMSWMQ0018: Failed to connect to queue manager with connection mode
 
 ## 2026-07-04 (04:38)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na] Error
+
+## 2026-07-04 (04:38)
+How can I watermark an image in Java?

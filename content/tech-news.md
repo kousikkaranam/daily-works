@@ -1534,3 +1534,6 @@
 
 ## 2026-07-04 (04:38)
 - [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+
+## 2026-07-04 (04:38)
+- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
