@@ -1343,3 +1343,6 @@ How to get all the messages from kafka topic and count them using java?
 
 ## 2026-07-04 (04:38)
 Quality of Image after resize very low -- Java
+
+## 2026-07-04 (05:55)
+Do I need to create an abstract method for toString and equals?
