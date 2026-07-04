@@ -1355,3 +1355,6 @@ R8 removes GeneralFunctions initialization in release build uploaded to Google P
 
 ## 2026-07-04 (05:55)
 no libopencv_core.so in java.library.path hadoop
+
+## 2026-07-04 (07:39)
+How would you read the data from the Excel file and store it into a database using Java?
