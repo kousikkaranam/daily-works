@@ -1531,3 +1531,15 @@
 
 ## 2026-07-03 (06:04)
 - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+
+## 2026-07-04 (04:38)
+- [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+
+## 2026-07-04 (04:38)
+- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+
+## 2026-07-04 (04:38)
+- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
+
+## 2026-07-04 (04:38)
+- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)

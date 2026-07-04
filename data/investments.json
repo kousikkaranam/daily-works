@@ -1,193 +1,5 @@
 [
   {
-    "date": "2026-06-25",
-    "time": "05:08",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.24,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 20.81,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTHERSON SUMI WRNG IND L",
-        "symbol": "MSUMI.NS",
-        "price": 40.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.44,
-        "currency": "USD"
-      },
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 17.31,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 199.0,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 61442,
-    "ethereum_usd": 1641.14,
-    "gold_inr_10g": 121568.05
-  },
-  {
-    "date": "2026-06-25",
-    "time": "11:23",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.06,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTHERSON SUMI WRNG IND L",
-        "symbol": "MSUMI.NS",
-        "price": 41.26,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 21.02,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.44,
-        "currency": "USD"
-      },
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 17.31,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 199.0,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 61228,
-    "ethereum_usd": 1630.03,
-    "gold_inr_10g": 121202.87
-  },
-  {
-    "date": "2026-06-25",
-    "time": "17:23",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.06,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTHERSON SUMI WRNG IND L",
-        "symbol": "MSUMI.NS",
-        "price": 41.26,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 21.02,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.595,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 131.26,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 195.09,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 59413,
-    "ethereum_usd": 1566.82,
-    "gold_inr_10g": 122727.49
-  },
-  {
-    "date": "2026-06-26",
-    "time": "05:13",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.05,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTHERSON SUMI WRNG IND L",
-        "symbol": "MSUMI.NS",
-        "price": 41.03,
-        "currency": "INR"
-      },
-      {
-        "name": "TATAAML-TATSILV",
-        "symbol": "TATSILV.NS",
-        "price": 21.07,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.57,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 195.74,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 132.87,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 59844,
-    "ethereum_usd": 1548.87,
-    "gold_inr_10g": 121907.06
-  },
-  {
     "date": "2026-06-26",
     "time": "06:29",
     "top_indian": [
@@ -1408,5 +1220,193 @@
     "bitcoin_usd": 61662,
     "ethereum_usd": 1713.74,
     "gold_inr_10g": null
+  },
+  {
+    "date": "2026-07-04",
+    "time": "04:38",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.3,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.25,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA IRON AND STEEL L",
+        "symbol": "VISL.NS",
+        "price": 40.52,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.92,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.58,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 194.83,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62621,
+    "ethereum_usd": 1754.32,
+    "gold_inr_10g": 127991.15
+  },
+  {
+    "date": "2026-07-04",
+    "time": "04:38",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.3,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.25,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA IRON AND STEEL L",
+        "symbol": "VISL.NS",
+        "price": 40.52,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.92,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.58,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 194.83,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62621,
+    "ethereum_usd": 1754.32,
+    "gold_inr_10g": 127991.15
+  },
+  {
+    "date": "2026-07-04",
+    "time": "04:38",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.3,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.25,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA IRON AND STEEL L",
+        "symbol": "VISL.NS",
+        "price": 40.52,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.92,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.58,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 194.83,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62621,
+    "ethereum_usd": 1754.32,
+    "gold_inr_10g": 127991.15
+  },
+  {
+    "date": "2026-07-04",
+    "time": "04:38",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.3,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.25,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA IRON AND STEEL L",
+        "symbol": "VISL.NS",
+        "price": 40.52,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 17.92,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.58,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 194.83,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62627,
+    "ethereum_usd": 1754.74,
+    "gold_inr_10g": 127991.15
   }
 ]
