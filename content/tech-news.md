@@ -1549,3 +1549,6 @@
 
 ## 2026-07-04 (05:55)
 - [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
+
+## 2026-07-04 (05:55)
+- [Mir Books – Books from the Soviet Era](https://mirtitles.org)
