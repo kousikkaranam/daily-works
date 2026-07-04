@@ -1984,3 +1984,7 @@ Now there's nothing to fear, because we are not alone!"
 ## 2026-07-04 (05:55)
 > "People who say they don't know their own feelings are deluding themselves. It's because you refuse to accept what you're thinking deep down in your heart, you think you don't understand."
 > — Kenji Yamaguchi (My Little Monster)
+
+## 2026-07-04 (05:55)
+> "A world created through oppresing others with brute force has no meaning!"
+> — Yuzu Hiiragi (Yu-Gi-Oh! Arc-V)

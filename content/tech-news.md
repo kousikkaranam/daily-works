@@ -1546,3 +1546,6 @@
 
 ## 2026-07-04 (05:55)
 - [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+
+## 2026-07-04 (05:55)
+- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
