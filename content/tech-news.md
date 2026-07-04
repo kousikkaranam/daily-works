@@ -1561,3 +1561,6 @@
 
 ## 2026-07-04 (07:39)
 - [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+
+## 2026-07-04 (10:42)
+- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
