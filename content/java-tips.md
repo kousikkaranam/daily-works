@@ -1349,3 +1349,6 @@ Do I need to create an abstract method for toString and equals?
 
 ## 2026-07-04 (05:55)
 How Do Machine Learning Algorithms Improve Accuracy Over Time?
+
+## 2026-07-04 (05:55)
+R8 removes GeneralFunctions initialization in release build uploaded to Google Play Console (works in Android Studio &amp; Bundle tool)

@@ -1993,3 +1993,7 @@ Now there's nothing to fear, because we are not alone!"
 > "Ever since your brother got taken down…
 I’ve had my eye on you. Because all that building resentment was written over your face. I know that when I see it. And I know just how much grudges like that… can cloud a person’s vision."
 > — Shoto Todoroki (My Hero Academia)
+
+## 2026-07-04 (05:55)
+> "Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back."
+> — Ushiromiya Ange (Umineko: When They Cry)
