@@ -1540,3 +1540,6 @@
 
 ## 2026-07-04 (04:38)
 - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
+
+## 2026-07-04 (04:38)
+- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
