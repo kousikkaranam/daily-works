@@ -1352,3 +1352,6 @@ How Do Machine Learning Algorithms Improve Accuracy Over Time?
 
 ## 2026-07-04 (05:55)
 R8 removes GeneralFunctions initialization in release build uploaded to Google Play Console (works in Android Studio &amp; Bundle tool)
+
+## 2026-07-04 (05:55)
+no libopencv_core.so in java.library.path hadoop

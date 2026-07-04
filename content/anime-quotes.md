@@ -1997,3 +1997,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-04 (05:55)
 > "Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back."
 > — Ushiromiya Ange (Umineko: When They Cry)
+
+## 2026-07-04 (05:55)
+> "My, my. So dangerous."
+> — Ukitake Jyuushirou (Bleach)
