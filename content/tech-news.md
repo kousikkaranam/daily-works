@@ -1567,3 +1567,6 @@
 
 ## 2026-07-05 (10:51)
 - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+
+## 2026-07-06 (05:17)
+- [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
