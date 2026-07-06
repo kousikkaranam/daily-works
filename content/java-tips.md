@@ -1373,3 +1373,6 @@ org.springframework.dao.DataIntegrityViolationException: could not execute state
 
 ## 2026-07-06 (12:27)
 Jackson Ignores Custom Field Deserializer When Value is &quot;null&quot;
+
+## 2026-07-06 (17:49)
+Java search tree library API and benchmark methodology
