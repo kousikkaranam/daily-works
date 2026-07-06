@@ -1570,3 +1570,6 @@
 
 ## 2026-07-06 (05:17)
 - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+
+## 2026-07-06 (06:47)
+- [Completing a computer science degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
