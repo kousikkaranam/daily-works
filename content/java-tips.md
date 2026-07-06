@@ -1370,3 +1370,6 @@ Illegal initializer for char &#x2014; how to fix? [closed]
 
 ## 2026-07-06 (06:47)
 org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL
+
+## 2026-07-06 (12:27)
+Jackson Ignores Custom Field Deserializer When Value is &quot;null&quot;
