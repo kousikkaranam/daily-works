@@ -2013,3 +2013,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-05 (10:51)
 > "If you want to switch, go ahead and switch."
 > — Sukuna (Jujutsu Kaisen)
+
+## 2026-07-06 (05:17)
+> "I understand now. The world is not cut from the same cloth. It is because it is overflowing with inexplicable, unidentifiable things that the world is so beautiful."
+> — Satsuki Kiryuuin (Kill la Kill)

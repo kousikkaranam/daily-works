@@ -1364,3 +1364,6 @@ How can I switch between multiple AI model API providers automatically when one 
 
 ## 2026-07-05 (10:51)
 Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/Java Native Client)
+
+## 2026-07-06 (05:17)
+Illegal initializer for char &#x2014; how to fix? [closed]
