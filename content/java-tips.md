@@ -1367,3 +1367,6 @@ Optimizing batch data ingestion for high-throughput IoT in GridDB Cloud (Python/
 
 ## 2026-07-06 (05:17)
 Illegal initializer for char &#x2014; how to fix? [closed]
+
+## 2026-07-06 (06:47)
+org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL
