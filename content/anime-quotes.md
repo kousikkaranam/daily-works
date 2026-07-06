@@ -2021,3 +2021,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-06 (06:47)
 > "Everyone is watching someone other than themselves, someone important to them..."
 > — Kurisu Makise (Steins;Gate)
+
+## 2026-07-06 (12:27)
+> "The curtain that falls down at the end, shall be pulled down by the blade of my sword."
+> — Kuchiki Byakuya (Bleach)

@@ -1573,3 +1573,6 @@
 
 ## 2026-07-06 (06:47)
 - [Completing a computer science degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
+
+## 2026-07-06 (12:27)
+- [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
