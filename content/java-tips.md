@@ -1379,3 +1379,6 @@ Java search tree library API and benchmark methodology
 
 ## 2026-07-07 (04:57)
 iText 7 copyPagesTo throws UnsupportedOperationException for a link annotation with an invalid GoTo destination
+
+## 2026-07-07 (17:25)
+How to use a module from Jetbrains Runtime?
