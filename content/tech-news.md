@@ -1582,3 +1582,6 @@
 
 ## 2026-07-07 (04:57)
 - [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+
+## 2026-07-07 (17:25)
+- [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
