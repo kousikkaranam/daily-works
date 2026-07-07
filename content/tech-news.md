@@ -1579,3 +1579,6 @@
 
 ## 2026-07-06 (17:49)
 - [Egypt Is Building a New Nile](https://www.theb1m.com/video/egypt-is-building-a-new-nile)
+
+## 2026-07-07 (04:57)
+- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)

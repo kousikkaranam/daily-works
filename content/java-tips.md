@@ -1376,3 +1376,6 @@ Jackson Ignores Custom Field Deserializer When Value is &quot;null&quot;
 
 ## 2026-07-06 (17:49)
 Java search tree library API and benchmark methodology
+
+## 2026-07-07 (04:57)
+iText 7 copyPagesTo throws UnsupportedOperationException for a link annotation with an invalid GoTo destination
