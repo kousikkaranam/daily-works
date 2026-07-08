@@ -2037,3 +2037,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-08 (04:18)
 > "Drat, we wasted this episode cheering the good guys!"
 > — Kojirou (Pokémon)
+
+## 2026-07-08 (05:31)
+> "[To Yuki] Liar! Moping around like a sad rat who lost his cheese!"
+> — Sohma Kyo (Fruits Basket)

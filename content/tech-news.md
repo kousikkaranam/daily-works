@@ -1588,3 +1588,6 @@
 
 ## 2026-07-08 (04:18)
 - [We're extending access to Fable 5 on all paid plans through July 12](https://twitter.com/claudeai/status/2074548242386178258)
+
+## 2026-07-08 (05:31)
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
