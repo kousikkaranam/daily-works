@@ -1385,3 +1385,6 @@ How to use a module from Jetbrains Runtime?
 
 ## 2026-07-08 (04:18)
 Is there a common Java utility to break a list into batches?
+
+## 2026-07-08 (05:31)
+JUnit testing works, but I am recieving warning lines about junit packages in my code in VS Code
