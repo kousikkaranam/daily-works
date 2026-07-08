@@ -1382,3 +1382,6 @@ iText 7 copyPagesTo throws UnsupportedOperationException for a link annotation w
 
 ## 2026-07-07 (17:25)
 How to use a module from Jetbrains Runtime?
+
+## 2026-07-08 (04:18)
+Is there a common Java utility to break a list into batches?

@@ -1585,3 +1585,6 @@
 
 ## 2026-07-07 (17:25)
 - [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
+
+## 2026-07-08 (04:18)
+- [We're extending access to Fable 5 on all paid plans through July 12](https://twitter.com/claudeai/status/2074548242386178258)
