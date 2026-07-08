@@ -1388,3 +1388,6 @@ Is there a common Java utility to break a list into batches?
 
 ## 2026-07-08 (05:31)
 JUnit testing works, but I am recieving warning lines about junit packages in my code in VS Code
+
+## 2026-07-08 (10:48)
+How to run a single gradle task from command line

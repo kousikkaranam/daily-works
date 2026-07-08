@@ -1591,3 +1591,6 @@
 
 ## 2026-07-08 (05:31)
 - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
+
+## 2026-07-08 (10:48)
+- [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
