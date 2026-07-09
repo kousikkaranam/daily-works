@@ -1594,3 +1594,6 @@
 
 ## 2026-07-08 (10:48)
 - [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
+
+## 2026-07-09 (04:58)
+- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
