@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-06-29",
-    "time": "05:54",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.05,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 25.24,
-        "currency": "INR"
-      },
-      {
-        "name": "VIKRAN ENGINEERING LTD",
-        "symbol": "VIKRAN.NS",
-        "price": 75.72,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Apple Inc.",
-        "symbol": "AAPL",
-        "price": 283.78,
-        "currency": "USD"
-      },
-      {
-        "name": "Amazon.com, Inc.",
-        "symbol": "AMZN",
-        "price": 232.69,
-        "currency": "USD"
-      },
-      {
-        "name": "Microsoft Corporation",
-        "symbol": "MSFT",
-        "price": 372.97,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 59862,
-    "ethereum_usd": 1576.72,
-    "gold_inr_10g": 123115.07
-  },
-  {
     "date": "2026-06-30",
     "time": "06:33",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 62091,
     "ethereum_usd": 1738.24,
     "gold_inr_10g": 124030.70
+  },
+  {
+    "date": "2026-07-09",
+    "time": "04:58",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.69,
+        "currency": "INR"
+      },
+      {
+        "name": "VEDANTA IRON AND STEEL L",
+        "symbol": "VISL.NS",
+        "price": 33.41,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.09,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 16.52,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 204.12,
+        "currency": "USD"
+      },
+      {
+        "name": "Rivian Automotive, Inc.",
+        "symbol": "RIVN",
+        "price": 16.66,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62336,
+    "ethereum_usd": 1739.3,
+    "gold_inr_10g": 124911.29
   }
 ]
