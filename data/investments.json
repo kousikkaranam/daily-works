@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-06-30",
-    "time": "17:16",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.46,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 43.76,
-        "currency": "INR"
-      },
-      {
-        "name": "VEDANTA IRON AND STEEL L",
-        "symbol": "VISL.NS",
-        "price": 35.26,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 18.135,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 141.371,
-        "currency": "USD"
-      },
-      {
-        "name": "AT&T Inc.",
-        "symbol": "T",
-        "price": 20.805,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 58329,
-    "ethereum_usd": 1568.51,
-    "gold_inr_10g": 122396.96
-  },
-  {
     "date": "2026-07-01",
     "time": "05:26",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64337,
     "ethereum_usd": 1794.79,
     "gold_inr_10g": 125961.91
+  },
+  {
+    "date": "2026-07-10",
+    "time": "17:07",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.99,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.19,
+        "currency": "INR"
+      },
+      {
+        "name": "KALYAN JEWELLERS IND LTD",
+        "symbol": "KALYANKJIL.NS",
+        "price": 476.15,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 209.693,
+        "currency": "USD"
+      },
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 13.9,
+        "currency": "USD"
+      },
+      {
+        "name": "SoFi Technologies, Inc.",
+        "symbol": "SOFI",
+        "price": 18.86,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64057,
+    "ethereum_usd": 1795.92,
+    "gold_inr_10g": 126011.03
   }
 ]
