@@ -2045,3 +2045,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-08 (10:48)
 > "No matter how hard or impossible it is, never lose sight of your goal."
 > — Monkey D. Luffy (One Piece)
+
+## 2026-07-10 (04:56)
+> "A person grows up when he's able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."
+> — Jiraiya (Naruto)

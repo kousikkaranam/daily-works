@@ -1394,3 +1394,6 @@ How to run a single gradle task from command line
 
 ## 2026-07-09 (04:58)
 My executeUpdate() working, but not commit
+
+## 2026-07-10 (04:56)
+Spring Webflux : Webclient : Get body on error
