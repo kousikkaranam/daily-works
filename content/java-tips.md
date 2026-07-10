@@ -1400,3 +1400,6 @@ Spring Webflux : Webclient : Get body on error
 
 ## 2026-07-10 (11:33)
 How to tell how much space is available in a Java Deque?
+
+## 2026-07-10 (17:07)
+How to use XAMPP MySQL database with my Java Application?

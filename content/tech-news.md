@@ -1603,3 +1603,6 @@
 
 ## 2026-07-10 (11:33)
 - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
+
+## 2026-07-10 (17:07)
+- [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
