@@ -1397,3 +1397,6 @@ My executeUpdate() working, but not commit
 
 ## 2026-07-10 (04:56)
 Spring Webflux : Webclient : Get body on error
+
+## 2026-07-10 (11:33)
+How to tell how much space is available in a Java Deque?

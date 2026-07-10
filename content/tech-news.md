@@ -1600,3 +1600,6 @@
 
 ## 2026-07-10 (04:56)
 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
+
+## 2026-07-10 (11:33)
+- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
