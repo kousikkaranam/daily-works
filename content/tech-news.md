@@ -1606,3 +1606,6 @@
 
 ## 2026-07-10 (17:07)
 - [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
+
+## 2026-07-11 (04:16)
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)

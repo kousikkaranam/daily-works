@@ -1403,3 +1403,6 @@ How to tell how much space is available in a Java Deque?
 
 ## 2026-07-10 (17:07)
 How to use XAMPP MySQL database with my Java Application?
+
+## 2026-07-11 (04:16)
+TreeSet not storing unique values
