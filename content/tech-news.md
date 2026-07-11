@@ -1612,3 +1612,6 @@
 
 ## 2026-07-11 (04:16)
 - [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+
+## 2026-07-11 (04:16)
+- [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)

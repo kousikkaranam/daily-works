@@ -1409,3 +1409,6 @@ TreeSet not storing unique values
 
 ## 2026-07-11 (04:16)
 Why I&#x27;m getting an input mismatch exception in Java? [duplicate]
+
+## 2026-07-11 (04:16)
+How to set a default request body value

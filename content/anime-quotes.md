@@ -2065,3 +2065,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-11 (04:16)
 > "What could that creep possibly be thinking sending sexy underwear to his own daughter."
 > — Maka Albarn (Soul Eater)
+
+## 2026-07-11 (04:16)
+> "The things that are most important aren't written in books. You have to learn them by experiencing them yourself."
+> — Sakura Haruno (Naruto)
