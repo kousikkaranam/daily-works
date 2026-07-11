@@ -1406,3 +1406,6 @@ How to use XAMPP MySQL database with my Java Application?
 
 ## 2026-07-11 (04:16)
 TreeSet not storing unique values
+
+## 2026-07-11 (04:16)
+Why I&#x27;m getting an input mismatch exception in Java? [duplicate]
