@@ -2077,3 +2077,23 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-11 (04:16)
 > "And I thought you were going to buy a stone to evolve yourself."
 > — Ash Ketchum (Pokémon)
+
+## 2026-07-11 (05:22)
+> "Pleasure is another thing that I lack. I seek for it but cannot find it."
+> — Kotomine Kirei (Fate/Zero)
+
+## 2026-07-11 (05:22)
+> "Love hurts. But it can hurt worse if you allow your eyes to wander."
+> — Kirishima Shouko (Baka & Test - Summon the Beasts)
+
+## 2026-07-11 (05:22)
+> "I wasn't always fighting for love and justice. I was fighting for my friends and loved ones."
+> — Usagi Tsukino (Sailor Moon)
+
+## 2026-07-11 (05:22)
+> "Ichigo...We can't...Watch any longer...Eachother's backs...I just can't...I just can't help you out anymore."
+> — Yasutora Sado (Bleach)
+
+## 2026-07-11 (05:22)
+> "It’s natural that men have things they need to protect."
+> — Furukawa Akio (Clannad)
