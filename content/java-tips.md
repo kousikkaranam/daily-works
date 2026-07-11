@@ -1421,3 +1421,6 @@ JUnit assertEquals( ) fails for two objects, but `equals()` returns true [closed
 
 ## 2026-07-11 (05:22)
 How does saving work in a Spring Data JPA repository?
+
+## 2026-07-11 (05:22)
+Print from where LogWriter was called in PJSIP example (PJSUA2)

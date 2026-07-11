@@ -2081,3 +2081,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-11 (05:22)
 > "Pleasure is another thing that I lack. I seek for it but cannot find it."
 > — Kotomine Kirei (Fate/Zero)
+
+## 2026-07-11 (05:22)
+> "Love hurts. But it can hurt worse if you allow your eyes to wander."
+> — Kirishima Shouko (Baka & Test - Summon the Beasts)
