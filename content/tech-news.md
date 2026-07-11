@@ -1606,3 +1606,18 @@
 
 ## 2026-07-10 (17:07)
 - [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
+
+## 2026-07-11 (04:16)
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+
+## 2026-07-11 (04:16)
+- [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+
+## 2026-07-11 (04:16)
+- [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
+
+## 2026-07-11 (04:16)
+- [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
+
+## 2026-07-11 (04:16)
+- [Combustion engine web-based simulator](https://combustionlab.net)
