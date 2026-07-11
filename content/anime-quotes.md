@@ -2069,3 +2069,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-11 (04:16)
 > "The things that are most important aren't written in books. You have to learn them by experiencing them yourself."
 > — Sakura Haruno (Naruto)
+
+## 2026-07-11 (04:16)
+> "Believe me… This town smells worse than Gray Terminal. It smells like rotten people! If I stay here… I’ll never be free! I’m… ashamed to be born a noble!"
+> — Sabo (One Piece)

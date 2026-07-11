@@ -1615,3 +1615,6 @@
 
 ## 2026-07-11 (04:16)
 - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
+
+## 2026-07-11 (04:16)
+- [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
