@@ -2085,3 +2085,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-11 (05:22)
 > "Love hurts. But it can hurt worse if you allow your eyes to wander."
 > — Kirishima Shouko (Baka & Test - Summon the Beasts)
+
+## 2026-07-11 (05:22)
+> "I wasn't always fighting for love and justice. I was fighting for my friends and loved ones."
+> — Usagi Tsukino (Sailor Moon)
