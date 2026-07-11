@@ -1639,3 +1639,6 @@
 
 ## 2026-07-11 (07:07)
 - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+
+## 2026-07-11 (16:10)
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)

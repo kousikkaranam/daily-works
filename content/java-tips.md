@@ -1427,3 +1427,6 @@ Print from where LogWriter was called in PJSIP example (PJSUA2)
 
 ## 2026-07-11 (05:22)
 How to programmatically set edit text hint in android?
+
+## 2026-07-11 (16:10)
+JUnit testing works, but I am recieving warning lines about junit packages in my code in VS Code [closed]

@@ -2097,3 +2097,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-11 (05:22)
 > "It’s natural that men have things they need to protect."
 > — Furukawa Akio (Clannad)
+
+## 2026-07-11 (16:10)
+> "Are you saying I can be god?"
+> — Yuri Nakamura (Angel Beats!)
