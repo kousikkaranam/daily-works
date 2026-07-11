@@ -1415,3 +1415,6 @@ How to set a default request body value
 
 ## 2026-07-11 (04:16)
 Method changes value of argument
+
+## 2026-07-11 (04:16)
+JUnit assertEquals( ) fails for two objects, but `equals()` returns true [closed]
