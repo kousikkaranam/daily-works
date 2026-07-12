@@ -1433,3 +1433,6 @@ JUnit testing works, but I am recieving warning lines about junit packages in my
 
 ## 2026-07-12 (05:38)
 Why is Maven JAR Plugin writing *.jar contents into the *.pom file?
+
+## 2026-07-12 (16:12)
+JUnit assertEquals( ) fails for two objects, but equals() returns true

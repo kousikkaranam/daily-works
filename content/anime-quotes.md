@@ -2113,3 +2113,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-12 (10:14)
 > "It is a sad truth that greater the authority a person possesses, the more he tends to fear change."
 > — Jimbei (One Piece)
+
+## 2026-07-12 (16:12)
+> "You try to sound like you think things through, when in fact, you're not thinking at all."
+> — Kurama (Yu Yu Hakusho)
