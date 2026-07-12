@@ -2109,3 +2109,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-12 (05:38)
 > "There's no such thing as a painless lesson, they just don't exist. Sacrifices are necessary, you can't gain something without losing something first... Although if you can endure that pain and walk away from it, you'll find that you now have a heart strong enough to overcome any obstacle... Yeah... A Fullmetal Heart."
 > — Edward Elric (Fullmetal Alchemist: Brotherhood)
+
+## 2026-07-12 (10:14)
+> "It is a sad truth that greater the authority a person possesses, the more he tends to fear change."
+> — Jimbei (One Piece)
