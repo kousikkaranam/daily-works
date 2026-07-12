@@ -1430,3 +1430,6 @@ How to programmatically set edit text hint in android?
 
 ## 2026-07-11 (16:10)
 JUnit testing works, but I am recieving warning lines about junit packages in my code in VS Code [closed]
+
+## 2026-07-12 (05:38)
+Why is Maven JAR Plugin writing *.jar contents into the *.pom file?
