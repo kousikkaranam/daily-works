@@ -2105,3 +2105,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-12 (04:28)
 > "*to Araragi* A creature like you having a brain residing in his skull...is already a miracle in and of itself."
 > — Senjougahara Hitagi (Bakemonogatari)
+
+## 2026-07-12 (05:38)
+> "There's no such thing as a painless lesson, they just don't exist. Sacrifices are necessary, you can't gain something without losing something first... Although if you can endure that pain and walk away from it, you'll find that you now have a heart strong enough to overcome any obstacle... Yeah... A Fullmetal Heart."
+> — Edward Elric (Fullmetal Alchemist: Brotherhood)
