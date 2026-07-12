@@ -1642,3 +1642,6 @@
 
 ## 2026-07-11 (16:10)
 - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+
+## 2026-07-12 (04:28)
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
