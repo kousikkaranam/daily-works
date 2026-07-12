@@ -1651,3 +1651,6 @@
 
 ## 2026-07-12 (10:14)
 - [Text art tools](https://hlnet.notion.site/text-art-tools)
+
+## 2026-07-12 (16:12)
+- [Ditching Zotero for a Text File](https://atthis.link/blog/2026/57207.html)
