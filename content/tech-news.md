@@ -1660,3 +1660,6 @@
 
 ## 2026-07-13 (05:48)
 - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+
+## 2026-07-13 (11:43)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
