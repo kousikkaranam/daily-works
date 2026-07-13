@@ -2125,3 +2125,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-13 (05:48)
 > "*grabs two citizens and swings them around in a circle* Shorty?! Could a shorty do this?! What else you want to call me: a half-pint bean-sprout midget?! I'm still growing you backwater desert idiots!"
 > — Edward Elric (Fullmetal Alchemist)
+
+## 2026-07-13 (11:43)
+> "Only frustrated adults and naive kids believe themselves to be special."
+> — Kiyomasa Senji (Deadman Wonderland)

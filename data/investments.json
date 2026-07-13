@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-05",
-    "time": "10:51",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 10.3,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.25,
-        "currency": "INR"
-      },
-      {
-        "name": "VEDANTA IRON AND STEEL L",
-        "symbol": "VISL.NS",
-        "price": 40.52,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.92,
-        "currency": "USD"
-      },
-      {
-        "name": "AT&T Inc.",
-        "symbol": "T",
-        "price": 20.58,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 194.83,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 62688,
-    "ethereum_usd": 1759.45,
-    "gold_inr_10g": 127969.86
-  },
-  {
     "date": "2026-07-06",
     "time": "05:17",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 62741,
     "ethereum_usd": 1780.92,
     "gold_inr_10g": 124743.76
+  },
+  {
+    "date": "2026-07-13",
+    "time": "11:43",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.92,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.96,
+        "currency": "INR"
+      },
+      {
+        "name": "KALYAN JEWELLERS IND LTD",
+        "symbol": "KALYANKJIL.NS",
+        "price": 510.65,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 210.96,
+        "currency": "USD"
+      },
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 13.76,
+        "currency": "USD"
+      },
+      {
+        "name": "SK hynix Inc. - American Deposi",
+        "symbol": "SKHYV",
+        "price": 168.01,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 62917,
+    "ethereum_usd": 1780.8,
+    "gold_inr_10g": 124851.21
   }
 ]
