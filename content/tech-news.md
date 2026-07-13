@@ -1663,3 +1663,6 @@
 
 ## 2026-07-13 (11:43)
 - [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+
+## 2026-07-13 (17:22)
+- [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/)

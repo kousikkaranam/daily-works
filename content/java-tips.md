@@ -1442,3 +1442,6 @@ Flutter Error: Could not resolve all files for configuration &#x27;:classpath&#x
 
 ## 2026-07-13 (11:43)
 Spring Security: Failed to authorize filter invocation
+
+## 2026-07-13 (17:22)
+What is the best way to tell if a character is a letter or number in Java without using regexes?

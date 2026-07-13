@@ -2129,3 +2129,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-13 (11:43)
 > "Only frustrated adults and naive kids believe themselves to be special."
 > — Kiyomasa Senji (Deadman Wonderland)
+
+## 2026-07-13 (17:22)
+> "There once was a boy, who dreamed of being a hero, who sincerely believed in the battle to banish darkness from a world of light. But light and darkness are equals and where one exists, so too must the other. When the boy finally realized this, that was when he started the path to becoming a true hero."
+> — Record of Lodoss War (Record of Lodoss War)
