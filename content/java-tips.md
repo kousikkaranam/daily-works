@@ -1448,3 +1448,6 @@ What is the best way to tell if a character is a letter or number in Java withou
 
 ## 2026-07-14 (10:24)
 Error: Consider defining a bean of type &#x27;org.springframework.security.config.annotation.web.builders.HttpSecurity&#x27; in your configuration
+
+## 2026-07-14 (16:38)
+Could not initialize com.ibm.mq.MQEnvironment
