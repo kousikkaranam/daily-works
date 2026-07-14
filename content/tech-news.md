@@ -1669,3 +1669,6 @@
 
 ## 2026-07-14 (10:24)
 - [The git history command](https://lalitm.com/post/git-history/)
+
+## 2026-07-14 (16:38)
+- [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
