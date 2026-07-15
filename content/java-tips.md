@@ -1451,3 +1451,6 @@ Error: Consider defining a bean of type &#x27;org.springframework.security.confi
 
 ## 2026-07-14 (16:38)
 Could not initialize com.ibm.mq.MQEnvironment
+
+## 2026-07-15 (04:08)
+How do you deal with generated code?
