@@ -1675,3 +1675,6 @@
 
 ## 2026-07-15 (04:08)
 - [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
+
+## 2026-07-15 (05:10)
+- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)

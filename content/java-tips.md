@@ -1454,3 +1454,6 @@ Could not initialize com.ibm.mq.MQEnvironment
 
 ## 2026-07-15 (04:08)
 How do you deal with generated code?
+
+## 2026-07-15 (05:10)
+java.lang.ClassCastException: cannot be cast to org.openqa.selenium.WebElement using executeScript() to return shadowRoot from shadowHost
