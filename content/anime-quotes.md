@@ -2137,3 +2137,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-14 (16:38)
 > "Stand back? [To Kira after Gin asked him to stand back] No, Kira...Run. Run until you're out of my sight, and keep running. Otherwise...I can't guarantee you won't get dragged into this and be killed."
 > — Toushirou Hitsugaya (Bleach)
+
+## 2026-07-15 (04:08)
+> "Isn’t it fine as long as you find it? Isn’t it fine as long as you find the next fun and happy moments again?"
+> — Okazaki Tomoya (Clannad)
