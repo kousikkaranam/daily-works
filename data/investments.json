@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "time": "17:25",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.85,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.41,
-        "currency": "INR"
-      },
-      {
-        "name": "RITES LIMITED",
-        "symbol": "RITES.NS",
-        "price": 235.43,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 111.09,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 197.75,
-        "currency": "USD"
-      },
-      {
-        "name": "Crinetics Pharmaceuticals, Inc.",
-        "symbol": "CRNX",
-        "price": 42.03,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63987,
-    "ethereum_usd": 1802.33,
-    "gold_inr_10g": null
-  },
-  {
     "date": "2026-07-08",
     "time": "04:18",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64623,
     "ethereum_usd": 1872.82,
     "gold_inr_10g": 124799.85
+  },
+  {
+    "date": "2026-07-16",
+    "time": "16:41",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.32,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.89,
+        "currency": "INR"
+      },
+      {
+        "name": "MRPL",
+        "symbol": "MRPL.NS",
+        "price": 173.33,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "AtaiBeckley Inc.",
+        "symbol": "ATAI",
+        "price": 7.1532,
+        "currency": "USD"
+      },
+      {
+        "name": "SK hynix Inc. - American Deposi",
+        "symbol": "SKHYV",
+        "price": 168.01,
+        "currency": "USD"
+      },
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 13.845,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64417,
+    "ethereum_usd": 1876.83,
+    "gold_inr_10g": 123581.93
   }
 ]

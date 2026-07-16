@@ -1457,3 +1457,6 @@ How do you deal with generated code?
 
 ## 2026-07-15 (05:10)
 java.lang.ClassCastException: cannot be cast to org.openqa.selenium.WebElement using executeScript() to return shadowRoot from shadowHost
+
+## 2026-07-16 (16:41)
+Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method &#x27;POST&#x27; not supported] Spring MVC

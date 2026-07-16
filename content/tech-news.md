@@ -1678,3 +1678,6 @@
 
 ## 2026-07-15 (05:10)
 - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
+
+## 2026-07-16 (16:41)
+- [Ente – Opening Our Books](https://ente.com/open/)
