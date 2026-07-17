@@ -1460,3 +1460,6 @@ java.lang.ClassCastException: cannot be cast to org.openqa.selenium.WebElement u
 
 ## 2026-07-16 (16:41)
 Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method &#x27;POST&#x27; not supported] Spring MVC
+
+## 2026-07-17 (04:11)
+Calling method in main function
