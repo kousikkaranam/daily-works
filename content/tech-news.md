@@ -1684,3 +1684,6 @@
 
 ## 2026-07-17 (04:11)
 - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+
+## 2026-07-17 (10:26)
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
