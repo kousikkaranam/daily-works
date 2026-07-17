@@ -2153,3 +2153,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-17 (04:11)
 > "No one can justify life by linking happy moments into a rosary."
 > — Shinji Ikari (Neon Genesis Evangelion)
+
+## 2026-07-17 (10:26)
+> "FOOL! As someone who is unaware of the vital role that singing has played in the cultural history of mankind you are in no position to question me. Remember that the next time you stop to consider your place in this world. You do not possess the power to deny a singer his song. Do you understand what I'm telling you?"
+> — Excalibur (Soul Eater)

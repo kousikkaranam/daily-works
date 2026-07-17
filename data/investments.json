@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-07-08",
-    "time": "05:31",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.75,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.15,
-        "currency": "INR"
-      },
-      {
-        "name": "SHARE IND. SECURITIES LTD",
-        "symbol": "SHAREINDIA.NS",
-        "price": 189.88,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.2,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 110.39,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 196.93,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 62713,
-    "ethereum_usd": 1754.33,
-    "gold_inr_10g": 125992.55
-  },
-  {
-    "date": "2026-07-08",
     "time": "10:48",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 63457,
     "ethereum_usd": 1848.73,
     "gold_inr_10g": 123633.96
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:26",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.7,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.74,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 51.99,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 15.6,
+        "currency": "USD"
+      },
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 13.79,
+        "currency": "USD"
+      },
+      {
+        "name": "AtaiBeckley Inc.",
+        "symbol": "ATAI",
+        "price": 7.15,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 63008,
+    "ethereum_usd": 1835.88,
+    "gold_inr_10g": 123875.71
   }
 ]

@@ -1463,3 +1463,6 @@ Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Reques
 
 ## 2026-07-17 (04:11)
 Calling method in main function
+
+## 2026-07-17 (10:26)
+Hibernate enum array validation not working
