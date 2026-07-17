@@ -1681,3 +1681,6 @@
 
 ## 2026-07-16 (16:41)
 - [Ente – Opening Our Books](https://ente.com/open/)
+
+## 2026-07-17 (04:11)
+- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
