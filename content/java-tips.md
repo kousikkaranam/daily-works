@@ -1475,3 +1475,6 @@ Dealing with lookup tables and enums between database and spring app
 
 ## 2026-07-18 (03:58)
 How can I inflate entry stream?
+
+## 2026-07-18 (05:05)
+I am trying to learn Java programming but always fall back to basics

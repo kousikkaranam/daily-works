@@ -1699,3 +1699,6 @@
 
 ## 2026-07-18 (03:58)
 - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+
+## 2026-07-18 (05:05)
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion]()
