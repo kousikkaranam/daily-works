@@ -1484,3 +1484,6 @@ android JNI failed to resolve Java class
 
 ## 2026-07-18 (05:05)
 Why Java Stream API filter is faster than an imperative loop?
+
+## 2026-07-18 (05:05)
+Filter a list based on dynamic criteria using Java streams

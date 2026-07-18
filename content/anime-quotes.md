@@ -2185,3 +2185,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-18 (05:05)
 > "A smiling, dependable, cool hero…That’s what I wanna be! That’s why I’m giving it everything. For everyone!"
 > — Izuku Midoriya (My Hero Academia)
+
+## 2026-07-18 (05:05)
+> "I'm an abomination! I'm filthy and dirty! And unbalanced! Why is there only one set of stripes?! I'm garbage! Asymmetrical garbage! I deserve to die!"
+> — Death the Kid (Soul Eater)
