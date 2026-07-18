@@ -1687,3 +1687,6 @@
 
 ## 2026-07-17 (10:26)
 - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
+
+## 2026-07-18 (03:58)
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
