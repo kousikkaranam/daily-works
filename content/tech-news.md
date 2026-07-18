@@ -1726,3 +1726,6 @@
 
 ## 2026-07-18 (10:03)
 - [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1)
+
+## 2026-07-18 (16:10)
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)

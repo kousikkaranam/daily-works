@@ -1499,3 +1499,6 @@ Reproduce NullPointerException on Stream.toList() method
 
 ## 2026-07-18 (06:55)
 Unable to list target platforms. Please make sure the android sdk path is correct
+
+## 2026-07-18 (16:10)
+How many threads are spawned by parallelStream in Java 8?
