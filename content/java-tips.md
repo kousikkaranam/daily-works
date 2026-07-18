@@ -1469,3 +1469,6 @@ Hibernate enum array validation not working
 
 ## 2026-07-18 (03:58)
 JwkSet gives Cannot resolve constructor &#x27;JWKSet(List&lt;RSAKey&gt;)&#x27; - Stream.collect(Collectors.toList()) vs Stream.toList()
+
+## 2026-07-18 (03:58)
+Dealing with lookup tables and enums between database and spring app

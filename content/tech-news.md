@@ -1690,3 +1690,6 @@
 
 ## 2026-07-18 (03:58)
 - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+
+## 2026-07-18 (03:58)
+- [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
