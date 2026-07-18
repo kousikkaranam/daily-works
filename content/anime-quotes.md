@@ -2201,3 +2201,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-18 (06:55)
 > "He's seriously crazy, he must be insane."
 > — Maka Albarn (Soul Eater)
+
+## 2026-07-18 (06:55)
+> "To fight...Or to live...Choose."
+> — Zangetsu (Bleach)

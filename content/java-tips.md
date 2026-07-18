@@ -1496,3 +1496,6 @@ Is there elegant way to fork and join Java streams?
 
 ## 2026-07-18 (06:55)
 Reproduce NullPointerException on Stream.toList() method
+
+## 2026-07-18 (06:55)
+Unable to list target platforms. Please make sure the android sdk path is correct

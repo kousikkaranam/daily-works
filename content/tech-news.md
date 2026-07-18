@@ -1720,3 +1720,6 @@
 
 ## 2026-07-18 (06:55)
 - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+
+## 2026-07-18 (06:55)
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
