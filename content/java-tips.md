@@ -1493,3 +1493,6 @@ Attribute always evaluates to not-null in an Optional map() transformation even 
 
 ## 2026-07-18 (06:55)
 Is there elegant way to fork and join Java streams?
+
+## 2026-07-18 (06:55)
+Reproduce NullPointerException on Stream.toList() method
