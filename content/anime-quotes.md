@@ -2189,3 +2189,19 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-18 (05:05)
 > "I'm an abomination! I'm filthy and dirty! And unbalanced! Why is there only one set of stripes?! I'm garbage! Asymmetrical garbage! I deserve to die!"
 > — Death the Kid (Soul Eater)
+
+## 2026-07-18 (06:55)
+> "If you can never get angry at anything, that probably means you have nothing that you like, either."
+> — Eru Chitanda (Hyouka)
+
+## 2026-07-18 (06:55)
+> "I have a simpler motive. Experimentation and observation - that's all a true scientist cares about. And I am a scientist. Everything in the world is an experimental test subject, of course, that includes myself as well."
+> — Franken Stein (Soul Eater)
+
+## 2026-07-18 (06:55)
+> "He's seriously crazy, he must be insane."
+> — Maka Albarn (Soul Eater)
+
+## 2026-07-18 (06:55)
+> "To fight...Or to live...Choose."
+> — Zangetsu (Bleach)
