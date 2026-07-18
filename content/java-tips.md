@@ -1478,3 +1478,6 @@ How can I inflate entry stream?
 
 ## 2026-07-18 (05:05)
 I am trying to learn Java programming but always fall back to basics
+
+## 2026-07-18 (05:05)
+android JNI failed to resolve Java class
