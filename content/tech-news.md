@@ -1711,3 +1711,6 @@
 
 ## 2026-07-18 (05:05)
 - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+
+## 2026-07-18 (06:55)
+- [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)

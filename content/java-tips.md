@@ -1487,3 +1487,6 @@ Why Java Stream API filter is faster than an imperative loop?
 
 ## 2026-07-18 (05:05)
 Filter a list based on dynamic criteria using Java streams
+
+## 2026-07-18 (06:55)
+Attribute always evaluates to not-null in an Optional map() transformation even though it is null in some cases
