@@ -1693,3 +1693,6 @@
 
 ## 2026-07-18 (03:58)
 - [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+
+## 2026-07-18 (03:58)
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)

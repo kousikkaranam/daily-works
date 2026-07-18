@@ -2165,3 +2165,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-18 (03:58)
 > "If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!"
 > — Haruhi Fujioka (Ouran High School Host Club)
+
+## 2026-07-18 (03:58)
+> "Every phenomenon that happens in the human world is caused by people for their own convenience."
+> — Takano Miyo (Higurashi: When They Cry)

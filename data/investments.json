@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-07-10",
-    "time": "04:56",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 10.15,
-        "currency": "INR"
-      },
-      {
-        "name": "VEDANTA IRON AND STEEL L",
-        "symbol": "VISL.NS",
-        "price": 34.68,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.12,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 17.06,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 202.78,
-        "currency": "USD"
-      },
-      {
-        "name": "Opendoor Technologies Inc",
-        "symbol": "OPEN",
-        "price": 5.3,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64037,
-    "ethereum_usd": 1774.67,
-    "gold_inr_10g": 126425.42
-  },
-  {
-    "date": "2026-07-10",
     "time": "11:33",
     "top_indian": [
       {
@@ -1314,6 +1267,53 @@
     "bitcoin_usd": 63008,
     "ethereum_usd": 1835.88,
     "gold_inr_10g": 123875.71
+  },
+  {
+    "date": "2026-07-18",
+    "time": "03:58",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.7,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.74,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 51.99,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 6.525,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 14.98,
+        "currency": "USD"
+      },
+      {
+        "name": "Netflix, Inc.",
+        "symbol": "NFLX",
+        "price": 68.95,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 63937,
+    "ethereum_usd": 1843.39,
+    "gold_inr_10g": 124584.53
   },
   {
     "date": "2026-07-18",
