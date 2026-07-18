@@ -1723,3 +1723,6 @@
 
 ## 2026-07-18 (06:55)
 - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+
+## 2026-07-18 (10:03)
+- [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1)
