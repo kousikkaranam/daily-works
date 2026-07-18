@@ -2157,3 +2157,19 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-17 (10:26)
 > "FOOL! As someone who is unaware of the vital role that singing has played in the cultural history of mankind you are in no position to question me. Remember that the next time you stop to consider your place in this world. You do not possess the power to deny a singer his song. Do you understand what I'm telling you?"
 > — Excalibur (Soul Eater)
+
+## 2026-07-18 (03:58)
+> "Humans are things that don't know the true value of something precious until they lose it...and if somehow, they get that precious thing back, they'll forget its value again."
+> — Midou Ban (Getbackers)
+
+## 2026-07-18 (03:58)
+> "If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!"
+> — Haruhi Fujioka (Ouran High School Host Club)
+
+## 2026-07-18 (03:58)
+> "Every phenomenon that happens in the human world is caused by people for their own convenience."
+> — Takano Miyo (Higurashi: When They Cry)
+
+## 2026-07-18 (03:58)
+> "Nobu is idealizing me, that’s why he fell in love with me. If you knew the real me, it would shatter your illusion. Then come on. Shatter my illusion. Because I don’t know what else I can do to stop loving you."
+> — Nana Komatsu (Nana)

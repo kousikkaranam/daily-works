@@ -1687,3 +1687,15 @@
 
 ## 2026-07-17 (10:26)
 - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
+
+## 2026-07-18 (03:58)
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+
+## 2026-07-18 (03:58)
+- [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+
+## 2026-07-18 (03:58)
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+
+## 2026-07-18 (03:58)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
