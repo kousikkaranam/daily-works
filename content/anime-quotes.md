@@ -2173,3 +2173,19 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-18 (03:58)
 > "Nobu is idealizing me, that’s why he fell in love with me. If you knew the real me, it would shatter your illusion. Then come on. Shatter my illusion. Because I don’t know what else I can do to stop loving you."
 > — Nana Komatsu (Nana)
+
+## 2026-07-18 (05:05)
+> "The world just exists to hurt people and to be conquered. To survive, you mow down your enemies and take what you want."
+> — Livius Orvinus Ifrikia (The World is Still Beautiful)
+
+## 2026-07-18 (05:05)
+> "What is truly good about a person can't be expressed in words, that it can not. What matters is the feeling of trust one gets after spending time with him."
+> — Kenshin Himura (Rurouni Kenshin)
+
+## 2026-07-18 (05:05)
+> "A smiling, dependable, cool hero…That’s what I wanna be! That’s why I’m giving it everything. For everyone!"
+> — Izuku Midoriya (My Hero Academia)
+
+## 2026-07-18 (05:05)
+> "I'm an abomination! I'm filthy and dirty! And unbalanced! Why is there only one set of stripes?! I'm garbage! Asymmetrical garbage! I deserve to die!"
+> — Death the Kid (Soul Eater)
