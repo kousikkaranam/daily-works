@@ -1481,3 +1481,6 @@ I am trying to learn Java programming but always fall back to basics
 
 ## 2026-07-18 (05:05)
 android JNI failed to resolve Java class
+
+## 2026-07-18 (05:05)
+Why Java Stream API filter is faster than an imperative loop?

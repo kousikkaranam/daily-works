@@ -1705,3 +1705,6 @@
 
 ## 2026-07-18 (05:05)
 - [Thanks HN for 15 years of support and helping me find my life's work]()
+
+## 2026-07-18 (05:05)
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
