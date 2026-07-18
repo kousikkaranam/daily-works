@@ -1472,3 +1472,6 @@ JwkSet gives Cannot resolve constructor &#x27;JWKSet(List&lt;RSAKey&gt;)&#x27; -
 
 ## 2026-07-18 (03:58)
 Dealing with lookup tables and enums between database and spring app
+
+## 2026-07-18 (03:58)
+How can I inflate entry stream?

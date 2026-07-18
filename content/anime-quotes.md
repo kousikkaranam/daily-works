@@ -2169,3 +2169,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-18 (03:58)
 > "Every phenomenon that happens in the human world is caused by people for their own convenience."
 > — Takano Miyo (Higurashi: When They Cry)
+
+## 2026-07-18 (03:58)
+> "Nobu is idealizing me, that’s why he fell in love with me. If you knew the real me, it would shatter your illusion. Then come on. Shatter my illusion. Because I don’t know what else I can do to stop loving you."
+> — Nana Komatsu (Nana)

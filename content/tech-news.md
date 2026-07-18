@@ -1696,3 +1696,6 @@
 
 ## 2026-07-18 (03:58)
 - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+
+## 2026-07-18 (03:58)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
