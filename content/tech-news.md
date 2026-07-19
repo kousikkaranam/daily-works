@@ -1729,3 +1729,6 @@
 
 ## 2026-07-18 (16:10)
 - [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
+
+## 2026-07-19 (04:24)
+- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
