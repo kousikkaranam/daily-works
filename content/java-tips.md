@@ -1505,3 +1505,6 @@ How many threads are spawned by parallelStream in Java 8?
 
 ## 2026-07-19 (04:24)
 Oracle Java Platform Extension for Visual Studio Code : &quot;Oracle Java SE Language Server not enabled!&quot; error message
+
+## 2026-07-19 (10:15)
+How to make an Auto Clicker with Java?

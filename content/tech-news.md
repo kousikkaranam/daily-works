@@ -1735,3 +1735,6 @@
 
 ## 2026-07-19 (05:31)
 - [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
+
+## 2026-07-19 (10:15)
+- [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
