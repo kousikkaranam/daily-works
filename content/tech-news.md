@@ -1732,3 +1732,6 @@
 
 ## 2026-07-19 (04:24)
 - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
+
+## 2026-07-19 (05:31)
+- [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
