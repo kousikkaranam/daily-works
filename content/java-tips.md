@@ -1508,3 +1508,6 @@ Oracle Java Platform Extension for Visual Studio Code : &quot;Oracle Java SE Lan
 
 ## 2026-07-19 (10:15)
 How to make an Auto Clicker with Java?
+
+## 2026-07-19 (16:10)
+How does a parallel stream continue after a stateful operation like sorted()? [closed]
