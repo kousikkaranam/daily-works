@@ -2221,3 +2221,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-19 (16:10)
 > "Only idiots start fights they can't win."
 > — Sora (No Game, No Life)
+
+## 2026-07-20 (11:28)
+> "The first requirement of being a hero isn't being right. It's being strong. That's why the hero always wins."
+> — Koyomi Araragi (Bakemonogatari)

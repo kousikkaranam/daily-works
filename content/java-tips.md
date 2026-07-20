@@ -1511,3 +1511,6 @@ How to make an Auto Clicker with Java?
 
 ## 2026-07-19 (16:10)
 How does a parallel stream continue after a stateful operation like sorted()? [closed]
+
+## 2026-07-20 (11:28)
+Dagger 2: Cannot be provided without an @Provides-annotated method
