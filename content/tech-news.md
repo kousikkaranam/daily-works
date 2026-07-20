@@ -1741,3 +1741,6 @@
 
 ## 2026-07-19 (16:10)
 - [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
+
+## 2026-07-20 (11:28)
+- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
