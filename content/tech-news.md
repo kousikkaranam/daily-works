@@ -1744,3 +1744,6 @@
 
 ## 2026-07-20 (11:28)
 - [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+
+## 2026-07-20 (16:43)
+- [I Tracked 997 Chrome Extensions That Changed Their Titles](https://extensionranker.com/blog/chrome-extension-title-changes-rankings)
