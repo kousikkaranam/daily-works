@@ -1756,3 +1756,6 @@
 
 ## 2026-07-21 (10:49)
 - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
+
+## 2026-07-21 (16:41)
+- [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
