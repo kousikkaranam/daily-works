@@ -2233,3 +2233,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-21 (04:17)
 > "Don't do something wasteful as to wash your frustrations with tears. Your frustration is motivation that you can use to make yourself better. Hold it inside like it's an important thing!"
 > — Maria Momoe (Big Windup!)
+
+## 2026-07-21 (05:30)
+> "Truly Necessary Evils Are Always ... Controlled By The State."
+> — Makima (Chainsaw Man)
