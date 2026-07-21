@@ -1747,3 +1747,6 @@
 
 ## 2026-07-20 (16:43)
 - [I Tracked 997 Chrome Extensions That Changed Their Titles](https://extensionranker.com/blog/chrome-extension-title-changes-rankings)
+
+## 2026-07-21 (04:17)
+- [Kimi Work](https://www.kimi.com/products/kimi-work)
