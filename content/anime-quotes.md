@@ -2229,3 +2229,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-20 (16:43)
 > "I'd rather die with someone than let that person die before my eyes. More so if she's a girl like you."
 > — Kazuto Kirigaya (Sword Art Online)
+
+## 2026-07-21 (04:17)
+> "Don't do something wasteful as to wash your frustrations with tears. Your frustration is motivation that you can use to make yourself better. Hold it inside like it's an important thing!"
+> — Maria Momoe (Big Windup!)
