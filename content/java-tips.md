@@ -1520,3 +1520,6 @@ How to get distinct list on more than one property in Java 8
 
 ## 2026-07-21 (05:30)
 spring app Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.proper
+
+## 2026-07-21 (10:49)
+Cast field in JPA Query

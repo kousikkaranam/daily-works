@@ -1753,3 +1753,6 @@
 
 ## 2026-07-21 (05:30)
 - [Jane Street: Incremental](https://github.com/janestreet/incremental)
+
+## 2026-07-21 (10:49)
+- [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)

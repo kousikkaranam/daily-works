@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-13",
-    "time": "17:22",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.92,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.96,
-        "currency": "INR"
-      },
-      {
-        "name": "KALYAN JEWELLERS IND LTD",
-        "symbol": "KALYANKJIL.NS",
-        "price": 510.65,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "SK hynix Inc. - American Deposi",
-        "symbol": "SKHYV",
-        "price": 168.01,
-        "currency": "USD"
-      },
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 13.785,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 16.495,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 62192,
-    "ethereum_usd": 1772.01,
-    "gold_inr_10g": 122870.96
-  },
-  {
     "date": "2026-07-14",
     "time": "10:24",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 65578,
     "ethereum_usd": 1923.96,
     "gold_inr_10g": 125845.85
+  },
+  {
+    "date": "2026-07-21",
+    "time": "10:49",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.08,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.49,
+        "currency": "INR"
+      },
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 17.75,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 6.87,
+        "currency": "USD"
+      },
+      {
+        "name": "AMC Entertainment Holdings, Inc",
+        "symbol": "AMC",
+        "price": 2.46,
+        "currency": "USD"
+      },
+      {
+        "name": "UiPath, Inc.",
+        "symbol": "PATH",
+        "price": 12.16,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 66291,
+    "ethereum_usd": 1937.8,
+    "gold_inr_10g": 126153.09
   }
 ]
