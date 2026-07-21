@@ -1523,3 +1523,6 @@ spring app Error processing condition on org.springframework.boot.autoconfigure.
 
 ## 2026-07-21 (10:49)
 Cast field in JPA Query
+
+## 2026-07-21 (16:41)
+Java self referencing generic type
