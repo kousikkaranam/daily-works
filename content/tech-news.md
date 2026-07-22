@@ -1759,3 +1759,6 @@
 
 ## 2026-07-21 (16:41)
 - [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+
+## 2026-07-22 (04:20)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
