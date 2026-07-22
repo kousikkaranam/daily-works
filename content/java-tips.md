@@ -1529,3 +1529,6 @@ Java self referencing generic type
 
 ## 2026-07-22 (04:20)
 deploy jar file using Jenkins
+
+## 2026-07-22 (16:46)
+JDBC Oracle Thin ORA-02396 Connection idle timeout
