@@ -1526,3 +1526,6 @@ Cast field in JPA Query
 
 ## 2026-07-21 (16:41)
 Java self referencing generic type
+
+## 2026-07-22 (04:20)
+deploy jar file using Jenkins
