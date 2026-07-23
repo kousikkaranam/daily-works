@@ -1774,3 +1774,6 @@
 
 ## 2026-07-23 (05:34)
 - [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+
+## 2026-07-23 (10:51)
+- [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)

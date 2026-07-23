@@ -1538,3 +1538,6 @@ How to convert JsonNode to Map
 
 ## 2026-07-23 (05:34)
 Solving Sudoku Programmatically
+
+## 2026-07-23 (10:51)
+Ant warning: Implicitly compiled files were not subject to annotation processing
