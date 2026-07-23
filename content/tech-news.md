@@ -1777,3 +1777,6 @@
 
 ## 2026-07-23 (10:51)
 - [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
+
+## 2026-07-23 (16:46)
+- [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
