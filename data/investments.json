@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-16",
-    "time": "16:41",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 10.32,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.89,
-        "currency": "INR"
-      },
-      {
-        "name": "MRPL",
-        "symbol": "MRPL.NS",
-        "price": 173.33,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "AtaiBeckley Inc.",
-        "symbol": "ATAI",
-        "price": 7.1532,
-        "currency": "USD"
-      },
-      {
-        "name": "SK hynix Inc. - American Deposi",
-        "symbol": "SKHYV",
-        "price": 168.01,
-        "currency": "USD"
-      },
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 13.845,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64417,
-    "ethereum_usd": 1876.83,
-    "gold_inr_10g": 123581.93
-  },
-  {
     "date": "2026-07-17",
     "time": "04:11",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 66249,
     "ethereum_usd": 1950.39,
     "gold_inr_10g": 128454.09
+  },
+  {
+    "date": "2026-07-23",
+    "time": "04:18",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.31,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.73,
+        "currency": "INR"
+      },
+      {
+        "name": "SUMEET INDUSTRIES LTD",
+        "symbol": "SUMEET-RE.NS",
+        "price": 0.0,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 23.04,
+        "currency": "USD"
+      },
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 8.0,
+        "currency": "USD"
+      },
+      {
+        "name": "Super Micro Computer, Inc.",
+        "symbol": "SMCI",
+        "price": 30.56,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 65636,
+    "ethereum_usd": 1921.64,
+    "gold_inr_10g": 128180.93
   }
 ]

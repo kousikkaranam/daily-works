@@ -1768,3 +1768,6 @@
 
 ## 2026-07-22 (16:46)
 - [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
+
+## 2026-07-23 (04:18)
+- [ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)
