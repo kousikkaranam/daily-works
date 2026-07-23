@@ -1532,3 +1532,6 @@ deploy jar file using Jenkins
 
 ## 2026-07-22 (16:46)
 JDBC Oracle Thin ORA-02396 Connection idle timeout
+
+## 2026-07-23 (04:18)
+How to convert JsonNode to Map
