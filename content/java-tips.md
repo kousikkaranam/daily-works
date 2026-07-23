@@ -1535,3 +1535,6 @@ JDBC Oracle Thin ORA-02396 Connection idle timeout
 
 ## 2026-07-23 (04:18)
 How to convert JsonNode to Map
+
+## 2026-07-23 (05:34)
+Solving Sudoku Programmatically
