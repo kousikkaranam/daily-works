@@ -1771,3 +1771,6 @@
 
 ## 2026-07-23 (04:18)
 - [ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)
+
+## 2026-07-23 (05:34)
+- [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
