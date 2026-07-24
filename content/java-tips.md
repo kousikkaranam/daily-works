@@ -1547,3 +1547,6 @@ Ant warning: Implicitly compiled files were not subject to annotation processing
 
 ## 2026-07-24 (05:29)
 Impala JDBC Error: User &#x27;&#x27; does not have privileges to execute &#x27;SELECT&#x27; on: table
+
+## 2026-07-24 (10:47)
+How can I convert a Map&lt;Object, Optional&lt;Object&gt;&gt; to Map&lt;Object, Object&gt;?
