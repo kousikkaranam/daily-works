@@ -1780,3 +1780,6 @@
 
 ## 2026-07-23 (16:46)
 - [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
+
+## 2026-07-24 (05:29)
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)

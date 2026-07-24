@@ -1544,3 +1544,6 @@ Ant warning: Implicitly compiled files were not subject to annotation processing
 
 ## 2026-07-23 (16:46)
 &quot;Interim condition check&quot; in Java Stream API
+
+## 2026-07-24 (05:29)
+Impala JDBC Error: User &#x27;&#x27; does not have privileges to execute &#x27;SELECT&#x27; on: table
