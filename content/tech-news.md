@@ -1819,3 +1819,6 @@
 
 ## 2026-07-25 (10:15)
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+
+## 2026-07-25 (16:12)
+- [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)

@@ -1580,3 +1580,6 @@ How to get sdkman to default to latest point release of a java major version
 
 ## 2026-07-25 (07:10)
 How to set a Homography matrix correctly in Java?
+
+## 2026-07-25 (16:12)
+Trying to mod MC Forge 1.12.2, but SetupDecompWorkspace not working
