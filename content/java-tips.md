@@ -1550,3 +1550,6 @@ Impala JDBC Error: User &#x27;&#x27; does not have privileges to execute &#x27;S
 
 ## 2026-07-24 (10:47)
 How can I convert a Map&lt;Object, Optional&lt;Object&gt;&gt; to Map&lt;Object, Object&gt;?
+
+## 2026-07-25 (04:15)
+com.amazonaws.AmazonClientException: Unable to execute HTTP request: peer not authenticated
