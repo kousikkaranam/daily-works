@@ -1562,3 +1562,6 @@ Library to parse and convert SWIFT MT files
 
 ## 2026-07-25 (04:15)
 Trying to understand method reference in Java 8 (assigning class method to functional interface) [duplicate]
+
+## 2026-07-25 (05:24)
+NoSuchSessionException when starting chromedriver
