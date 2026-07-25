@@ -1574,3 +1574,6 @@ java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationB
 
 ## 2026-07-25 (05:24)
 MySQL Connector/J 9.5 returns no rows from PreparedStatement (Statement works)
+
+## 2026-07-25 (05:24)
+How to get sdkman to default to latest point release of a java major version
