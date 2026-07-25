@@ -1577,3 +1577,6 @@ MySQL Connector/J 9.5 returns no rows from PreparedStatement (Statement works)
 
 ## 2026-07-25 (05:24)
 How to get sdkman to default to latest point release of a java major version
+
+## 2026-07-25 (07:10)
+How to set a Homography matrix correctly in Java?

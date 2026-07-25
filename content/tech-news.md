@@ -1813,3 +1813,6 @@
 
 ## 2026-07-25 (05:24)
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+
+## 2026-07-25 (07:10)
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
