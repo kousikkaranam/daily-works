@@ -1801,3 +1801,6 @@
 
 ## 2026-07-25 (05:24)
 - [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+
+## 2026-07-25 (05:24)
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
