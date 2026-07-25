@@ -2317,3 +2317,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-25 (10:15)
 > "*to Reim* Like I said before!! To me, being blind is nothing! It's only because I had just woken up, that's why Oz found out. Give me 3 more days. By then, I'll have assimilated. Then I'll be recovered and everything will be like normal. Even if I were thrown in a midst of Pandora members, I have faith that I will be able to kill them all!"
 > — Xerxes Break (Pandora Hearts)
+
+## 2026-07-25 (16:12)
+> "The future is not a straight line. There are many different pathways. We must try to decide that future for ourselves."
+> — Kikyo (InuYasha)
