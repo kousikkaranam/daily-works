@@ -2297,3 +2297,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-25 (05:24)
 > "I know you play by higher standards, but at least give me credit for the nose."
 > — Genkai (Yu Yu Hakusho)
+
+## 2026-07-25 (05:24)
+> "*to Kikyo* I swear... I will never let Naraku harm you."
+> — Inuyasha (InuYasha)

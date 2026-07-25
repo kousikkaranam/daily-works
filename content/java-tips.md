@@ -1568,3 +1568,6 @@ NoSuchSessionException when starting chromedriver
 
 ## 2026-07-25 (05:24)
 How to convert int[] into List&lt;Integer&gt; in Java?
+
+## 2026-07-25 (05:24)
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V
