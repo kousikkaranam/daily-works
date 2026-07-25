@@ -1807,3 +1807,6 @@
 
 ## 2026-07-25 (05:24)
 - [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
+
+## 2026-07-25 (05:24)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)

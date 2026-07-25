@@ -2301,3 +2301,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-25 (05:24)
 > "*to Kikyo* I swear... I will never let Naraku harm you."
 > — Inuyasha (InuYasha)
+
+## 2026-07-25 (05:24)
+> "Just killing time until the world ends."
+> — Furude Rika (Higurashi: When They Cry)

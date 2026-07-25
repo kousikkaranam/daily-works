@@ -1571,3 +1571,6 @@ How to convert int[] into List&lt;Integer&gt; in Java?
 
 ## 2026-07-25 (05:24)
 java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V
+
+## 2026-07-25 (05:24)
+MySQL Connector/J 9.5 returns no rows from PreparedStatement (Statement works)
