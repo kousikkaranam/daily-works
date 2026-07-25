@@ -2309,3 +2309,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-25 (05:24)
 > "I'm an apple for a day and I need a doctor right away..."
 > — Ash Ketchum (Pokémon)
+
+## 2026-07-25 (07:10)
+> "[to Ichigo] Don't forget my name, Soul Reaper, and you better pray that you never hear it again! Grimmjow Jaegerjaquez...because the next time you hear my name, you'll be a dead man...I promise."
+> — Grimmjow Jeagerjaques (Bleach)
