@@ -1553,3 +1553,6 @@ How can I convert a Map&lt;Object, Optional&lt;Object&gt;&gt; to Map&lt;Object, 
 
 ## 2026-07-25 (04:15)
 com.amazonaws.AmazonClientException: Unable to execute HTTP request: peer not authenticated
+
+## 2026-07-25 (04:15)
+Iterate a list inside a list (cartesian product of two lists)

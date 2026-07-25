@@ -2281,3 +2281,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-25 (04:15)
 > "How come you wear glasses? I mean, you're really pretty but you can only appeal to a tiny section of the fanbase. *To Miyuki*"
 > — Konata Izumi (Lucky Star)
+
+## 2026-07-25 (04:15)
+> "Look, all it means is that when I lose it, it's cause things make no sense.  If there was any logic to it, then I wouldn't get pissed even if I got shot or stabbed."
+> — Shizuo Heiwajima (Durarara!!)
