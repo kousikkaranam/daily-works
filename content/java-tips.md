@@ -1562,3 +1562,18 @@ Library to parse and convert SWIFT MT files
 
 ## 2026-07-25 (04:15)
 Trying to understand method reference in Java 8 (assigning class method to functional interface) [duplicate]
+
+## 2026-07-25 (05:24)
+NoSuchSessionException when starting chromedriver
+
+## 2026-07-25 (05:24)
+How to convert int[] into List&lt;Integer&gt; in Java?
+
+## 2026-07-25 (05:24)
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V
+
+## 2026-07-25 (05:24)
+MySQL Connector/J 9.5 returns no rows from PreparedStatement (Statement works)
+
+## 2026-07-25 (05:24)
+How to get sdkman to default to latest point release of a java major version

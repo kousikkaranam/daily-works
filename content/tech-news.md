@@ -1798,3 +1798,18 @@
 
 ## 2026-07-25 (04:15)
 - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
+
+## 2026-07-25 (05:24)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+
+## 2026-07-25 (05:24)
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+
+## 2026-07-25 (05:24)
+- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
+
+## 2026-07-25 (05:24)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+
+## 2026-07-25 (05:24)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
