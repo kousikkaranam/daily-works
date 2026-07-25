@@ -2277,3 +2277,15 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-24 (10:47)
 > "If a person continues killing, their heart changes into that of a demon without them even noticing."
 > — Gensei (Akame ga Kill!)
+
+## 2026-07-25 (04:15)
+> "How come you wear glasses? I mean, you're really pretty but you can only appeal to a tiny section of the fanbase. *To Miyuki*"
+> — Konata Izumi (Lucky Star)
+
+## 2026-07-25 (04:15)
+> "Look, all it means is that when I lose it, it's cause things make no sense.  If there was any logic to it, then I wouldn't get pissed even if I got shot or stabbed."
+> — Shizuo Heiwajima (Durarara!!)
+
+## 2026-07-25 (04:15)
+> "It's a cruel and random world. And yet the chaos is all so beautiful."
+> — Dante (Devil May Cry)
