@@ -1822,3 +1822,6 @@
 
 ## 2026-07-25 (16:12)
 - [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
+
+## 2026-07-26 (04:30)
+- [JetZero](https://www.jetzero.aero)
