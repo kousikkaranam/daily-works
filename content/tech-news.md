@@ -1828,3 +1828,6 @@
 
 ## 2026-07-26 (05:41)
 - [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+
+## 2026-07-26 (10:23)
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
