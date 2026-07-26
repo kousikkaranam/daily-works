@@ -1586,3 +1586,6 @@ Trying to mod MC Forge 1.12.2, but SetupDecompWorkspace not working
 
 ## 2026-07-26 (04:30)
 Iterate a list inside a list (cartesian product of two lists) [duplicate]
+
+## 2026-07-26 (05:41)
+How to make a dynamic Spring (Boot) JPA query with paging?
