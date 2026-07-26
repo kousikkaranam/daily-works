@@ -1825,3 +1825,6 @@
 
 ## 2026-07-26 (04:30)
 - [JetZero](https://www.jetzero.aero)
+
+## 2026-07-26 (05:41)
+- [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
