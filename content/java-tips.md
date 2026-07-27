@@ -1589,3 +1589,6 @@ Iterate a list inside a list (cartesian product of two lists) [duplicate]
 
 ## 2026-07-26 (05:41)
 How to make a dynamic Spring (Boot) JPA query with paging?
+
+## 2026-07-27 (04:40)
+java ORM for a read only DB [closed]
