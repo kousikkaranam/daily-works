@@ -1831,3 +1831,6 @@
 
 ## 2026-07-26 (10:23)
 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+
+## 2026-07-27 (04:40)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
