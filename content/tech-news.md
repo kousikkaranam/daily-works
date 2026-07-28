@@ -1837,3 +1837,6 @@
 
 ## 2026-07-28 (05:25)
 - [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
+
+## 2026-07-28 (16:50)
+- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)

@@ -1595,3 +1595,6 @@ java ORM for a read only DB [closed]
 
 ## 2026-07-28 (05:25)
 Check whether list of custom objects have same value for a property in Java 8
+
+## 2026-07-28 (16:50)
+keycloak.adapters.saml.jakarta.servlet.SamlFilter error after moving from jboss-eap-7 to boss-eap-8
