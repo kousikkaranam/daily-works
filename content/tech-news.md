@@ -1834,3 +1834,6 @@
 
 ## 2026-07-27 (04:40)
 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+
+## 2026-07-28 (05:25)
+- [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
