@@ -1592,3 +1592,6 @@ How to make a dynamic Spring (Boot) JPA query with paging?
 
 ## 2026-07-27 (04:40)
 java ORM for a read only DB [closed]
+
+## 2026-07-28 (05:25)
+Check whether list of custom objects have same value for a property in Java 8
