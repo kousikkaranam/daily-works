@@ -1601,3 +1601,6 @@ keycloak.adapters.saml.jakarta.servlet.SamlFilter error after moving from jboss-
 
 ## 2026-07-29 (04:15)
 Fullscreen WebView when landscape?
+
+## 2026-07-29 (05:31)
+Exception in thread &quot;main&quot; org.hibernate.exception.ConstraintViolationException: could not execute statement
