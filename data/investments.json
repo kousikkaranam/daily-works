@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "time": "16:41",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 10.08,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.49,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 17.75,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 7.6323,
-        "currency": "USD"
-      },
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 14.275,
-        "currency": "USD"
-      },
-      {
-        "name": "UiPath, Inc.",
-        "symbol": "PATH",
-        "price": 11.925,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 66590,
-    "ethereum_usd": 1925.52,
-    "gold_inr_10g": 126500.68
-  },
-  {
     "date": "2026-07-22",
     "time": "04:20",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64414,
     "ethereum_usd": 1910.89,
     "gold_inr_10g": 124094.11
+  },
+  {
+    "date": "2026-07-29",
+    "time": "16:38",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.05,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 47.45,
+        "currency": "INR"
+      },
+      {
+        "name": "PARADEEP PHOSPHATES LTD",
+        "symbol": "PARADEEP.NS",
+        "price": 156.54,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "SoFi Technologies, Inc.",
+        "symbol": "SOFI",
+        "price": 15.275,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 82.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Ford Motor Company",
+        "symbol": "F",
+        "price": 15.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 63802,
+    "ethereum_usd": 1890.44,
+    "gold_inr_10g": 123862.97
   }
 ]
