@@ -1843,3 +1843,6 @@
 
 ## 2026-07-29 (04:15)
 - [ReFrame – The EPaper Camera](https://reframe.camera/)
+
+## 2026-07-29 (05:31)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
