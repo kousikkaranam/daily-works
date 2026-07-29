@@ -1840,3 +1840,6 @@
 
 ## 2026-07-28 (16:50)
 - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
+
+## 2026-07-29 (04:15)
+- [ReFrame – The EPaper Camera](https://reframe.camera/)

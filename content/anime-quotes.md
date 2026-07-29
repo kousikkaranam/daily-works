@@ -2341,3 +2341,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-28 (16:50)
 > "Sounds like a lot of work, I think I'll pass. I'd rather play and I'll ask for help when I get stuck."
 > — Konata Izumi (Lucky Star)
+
+## 2026-07-29 (04:15)
+> "A cowardly thief would sneak away in the night; the King of Conquerors leaves with his loot amidst songs of victory!"
+> — Rider (Fate/Zero)
