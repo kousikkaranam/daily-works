@@ -1849,3 +1849,6 @@
 
 ## 2026-07-29 (11:08)
 - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+
+## 2026-07-29 (16:38)
+- [Mitchellh starts a new company: Superlogical](https://www.superlogical.com/)
