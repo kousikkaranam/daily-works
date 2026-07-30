@@ -1858,3 +1858,6 @@
 
 ## 2026-07-30 (10:50)
 - [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
+
+## 2026-07-30 (16:49)
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
