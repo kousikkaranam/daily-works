@@ -1852,3 +1852,6 @@
 
 ## 2026-07-29 (16:38)
 - [Mitchellh starts a new company: Superlogical](https://www.superlogical.com/)
+
+## 2026-07-30 (04:09)
+- [Superlogical](https://www.superlogical.com/)
