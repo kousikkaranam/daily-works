@@ -1607,3 +1607,6 @@ Exception in thread &quot;main&quot; org.hibernate.exception.ConstraintViolation
 
 ## 2026-07-29 (16:38)
 Android Eclipse Popup Message with Button
+
+## 2026-07-30 (04:09)
+How to programmatically check availibilty of internet connection in Android?
