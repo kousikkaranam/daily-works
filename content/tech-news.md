@@ -1855,3 +1855,6 @@
 
 ## 2026-07-30 (04:09)
 - [Superlogical](https://www.superlogical.com/)
+
+## 2026-07-30 (10:50)
+- [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
