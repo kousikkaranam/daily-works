@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "time": "16:46",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.54,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.87,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 23.24,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Super Micro Computer, Inc.",
-        "symbol": "SMCI",
-        "price": 31.6009,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 8.3846,
-        "currency": "USD"
-      },
-      {
-        "name": "AT&T Inc.",
-        "symbol": "T",
-        "price": 22.96,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 66249,
-    "ethereum_usd": 1950.39,
-    "gold_inr_10g": 128454.09
-  },
-  {
     "date": "2026-07-23",
     "time": "04:18",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64541,
     "ethereum_usd": 1917.25,
     "gold_inr_10g": 125635.22
+  },
+  {
+    "date": "2026-07-30",
+    "time": "16:49",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.87,
+        "currency": "INR"
+      },
+      {
+        "name": "SUZLON ENERGY LIMITED",
+        "symbol": "SUZLON.NS",
+        "price": 47.4,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.12,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 92.2922,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 8.965,
+        "currency": "USD"
+      },
+      {
+        "name": "Microsoft Corporation",
+        "symbol": "MSFT",
+        "price": 454.34,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64743,
+    "ethereum_usd": 1915.68,
+    "gold_inr_10g": null
   }
 ]
