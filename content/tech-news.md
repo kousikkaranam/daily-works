@@ -1861,3 +1861,6 @@
 
 ## 2026-07-30 (16:49)
 - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+
+## 2026-07-31 (05:45)
+- [Where USB Memory Sticks Are Born](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
