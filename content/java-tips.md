@@ -1616,3 +1616,6 @@ Java thread-safe seeded random
 
 ## 2026-07-31 (05:45)
 CSRF token generation issue
+
+## 2026-07-31 (11:11)
+Difference between _JAVA_OPTIONS, JAVA_TOOL_OPTIONS and JAVA_OPTS

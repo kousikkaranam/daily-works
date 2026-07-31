@@ -1864,3 +1864,6 @@
 
 ## 2026-07-31 (05:45)
 - [Where USB Memory Sticks Are Born](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
+
+## 2026-07-31 (11:11)
+- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
