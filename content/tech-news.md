@@ -1867,3 +1867,6 @@
 
 ## 2026-07-31 (11:11)
 - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
+
+## 2026-07-31 (16:56)
+- [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
