@@ -1879,3 +1879,6 @@
 
 ## 2026-08-01 (04:23)
 - [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
+
+## 2026-08-01 (04:23)
+- [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
