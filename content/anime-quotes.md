@@ -2405,3 +2405,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (05:36)
 > "Well, there's this one hopeless idiot... who'll probably end up crying if I see you again."
 > — Atsushi Otani (Lovely Complex)
+
+## 2026-08-01 (05:36)
+> "I didn't hate it as much as I said. That hollow, that is. If there's anything that I've truly hated for 20 years without thinking twice... it'd have to be the fact that I failed to save Masaki on that night."
+> — Kurosaki Isshin (Bleach)
