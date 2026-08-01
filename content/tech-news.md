@@ -1885,3 +1885,6 @@
 
 ## 2026-08-01 (05:36)
 - [History remembers two Robert McNamaras](https://indevelopmentmag.com/numbers-man/)
+
+## 2026-08-01 (05:36)
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
