@@ -2417,3 +2417,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (07:24)
 > "I still don't know where to find happiness. But I'll continue to think about whether it's good to be here... whether it was good to have been born. But in the end, it's just realizing the obvious over and over again. Because I am myself."
 > — Shinji Ikari (Neon Genesis Evangelion)
+
+## 2026-08-01 (16:12)
+> "Things like protecting the world are no more than moral reasons that sound good."
+> — Soi Fon (Bleach)

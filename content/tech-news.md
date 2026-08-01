@@ -1900,3 +1900,6 @@
 
 ## 2026-08-01 (07:24)
 - [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+
+## 2026-08-01 (16:12)
+- [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
