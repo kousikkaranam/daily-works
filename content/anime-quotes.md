@@ -2393,3 +2393,23 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (04:23)
 > "Hope is like a treasure, which you cannot carry alone."
 > — Sayonara Zetsubou Sensei (Sayonara, Zetsubou-Sensei)
+
+## 2026-08-01 (05:36)
+> "Live well, Ichigo. Live well, age well, go bald well, and die after me. And... if you can, die smiling."
+> — Kurosaki Isshin (Bleach)
+
+## 2026-08-01 (05:36)
+> "It doesn't matter if we're wrong...because every time we go wrong, we'll continue to look for the right answer."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU TOO!)
+
+## 2026-08-01 (05:36)
+> "Well, there's this one hopeless idiot... who'll probably end up crying if I see you again."
+> — Atsushi Otani (Lovely Complex)
+
+## 2026-08-01 (05:36)
+> "I didn't hate it as much as I said. That hollow, that is. If there's anything that I've truly hated for 20 years without thinking twice... it'd have to be the fact that I failed to save Masaki on that night."
+> — Kurosaki Isshin (Bleach)
+
+## 2026-08-01 (05:36)
+> "Compared to a man as big as me you realize how small you are, don't you? I understand how you feel. Even I can be frightened by my own greatness. So I find it difficult to stand in front of mirrors."
+> — Black Star (Soul Eater)

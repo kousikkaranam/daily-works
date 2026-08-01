@@ -1882,3 +1882,18 @@
 
 ## 2026-08-01 (04:23)
 - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
+
+## 2026-08-01 (05:36)
+- [History remembers two Robert McNamaras](https://indevelopmentmag.com/numbers-man/)
+
+## 2026-08-01 (05:36)
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
+
+## 2026-08-01 (05:36)
+- [BMW Spider-Man in-car advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
+
+## 2026-08-01 (05:36)
+- [Elevators](https://john.fun/elevators)
+
+## 2026-08-01 (05:36)
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
