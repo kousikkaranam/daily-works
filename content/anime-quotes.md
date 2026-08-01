@@ -2409,3 +2409,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (05:36)
 > "I didn't hate it as much as I said. That hollow, that is. If there's anything that I've truly hated for 20 years without thinking twice... it'd have to be the fact that I failed to save Masaki on that night."
 > — Kurosaki Isshin (Bleach)
+
+## 2026-08-01 (05:36)
+> "Compared to a man as big as me you realize how small you are, don't you? I understand how you feel. Even I can be frightened by my own greatness. So I find it difficult to stand in front of mirrors."
+> — Black Star (Soul Eater)

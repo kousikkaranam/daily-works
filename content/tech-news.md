@@ -1894,3 +1894,6 @@
 
 ## 2026-08-01 (05:36)
 - [Elevators](https://john.fun/elevators)
+
+## 2026-08-01 (05:36)
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
