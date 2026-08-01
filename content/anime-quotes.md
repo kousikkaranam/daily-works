@@ -2385,3 +2385,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (04:23)
 > "What I want isn't money or pretty dresses, but a place that recognizes me as who I am. Fairy Tail is my other family, and it is a far more warming family than here!"
 > — Lucy Heartfilia (Fairy Tail)
+
+## 2026-08-01 (04:23)
+> "How did you learn of the reality that you speak of? The entire world is governed by the reasoning of dirty-minded adults. We're able to obscure reality according to our obsessions. We're never actually shown what reality is. In this case, the reality that you speak of is a half-baked nonsense that has been altered. Trying to conform this bullshit reality into the one you want is like trying to join two pieces of a puzzle that do not fit."
+> — Franken Stein (Soul Eater)
