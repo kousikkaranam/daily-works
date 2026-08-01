@@ -2381,3 +2381,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (04:23)
 > "Getting close to someone half-heartedly can cause you suffering."
 > — Tsukiko Tsutsukakushi (The "Hentai" Prince and the Stony Cat.)
+
+## 2026-08-01 (04:23)
+> "What I want isn't money or pretty dresses, but a place that recognizes me as who I am. Fairy Tail is my other family, and it is a far more warming family than here!"
+> — Lucy Heartfilia (Fairy Tail)

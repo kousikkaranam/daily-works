@@ -1873,3 +1873,6 @@
 
 ## 2026-08-01 (04:23)
 - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+
+## 2026-08-01 (04:23)
+- [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
