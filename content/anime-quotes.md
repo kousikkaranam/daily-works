@@ -2413,3 +2413,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (05:36)
 > "Compared to a man as big as me you realize how small you are, don't you? I understand how you feel. Even I can be frightened by my own greatness. So I find it difficult to stand in front of mirrors."
 > — Black Star (Soul Eater)
+
+## 2026-08-01 (07:24)
+> "I still don't know where to find happiness. But I'll continue to think about whether it's good to be here... whether it was good to have been born. But in the end, it's just realizing the obvious over and over again. Because I am myself."
+> — Shinji Ikari (Neon Genesis Evangelion)
