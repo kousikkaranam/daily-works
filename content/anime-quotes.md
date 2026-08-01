@@ -2377,3 +2377,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-07-31 (16:56)
 > "As long as I don't admit defeat, then it'll never be a loss!"
 > — Black Star (Soul Eater)
+
+## 2026-08-01 (04:23)
+> "Getting close to someone half-heartedly can cause you suffering."
+> — Tsukiko Tsutsukakushi (The "Hentai" Prince and the Stony Cat.)
