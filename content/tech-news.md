@@ -1870,3 +1870,15 @@
 
 ## 2026-07-31 (16:56)
 - [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+
+## 2026-08-01 (04:23)
+- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+
+## 2026-08-01 (04:23)
+- [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
+
+## 2026-08-01 (04:23)
+- [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
+
+## 2026-08-01 (04:23)
+- [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
