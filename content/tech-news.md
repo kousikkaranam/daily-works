@@ -1882,3 +1882,6 @@
 
 ## 2026-08-01 (04:23)
 - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
+
+## 2026-08-01 (05:36)
+- [History remembers two Robert McNamaras](https://indevelopmentmag.com/numbers-man/)
