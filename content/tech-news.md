@@ -1909,3 +1909,6 @@
 
 ## 2026-08-02 (10:20)
 - [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+
+## 2026-08-02 (16:12)
+- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
