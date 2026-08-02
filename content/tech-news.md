@@ -1903,3 +1903,6 @@
 
 ## 2026-08-01 (16:12)
 - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
+
+## 2026-08-02 (05:36)
+- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)

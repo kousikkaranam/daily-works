@@ -2421,3 +2421,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-01 (16:12)
 > "Things like protecting the world are no more than moral reasons that sound good."
 > — Soi Fon (Bleach)
+
+## 2026-08-02 (05:36)
+> "He is so twisted that if he sees someone wandering around lost, he's the kind of guy who will screw and toy around with the poor soul before he even bothers to help...IF he even bothers to help!"
+> — Misaki Takahashi (Junjo Romantica)
