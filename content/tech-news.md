@@ -1906,3 +1906,6 @@
 
 ## 2026-08-02 (05:36)
 - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
+
+## 2026-08-02 (10:20)
+- [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
