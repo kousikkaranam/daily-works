@@ -1918,3 +1918,6 @@
 
 ## 2026-08-03 (05:52)
 - [Show HN: ssh ssh.place](https://ssh.place)
+
+## 2026-08-03 (12:01)
+- [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)

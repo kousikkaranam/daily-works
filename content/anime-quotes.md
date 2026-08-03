@@ -2441,3 +2441,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-03 (05:52)
 > ""Time" is proof that people have lived. Every person lives the time that has been given to them... that is life."
 > — Erza Scarlet (Fairy Tail)
+
+## 2026-08-03 (12:01)
+> "Those who come to the Abyss are all the same. They're all desperate to get something back. But everyone goes mad partway. It seems being with the dear dollies - the Chains - is no good for them... Fu fu.. but you were different. You didn't lose yourself, not even at the end."
+> — Will Of The Abyss (Pandora Hearts)
