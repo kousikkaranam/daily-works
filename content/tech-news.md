@@ -1912,3 +1912,6 @@
 
 ## 2026-08-02 (16:12)
 - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+
+## 2026-08-03 (04:33)
+- [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
