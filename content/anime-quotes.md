@@ -2457,3 +2457,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-04 (11:09)
 > "Is there any purpose to wings that can't fly?"
 > — Minagi Tohno (Air)
+
+## 2026-08-04 (17:03)
+> "You believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotions and emotions can be manifested."
+> — Isaac Netero (Hunter x Hunter)
