@@ -1927,3 +1927,6 @@
 
 ## 2026-08-04 (05:25)
 - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+
+## 2026-08-04 (11:09)
+- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
