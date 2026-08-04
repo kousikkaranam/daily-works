@@ -1924,3 +1924,6 @@
 
 ## 2026-08-04 (04:17)
 - [Ask HN: Who is hiring? (August 2026)]()
+
+## 2026-08-04 (05:25)
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)

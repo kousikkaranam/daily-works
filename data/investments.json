@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "time": "04:40",
-    "top_indian": [
-      {
-        "name": "IDFC FIRST BANK LIMITED",
-        "symbol": "IDFCFIRSTB.NS",
-        "price": 85.66,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.22,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.41,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 92.32,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 9.1,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 206.84,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 65312,
-    "ethereum_usd": 1953.71,
-    "gold_inr_10g": 127132.02
-  },
-  {
     "date": "2026-07-28",
     "time": "05:25",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 63748,
     "ethereum_usd": 1861.37,
     "gold_inr_10g": 124480.10
+  },
+  {
+    "date": "2026-08-04",
+    "time": "05:25",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.71,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "MEESHO-BL.NS",
+        "price": 186.0,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.91,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 206.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 91.0,
+        "currency": "USD"
+      },
+      {
+        "name": "Amazon.com, Inc.",
+        "symbol": "AMZN",
+        "price": 284.02,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 63830,
+    "ethereum_usd": 1864.52,
+    "gold_inr_10g": 124605.86
   }
 ]
