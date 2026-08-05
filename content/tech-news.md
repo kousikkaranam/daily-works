@@ -1939,3 +1939,6 @@
 
 ## 2026-08-05 (11:05)
 - [No Data Centers in My Backyard](https://jasmi.news/p/no-data-centers-in-my-backyard)
+
+## 2026-08-05 (16:53)
+- [Discovery Loop](https://www.discoveryloop.com/)
