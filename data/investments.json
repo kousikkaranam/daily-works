@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-07-29",
-    "time": "05:31",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.98,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 46.23,
-        "currency": "INR"
-      },
-      {
-        "name": "PARADEEP PHOSPHATES LTD",
-        "symbol": "PARADEEP.NS",
-        "price": 156.83,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 86.3,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 197.01,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 8.93,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63896,
-    "ethereum_usd": 1907.19,
-    "gold_inr_10g": 124343.75
-  },
-  {
-    "date": "2026-07-29",
     "time": "11:08",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64094,
     "ethereum_usd": 1864.97,
     "gold_inr_10g": 126903.77
+  },
+  {
+    "date": "2026-08-05",
+    "time": "11:05",
+    "top_indian": [
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 41.44,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.8,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.8,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Palantir Technologies Inc.",
+        "symbol": "PLTR",
+        "price": 162.66,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 125.33,
+        "currency": "USD"
+      },
+      {
+        "name": "Grab Holdings Limited",
+        "symbol": "GRAB",
+        "price": 3.72,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64045,
+    "ethereum_usd": 1867.71,
+    "gold_inr_10g": 127688.57
   }
 ]
