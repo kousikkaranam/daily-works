@@ -1936,3 +1936,6 @@
 
 ## 2026-08-05 (04:14)
 - [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)
+
+## 2026-08-05 (11:05)
+- [No Data Centers in My Backyard](https://jasmi.news/p/no-data-centers-in-my-backyard)
