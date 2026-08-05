@@ -2461,3 +2461,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-04 (17:03)
 > "You believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotions and emotions can be manifested."
 > — Isaac Netero (Hunter x Hunter)
+
+## 2026-08-05 (04:14)
+> "A peaceful every day life hides its fragility. Fear and violence aren't just something in another world, completely unrelated to us. If a disaster happens, we can't change it. But as long as we small gears are linked together, we can keep moving forward, even if it's only one small step at a time."
+> — Kyousuke Natsume (Little Busters!)

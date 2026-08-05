@@ -1933,3 +1933,6 @@
 
 ## 2026-08-04 (17:03)
 - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
+
+## 2026-08-05 (04:14)
+- [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)
