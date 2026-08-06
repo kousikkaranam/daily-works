@@ -1945,3 +1945,6 @@
 
 ## 2026-08-06 (04:17)
 - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+
+## 2026-08-06 (11:06)
+- [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)

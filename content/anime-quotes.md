@@ -2477,3 +2477,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-06 (04:17)
 > "God would never put us through all this suffering if he didn't think we could bear it."
 > — Konno Yuuki (Sword Art Online II)
+
+## 2026-08-06 (11:06)
+> "Killing others is never justice, no matter what kind of noble cause one upholds."
+> — Seishin Muroi (Shiki)
