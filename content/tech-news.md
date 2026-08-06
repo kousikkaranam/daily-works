@@ -1942,3 +1942,6 @@
 
 ## 2026-08-05 (16:53)
 - [Discovery Loop](https://www.discoveryloop.com/)
+
+## 2026-08-06 (04:17)
+- [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)

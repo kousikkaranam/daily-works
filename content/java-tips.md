@@ -1619,3 +1619,6 @@ CSRF token generation issue
 
 ## 2026-07-31 (11:11)
 Difference between _JAVA_OPTIONS, JAVA_TOOL_OPTIONS and JAVA_OPTS
+
+## 2026-08-06 (04:17)
+Not able to connect to SFTP using jcraft JSch
