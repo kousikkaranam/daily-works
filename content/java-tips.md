@@ -1622,3 +1622,6 @@ Difference between _JAVA_OPTIONS, JAVA_TOOL_OPTIONS and JAVA_OPTS
 
 ## 2026-08-06 (04:17)
 Not able to connect to SFTP using jcraft JSch
+
+## 2026-08-06 (11:06)
+package cucumber.api.java.en does not exist cucumber

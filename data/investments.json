@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-07-30",
-    "time": "04:09",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.1,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 46.41,
-        "currency": "INR"
-      },
-      {
-        "name": "REDINGTON LIMITED",
-        "symbol": "REDINGTON.NS",
-        "price": 323.5,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 15.25,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 81.88,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 190.01,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64065,
-    "ethereum_usd": 1906.15,
-    "gold_inr_10g": 124930.22
-  },
-  {
-    "date": "2026-07-30",
     "time": "10:50",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64521,
     "ethereum_usd": 1897.76,
     "gold_inr_10g": 130459.12
+  },
+  {
+    "date": "2026-08-06",
+    "time": "11:06",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.77,
+        "currency": "INR"
+      },
+      {
+        "name": "ALLCARGO LOGISTICS LTD",
+        "symbol": "ALLCARGO.NS",
+        "price": 9.64,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "ADANIPOWER-BL.NS",
+        "price": 210.5,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 108.27,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 219.22,
+        "currency": "USD"
+      },
+      {
+        "name": "Ondas Inc",
+        "symbol": "ONDS",
+        "price": 8.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64511,
+    "ethereum_usd": 1897.48,
+    "gold_inr_10g": null
   }
 ]
