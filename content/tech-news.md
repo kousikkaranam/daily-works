@@ -1954,3 +1954,6 @@
 
 ## 2026-08-07 (09:41)
 - [São Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
+
+## 2026-08-07 (16:08)
+- [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)

@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-07-31",
-    "time": "05:45",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.95,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 18.15,
-        "currency": "INR"
-      },
-      {
-        "name": "GACM TECHNOLOGIES LIMITED",
-        "symbol": "GATECH.NS",
-        "price": 0.69,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 91.13,
-        "currency": "USD"
-      },
-      {
-        "name": "Microsoft Corporation",
-        "symbol": "MSFT",
-        "price": 451.1,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 195.04,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64280,
-    "ethereum_usd": 1900.87,
-    "gold_inr_10g": 125450.04
-  },
-  {
-    "date": "2026-07-31",
     "time": "11:11",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64880,
     "ethereum_usd": 1914.98,
     "gold_inr_10g": 132065.90
+  },
+  {
+    "date": "2026-08-07",
+    "time": "16:08",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.73,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 9.77,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "TRIDENT-BL.NS",
+        "price": 24.9,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 129.625,
+        "currency": "USD"
+      },
+      {
+        "name": "The Trade Desk, Inc.",
+        "symbol": "TTD",
+        "price": 13.94,
+        "currency": "USD"
+      },
+      {
+        "name": "Electronic Arts Inc.",
+        "symbol": "EA",
+        "price": 209.7,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64936,
+    "ethereum_usd": 1919.12,
+    "gold_inr_10g": 133193.05
   }
 ]
