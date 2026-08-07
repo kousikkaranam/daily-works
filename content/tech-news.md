@@ -1948,3 +1948,6 @@
 
 ## 2026-08-06 (11:06)
 - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+
+## 2026-08-07 (04:32)
+- [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)

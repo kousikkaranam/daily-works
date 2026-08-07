@@ -1625,3 +1625,6 @@ Not able to connect to SFTP using jcraft JSch
 
 ## 2026-08-06 (11:06)
 package cucumber.api.java.en does not exist cucumber
+
+## 2026-08-07 (04:32)
+i want to open share dialog which can perform share in java swing or javafx

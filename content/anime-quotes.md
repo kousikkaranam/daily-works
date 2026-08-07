@@ -2481,3 +2481,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-06 (11:06)
 > "Killing others is never justice, no matter what kind of noble cause one upholds."
 > — Seishin Muroi (Shiki)
+
+## 2026-08-07 (04:32)
+> "Real friends wouldn't use you for your money. I don't have any friends, so I'm no expert, but I'd rather have no friends than have friends like them."
+> — Shizuku Mizutani (My Little Monster)

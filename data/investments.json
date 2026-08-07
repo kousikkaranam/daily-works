@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-07-30",
-    "time": "10:50",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.87,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 47.4,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.12,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 15.25,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 81.88,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 190.01,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64541,
-    "ethereum_usd": 1917.25,
-    "gold_inr_10g": 125635.22
-  },
-  {
-    "date": "2026-07-30",
     "time": "16:49",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64511,
     "ethereum_usd": 1897.48,
     "gold_inr_10g": null
+  },
+  {
+    "date": "2026-08-07",
+    "time": "04:32",
+    "top_indian": [
+      {
+        "name": null,
+        "symbol": "TRIDENT-BL.NS",
+        "price": 24.9,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "ADANIPOWER-BL.NS",
+        "price": 210.5,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "MEESHO-BL.NS",
+        "price": 186.0,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 114.92,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 218.99,
+        "currency": "USD"
+      },
+      {
+        "name": "SoundHound AI, Inc.",
+        "symbol": "SOUN",
+        "price": 7.08,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64244,
+    "ethereum_usd": 1897.33,
+    "gold_inr_10g": 130718.23
   }
 ]
