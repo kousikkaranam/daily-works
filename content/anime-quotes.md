@@ -2485,3 +2485,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-07 (04:32)
 > "Real friends wouldn't use you for your money. I don't have any friends, so I'm no expert, but I'd rather have no friends than have friends like them."
 > — Shizuku Mizutani (My Little Monster)
+
+## 2026-08-07 (09:41)
+> "Humans constantly feel pain in their hearts. Because the heart is so sensitive to pain, humans also feel that to live is to suffer."
+> — Kaworu Nagisa (Neon Genesis Evangelion)
