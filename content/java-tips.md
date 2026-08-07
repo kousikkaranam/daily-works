@@ -1631,3 +1631,6 @@ i want to open share dialog which can perform share in java swing or javafx
 
 ## 2026-08-07 (09:41)
 How do you check if the proxy in Windows Proxy Settings is on?
+
+## 2026-08-07 (16:08)
+Does @Order on a @Configuration class determine SecurityFilterChain precedence in Spring Security?
