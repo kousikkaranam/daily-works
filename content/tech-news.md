@@ -1972,3 +1972,6 @@
 
 ## 2026-08-08 (02:56)
 - [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
+
+## 2026-08-08 (03:43)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)

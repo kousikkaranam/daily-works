@@ -1649,3 +1649,6 @@ AxisFault faultCode: {http://schemas.xmlsoap.org/soap/envelope/}Server.userExcep
 
 ## 2026-08-08 (02:56)
 Controller and service layers: where to write, how much logic, and how to separate them?
+
+## 2026-08-08 (03:43)
+Error: signed modular JAR ...bcprov-jdk18on-1.84.jar is currently not supported, use --ignore-signing-information to suppress error
