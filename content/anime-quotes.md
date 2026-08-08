@@ -2541,3 +2541,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (09:21)
 > "Someday we'll part. Maybe be forgotten. But we're living in the moment. So... make lots of friends, fall madly in love, and enjoy every moment to the fullest."
 > — Kaizaki Arata (ReLIFE)
+
+## 2026-08-08 (15:46)
+> "The sea’s blue reflects because of the sky’s blue. Just like detectives and thieves. We’re all toying with the human mind. But the one who pries for others’ secrets is the one who’s truly impolite."
+> — Kaitou Kid (Case Closed)

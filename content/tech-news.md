@@ -2002,3 +2002,6 @@
 
 ## 2026-08-08 (09:21)
 - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+
+## 2026-08-08 (15:46)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
