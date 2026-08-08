@@ -2533,3 +2533,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (05:36)
 > "People in reality spout off all in unison about love and friendship but in fact it's a dirty little world full of lies and desires, isn't it?"
 > — Satou Tatsuhiro (Welcome to the N.H.K.)
+
+## 2026-08-08 (05:36)
+> "Power comes in response to a need, not a desire. You have to create that need."
+> — Goku (Dragon Ball Z)

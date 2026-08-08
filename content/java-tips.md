@@ -1661,3 +1661,6 @@ call another applet in an applet
 
 ## 2026-08-08 (05:36)
 Why is Scala usually installed for each of your Scala projects rather than being installed system-wide?
+
+## 2026-08-08 (05:36)
+How to avoid getting java.lang.NoClassDefFoundError: org/apache/commons/logging/LogFactory
