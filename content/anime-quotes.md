@@ -2501,3 +2501,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (02:56)
 > "So ephemeral and weak. But its shining with all its might. Thump, Thump, like a heartbeat. This is the light of life."
 > — Kaori Miyazono (Your Lie in April)
+
+## 2026-08-08 (02:56)
+> "Thanks for the real vote of confidence. You two should be cheerleaders, you'd look cute in skirts!"
+> — Genkai (Yu Yu Hakusho)

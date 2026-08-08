@@ -1640,3 +1640,6 @@ Hibernate update failing
 
 ## 2026-08-08 (02:56)
 Storing a sentence in a MySQL database
+
+## 2026-08-08 (02:56)
+How should AGENTS.md be structured in a Gradle multi-module Java project when a module&#x27;s sourceSets point outside its own directory?
