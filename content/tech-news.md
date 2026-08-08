@@ -1975,3 +1975,6 @@
 
 ## 2026-08-08 (03:43)
 - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
+
+## 2026-08-08 (03:43)
+- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)

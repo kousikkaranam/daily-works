@@ -2517,3 +2517,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (03:43)
 > "It’s the most powerful words in the world. No just argument or eloquence can stand a chance against it. It’s… ”So what?”"
 > — Yang Wenli (Legend of the Galactic Heroes)
+
+## 2026-08-08 (03:43)
+> "I will slay all my enemies."
+> — Van Fanel (The Vision of Escaflowne)
