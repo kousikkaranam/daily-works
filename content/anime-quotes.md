@@ -2513,3 +2513,15 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (02:56)
 > "Chasing someone is tiring, and being chased is mentally exhausting. But making someone chase you can be fun."
 > — Ikta Solork (Alderamin on the Sky)
+
+## 2026-08-08 (03:43)
+> "It’s the most powerful words in the world. No just argument or eloquence can stand a chance against it. It’s… ”So what?”"
+> — Yang Wenli (Legend of the Galactic Heroes)
+
+## 2026-08-08 (03:43)
+> "I will slay all my enemies."
+> — Van Fanel (The Vision of Escaflowne)
+
+## 2026-08-08 (03:43)
+> "Because of our broken instincts, we are in pain. We continue living in pain, because our instincts have been twisted by reason. So, what are we supposed to do? Should we abandon knowledge? Throw away reason? In any event, that wouldn't be possible. For better or for worse, we ate the fruit of knowledge long, long ago."
+> — Satou Tatsuhiro (Welcome to the N.H.K.)
