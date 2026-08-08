@@ -1634,3 +1634,18 @@ How do you check if the proxy in Windows Proxy Settings is on?
 
 ## 2026-08-07 (16:08)
 Does @Order on a @Configuration class determine SecurityFilterChain precedence in Spring Security?
+
+## 2026-08-08 (02:56)
+Hibernate update failing
+
+## 2026-08-08 (02:56)
+Storing a sentence in a MySQL database
+
+## 2026-08-08 (02:56)
+How should AGENTS.md be structured in a Gradle multi-module Java project when a module&#x27;s sourceSets point outside its own directory?
+
+## 2026-08-08 (02:56)
+AxisFault faultCode: {http://schemas.xmlsoap.org/soap/envelope/}Server.userException faultSubcode: faultString:
+
+## 2026-08-08 (02:56)
+Controller and service layers: where to write, how much logic, and how to separate them?

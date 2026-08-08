@@ -1957,3 +1957,18 @@
 
 ## 2026-08-07 (16:08)
 - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+
+## 2026-08-08 (02:56)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+
+## 2026-08-08 (02:56)
+- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+
+## 2026-08-08 (02:56)
+- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+
+## 2026-08-08 (02:56)
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+
+## 2026-08-08 (02:56)
+- [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)

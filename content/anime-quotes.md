@@ -2493,3 +2493,23 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-07 (16:08)
 > "PIKA-CHU-UUUUUUU!"
 > — Pikachu (Pokémon)
+
+## 2026-08-08 (02:56)
+> "In this world, filled with violence, blood and scheming, the promise we made on that day was my one and only refuge."
+> — Mina Tepeş (Dance in the Vampire Bund)
+
+## 2026-08-08 (02:56)
+> "So ephemeral and weak. But its shining with all its might. Thump, Thump, like a heartbeat. This is the light of life."
+> — Kaori Miyazono (Your Lie in April)
+
+## 2026-08-08 (02:56)
+> "Thanks for the real vote of confidence. You two should be cheerleaders, you'd look cute in skirts!"
+> — Genkai (Yu Yu Hakusho)
+
+## 2026-08-08 (02:56)
+> "[To Gilgamesh] That's right. I don't create swords. I create a world that contains infinite swords. This is the only magic allowed for me. There's no need to be surprised. These are all imitations. As you say, these are all trifling swords. But there is no rule that says an imitation cannot defeat the original. If you say you are the original, I will surpass every one of your weapons and destroy your existence. Here I come, King of Heroes! Do you have enough swords in stock?"
+> — Emiya Shirou (Fate/stay night)
+
+## 2026-08-08 (02:56)
+> "Chasing someone is tiring, and being chased is mentally exhausting. But making someone chase you can be fun."
+> — Ikta Solork (Alderamin on the Sky)
