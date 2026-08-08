@@ -2521,3 +2521,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (03:43)
 > "I will slay all my enemies."
 > — Van Fanel (The Vision of Escaflowne)
+
+## 2026-08-08 (03:43)
+> "Because of our broken instincts, we are in pain. We continue living in pain, because our instincts have been twisted by reason. So, what are we supposed to do? Should we abandon knowledge? Throw away reason? In any event, that wouldn't be possible. For better or for worse, we ate the fruit of knowledge long, long ago."
+> — Satou Tatsuhiro (Welcome to the N.H.K.)

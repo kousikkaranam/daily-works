@@ -1978,3 +1978,6 @@
 
 ## 2026-08-08 (03:43)
 - [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+
+## 2026-08-08 (03:43)
+- [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
