@@ -1658,3 +1658,6 @@ Login and getting session id of the logged using Https connection in java
 
 ## 2026-08-08 (05:36)
 call another applet in an applet
+
+## 2026-08-08 (05:36)
+Why is Scala usually installed for each of your Scala projects rather than being installed system-wide?
