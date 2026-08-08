@@ -2497,3 +2497,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (02:56)
 > "In this world, filled with violence, blood and scheming, the promise we made on that day was my one and only refuge."
 > — Mina Tepeş (Dance in the Vampire Bund)
+
+## 2026-08-08 (02:56)
+> "So ephemeral and weak. But its shining with all its might. Thump, Thump, like a heartbeat. This is the light of life."
+> — Kaori Miyazono (Your Lie in April)
