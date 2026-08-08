@@ -1957,3 +1957,6 @@
 
 ## 2026-08-07 (16:08)
 - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+
+## 2026-08-08 (02:56)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)

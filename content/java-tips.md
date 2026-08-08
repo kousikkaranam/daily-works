@@ -1634,3 +1634,6 @@ How do you check if the proxy in Windows Proxy Settings is on?
 
 ## 2026-08-07 (16:08)
 Does @Order on a @Configuration class determine SecurityFilterChain precedence in Spring Security?
+
+## 2026-08-08 (02:56)
+Hibernate update failing
