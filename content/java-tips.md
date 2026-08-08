@@ -1646,3 +1646,6 @@ How should AGENTS.md be structured in a Gradle multi-module Java project when a 
 
 ## 2026-08-08 (02:56)
 AxisFault faultCode: {http://schemas.xmlsoap.org/soap/envelope/}Server.userException faultSubcode: faultString:
+
+## 2026-08-08 (02:56)
+Controller and service layers: where to write, how much logic, and how to separate them?

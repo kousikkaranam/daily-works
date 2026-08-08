@@ -2509,3 +2509,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (02:56)
 > "[To Gilgamesh] That's right. I don't create swords. I create a world that contains infinite swords. This is the only magic allowed for me. There's no need to be surprised. These are all imitations. As you say, these are all trifling swords. But there is no rule that says an imitation cannot defeat the original. If you say you are the original, I will surpass every one of your weapons and destroy your existence. Here I come, King of Heroes! Do you have enough swords in stock?"
 > — Emiya Shirou (Fate/stay night)
+
+## 2026-08-08 (02:56)
+> "Chasing someone is tiring, and being chased is mentally exhausting. But making someone chase you can be fun."
+> — Ikta Solork (Alderamin on the Sky)

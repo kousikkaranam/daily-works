@@ -1969,3 +1969,6 @@
 
 ## 2026-08-08 (02:56)
 - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+
+## 2026-08-08 (02:56)
+- [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
