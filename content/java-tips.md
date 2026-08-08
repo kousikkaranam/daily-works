@@ -1652,3 +1652,6 @@ Controller and service layers: where to write, how much logic, and how to separa
 
 ## 2026-08-08 (03:43)
 Error: signed modular JAR ...bcprov-jdk18on-1.84.jar is currently not supported, use --ignore-signing-information to suppress error
+
+## 2026-08-08 (03:43)
+Login and getting session id of the logged using Https connection in java
