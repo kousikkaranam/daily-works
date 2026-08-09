@@ -2545,3 +2545,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-08 (15:46)
 > "The sea’s blue reflects because of the sky’s blue. Just like detectives and thieves. We’re all toying with the human mind. But the one who pries for others’ secrets is the one who’s truly impolite."
 > — Kaitou Kid (Case Closed)
+
+## 2026-08-09 (03:03)
+> "You've finally realized that the one thing you want, something greater than money, it can never be yours."
+> — Yato (Noragami)
