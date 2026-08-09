@@ -1670,3 +1670,6 @@ Spring Security Oauth2 Client get access token fails with invalid request code=4
 
 ## 2026-08-09 (03:52)
 Good API for mindflow type application
+
+## 2026-08-09 (09:22)
+Creating a looping square with java
