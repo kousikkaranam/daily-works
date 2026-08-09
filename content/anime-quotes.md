@@ -2557,3 +2557,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-09 (09:22)
 > "Chastity and grace - traditional virtues that have been lost. They comprise the educational ideology of Ousou Academy. They're priorities that are not valued in boys, only in girls. After having them instilled in us, we're shipped out as brand-name product, refined, sheltered maidens, and purchased by men who seek a classic piece of furniture called "a good wife and mother" in a formality known as marriage. Students in this school are all components that will be processed into an artwork called "the lady". They are rough stones waiting to be polished and finished up. They live sad and boring lives, even though there are many other possible ways they could bloom."
 > — Oryou Rikako (Psycho-Pass)
+
+## 2026-08-09 (15:46)
+> "To a girl, a man who’s nice to everyone... hm, I suppose that works as an example, to a man, it would be like a woman who opens her legs to anyone. People want companions so they can swiftly satisfy their need for love and affection. A woman wants a man who only shows his love to her."
+> — Rory Mercury (GATE)
