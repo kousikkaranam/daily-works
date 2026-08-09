@@ -2014,3 +2014,6 @@
 
 ## 2026-08-09 (09:22)
 - [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+
+## 2026-08-09 (15:46)
+- [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
