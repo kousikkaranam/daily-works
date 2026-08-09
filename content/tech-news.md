@@ -2011,3 +2011,6 @@
 
 ## 2026-08-09 (03:52)
 - [Unexpected events and prosocial behavior: the Batman effect](https://www.nature.com/articles/s44184-025-00171-5)
+
+## 2026-08-09 (09:22)
+- [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
