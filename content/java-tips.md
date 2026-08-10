@@ -1682,3 +1682,6 @@ How to stop Intellij from automatically changing indentation on lines that haven
 
 ## 2026-08-10 (10:01)
 How to convert Json object to BLOB in java
+
+## 2026-08-10 (16:09)
+How to retrieve data from sql server db in android
