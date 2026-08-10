@@ -2020,3 +2020,6 @@
 
 ## 2026-08-10 (03:12)
 - [Ask HN: What are you working on? (August 2026)]()
+
+## 2026-08-10 (10:01)
+- [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)

@@ -1679,3 +1679,6 @@ Encrypting passwords in Crypto property files
 
 ## 2026-08-10 (03:12)
 How to stop Intellij from automatically changing indentation on lines that haven&#x27;t been edited?
+
+## 2026-08-10 (10:01)
+How to convert Json object to BLOB in java
