@@ -2017,3 +2017,6 @@
 
 ## 2026-08-09 (15:46)
 - [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
+
+## 2026-08-10 (03:12)
+- [Ask HN: What are you working on? (August 2026)]()
