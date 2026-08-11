@@ -1685,3 +1685,6 @@ How to convert Json object to BLOB in java
 
 ## 2026-08-10 (16:09)
 How to retrieve data from sql server db in android
+
+## 2026-08-11 (03:05)
+Managing JDK versions
