@@ -2029,3 +2029,6 @@
 
 ## 2026-08-11 (03:05)
 - [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
+
+## 2026-08-11 (03:54)
+- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)

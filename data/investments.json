@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-08-05",
-    "time": "04:14",
-    "top_indian": [
-      {
-        "name": null,
-        "symbol": "ADANIPOWER-BL.NS",
-        "price": 210.5,
-        "currency": "INR"
-      },
-      {
-        "name": null,
-        "symbol": "MEESHO-BL.NS",
-        "price": 186.0,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.96,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Palantir Technologies Inc.",
-        "symbol": "PLTR",
-        "price": 162.66,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 125.33,
-        "currency": "USD"
-      },
-      {
-        "name": "Grab Holdings Limited",
-        "symbol": "GRAB",
-        "price": 3.72,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 64094,
-    "ethereum_usd": 1864.97,
-    "gold_inr_10g": 126903.77
-  },
-  {
-    "date": "2026-08-05",
     "time": "11:05",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64006,
     "ethereum_usd": 1877.9,
     "gold_inr_10g": 135342.52
+  },
+  {
+    "date": "2026-08-11",
+    "time": "03:54",
+    "top_indian": [
+      {
+        "name": "TRIDENT LIMITED",
+        "symbol": "TRIDENT-BL.NS",
+        "price": 24.9,
+        "currency": "INR"
+      },
+      {
+        "name": "ADANI POWER LTD",
+        "symbol": "ADANIPOWER-BL.NS",
+        "price": 210.5,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.01,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 138.74,
+        "currency": "USD"
+      },
+      {
+        "name": "Archer Aviation Inc.",
+        "symbol": "ACHR",
+        "price": 6.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Plug Power, Inc.",
+        "symbol": "PLUG",
+        "price": 2.11,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64072,
+    "ethereum_usd": 1878.75,
+    "gold_inr_10g": 135486.62
   }
 ]
