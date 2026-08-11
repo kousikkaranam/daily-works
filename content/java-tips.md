@@ -1688,3 +1688,6 @@ How to retrieve data from sql server db in android
 
 ## 2026-08-11 (03:05)
 Managing JDK versions
+
+## 2026-08-11 (03:54)
+EJB 3.1 Binding does not work on Websphere Application Server
