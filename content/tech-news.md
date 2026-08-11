@@ -2026,3 +2026,6 @@
 
 ## 2026-08-10 (16:09)
 - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+
+## 2026-08-11 (03:05)
+- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
