@@ -2035,3 +2035,6 @@
 
 ## 2026-08-11 (09:42)
 - [About Rx Kids](https://rxkids.org/about/)
+
+## 2026-08-12 (03:25)
+- [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
