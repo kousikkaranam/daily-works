@@ -2581,3 +2581,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-12 (03:25)
 > "Between being eternally unable to wake from a dream, and being eternally unable to dream, which do you think would be more unfortunate? Still, both the dream that we deemed eternal, and this very reality, are destined to end someday."
 > — Lau (Black Butler)
+
+## 2026-08-12 (16:09)
+> "You reject your femininity... yet at the end here you are using it."
+> — Sohma Shigure (Fruits Basket)

@@ -2038,3 +2038,6 @@
 
 ## 2026-08-12 (03:25)
 - [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
+
+## 2026-08-12 (16:09)
+- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
