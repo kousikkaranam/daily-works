@@ -1694,3 +1694,6 @@ EJB 3.1 Binding does not work on Websphere Application Server
 
 ## 2026-08-12 (03:25)
 Android Java - Set Size of Content Area in an AlertDialog
+
+## 2026-08-12 (16:09)
+Kryo throwing &quot; Encountered unregistered class ID: 44&quot;
