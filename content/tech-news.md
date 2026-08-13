@@ -2044,3 +2044,6 @@
 
 ## 2026-08-13 (04:20)
 - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+
+## 2026-08-13 (09:46)
+- [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
