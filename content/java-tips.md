@@ -1697,3 +1697,6 @@ Android Java - Set Size of Content Area in an AlertDialog
 
 ## 2026-08-12 (16:09)
 Kryo throwing &quot; Encountered unregistered class ID: 44&quot;
+
+## 2026-08-13 (04:20)
+Intermittent latency at java.io.RandomAccessFile.open0 while Tomcat classloading?

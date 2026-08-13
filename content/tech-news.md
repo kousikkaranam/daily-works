@@ -2041,3 +2041,6 @@
 
 ## 2026-08-12 (16:09)
 - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+
+## 2026-08-13 (04:20)
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)

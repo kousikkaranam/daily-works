@@ -2585,3 +2585,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-12 (16:09)
 > "You reject your femininity... yet at the end here you are using it."
 > — Sohma Shigure (Fruits Basket)
+
+## 2026-08-13 (04:20)
+> "Sometimes people put up walls, not to keep others out, but to see who cares enough to break them down."
+> — Yoshioka Futaba (Blue Spring Ride)
