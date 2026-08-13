@@ -1700,3 +1700,6 @@ Kryo throwing &quot; Encountered unregistered class ID: 44&quot;
 
 ## 2026-08-13 (04:20)
 Intermittent latency at java.io.RandomAccessFile.open0 while Tomcat classloading?
+
+## 2026-08-13 (09:46)
+Android Studio Gradle Sync fails with SocketTimeoutException downloading Gradle 8.13
