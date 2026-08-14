@@ -2047,3 +2047,6 @@
 
 ## 2026-08-13 (09:46)
 - [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+
+## 2026-08-14 (03:25)
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)

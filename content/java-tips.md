@@ -1703,3 +1703,6 @@ Intermittent latency at java.io.RandomAccessFile.open0 while Tomcat classloading
 
 ## 2026-08-13 (09:46)
 Android Studio Gradle Sync fails with SocketTimeoutException downloading Gradle 8.13
+
+## 2026-08-14 (03:25)
+How to perform concurrent CRUD operations on Microsoft Fabric Lakehouse from Java without exhausting Livy sessions
