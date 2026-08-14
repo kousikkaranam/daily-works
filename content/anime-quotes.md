@@ -2593,3 +2593,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-13 (09:46)
 > "I'm going to make you say you love me again. Just you wait."
 > — Masamune Takano (Sekai Ichi Hatsukoi - World's Greatest First Love)
+
+## 2026-08-14 (03:25)
+> "Once you taste poison, you might as well finish the meal. If it comes to that you would make as fine a dish as any."
+> — Horo (Spice and Wolf)
