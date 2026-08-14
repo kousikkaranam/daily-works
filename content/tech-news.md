@@ -2053,3 +2053,6 @@
 
 ## 2026-08-14 (04:18)
 - [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
+
+## 2026-08-14 (09:43)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
