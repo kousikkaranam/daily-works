@@ -2601,3 +2601,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-14 (04:18)
 > "The truth can be concealed by the position one chooses to take,but can also be revealed once more."
 > — Leonardo da Vinci (Nobunaga the Fool)
+
+## 2026-08-14 (09:43)
+> "How can you move forward if you keep regretting the past?"
+> — Edward Elric (Fullmetal Alchemist)
