@@ -2089,3 +2089,6 @@
 
 ## 2026-08-15 (05:18)
 - [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+
+## 2026-08-15 (05:18)
+- [Show HN: Rent vs. buy, backtested across 241 US metros with pinned data](https://github.com/assumptionsshown/RunTheNumbers)
