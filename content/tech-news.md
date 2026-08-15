@@ -2068,3 +2068,6 @@
 
 ## 2026-08-15 (02:15)
 - [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+
+## 2026-08-15 (02:15)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)

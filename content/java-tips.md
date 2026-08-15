@@ -1724,3 +1724,6 @@ pull text into .env file from a .txt file as variable [closed]
 
 ## 2026-08-15 (02:15)
 How to configure RestClient timeout in Spring Boot 4?
+
+## 2026-08-15 (02:15)
+Send calendar invite per email with java
