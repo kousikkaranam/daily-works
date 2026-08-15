@@ -2065,3 +2065,6 @@
 
 ## 2026-08-15 (02:15)
 - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+
+## 2026-08-15 (02:15)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
