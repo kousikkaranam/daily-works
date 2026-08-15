@@ -2098,3 +2098,6 @@
 
 ## 2026-08-15 (05:18)
 - [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
+
+## 2026-08-15 (15:34)
+- [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
