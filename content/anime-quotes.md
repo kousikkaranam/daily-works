@@ -2649,3 +2649,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-15 (05:18)
 > "I'm getting a litte bored of this curse of yours Ashitaka just let me cut the damn thing off."
 > — Lady Eboshi (Princess Mononoke)
+
+## 2026-08-15 (05:18)
+> "Toman belongs to me. As long as I’m standing in the background, no one can lose."
+> — Mikey (Tokyo Revengers)

@@ -2092,3 +2092,6 @@
 
 ## 2026-08-15 (05:18)
 - [Show HN: Rent vs. buy, backtested across 241 US metros with pinned data](https://github.com/assumptionsshown/RunTheNumbers)
+
+## 2026-08-15 (05:18)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
