@@ -2641,3 +2641,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-15 (03:05)
 > "It's quite easy for humans to become adults, but to always have a child-like heart that makes everything joyful isn't such an easy task."
 > — Hattori Zenzou (Gintama)
+
+## 2026-08-15 (03:05)
+> "I lost my mother when I was 8...and killed my father when I was 10. Those with the title of "Executive" or above...are my "family", with whom I've shared my joys and sorrows. They're the only thing I have! I won't forgive anyone that laughs at my family. Understood?"
+> — Donquixote Doflamingo (One Piece)
