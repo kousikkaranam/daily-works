@@ -2071,3 +2071,18 @@
 
 ## 2026-08-15 (02:15)
 - [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+
+## 2026-08-15 (03:05)
+- [Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
+
+## 2026-08-15 (03:05)
+- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+
+## 2026-08-15 (03:05)
+- [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
+
+## 2026-08-15 (03:05)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+
+## 2026-08-15 (03:05)
+- [Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
