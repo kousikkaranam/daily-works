@@ -1727,3 +1727,6 @@ How to configure RestClient timeout in Spring Boot 4?
 
 ## 2026-08-15 (02:15)
 Send calendar invite per email with java
+
+## 2026-08-15 (05:18)
+When to use Transport.send() vs. sendMessage()

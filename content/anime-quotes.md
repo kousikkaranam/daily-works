@@ -2645,3 +2645,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-15 (03:05)
 > "I lost my mother when I was 8...and killed my father when I was 10. Those with the title of "Executive" or above...are my "family", with whom I've shared my joys and sorrows. They're the only thing I have! I won't forgive anyone that laughs at my family. Understood?"
 > — Donquixote Doflamingo (One Piece)
+
+## 2026-08-15 (05:18)
+> "I'm getting a litte bored of this curse of yours Ashitaka just let me cut the damn thing off."
+> — Lady Eboshi (Princess Mononoke)

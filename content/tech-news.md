@@ -2086,3 +2086,6 @@
 
 ## 2026-08-15 (03:05)
 - [Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
+
+## 2026-08-15 (05:18)
+- [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
