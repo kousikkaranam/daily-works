@@ -2074,3 +2074,6 @@
 
 ## 2026-08-15 (03:05)
 - [Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
+
+## 2026-08-15 (03:05)
+- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
