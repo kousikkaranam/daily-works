@@ -1712,3 +1712,6 @@ Why does a mutant survive in PIT mutation testing despite seemingly causing infi
 
 ## 2026-08-14 (09:43)
 pull text into .env file from a .txt file as variable
+
+## 2026-08-15 (02:15)
+com.mongodb.MongoTimeoutException when using MongoClient with list ServerAddress
