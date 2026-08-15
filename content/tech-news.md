@@ -2095,3 +2095,6 @@
 
 ## 2026-08-15 (05:18)
 - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+
+## 2026-08-15 (05:18)
+- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)

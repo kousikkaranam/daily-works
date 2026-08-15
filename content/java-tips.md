@@ -1736,3 +1736,6 @@ how to use Service,ServiceLocator,portType,porttypeProxy and stub to create a ja
 
 ## 2026-08-15 (05:18)
 Set size of content area in an AlertDialog
+
+## 2026-08-15 (05:18)
+GlassFish Server HTTP Status 404 - Not Found
