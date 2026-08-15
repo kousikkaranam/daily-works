@@ -1739,3 +1739,6 @@ Set size of content area in an AlertDialog
 
 ## 2026-08-15 (05:18)
 GlassFish Server HTTP Status 404 - Not Found
+
+## 2026-08-15 (15:34)
+How to get List of Objects with value in array in Spring-Boot CrudRepository
