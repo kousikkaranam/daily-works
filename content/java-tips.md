@@ -1727,3 +1727,15 @@ How to configure RestClient timeout in Spring Boot 4?
 
 ## 2026-08-15 (02:15)
 Send calendar invite per email with java
+
+## 2026-08-15 (05:18)
+When to use Transport.send() vs. sendMessage()
+
+## 2026-08-15 (05:18)
+how to use Service,ServiceLocator,portType,porttypeProxy and stub to create a java client
+
+## 2026-08-15 (05:18)
+Set size of content area in an AlertDialog
+
+## 2026-08-15 (05:18)
+GlassFish Server HTTP Status 404 - Not Found
