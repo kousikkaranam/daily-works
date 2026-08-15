@@ -1712,3 +1712,18 @@ Why does a mutant survive in PIT mutation testing despite seemingly causing infi
 
 ## 2026-08-14 (09:43)
 pull text into .env file from a .txt file as variable
+
+## 2026-08-15 (02:15)
+com.mongodb.MongoTimeoutException when using MongoClient with list ServerAddress
+
+## 2026-08-15 (02:15)
+Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment] for XAMPP and Eclipse IDE
+
+## 2026-08-15 (02:15)
+pull text into .env file from a .txt file as variable [closed]
+
+## 2026-08-15 (02:15)
+How to configure RestClient timeout in Spring Boot 4?
+
+## 2026-08-15 (02:15)
+Send calendar invite per email with java

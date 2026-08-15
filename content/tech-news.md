@@ -2056,3 +2056,18 @@
 
 ## 2026-08-14 (09:43)
 - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+
+## 2026-08-15 (02:15)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+
+## 2026-08-15 (02:15)
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+
+## 2026-08-15 (02:15)
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+
+## 2026-08-15 (02:15)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+
+## 2026-08-15 (02:15)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
