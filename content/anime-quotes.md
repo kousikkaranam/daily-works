@@ -2609,3 +2609,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-15 (02:15)
 > "So, you would question me, you filthy mongrel? Me, the one true king? If you cannot now discern my identity in the presence of my magnificent glory, then you’re ignorant blindness will serve to seal your doom!"
 > — Gilgamesh (Fate/Zero)
+
+## 2026-08-15 (02:15)
+> "If you're at a loss for words, you don't have to force yourself. That in itself is a form of comfort."
+> — Shouta Kazehaya (Kimi ni Todoke: From Me to You)

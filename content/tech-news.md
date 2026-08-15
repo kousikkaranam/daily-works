@@ -2059,3 +2059,6 @@
 
 ## 2026-08-15 (02:15)
 - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+
+## 2026-08-15 (02:15)
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)

@@ -1715,3 +1715,6 @@ pull text into .env file from a .txt file as variable
 
 ## 2026-08-15 (02:15)
 com.mongodb.MongoTimeoutException when using MongoClient with list ServerAddress
+
+## 2026-08-15 (02:15)
+Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment] for XAMPP and Eclipse IDE
