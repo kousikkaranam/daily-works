@@ -1751,3 +1751,6 @@ How to get List of Objects with value in array in Spring-Boot CrudRepository
 
 ## 2026-08-16 (09:02)
 Return type overloading in Java and abstract inheritance
+
+## 2026-08-16 (15:35)
+Why is the return type of method not included in the method-signature?

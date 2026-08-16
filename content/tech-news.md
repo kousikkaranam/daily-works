@@ -2110,3 +2110,6 @@
 
 ## 2026-08-16 (09:02)
 - [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
+
+## 2026-08-16 (15:35)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
