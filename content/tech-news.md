@@ -2101,3 +2101,6 @@
 
 ## 2026-08-15 (15:34)
 - [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
+
+## 2026-08-16 (02:22)
+- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)

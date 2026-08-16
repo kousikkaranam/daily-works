@@ -2661,3 +2661,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-15 (15:34)
 > "Listen up numbskull, if Kasumi isn't back by dinnertime, we're gonna have to eat Akane's cooking, and if we do that, man oh man we're gonna wish we were lost at sea!"
 > — Ranma Saotome (Ranma ½)
+
+## 2026-08-16 (02:22)
+> "WHO ARE YOU CALLING A MOUSY LITTLE PIPSQUEAK?!"
+> — Edward Elric (Fullmetal Alchemist)
