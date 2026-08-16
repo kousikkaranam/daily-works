@@ -2107,3 +2107,6 @@
 
 ## 2026-08-16 (03:13)
 - [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
+
+## 2026-08-16 (09:02)
+- [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
