@@ -2104,3 +2104,6 @@
 
 ## 2026-08-16 (02:22)
 - [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+
+## 2026-08-16 (03:13)
+- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
