@@ -1757,3 +1757,6 @@ Why is the return type of method not included in the method-signature?
 
 ## 2026-08-17 (02:20)
 JSON Serializing java.sql.Time, java.sql.Date, and java.sql.Timestamp with minimal allocation
+
+## 2026-08-17 (15:40)
+what is the default page for spring-mvc application

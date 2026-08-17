@@ -2116,3 +2116,6 @@
 
 ## 2026-08-17 (02:20)
 - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
+
+## 2026-08-17 (15:40)
+- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
