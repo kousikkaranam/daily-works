@@ -2677,3 +2677,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-16 (15:35)
 > "And what of it? If you're good on the inside, then looks don't matter!"
 > — Kei Enomoto (Hatsukoi Limited)
+
+## 2026-08-17 (02:20)
+> "[to Kenpachi Zaraki, after Tosen's senses-robbing Bankai still does not discourage the Eleventh Division Captain from fighting] I see. It's understandable. You are a demon. You belong in the darkness. So of course you do not fear it."
+> — Tousen Kaname (Bleach)

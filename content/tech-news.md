@@ -2113,3 +2113,6 @@
 
 ## 2026-08-16 (15:35)
 - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+
+## 2026-08-17 (02:20)
+- [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
