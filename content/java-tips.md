@@ -1754,3 +1754,6 @@ Return type overloading in Java and abstract inheritance
 
 ## 2026-08-16 (15:35)
 Why is the return type of method not included in the method-signature?
+
+## 2026-08-17 (02:20)
+JSON Serializing java.sql.Time, java.sql.Date, and java.sql.Timestamp with minimal allocation
