@@ -2125,3 +2125,6 @@
 
 ## 2026-08-18 (09:14)
 - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
+
+## 2026-08-18 (15:46)
+- [An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
