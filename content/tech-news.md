@@ -2119,3 +2119,6 @@
 
 ## 2026-08-18 (02:16)
 - [Ask HN: Does anyone else feel like nothing matters anymore?]()
+
+## 2026-08-18 (03:08)
+- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
