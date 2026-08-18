@@ -2689,3 +2689,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-18 (09:14)
 > "Love. I myself have never loved another person.  Most likely, I don't even love myself.  I do have knowledge of it.  But I am incapable of determining whether or not it is vital in my life."
 > — Vorona (Durarara!!)
+
+## 2026-08-18 (15:46)
+> "There was no place for me, so I had to make one for myself, and then I realized, I had a place, but I was the only one in it. I didn't know any other way to live."
+> — Inuyasha (InuYasha)

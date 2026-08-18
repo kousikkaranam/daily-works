@@ -1760,3 +1760,6 @@ JSON Serializing java.sql.Time, java.sql.Date, and java.sql.Timestamp with minim
 
 ## 2026-08-18 (09:14)
 SQS messages sent with delay are intermittently failed
+
+## 2026-08-18 (15:46)
+Why is Collectors.collect not able to infer the types in this stream pipeline?
