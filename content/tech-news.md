@@ -2122,3 +2122,6 @@
 
 ## 2026-08-18 (03:08)
 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+
+## 2026-08-18 (09:14)
+- [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)

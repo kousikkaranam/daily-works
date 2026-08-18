@@ -1757,3 +1757,6 @@ Why is the return type of method not included in the method-signature?
 
 ## 2026-08-17 (02:20)
 JSON Serializing java.sql.Time, java.sql.Date, and java.sql.Timestamp with minimal allocation
+
+## 2026-08-18 (09:14)
+SQS messages sent with delay are intermittently failed
