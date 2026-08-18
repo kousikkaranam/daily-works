@@ -2116,3 +2116,6 @@
 
 ## 2026-08-17 (02:20)
 - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
+
+## 2026-08-18 (02:16)
+- [Ask HN: Does anyone else feel like nothing matters anymore?]()
