@@ -2693,3 +2693,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-18 (15:46)
 > "There was no place for me, so I had to make one for myself, and then I realized, I had a place, but I was the only one in it. I didn't know any other way to live."
 > — Inuyasha (InuYasha)
+
+## 2026-08-19 (02:19)
+> "Can we really be proud of our own survival that's predicated on sacrificing our own? There lives aren't all we lose."
+> — Ikoma (Kabaneri of the Iron Fortress)
