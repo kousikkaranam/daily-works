@@ -1766,3 +1766,6 @@ Why is Collectors.collect not able to infer the types in this stream pipeline?
 
 ## 2026-08-19 (02:19)
 BeanAlreadyExistsException - Oracle WebLogic
+
+## 2026-08-19 (03:11)
+Problems using JVM diagnostic tool on Tomcat 9 on Ubuntu: Is there a better solution? [closed]

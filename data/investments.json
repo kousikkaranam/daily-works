@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-08-12",
-    "time": "03:25",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.89,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.97,
-        "currency": "INR"
-      },
-      {
-        "name": "VEDANTA OIL AND GAS LTD",
-        "symbol": "VOGL.NS",
-        "price": 39.67,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Plug Power, Inc.",
-        "symbol": "PLUG",
-        "price": 2.22,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 97.71,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 133.29,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63677,
-    "ethereum_usd": 1881.8,
-    "gold_inr_10g": 135286.11
-  },
-  {
-    "date": "2026-08-12",
     "time": "16:09",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 64326,
     "ethereum_usd": 1909.18,
     "gold_inr_10g": 134246.37
+  },
+  {
+    "date": "2026-08-19",
+    "time": "03:11",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.12,
+        "currency": "INR"
+      },
+      {
+        "name": "MOTISONS JEWELLERS LTD",
+        "symbol": "MOTISONS.NS",
+        "price": 16.78,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "MILKYMIST.NS",
+        "price": 181.5,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 10.39,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 96.685,
+        "currency": "USD"
+      },
+      {
+        "name": "UiPath, Inc.",
+        "symbol": "PATH",
+        "price": 15.58,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 64244,
+    "ethereum_usd": 1906.34,
+    "gold_inr_10g": 134098.57
   }
 ]
