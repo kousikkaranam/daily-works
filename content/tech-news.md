@@ -2128,3 +2128,6 @@
 
 ## 2026-08-18 (15:46)
 - [An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
+
+## 2026-08-19 (02:19)
+- [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
