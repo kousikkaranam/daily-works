@@ -2131,3 +2131,6 @@
 
 ## 2026-08-19 (02:19)
 - [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
+
+## 2026-08-19 (03:11)
+- [OpenLogi](https://openlogi.org/en)

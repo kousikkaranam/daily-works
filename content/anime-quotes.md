@@ -2697,3 +2697,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-19 (02:19)
 > "Can we really be proud of our own survival that's predicated on sacrificing our own? There lives aren't all we lose."
 > — Ikoma (Kabaneri of the Iron Fortress)
+
+## 2026-08-19 (03:11)
+> "We can't let the past be mere water under the bridge. Even so, there's no reason that we can't come together."
+> — Shinobu Oshino (Nisemonogatari)
