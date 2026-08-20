@@ -2705,3 +2705,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-20 (02:18)
 > "I can't lose to my older sister! Right now she's ahead of me by 2 millimeters in chest size!"
 > — Risa Harada (D.N.Angel)
+
+## 2026-08-20 (09:16)
+> "...Yes, the desire to protect something... is, at the same time, none other than the wish for something to violate it."
+> — Emiya Shirou (Fate/stay night)
