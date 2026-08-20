@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "time": "09:46",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.52,
-        "currency": "INR"
-      },
-      {
-        "name": "TRIDENT LIMITED",
-        "symbol": "TRIDENT-BL.NS",
-        "price": 24.9,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 9.61,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Super Micro Computer, Inc.",
-        "symbol": "SMCI",
-        "price": 37.61,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 146.15,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 100.95,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63637,
-    "ethereum_usd": 1885.99,
-    "gold_inr_10g": 134393.14
-  },
-  {
     "date": "2026-08-14",
     "time": "03:25",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 71804,
     "ethereum_usd": 2291.0,
     "gold_inr_10g": 138345.61
+  },
+  {
+    "date": "2026-08-20",
+    "time": "15:48",
+    "top_indian": [
+      {
+        "name": "BAJAJ HINDUSTHAN SUGAR LT",
+        "symbol": "BAJAJHIND.NS",
+        "price": 23.33,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.03,
+        "currency": "INR"
+      },
+      {
+        "name": null,
+        "symbol": "SHIPROCKET.NS",
+        "price": 141.65,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Webster Financial Corporation",
+        "symbol": "WBS",
+        "price": 77.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 131.045,
+        "currency": "USD"
+      },
+      {
+        "name": "Moderna, Inc.",
+        "symbol": "MRNA",
+        "price": 140.04,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 72197,
+    "ethereum_usd": 2303.11,
+    "gold_inr_10g": 139146.03
   }
 ]
