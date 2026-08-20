@@ -2140,3 +2140,6 @@
 
 ## 2026-08-20 (09:16)
 - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
+
+## 2026-08-20 (15:48)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)

@@ -1772,3 +1772,6 @@ Problems using JVM diagnostic tool on Tomcat 9 on Ubuntu: Is there a better solu
 
 ## 2026-08-20 (09:16)
 Getting &quot;A Java agent has been loaded dynamically&quot; warning in IntelliJ after upgrading Java 17 to 21
+
+## 2026-08-20 (15:48)
+Is temporarily overriding equals method possible?
