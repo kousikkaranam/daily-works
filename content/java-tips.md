@@ -1769,3 +1769,6 @@ BeanAlreadyExistsException - Oracle WebLogic
 
 ## 2026-08-19 (03:11)
 Problems using JVM diagnostic tool on Tomcat 9 on Ubuntu: Is there a better solution? [closed]
+
+## 2026-08-20 (09:16)
+Getting &quot;A Java agent has been loaded dynamically&quot; warning in IntelliJ after upgrading Java 17 to 21

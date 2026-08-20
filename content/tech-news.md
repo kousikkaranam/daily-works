@@ -2137,3 +2137,6 @@
 
 ## 2026-08-20 (02:18)
 - [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+
+## 2026-08-20 (09:16)
+- [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
