@@ -2134,3 +2134,6 @@
 
 ## 2026-08-19 (03:11)
 - [OpenLogi](https://openlogi.org/en)
+
+## 2026-08-20 (02:18)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
