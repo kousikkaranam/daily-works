@@ -1775,3 +1775,6 @@ Getting &quot;A Java agent has been loaded dynamically&quot; warning in IntelliJ
 
 ## 2026-08-20 (15:48)
 Is temporarily overriding equals method possible?
+
+## 2026-08-21 (02:24)
+FileNotFound exception in Java/Clojure interop
