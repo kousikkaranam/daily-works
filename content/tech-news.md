@@ -2161,3 +2161,6 @@
 
 ## 2026-08-22 (03:07)
 - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+
+## 2026-08-22 (03:07)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)

@@ -2733,3 +2733,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-22 (03:07)
 > "In this world, you either burn or get burned. Go ahead and pray to the God of salvation you favor so much."
 > — Hibana (Fire Force)
+
+## 2026-08-22 (03:07)
+> "We shouldn't blame ourselves for bad things that happened to us. Sometimes, no matter what we do, we are victims of the circumstances. We should just have to pull ourselves out."
+> — Kenshin Himura (Rurouni Kenshin)
