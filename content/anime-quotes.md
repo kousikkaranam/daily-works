@@ -2729,3 +2729,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-22 (02:16)
 > "Even though one is dumped, no matter how one shows his misfortune and seeks kindness, the world doesn't give a damn about it."
 > — Kenji Harima (School Rumble)
+
+## 2026-08-22 (03:07)
+> "In this world, you either burn or get burned. Go ahead and pray to the God of salvation you favor so much."
+> — Hibana (Fire Force)
