@@ -2170,3 +2170,6 @@
 
 ## 2026-08-22 (03:07)
 - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+## 2026-08-22 (05:19)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
