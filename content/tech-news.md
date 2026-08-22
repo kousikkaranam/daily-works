@@ -2149,3 +2149,6 @@
 
 ## 2026-08-22 (02:16)
 - [Felony Bench](https://www.felonybench.com/)
+
+## 2026-08-22 (02:16)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
