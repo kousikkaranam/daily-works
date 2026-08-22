@@ -1778,3 +1778,6 @@ Is temporarily overriding equals method possible?
 
 ## 2026-08-21 (02:24)
 FileNotFound exception in Java/Clojure interop
+
+## 2026-08-22 (02:16)
+MBT build fails during personal vector setup

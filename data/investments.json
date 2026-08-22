@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-08-14",
-    "time": "04:18",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.76,
-        "currency": "INR"
-      },
-      {
-        "name": "TRIDENT LIMITED",
-        "symbol": "TRIDENT-BL.NS",
-        "price": 24.9,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 15.42,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Opendoor Technologies Inc",
-        "symbol": "OPEN",
-        "price": 3.65,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 8.91,
-        "currency": "USD"
-      },
-      {
-        "name": "Super Micro Computer, Inc.",
-        "symbol": "SMCI",
-        "price": 39.16,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63361,
-    "ethereum_usd": 1883.84,
-    "gold_inr_10g": 132864.07
-  },
-  {
-    "date": "2026-08-14",
     "time": "09:43",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 74732,
     "ethereum_usd": 2349.96,
     "gold_inr_10g": 139342.60
+  },
+  {
+    "date": "2026-08-22",
+    "time": "02:16",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.22,
+        "currency": "INR"
+      },
+      {
+        "name": "KWALITY WALL'S (INDIA) L",
+        "symbol": "KWIL.NS",
+        "price": 48.35,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.94,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "MARA Holdings, Inc.",
+        "symbol": "MARA",
+        "price": 11.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Webster Financial Corporation",
+        "symbol": "WBS",
+        "price": 77.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Moderna, Inc.",
+        "symbol": "MRNA",
+        "price": 145.13,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 78037,
+    "ethereum_usd": 2509.05,
+    "gold_inr_10g": 141750.21
   }
 ]
