@@ -2182,3 +2182,6 @@
 
 ## 2026-08-22 (05:20)
 - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+
+## 2026-08-22 (09:03)
+- [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
