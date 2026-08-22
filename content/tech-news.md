@@ -2146,3 +2146,15 @@
 
 ## 2026-08-21 (02:24)
 - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+
+## 2026-08-22 (02:16)
+- [Felony Bench](https://www.felonybench.com/)
+
+## 2026-08-22 (02:16)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+
+## 2026-08-22 (02:16)
+- [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+
+## 2026-08-22 (02:16)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)

@@ -2717,3 +2717,15 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-21 (02:24)
 > "No one can decide what someone else should do with their life."
 > — Makarov Dreyar (Fairy Tail)
+
+## 2026-08-22 (02:16)
+> "I know I look like an idiot, but… I’ve decided to bet my whole life up to this point."
+> — Kafka Hibino (Kaiju No. 8)
+
+## 2026-08-22 (02:16)
+> "People can have lovers. They can have friends. They can be together. But when you think about it, you'll see that originally, we're alone."
+> — Nana Osaki (Nana)
+
+## 2026-08-22 (02:16)
+> "Even though one is dumped, no matter how one shows his misfortune and seeks kindness, the world doesn't give a damn about it."
+> — Kenji Harima (School Rumble)
