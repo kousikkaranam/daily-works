@@ -2185,3 +2185,6 @@
 
 ## 2026-08-22 (09:03)
 - [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
+
+## 2026-08-22 (15:34)
+- [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
