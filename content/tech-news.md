@@ -2173,3 +2173,6 @@
 
 ## 2026-08-22 (05:19)
 - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+
+## 2026-08-22 (05:19)
+- [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
