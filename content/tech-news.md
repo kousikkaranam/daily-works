@@ -2164,3 +2164,6 @@
 
 ## 2026-08-22 (03:07)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+## 2026-08-22 (03:07)
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)

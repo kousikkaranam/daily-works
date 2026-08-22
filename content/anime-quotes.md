@@ -2737,3 +2737,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-22 (03:07)
 > "We shouldn't blame ourselves for bad things that happened to us. Sometimes, no matter what we do, we are victims of the circumstances. We should just have to pull ourselves out."
 > — Kenshin Himura (Rurouni Kenshin)
+
+## 2026-08-22 (03:07)
+> "The trick of real combat is that everyone is human."
+> — Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)

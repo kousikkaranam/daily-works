@@ -1796,3 +1796,6 @@ How to get text from Toast message which gets disappeared within few seconds
 
 ## 2026-08-22 (03:07)
 A NoClassDefError occurs when loading soft dependencies in an MC Bukkit plugin
+
+## 2026-08-22 (03:07)
+Selenium Test opens the Chrome window in headless mode
