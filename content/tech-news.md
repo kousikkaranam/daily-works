@@ -2155,3 +2155,6 @@
 
 ## 2026-08-22 (02:16)
 - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+
+## 2026-08-22 (02:16)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
