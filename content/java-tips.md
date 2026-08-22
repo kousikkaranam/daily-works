@@ -1805,3 +1805,6 @@ How use stream filter for list of hashmap? ArrayList&lt;HashMap&lt;String, Objec
 
 ## 2026-08-22 (05:20)
 Regrading Wildfly Console Management connection with Wildfly 37/39 [closed]
+
+## 2026-08-22 (09:03)
+How to set JDK character coding to windows-1252?
