@@ -1784,3 +1784,6 @@ MBT build fails during personal vector setup
 
 ## 2026-08-22 (02:16)
 How To Make a JPanel visible after clicking a JButton on a JFrame
+
+## 2026-08-22 (02:16)
+JavaFX pane.getChildren().remove(child) throws IllegalArgumentException
