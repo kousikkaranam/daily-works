@@ -2167,3 +2167,6 @@
 
 ## 2026-08-22 (03:07)
 - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+
+## 2026-08-22 (03:07)
+- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
