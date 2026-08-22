@@ -1,194 +1,6 @@
 [
   {
     "date": "2026-08-15",
-    "time": "03:05",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.11,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 16.75,
-        "currency": "INR"
-      },
-      {
-        "name": "TRIDENT LIMITED",
-        "symbol": "TRIDENT-BL.NS",
-        "price": 24.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 15.23,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 9.24,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 140.0,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63074,
-    "ethereum_usd": 1883.22,
-    "gold_inr_10g": 134453.58
-  },
-  {
-    "date": "2026-08-15",
-    "time": "03:05",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.11,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 16.75,
-        "currency": "INR"
-      },
-      {
-        "name": "TRIDENT LIMITED",
-        "symbol": "TRIDENT-BL.NS",
-        "price": 24.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 15.23,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 9.24,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 140.0,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63074,
-    "ethereum_usd": 1883.22,
-    "gold_inr_10g": 134453.58
-  },
-  {
-    "date": "2026-08-15",
-    "time": "05:18",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.11,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 16.75,
-        "currency": "INR"
-      },
-      {
-        "name": "ZEE ENTERTAINMENT ENT LTD",
-        "symbol": "ZEEL.NS",
-        "price": 102.28,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 15.23,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 9.24,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 140.0,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63095,
-    "ethereum_usd": 1882.98,
-    "gold_inr_10g": 134453.58
-  },
-  {
-    "date": "2026-08-15",
-    "time": "05:18",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.11,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 16.75,
-        "currency": "INR"
-      },
-      {
-        "name": "ZEE ENTERTAINMENT ENT LTD",
-        "symbol": "ZEEL.NS",
-        "price": 102.28,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 15.23,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 9.24,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 140.0,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 63095,
-    "ethereum_usd": 1882.98,
-    "gold_inr_10g": 134453.58
-  },
-  {
-    "date": "2026-08-15",
     "time": "05:18",
     "top_indian": [
       {
@@ -1407,6 +1219,194 @@
     ],
     "bitcoin_usd": 78596,
     "ethereum_usd": 2518.29,
+    "gold_inr_10g": 141750.21
+  },
+  {
+    "date": "2026-08-22",
+    "time": "05:19",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.22,
+        "currency": "INR"
+      },
+      {
+        "name": "KWALITY WALL'S (INDIA) L",
+        "symbol": "KWIL.NS",
+        "price": 48.35,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.94,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "MARA Holdings, Inc.",
+        "symbol": "MARA",
+        "price": 11.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Webster Financial Corporation",
+        "symbol": "WBS",
+        "price": 77.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Moderna, Inc.",
+        "symbol": "MRNA",
+        "price": 145.13,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77212,
+    "ethereum_usd": 2435.8,
+    "gold_inr_10g": 141750.21
+  },
+  {
+    "date": "2026-08-22",
+    "time": "05:19",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.22,
+        "currency": "INR"
+      },
+      {
+        "name": "KWALITY WALL'S (INDIA) L",
+        "symbol": "KWIL.NS",
+        "price": 48.35,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.94,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "MARA Holdings, Inc.",
+        "symbol": "MARA",
+        "price": 11.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Webster Financial Corporation",
+        "symbol": "WBS",
+        "price": 77.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Moderna, Inc.",
+        "symbol": "MRNA",
+        "price": 145.13,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77212,
+    "ethereum_usd": 2435.8,
+    "gold_inr_10g": 141750.21
+  },
+  {
+    "date": "2026-08-22",
+    "time": "05:19",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.22,
+        "currency": "INR"
+      },
+      {
+        "name": "KWALITY WALL'S (INDIA) L",
+        "symbol": "KWIL.NS",
+        "price": 48.35,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.94,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "MARA Holdings, Inc.",
+        "symbol": "MARA",
+        "price": 11.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Webster Financial Corporation",
+        "symbol": "WBS",
+        "price": 77.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Moderna, Inc.",
+        "symbol": "MRNA",
+        "price": 145.13,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77212,
+    "ethereum_usd": 2435.8,
+    "gold_inr_10g": 141750.21
+  },
+  {
+    "date": "2026-08-22",
+    "time": "05:20",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.22,
+        "currency": "INR"
+      },
+      {
+        "name": "KWALITY WALL'S (INDIA) L",
+        "symbol": "KWIL.NS",
+        "price": 48.35,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.94,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "MARA Holdings, Inc.",
+        "symbol": "MARA",
+        "price": 11.26,
+        "currency": "USD"
+      },
+      {
+        "name": "Webster Financial Corporation",
+        "symbol": "WBS",
+        "price": 77.57,
+        "currency": "USD"
+      },
+      {
+        "name": "Moderna, Inc.",
+        "symbol": "MRNA",
+        "price": 145.13,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77212,
+    "ethereum_usd": 2435.8,
     "gold_inr_10g": 141750.21
   }
 ]

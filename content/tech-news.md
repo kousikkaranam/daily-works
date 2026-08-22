@@ -2170,3 +2170,15 @@
 
 ## 2026-08-22 (03:07)
 - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+## 2026-08-22 (05:19)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+
+## 2026-08-22 (05:19)
+- [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
+
+## 2026-08-22 (05:19)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+## 2026-08-22 (05:20)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)

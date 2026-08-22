@@ -2745,3 +2745,15 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-22 (03:07)
 > "Fear beyond rational limits, forces people to cling to normality."
 > — Gantz (Gantz)
+
+## 2026-08-22 (05:19)
+> "Hatred will never be erased! The only thing you can do is erase the ones you hate!"
+> — Hakuryū Ren (Magi - The Labyrinth of Magic)
+
+## 2026-08-22 (05:19)
+> "Theories are nothing more than words. Accept what you’ve seen."
+> — Rintaro Okabe (Steins Gate)
+
+## 2026-08-22 (05:20)
+> "SHII-CHAN, YOU SON OF A BITCH!!!! (after learning that Shigure invited Akito to the summer house)"
+> — Sohma Kagura (Fruits Basket)
