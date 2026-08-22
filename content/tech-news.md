@@ -2158,3 +2158,15 @@
 
 ## 2026-08-22 (02:16)
 - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+
+## 2026-08-22 (03:07)
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+
+## 2026-08-22 (03:07)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+## 2026-08-22 (03:07)
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+
+## 2026-08-22 (03:07)
+- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
