@@ -2761,3 +2761,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-22 (09:03)
 > "There aren't many things you can believe. That's how human beings work. They only care about themselves, and no one else really matters. They get caught up in their own lackadaisical dialogue, lying their way through life."
 > — Death Parade (Death Parade)
+
+## 2026-08-22 (15:34)
+> "It will be alright, have faith in yourself. Crona, you will be a Kishin."
+> — Medusa Gorgon (Soul Eater)
