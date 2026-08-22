@@ -1802,3 +1802,6 @@ Selenium Test opens the Chrome window in headless mode
 
 ## 2026-08-22 (05:19)
 How use stream filter for list of hashmap? ArrayList&lt;HashMap&lt;String, Object&gt;&gt;
+
+## 2026-08-22 (05:20)
+Regrading Wildfly Console Management connection with Wildfly 37/39 [closed]

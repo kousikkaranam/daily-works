@@ -2179,3 +2179,6 @@
 
 ## 2026-08-22 (05:19)
 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+## 2026-08-22 (05:20)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
