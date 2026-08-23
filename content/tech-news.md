@@ -2188,3 +2188,6 @@
 
 ## 2026-08-22 (15:34)
 - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
+
+## 2026-08-23 (02:24)
+- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)

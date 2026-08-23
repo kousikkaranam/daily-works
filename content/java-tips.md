@@ -1808,3 +1808,6 @@ Regrading Wildfly Console Management connection with Wildfly 37/39 [closed]
 
 ## 2026-08-22 (09:03)
 How to set JDK character coding to windows-1252?
+
+## 2026-08-23 (02:24)
+What is the optimized regex to match the email pattern in java
