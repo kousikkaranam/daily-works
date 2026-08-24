@@ -2194,3 +2194,6 @@
 
 ## 2026-08-24 (02:23)
 - [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
+
+## 2026-08-24 (09:29)
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)

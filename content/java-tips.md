@@ -1814,3 +1814,6 @@ What is the optimized regex to match the email pattern in java
 
 ## 2026-08-24 (02:23)
 INNER JOIN collections in Spring Data MongoDB
+
+## 2026-08-24 (09:29)
+You are using an outdated version of Java (11). Java 17 or higher is required
