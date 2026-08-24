@@ -2191,3 +2191,6 @@
 
 ## 2026-08-23 (02:24)
 - [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+
+## 2026-08-24 (02:23)
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
