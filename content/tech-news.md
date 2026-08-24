@@ -2197,3 +2197,6 @@
 
 ## 2026-08-24 (09:29)
 - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+
+## 2026-08-24 (15:55)
+- [Hot Chips 2026: Applying High Bandwidth Flash (HBF)](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
