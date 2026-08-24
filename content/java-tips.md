@@ -1811,3 +1811,6 @@ How to set JDK character coding to windows-1252?
 
 ## 2026-08-23 (02:24)
 What is the optimized regex to match the email pattern in java
+
+## 2026-08-24 (02:23)
+INNER JOIN collections in Spring Data MongoDB
