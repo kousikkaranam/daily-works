@@ -1823,3 +1823,6 @@ How can I prevent concurrent execution of a loan recovery job in a Java/Quarkus 
 
 ## 2026-08-25 (02:19)
 How to make this stream gatherer threadsafe?
+
+## 2026-08-25 (03:12)
+Getting a nullpointerexception for my EntityManager
