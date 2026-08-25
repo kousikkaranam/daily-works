@@ -2777,3 +2777,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-24 (09:29)
 > "In this world, there are crimes too depraved to ever be forgiven."
 > — Tomio Ookawa (Shiki)
+
+## 2026-08-25 (02:19)
+> "I'm going to keep getting closer and closer to you. And not just day after day, oh no. It's going to happen much faster than that! See I'm already closer to you than I was a moment ago. And I'll keep getting closer and closer to you, until I swallow you up and then, you'll disappear. Things are not turning out well for you at all, are they? (laughs) See you around."
+> — Hollow Ichigo (Bleach)

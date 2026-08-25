@@ -2200,3 +2200,6 @@
 
 ## 2026-08-24 (15:55)
 - [Hot Chips 2026: Applying High Bandwidth Flash (HBF)](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
+
+## 2026-08-25 (02:19)
+- [Moon (2024)](https://ciechanow.ski/moon/)

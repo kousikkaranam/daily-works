@@ -1820,3 +1820,6 @@ You are using an outdated version of Java (11). Java 17 or higher is required
 
 ## 2026-08-24 (15:55)
 How can I prevent concurrent execution of a loan recovery job in a Java/Quarkus application? [closed]
+
+## 2026-08-25 (02:19)
+How to make this stream gatherer threadsafe?
