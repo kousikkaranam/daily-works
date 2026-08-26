@@ -2206,3 +2206,6 @@
 
 ## 2026-08-25 (03:12)
 - [Moon (2024)](https://ciechanow.ski/moon/)
+
+## 2026-08-26 (02:25)
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
