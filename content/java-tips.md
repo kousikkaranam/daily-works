@@ -1829,3 +1829,6 @@ Getting a nullpointerexception for my EntityManager
 
 ## 2026-08-26 (02:25)
 Could not get unknown property &#x27;output&#x27; for source set main of type com.android.build.gradle.internal.api.DefaultAndroidSourceSet
+
+## 2026-08-26 (03:18)
+Spring security custom error messages not showing
