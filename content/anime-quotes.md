@@ -2785,3 +2785,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-25 (03:12)
 > "However, I can't be happy. I feel I can't have that experience, I can't assume I will have that experience. I'm free, but feeling lonely and disheartened. I hope there's happiness out there. Besides, the future is approaching and waiting for me. In the future, I will be a part of the world. I will finally live my life."
 > — Sohma Momiji (Fruits Basket)
+
+## 2026-08-26 (02:25)
+> "The world lies! Thou shalt not commit murder, thou shalt not bear false witness, thou shalt not cheat, thou shalt not steal, thou shalt not covet thy neighbor's wife. All of these are lies! Mere illusions and nothing more! They don't want to be killed, they don't want to be robbed, using the twin lies of justice and morality, the weak are endeavoring to protect themselves. But the first truth is that the strong devour the weak, so let us feed upon people, upon wealth, upon riches and power! We, at Britannia, shall feast upon the raw flesh of the world itself! We will crush this deception and bring forth the truth! All Hail Britannia!"
+> — Charles Zi Britannia (Code Geass: Lelouch of the Rebellion)

@@ -1826,3 +1826,6 @@ How to make this stream gatherer threadsafe?
 
 ## 2026-08-25 (03:12)
 Getting a nullpointerexception for my EntityManager
+
+## 2026-08-26 (02:25)
+Could not get unknown property &#x27;output&#x27; for source set main of type com.android.build.gradle.internal.api.DefaultAndroidSourceSet
