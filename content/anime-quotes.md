@@ -2797,3 +2797,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-27 (12:48)
 > "Let us commence, Zaraki! Your favorite game of carnage!!"
 > — Komamura Sajin (Bleach)
+
+## 2026-08-27 (19:15)
+> "I don't need someone as unreliable as you for a partner! (To Tohru)"
+> — Sohma Rin (Fruits Basket)
