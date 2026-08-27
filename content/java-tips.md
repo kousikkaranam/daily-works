@@ -1832,3 +1832,6 @@ Could not get unknown property &#x27;output&#x27; for source set main of type co
 
 ## 2026-08-26 (03:18)
 Spring security custom error messages not showing
+
+## 2026-08-27 (12:48)
+Why is FileReader as efficient as BufferedReader in reading 1KB chunks of data?
