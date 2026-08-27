@@ -2212,3 +2212,6 @@
 
 ## 2026-08-26 (03:18)
 - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+
+## 2026-08-27 (12:48)
+- [Adentris (YC P25) Is Hiring](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
