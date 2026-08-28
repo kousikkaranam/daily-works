@@ -2801,3 +2801,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-27 (19:15)
 > "I don't need someone as unreliable as you for a partner! (To Tohru)"
 > — Sohma Rin (Fruits Basket)
+
+## 2026-08-28 (20:25)
+> "You can't direct armies from your bedsheets."
+> — Koko Hekmatyar (Jormungand)

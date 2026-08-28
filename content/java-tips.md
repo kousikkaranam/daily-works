@@ -1838,3 +1838,6 @@ Why is FileReader as efficient as BufferedReader in reading 1KB chunks of data?
 
 ## 2026-08-27 (19:15)
 What does &quot;must return a semantically identical result&quot; mean?
+
+## 2026-08-28 (20:25)
+Micronaut body parameter validation ignores jakarta annotations
