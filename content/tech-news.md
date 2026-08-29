@@ -2230,3 +2230,6 @@
 
 ## 2026-08-29 (00:01)
 - [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+
+## 2026-08-29 (00:01)
+- [U.S. sanctions against the A/I Collective](https://www.inventati.org/)

@@ -1847,3 +1847,6 @@ HTTP 400 Bad Request : javax.ws.rs.BadRequestException
 
 ## 2026-08-29 (00:01)
 Error in Foursquare api java library
+
+## 2026-08-29 (00:01)
+How to display the logs using APIProduct in WSO2 API Manager
