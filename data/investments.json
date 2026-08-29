@@ -142,53 +142,6 @@
   },
   {
     "date": "2026-08-22",
-    "time": "02:16",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 10.22,
-        "currency": "INR"
-      },
-      {
-        "name": "KWALITY WALL'S (INDIA) L",
-        "symbol": "KWIL.NS",
-        "price": 48.35,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.94,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "MARA Holdings, Inc.",
-        "symbol": "MARA",
-        "price": 11.26,
-        "currency": "USD"
-      },
-      {
-        "name": "Webster Financial Corporation",
-        "symbol": "WBS",
-        "price": 77.57,
-        "currency": "USD"
-      },
-      {
-        "name": "Moderna, Inc.",
-        "symbol": "MRNA",
-        "price": 145.13,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 78037,
-    "ethereum_usd": 2509.05,
-    "gold_inr_10g": 141750.21
-  },
-  {
-    "date": "2026-08-22",
     "time": "03:07",
     "top_indian": [
       {
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": 77635,
     "ethereum_usd": 2436.4,
+    "gold_inr_10g": 136877.54
+  },
+  {
+    "date": "2026-08-29",
+    "time": "18:31",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.68,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 10.94,
+        "currency": "INR"
+      },
+      {
+        "name": "IFCI LTD",
+        "symbol": "IFCI.NS",
+        "price": 89.96,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 217.55,
+        "currency": "USD"
+      },
+      {
+        "name": "Pacific Gas & Electric Co.",
+        "symbol": "PCG",
+        "price": 16.6,
+        "currency": "USD"
+      },
+      {
+        "name": "IREN LIMITED",
+        "symbol": "IREN",
+        "price": 35.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 78068,
+    "ethereum_usd": 2447.42,
     "gold_inr_10g": 136877.54
   }
 ]

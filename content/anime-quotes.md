@@ -2821,3 +2821,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-29 (07:45)
 > "I was feeling down, but you distracted me by subjecting me to your selfish whims. There are times when selfishness can save a person."
 > — Yuuji Kazami (The Fruit of Grisaia)
+
+## 2026-08-29 (18:31)
+> "It’s not the time to be scared. Of course it’s better if the opponent is strong rather than weak, right!"
+> — Taiga Kagami (Kuroko's Basketball - duplicate)

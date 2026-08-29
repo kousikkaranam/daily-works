@@ -1853,3 +1853,6 @@ How to display the logs using APIProduct in WSO2 API Manager
 
 ## 2026-08-29 (07:45)
 Linux OOM Killer and Java Process
+
+## 2026-08-29 (18:31)
+how to solve /bin/sh: protoc: command not found?
