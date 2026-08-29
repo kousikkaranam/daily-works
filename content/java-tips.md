@@ -1844,3 +1844,6 @@ Micronaut body parameter validation ignores jakarta annotations
 
 ## 2026-08-29 (00:00)
 HTTP 400 Bad Request : javax.ws.rs.BadRequestException
+
+## 2026-08-29 (00:01)
+Error in Foursquare api java library

@@ -2809,3 +2809,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-29 (00:00)
 > "Glad you're okay *wink* I kinda like you."
 > — Hideki Hinata (Angel Beats!)
+
+## 2026-08-29 (00:01)
+> "The little man is having trouble holding his sword. *to Inuyasha*"
+> — Sesshomaru (InuYasha)

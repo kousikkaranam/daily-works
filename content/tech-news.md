@@ -2227,3 +2227,6 @@
 
 ## 2026-08-29 (00:00)
 - [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+
+## 2026-08-29 (00:01)
+- [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
