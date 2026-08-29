@@ -2233,3 +2233,6 @@
 
 ## 2026-08-29 (00:01)
 - [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
+
+## 2026-08-29 (07:45)
+- [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
