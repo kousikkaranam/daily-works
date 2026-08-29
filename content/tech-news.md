@@ -2224,3 +2224,6 @@
 
 ## 2026-08-29 (00:00)
 - [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+
+## 2026-08-29 (00:00)
+- [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
