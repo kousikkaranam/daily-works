@@ -2236,3 +2236,6 @@
 
 ## 2026-08-29 (07:45)
 - [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
+
+## 2026-08-29 (18:31)
+- [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
