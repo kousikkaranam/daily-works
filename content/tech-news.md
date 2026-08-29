@@ -2221,3 +2221,15 @@
 
 ## 2026-08-28 (20:25)
 - [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
+
+## 2026-08-29 (00:00)
+- [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+
+## 2026-08-29 (00:00)
+- [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+
+## 2026-08-29 (00:01)
+- [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+
+## 2026-08-29 (00:01)
+- [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
