@@ -2825,3 +2825,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-29 (18:31)
 > "It’s not the time to be scared. Of course it’s better if the opponent is strong rather than weak, right!"
 > — Taiga Kagami (Kuroko's Basketball - duplicate)
+
+## 2026-08-30 (06:22)
+> "There are three things I cannot tolerate: cowardice, bad haircuts, and military insurrection. It is very unfortunate that our friend Vegeta possesses all three of these."
+> — Frieza (Dragon Ball)
