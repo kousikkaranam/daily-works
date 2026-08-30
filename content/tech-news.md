@@ -2242,3 +2242,6 @@
 
 ## 2026-08-30 (06:22)
 - [Bug Blindness](https://danluu.com/bug-blind/)
+
+## 2026-08-30 (08:19)
+- [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)

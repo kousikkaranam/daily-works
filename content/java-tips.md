@@ -1859,3 +1859,6 @@ how to solve /bin/sh: protoc: command not found?
 
 ## 2026-08-30 (06:22)
 TreeMap in Java overrides values with same comparison keys [closed]
+
+## 2026-08-30 (08:19)
+Maven clean fails with AccessDeniedException while compile succeeds on Windows 11
