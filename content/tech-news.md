@@ -2239,3 +2239,6 @@
 
 ## 2026-08-29 (18:31)
 - [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
+
+## 2026-08-30 (06:22)
+- [Bug Blindness](https://danluu.com/bug-blind/)
