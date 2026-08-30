@@ -2248,3 +2248,6 @@
 
 ## 2026-08-30 (13:59)
 - [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+
+## 2026-08-30 (18:38)
+- [Artie (YC S23) Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
