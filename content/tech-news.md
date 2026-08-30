@@ -2245,3 +2245,6 @@
 
 ## 2026-08-30 (08:19)
 - [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+
+## 2026-08-30 (13:59)
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)

@@ -1862,3 +1862,6 @@ TreeMap in Java overrides values with same comparison keys [closed]
 
 ## 2026-08-30 (08:19)
 Maven clean fails with AccessDeniedException while compile succeeds on Windows 11
+
+## 2026-08-30 (13:59)
+compile error: The import xxxx cannot be resolved
