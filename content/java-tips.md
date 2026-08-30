@@ -1865,3 +1865,6 @@ Maven clean fails with AccessDeniedException while compile succeeds on Windows 1
 
 ## 2026-08-30 (13:59)
 compile error: The import xxxx cannot be resolved
+
+## 2026-08-30 (18:38)
+How to have set a precise size for a font in Swing

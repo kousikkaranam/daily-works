@@ -2837,3 +2837,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-30 (13:59)
 > "*to Mugen* Do you want to go through all the trouble of causing an uproar to expose the level of your idiocy? Try to moderate your self-importance."
 > — Jin (Samurai Champloo)
+
+## 2026-08-30 (18:38)
+> "They thirsted for knowledge! They sought to fulfill their desires! And ultimately, they forgot why they were doing it. Even as they proclaimed their reverence for human life, they began toying with it, and then they began destroying it!"
+> — Rau Le Creuset (Mobile Suit Gundam SEED)
