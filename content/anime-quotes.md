@@ -2841,3 +2841,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-30 (18:38)
 > "They thirsted for knowledge! They sought to fulfill their desires! And ultimately, they forgot why they were doing it. Even as they proclaimed their reverence for human life, they began toying with it, and then they began destroying it!"
 > — Rau Le Creuset (Mobile Suit Gundam SEED)
+
+## 2026-08-31 (08:39)
+> "If I give up now, I’m going to regret it."
+> — Monkey D. Luffy (One Piece)

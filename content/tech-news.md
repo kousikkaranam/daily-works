@@ -2251,3 +2251,6 @@
 
 ## 2026-08-30 (18:38)
 - [Artie (YC S23) Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
+
+## 2026-08-31 (08:39)
+- [Highlighting My Code Based on How Much I Care](https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/)

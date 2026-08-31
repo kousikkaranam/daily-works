@@ -1868,3 +1868,6 @@ compile error: The import xxxx cannot be resolved
 
 ## 2026-08-30 (18:38)
 How to have set a precise size for a font in Swing
+
+## 2026-08-31 (08:39)
+Get the actual types of lambda parameters?
