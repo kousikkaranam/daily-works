@@ -2845,3 +2845,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-31 (08:39)
 > "If I give up now, I’m going to regret it."
 > — Monkey D. Luffy (One Piece)
+
+## 2026-08-31 (20:50)
+> "Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"
+> — Izuku Midoriya (My Hero Academia)
