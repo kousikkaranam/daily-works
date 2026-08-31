@@ -2254,3 +2254,6 @@
 
 ## 2026-08-31 (08:39)
 - [Highlighting My Code Based on How Much I Care](https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/)
+
+## 2026-08-31 (20:50)
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)

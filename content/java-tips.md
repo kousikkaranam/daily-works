@@ -1871,3 +1871,6 @@ How to have set a precise size for a font in Swing
 
 ## 2026-08-31 (08:39)
 Get the actual types of lambda parameters?
+
+## 2026-08-31 (20:50)
+Design using Java solid principles with cap theorem utilizing low level design banking application
