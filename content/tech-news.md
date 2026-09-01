@@ -2260,3 +2260,6 @@
 
 ## 2026-09-01 (06:08)
 - [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+
+## 2026-09-01 (07:49)
+- [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE)
