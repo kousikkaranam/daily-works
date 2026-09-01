@@ -2857,3 +2857,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-01 (07:49)
 > "People can't live for the future without accepting reality."
 > — Kurokawa Mari (GATE)
+
+## 2026-09-01 (13:41)
+> "If you feel the ends justify the means, how does that make you different from us demons, exactly?"
+> — Maou Sadao (The Devil is a Part-Timer!)
