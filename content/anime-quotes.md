@@ -2861,3 +2861,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-01 (13:41)
 > "If you feel the ends justify the means, how does that make you different from us demons, exactly?"
 > — Maou Sadao (The Devil is a Part-Timer!)
+
+## 2026-09-01 (18:31)
+> "Canaan. You're a victim whose past was taken away by war. And she's a defeated person who lost her past in a power struggle. Soldiers who are born within destruction, take hatred as their weapon. Even though you and her became soldiers for the same reason, you both live differently. Listen Canaan, you cannot counter hatred with hatred... ever."
+> — Siam (Canaan)

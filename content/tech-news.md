@@ -2266,3 +2266,6 @@
 
 ## 2026-09-01 (13:41)
 - [GPU World](https://www.gpuworld.org/)
+
+## 2026-09-01 (18:31)
+- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
