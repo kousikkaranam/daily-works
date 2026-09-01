@@ -2849,3 +2849,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-08-31 (20:50)
 > "Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"
 > — Izuku Midoriya (My Hero Academia)
+
+## 2026-09-01 (06:08)
+> "[to Kagome, angry at her for saying she believes in him] You are nuts! This sword is good for nothing! Me, I'll live, I'm half demon. You though, you ain't got a chance."
+> — Inuyasha (InuYasha)
