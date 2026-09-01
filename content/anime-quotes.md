@@ -2853,3 +2853,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-01 (06:08)
 > "[to Kagome, angry at her for saying she believes in him] You are nuts! This sword is good for nothing! Me, I'll live, I'm half demon. You though, you ain't got a chance."
 > — Inuyasha (InuYasha)
+
+## 2026-09-01 (07:49)
+> "People can't live for the future without accepting reality."
+> — Kurokawa Mari (GATE)
