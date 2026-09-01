@@ -1877,3 +1877,6 @@ Design using Java solid principles with cap theorem utilizing low level design b
 
 ## 2026-09-01 (07:49)
 Fix the aspect ratio of the components of a JTextPane
+
+## 2026-09-01 (13:41)
+What colors are supported by the CSS in Swing for background-color?

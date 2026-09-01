@@ -2263,3 +2263,6 @@
 
 ## 2026-09-01 (07:49)
 - [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE)
+
+## 2026-09-01 (13:41)
+- [GPU World](https://www.gpuworld.org/)
