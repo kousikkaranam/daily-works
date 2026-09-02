@@ -2269,3 +2269,6 @@
 
 ## 2026-09-01 (18:31)
 - [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
+
+## 2026-09-02 (12:58)
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)

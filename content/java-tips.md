@@ -1883,3 +1883,6 @@ What colors are supported by the CSS in Swing for background-color?
 
 ## 2026-09-01 (18:31)
 jakarta.xml.bind.JAXBElement and com.sheets.model.generated.SpreadSheet are in unnamed module of loader &#x27;app&#x27;
+
+## 2026-09-02 (12:58)
+Run two APIs in parallel and get the first value with Spring Reactive [closed]
