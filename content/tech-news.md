@@ -2272,3 +2272,6 @@
 
 ## 2026-09-02 (12:58)
 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+
+## 2026-09-02 (18:43)
+- [I Don't Have a Smartphone](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
