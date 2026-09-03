@@ -1895,3 +1895,6 @@ How to convert JAVA Object to JSON Efficiently..?
 
 ## 2026-09-03 (13:00)
 An illegal reflective access operation warning
+
+## 2026-09-03 (18:40)
+new-to-coding ways to learn for free, language(s) to start with, sources of information, things to avoid, etiquette, etc [closed]
