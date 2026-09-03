@@ -2278,3 +2278,6 @@
 
 ## 2026-09-03 (05:35)
 - [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)
+
+## 2026-09-03 (07:11)
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
