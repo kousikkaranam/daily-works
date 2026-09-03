@@ -2281,3 +2281,6 @@
 
 ## 2026-09-03 (07:11)
 - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+
+## 2026-09-03 (13:00)
+- [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
