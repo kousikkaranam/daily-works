@@ -2275,3 +2275,6 @@
 
 ## 2026-09-02 (18:43)
 - [I Don't Have a Smartphone](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
+
+## 2026-09-03 (05:35)
+- [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)

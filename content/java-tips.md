@@ -1886,3 +1886,6 @@ jakarta.xml.bind.JAXBElement and com.sheets.model.generated.SpreadSheet are in u
 
 ## 2026-09-02 (12:58)
 Run two APIs in parallel and get the first value with Spring Reactive [closed]
+
+## 2026-09-03 (05:35)
+docx4j: help converting XHTML with MathML
