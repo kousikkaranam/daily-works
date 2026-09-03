@@ -2284,3 +2284,6 @@
 
 ## 2026-09-03 (13:00)
 - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
+
+## 2026-09-03 (18:40)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
