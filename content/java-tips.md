@@ -1904,3 +1904,6 @@ How to access @Unique field using @Accessor in Minecraft Modding Fabric 1.20.1?
 
 ## 2026-09-04 (07:14)
 Hibernate sequence generator confused by sharing it for multiple entities
+
+## 2026-09-04 (18:25)
+Polarion Java extension (servlet) which is calling from Velocity script (form extension) [closed]

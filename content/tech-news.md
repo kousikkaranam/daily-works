@@ -2293,3 +2293,6 @@
 
 ## 2026-09-04 (07:14)
 - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+
+## 2026-09-04 (18:25)
+- [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html)
