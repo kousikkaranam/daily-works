@@ -2290,3 +2290,6 @@
 
 ## 2026-09-04 (05:40)
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+
+## 2026-09-04 (07:14)
+- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)

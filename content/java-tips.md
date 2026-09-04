@@ -1901,3 +1901,6 @@ new-to-coding ways to learn for free, language(s) to start with, sources of info
 
 ## 2026-09-04 (05:40)
 How to access @Unique field using @Accessor in Minecraft Modding Fabric 1.20.1?
+
+## 2026-09-04 (07:14)
+Hibernate sequence generator confused by sharing it for multiple entities
