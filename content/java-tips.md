@@ -1898,3 +1898,6 @@ An illegal reflective access operation warning
 
 ## 2026-09-03 (18:40)
 new-to-coding ways to learn for free, language(s) to start with, sources of information, things to avoid, etiquette, etc [closed]
+
+## 2026-09-04 (05:40)
+How to access @Unique field using @Accessor in Minecraft Modding Fabric 1.20.1?
