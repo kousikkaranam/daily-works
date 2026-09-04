@@ -2287,3 +2287,6 @@
 
 ## 2026-09-03 (18:40)
 - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+
+## 2026-09-04 (05:40)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
