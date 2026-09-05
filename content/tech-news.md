@@ -2305,3 +2305,6 @@
 
 ## 2026-09-05 (05:28)
 - [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+
+## 2026-09-05 (05:28)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)

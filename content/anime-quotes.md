@@ -2893,3 +2893,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-05 (05:28)
 > "Though we had to part, though we could never be together again. We had no regrets. Even if she returned to her world, married another man and had children with him. If the woman I loved was happy, then I could be happy. And I am. Our hearts had joined and so, even if she lived in a different world, that time, we really were together always, always. I would never let go of this feeling, or my love for her."
 > — Syaoran Li (Cardcaptor Sakura)
+
+## 2026-09-05 (05:28)
+> "Why does the scenery of a town that no longer exists wring my heart so?"
+> — Taki Tachibana (Your Name.)

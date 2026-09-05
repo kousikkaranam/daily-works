@@ -1916,3 +1916,6 @@ KafkaListenerEndpointContainer Could not create Kafka transaction with Spring Ka
 
 ## 2026-09-05 (05:28)
 Setting CLASSPATH within Docker container using Dockerfile
+
+## 2026-09-05 (05:28)
+Java - Sockets - display names of all files on server
