@@ -2917,3 +2917,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-05 (06:56)
 > "If you're not remembered, then you never existed."
 > — Lain Iwakura (Serial Experiments Lain)
+
+## 2026-09-05 (06:56)
+> "Agh, it penetrates my brain!"
+> — Kurama (Yu Yu Hakusho)

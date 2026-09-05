@@ -2323,3 +2323,6 @@
 
 ## 2026-09-05 (06:56)
 - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+
+## 2026-09-05 (06:56)
+- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
