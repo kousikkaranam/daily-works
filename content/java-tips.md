@@ -1919,3 +1919,6 @@ Setting CLASSPATH within Docker container using Dockerfile
 
 ## 2026-09-05 (05:28)
 Java - Sockets - display names of all files on server
+
+## 2026-09-05 (05:28)
+How to use switch case in selenium to test several web element in a page?
