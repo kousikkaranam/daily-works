@@ -2296,3 +2296,6 @@
 
 ## 2026-09-04 (18:25)
 - [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html)
+
+## 2026-09-05 (05:28)
+- [Git Submodules as a Package Manager](https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html)

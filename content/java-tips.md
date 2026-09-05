@@ -1907,3 +1907,6 @@ Hibernate sequence generator confused by sharing it for multiple entities
 
 ## 2026-09-04 (18:25)
 Polarion Java extension (servlet) which is calling from Velocity script (form extension) [closed]
+
+## 2026-09-05 (05:28)
+Spring MongoTemplate updateMulti with Limit?
