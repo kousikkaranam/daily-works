@@ -1910,3 +1910,6 @@ Polarion Java extension (servlet) which is calling from Velocity script (form ex
 
 ## 2026-09-05 (05:28)
 Spring MongoTemplate updateMulti with Limit?
+
+## 2026-09-05 (05:28)
+KafkaListenerEndpointContainer Could not create Kafka transaction with Spring Kafka

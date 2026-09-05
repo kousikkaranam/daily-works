@@ -2299,3 +2299,6 @@
 
 ## 2026-09-05 (05:28)
 - [Git Submodules as a Package Manager](https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html)
+
+## 2026-09-05 (05:28)
+- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
