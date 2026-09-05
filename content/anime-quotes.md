@@ -2881,3 +2881,23 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-04 (07:14)
 > "Anybody want to take the sexy kitty home? She's free."
 > — Soul Evans (Soul Eater)
+
+## 2026-09-05 (05:28)
+> "Seek not beauty in battle. Seek not beauty in death. Consider not your own life. If you wish to protect that which must be protected, then strike while your opponent's back is turned."
+> — Aizen Sousuke (Bleach)
+
+## 2026-09-05 (05:28)
+> "It's just... a love that's continued for many years without straying is something that, to anyone who sees it, is beautiful and impossible to fault. But... Though it may be short, and it may be something that's become crooked and bent partway through, if they're serious about the way they feel... then I don't think that's something that isn't beautiful."
+> — Maiko Shuu (Nisekoi: False Love)
+
+## 2026-09-05 (05:28)
+> "Though we had to part, though we could never be together again. We had no regrets. Even if she returned to her world, married another man and had children with him. If the woman I loved was happy, then I could be happy. And I am. Our hearts had joined and so, even if she lived in a different world, that time, we really were together always, always. I would never let go of this feeling, or my love for her."
+> — Syaoran Li (Cardcaptor Sakura)
+
+## 2026-09-05 (05:28)
+> "Why does the scenery of a town that no longer exists wring my heart so?"
+> — Taki Tachibana (Your Name.)
+
+## 2026-09-05 (05:28)
+> "I'm sure it's not wrong for people to want to understand each other. And even if it is, I want us to understand each other."
+> — Chiyuki (Death Parade)

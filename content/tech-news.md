@@ -2296,3 +2296,18 @@
 
 ## 2026-09-04 (18:25)
 - [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html)
+
+## 2026-09-05 (05:28)
+- [Git Submodules as a Package Manager](https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html)
+
+## 2026-09-05 (05:28)
+- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+
+## 2026-09-05 (05:28)
+- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+
+## 2026-09-05 (05:28)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+
+## 2026-09-05 (05:28)
+- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
