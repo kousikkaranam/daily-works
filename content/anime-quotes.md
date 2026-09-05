@@ -2901,3 +2901,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-05 (05:28)
 > "I'm sure it's not wrong for people to want to understand each other. And even if it is, I want us to understand each other."
 > — Chiyuki (Death Parade)
+
+## 2026-09-05 (06:56)
+> "I will be the Man who surpass God."
+> — Black Star (Soul Eater)

@@ -1922,3 +1922,6 @@ Java - Sockets - display names of all files on server
 
 ## 2026-09-05 (05:28)
 How to use switch case in selenium to test several web element in a page?
+
+## 2026-09-05 (06:56)
+Is Vultr Shared CPU 4 vCPU / 8 GB enough for a small Spring Boot production app with PostgreSQL and ClamAV? [closed]
