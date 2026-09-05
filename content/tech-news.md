@@ -2311,3 +2311,18 @@
 
 ## 2026-09-05 (05:28)
 - [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+
+## 2026-09-05 (06:56)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+
+## 2026-09-05 (06:56)
+- [Why are European countries moving their gold out of North America?](https://www.bbc.com/news/articles/cvgyn8q8gqxo)
+
+## 2026-09-05 (06:56)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+
+## 2026-09-05 (06:56)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+
+## 2026-09-05 (06:56)
+- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
