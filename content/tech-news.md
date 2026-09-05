@@ -2302,3 +2302,6 @@
 
 ## 2026-09-05 (05:28)
 - [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+
+## 2026-09-05 (05:28)
+- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)

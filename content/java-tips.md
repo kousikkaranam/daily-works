@@ -1913,3 +1913,6 @@ Spring MongoTemplate updateMulti with Limit?
 
 ## 2026-09-05 (05:28)
 KafkaListenerEndpointContainer Could not create Kafka transaction with Spring Kafka
+
+## 2026-09-05 (05:28)
+Setting CLASSPATH within Docker container using Dockerfile
