@@ -2913,3 +2913,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-05 (06:56)
 > "The main reason I got stronger was so I’d be able to survive."
 > — Kazuto Kirigaya (Sword Art Online)
+
+## 2026-09-05 (06:56)
+> "If you're not remembered, then you never existed."
+> — Lain Iwakura (Serial Experiments Lain)

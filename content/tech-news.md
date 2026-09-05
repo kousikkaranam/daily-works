@@ -2320,3 +2320,6 @@
 
 ## 2026-09-05 (06:56)
 - [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+
+## 2026-09-05 (06:56)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
