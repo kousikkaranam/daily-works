@@ -1937,3 +1937,6 @@ android hide toolbar in specific fragment
 
 ## 2026-09-06 (05:42)
 java.lang.IllegalArgumentException: Target must not be null
+
+## 2026-09-06 (07:08)
+org.hibernate.exception.SQLGrammarException: could not execute statement
