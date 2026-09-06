@@ -2335,3 +2335,6 @@
 
 ## 2026-09-06 (07:08)
 - [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+
+## 2026-09-06 (12:19)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
