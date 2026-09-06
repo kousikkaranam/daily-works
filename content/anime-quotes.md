@@ -2933,3 +2933,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-06 (07:08)
 > "The future belongs to those who believe in the beauty of their dreams."
 > — Shōyō Hinata (Haikyu!!)
+
+## 2026-09-06 (17:36)
+> "I kept the ball in the air, it’s not your place to give up."
+> — Yuu Nishinoya (Haikyu!!)

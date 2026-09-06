@@ -1943,3 +1943,6 @@ org.hibernate.exception.SQLGrammarException: could not execute statement
 
 ## 2026-09-06 (12:19)
 Java implementation of superTrend
+
+## 2026-09-06 (17:36)
+How to configure Eclipse with Gradle in multi project?
