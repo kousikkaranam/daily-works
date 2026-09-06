@@ -1934,3 +1934,6 @@ How to read JSON file in reactive way using spring webflux?
 
 ## 2026-09-05 (06:56)
 android hide toolbar in specific fragment
+
+## 2026-09-06 (05:42)
+java.lang.IllegalArgumentException: Target must not be null
