@@ -2329,3 +2329,6 @@
 
 ## 2026-09-05 (17:20)
 - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+
+## 2026-09-06 (05:42)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
