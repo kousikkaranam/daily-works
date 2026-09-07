@@ -2344,3 +2344,6 @@
 
 ## 2026-09-07 (05:52)
 - [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
+
+## 2026-09-07 (07:20)
+- [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
