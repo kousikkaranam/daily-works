@@ -2347,3 +2347,6 @@
 
 ## 2026-09-07 (07:20)
 - [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+
+## 2026-09-07 (19:10)
+- [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
