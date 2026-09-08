@@ -2356,3 +2356,6 @@
 
 ## 2026-09-08 (07:15)
 - [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
+
+## 2026-09-08 (13:04)
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
