@@ -2353,3 +2353,6 @@
 
 ## 2026-09-08 (05:45)
 - [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+
+## 2026-09-08 (07:15)
+- [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)

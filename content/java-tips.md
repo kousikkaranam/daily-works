@@ -1955,3 +1955,6 @@ how to pass a java object to oracle stored procedure with following details
 
 ## 2026-09-08 (05:45)
 Problem with JpaRepository - SQLException: Invalid column name
+
+## 2026-09-08 (07:15)
+How do you solve this Gson issue related to LocalDate? [closed]
