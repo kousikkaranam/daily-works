@@ -2359,3 +2359,6 @@
 
 ## 2026-09-08 (13:04)
 - [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+
+## 2026-09-08 (18:41)
+- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
