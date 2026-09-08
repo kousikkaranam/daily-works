@@ -1952,3 +1952,6 @@ How to achieve Self healing mechanism in automation [closed]
 
 ## 2026-09-07 (19:10)
 how to pass a java object to oracle stored procedure with following details
+
+## 2026-09-08 (05:45)
+Problem with JpaRepository - SQLException: Invalid column name

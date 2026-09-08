@@ -2350,3 +2350,6 @@
 
 ## 2026-09-07 (19:10)
 - [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
+
+## 2026-09-08 (05:45)
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
