@@ -1964,3 +1964,6 @@ Display specific html tags in webview from WordPress website
 
 ## 2026-09-09 (05:49)
 Learning about Java bytecode and the JVM
+
+## 2026-09-09 (07:23)
+Function with variable number of arguments
