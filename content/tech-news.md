@@ -2371,3 +2371,6 @@
 
 ## 2026-09-09 (13:09)
 - [Roame (YC S23) Is Hiring Viral Content Editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
+
+## 2026-09-09 (18:37)
+- [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
