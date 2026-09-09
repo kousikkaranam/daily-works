@@ -2365,3 +2365,6 @@
 
 ## 2026-09-09 (05:49)
 - [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+
+## 2026-09-09 (07:23)
+- ["Tweet" and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
