@@ -2362,3 +2362,6 @@
 
 ## 2026-09-08 (18:41)
 - [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+
+## 2026-09-09 (05:49)
+- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)

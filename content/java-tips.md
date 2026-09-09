@@ -1961,3 +1961,6 @@ How do you solve this Gson issue related to LocalDate? [closed]
 
 ## 2026-09-08 (13:04)
 Display specific html tags in webview from WordPress website
+
+## 2026-09-09 (05:49)
+Learning about Java bytecode and the JVM
