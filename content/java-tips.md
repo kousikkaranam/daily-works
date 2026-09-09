@@ -1967,3 +1967,6 @@ Learning about Java bytecode and the JVM
 
 ## 2026-09-09 (07:23)
 Function with variable number of arguments
+
+## 2026-09-09 (13:09)
+I get an error message &quot;Could not execute JDBC batch update&quot; when using hibernate &quot;Many to Many&quot;
