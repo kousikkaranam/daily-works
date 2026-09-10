@@ -1982,3 +1982,6 @@ Mockito ArgumentMatcher to match only value not from the list
 
 ## 2026-09-10 (13:07)
 Kafka custom deserializer converting to Java object
+
+## 2026-09-10 (18:29)
+How to rename an IntelliJ project? [closed]

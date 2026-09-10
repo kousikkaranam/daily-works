@@ -2989,3 +2989,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-10 (13:07)
 > "The depths of despair…. I feel so calm here. I won’t be tricked by anyone anymore, and I don’t have to resent anyone. There’s nothing here. Not even loving. Nothing but to keep dancing until I die away."
 > — Rue Kuroha (Princess Tutu)
+
+## 2026-09-10 (18:29)
+> "[To Ritsu Sohma] I'm sure that inside your heart...you're trying with all your might to find it on your own...the reason you were born. Because...because really...there might not be anyone who was born with a reason. I think that everyone might have to find one on their own. [in her head] A reason for being born... A reason that it's okay to be alive... A reason to exist. [aloud] I think everyone might have to find it themselves...and decide for themselves. It could be your dreams...your job...or a person. ...The reason you're looking for...might be vague, unclear...and uncertain. [in her head] And you might lose it. [aloud] But as long as you're alive...you have to keep searching for that reason."
+> — Honda Tohru (Fruits Basket)
