@@ -2383,3 +2383,6 @@
 
 ## 2026-09-10 (13:07)
 - [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+
+## 2026-09-10 (18:29)
+- [Silicon Valley Is Transforming the Military-Industrial Complex](https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex)
