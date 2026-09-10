@@ -2374,3 +2374,6 @@
 
 ## 2026-09-09 (18:37)
 - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
+
+## 2026-09-10 (05:44)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)

@@ -1973,3 +1973,6 @@ I get an error message &quot;Could not execute JDBC batch update&quot; when usin
 
 ## 2026-09-09 (18:37)
 Java 17 for Hadoop and Java 24
+
+## 2026-09-10 (05:44)
+Why @JsonInclude(JsonInclude.Include.NON_EMPTY) is not working?
