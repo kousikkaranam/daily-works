@@ -2380,3 +2380,6 @@
 
 ## 2026-09-10 (07:19)
 - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+
+## 2026-09-10 (13:07)
+- [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
