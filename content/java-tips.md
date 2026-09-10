@@ -1976,3 +1976,6 @@ Java 17 for Hadoop and Java 24
 
 ## 2026-09-10 (05:44)
 Why @JsonInclude(JsonInclude.Include.NON_EMPTY) is not working?
+
+## 2026-09-10 (07:19)
+Mockito ArgumentMatcher to match only value not from the list
