@@ -1979,3 +1979,6 @@ Why @JsonInclude(JsonInclude.Include.NON_EMPTY) is not working?
 
 ## 2026-09-10 (07:19)
 Mockito ArgumentMatcher to match only value not from the list
+
+## 2026-09-10 (13:07)
+Kafka custom deserializer converting to Java object
