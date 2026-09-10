@@ -2377,3 +2377,6 @@
 
 ## 2026-09-10 (05:44)
 - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+
+## 2026-09-10 (07:19)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
