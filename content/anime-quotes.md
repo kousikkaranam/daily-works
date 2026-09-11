@@ -2997,3 +2997,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-11 (05:44)
 > "No idiot would want to be friends with an unmoving, unspeaking telephone pole. However, unmoving and unspeaking is exactly what you'd want from a telephone pole."
 > — Ushiromiya Ange (Umineko: When They Cry)
+
+## 2026-09-11 (07:17)
+> "[thinking after Soifon asks why she didn't take her with her] You've gotten stronger since the last time we were together, Soifon."
+> — Shihouin Yoruichi (Bleach)
