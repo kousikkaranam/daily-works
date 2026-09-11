@@ -1985,3 +1985,6 @@ Kafka custom deserializer converting to Java object
 
 ## 2026-09-10 (18:29)
 How to rename an IntelliJ project? [closed]
+
+## 2026-09-11 (13:00)
+Is it possible to make a component of a FlowLayout take up all available space?
