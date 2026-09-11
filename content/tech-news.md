@@ -2392,3 +2392,6 @@
 
 ## 2026-09-11 (07:17)
 - [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+
+## 2026-09-11 (13:00)
+- [iPod Classic 6G in QEMU](https://www.reddit.com/r/emulation/s/VL4Au2HGxq)
