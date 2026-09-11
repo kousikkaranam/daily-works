@@ -2386,3 +2386,6 @@
 
 ## 2026-09-10 (18:29)
 - [Silicon Valley Is Transforming the Military-Industrial Complex](https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex)
+
+## 2026-09-11 (05:44)
+- [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)
