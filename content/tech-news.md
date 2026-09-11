@@ -2395,3 +2395,6 @@
 
 ## 2026-09-11 (13:00)
 - [iPod Classic 6G in QEMU](https://www.reddit.com/r/emulation/s/VL4Au2HGxq)
+
+## 2026-09-11 (18:34)
+- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
