@@ -1988,3 +1988,6 @@ How to rename an IntelliJ project? [closed]
 
 ## 2026-09-11 (13:00)
 Is it possible to make a component of a FlowLayout take up all available space?
+
+## 2026-09-11 (18:34)
+How to delete rows older than 7 days(1 week) using JPQL or NativeQuery?
