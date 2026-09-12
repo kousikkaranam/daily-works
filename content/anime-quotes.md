@@ -3013,3 +3013,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-12 (05:31)
 > "We aren't flying away from everyone to leave them, but rather so we might see them again someday."
 > — Frau (07-Ghost)
+
+## 2026-09-12 (05:31)
+> "Whether we live or die isn't a big issue. If you focus on being alive, you develop fear. Your eyes get clouded. But if you have no such feelings... you are capable of fighting right to the end of the world."
+> — Revy (Black Lagoon)
