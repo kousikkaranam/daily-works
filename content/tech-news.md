@@ -2419,3 +2419,6 @@
 
 ## 2026-09-12 (08:57)
 - [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
+
+## 2026-09-12 (12:21)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
