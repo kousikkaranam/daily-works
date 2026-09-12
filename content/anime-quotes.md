@@ -3037,3 +3037,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-12 (08:57)
 > "I had no intention of deceiving anyone. It's just that none of you could understand...My true self."
 > — Aizen Sousuke (Bleach)
+
+## 2026-09-12 (17:44)
+> "When cats are near death, they leave their owner's side, right? I'm sure that's exactly how I feel. I want to disappear while they can think, "What a noisy, stupid girl she was, I wonder if she's doing okay.""
+> — Makina Irisu (The Fruit of Grisaia)

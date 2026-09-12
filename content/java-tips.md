@@ -2006,3 +2006,6 @@ Accessing Java 25 cacerts in Azure App Service
 
 ## 2026-09-12 (12:21)
 Maven custom packaging
+
+## 2026-09-12 (17:44)
+Does @NullMarked package imply non-nullablity on a field level?

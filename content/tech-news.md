@@ -2422,3 +2422,6 @@
 
 ## 2026-09-12 (12:21)
 - [A misalignment of AI in mathematics](https://mathandai.org/)
+
+## 2026-09-12 (17:44)
+- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
