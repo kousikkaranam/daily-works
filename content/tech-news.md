@@ -2398,3 +2398,6 @@
 
 ## 2026-09-11 (18:34)
 - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+
+## 2026-09-12 (05:31)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)

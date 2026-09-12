@@ -1991,3 +1991,6 @@ Is it possible to make a component of a FlowLayout take up all available space?
 
 ## 2026-09-11 (18:34)
 How to delete rows older than 7 days(1 week) using JPQL or NativeQuery?
+
+## 2026-09-12 (05:31)
+count the number of pages in a docx-document

@@ -3009,3 +3009,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-11 (18:34)
 > "I called his name again and again. And I learned that each time, nothing called back. I learned that no matter how much you want something, how many times you scream to it, sometimes it's out of reach. I decided to stop calling out for someone who would never call back."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-09-12 (05:31)
+> "We aren't flying away from everyone to leave them, but rather so we might see them again someday."
+> — Frau (07-Ghost)
