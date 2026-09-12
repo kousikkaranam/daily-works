@@ -2413,3 +2413,6 @@
 
 ## 2026-09-12 (05:31)
 - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
+
+## 2026-09-12 (07:10)
+- [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
