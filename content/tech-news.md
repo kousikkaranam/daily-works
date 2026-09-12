@@ -2404,3 +2404,6 @@
 
 ## 2026-09-12 (05:31)
 - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+
+## 2026-09-12 (05:31)
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
