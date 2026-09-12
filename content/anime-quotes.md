@@ -3033,3 +3033,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-12 (07:10)
 > "Real magic is the power to repair, to revive. To call back happiness which has disappeared, to call back love which has gotten cold. And it can call back a forgotten smile to a princess' face."
 > — Virgilia (Umineko: When They Cry)
+
+## 2026-09-12 (08:57)
+> "I had no intention of deceiving anyone. It's just that none of you could understand...My true self."
+> — Aizen Sousuke (Bleach)

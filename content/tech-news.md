@@ -2416,3 +2416,6 @@
 
 ## 2026-09-12 (07:10)
 - [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
+
+## 2026-09-12 (08:57)
+- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
