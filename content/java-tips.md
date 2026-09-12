@@ -2003,3 +2003,6 @@ Why is Gatherer not marked as a functional interface?
 
 ## 2026-09-12 (08:57)
 Accessing Java 25 cacerts in Azure App Service
+
+## 2026-09-12 (12:21)
+Maven custom packaging
