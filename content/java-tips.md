@@ -1997,3 +1997,6 @@ count the number of pages in a docx-document
 
 ## 2026-09-12 (05:31)
 How to press CTRL&#x2B;T and CTRL&#x2B;TAB in selenium WebDriver using Java?
+
+## 2026-09-12 (05:31)
+Why is Gatherer not marked as a functional interface?

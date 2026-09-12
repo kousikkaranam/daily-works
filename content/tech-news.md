@@ -2410,3 +2410,6 @@
 
 ## 2026-09-12 (05:31)
 - [Clay Mathematics Institute on the Navier-Stokes Problem](https://www.claymath.org/news/navier-stokes-announcement/)
+
+## 2026-09-12 (05:31)
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
