@@ -3021,3 +3021,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-12 (05:31)
 > "It is right for me, but not for you. Either way, the concept of "right" means no more than that."
 > — Magata Shiki (The Perfect Insider)
+
+## 2026-09-12 (05:31)
+> "Admiration is the furthest thing from understanding."
+> — Aizen Sousuke (Bleach)
