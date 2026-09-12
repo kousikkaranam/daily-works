@@ -3009,3 +3009,23 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-11 (18:34)
 > "I called his name again and again. And I learned that each time, nothing called back. I learned that no matter how much you want something, how many times you scream to it, sometimes it's out of reach. I decided to stop calling out for someone who would never call back."
 > — Takashi Natsume (Natsume Yuujinchou)
+
+## 2026-09-12 (05:31)
+> "We aren't flying away from everyone to leave them, but rather so we might see them again someday."
+> — Frau (07-Ghost)
+
+## 2026-09-12 (05:31)
+> "Whether we live or die isn't a big issue. If you focus on being alive, you develop fear. Your eyes get clouded. But if you have no such feelings... you are capable of fighting right to the end of the world."
+> — Revy (Black Lagoon)
+
+## 2026-09-12 (05:31)
+> "It is right for me, but not for you. Either way, the concept of "right" means no more than that."
+> — Magata Shiki (The Perfect Insider)
+
+## 2026-09-12 (05:31)
+> "Admiration is the furthest thing from understanding."
+> — Aizen Sousuke (Bleach)
+
+## 2026-09-12 (05:31)
+> "I am known as Valentinez Alkalinella Xifax Sicidabohertz Gombigobilla Blue Stradivari Talentrent Pierre Andri Charton-Haymoss Ivanovici Baldeus George Doitzel Kaiser III. Don't hesitate to call."
+> — Vash the Stampede (Trigun)
