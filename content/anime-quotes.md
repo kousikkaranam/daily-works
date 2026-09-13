@@ -3041,3 +3041,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-12 (17:44)
 > "When cats are near death, they leave their owner's side, right? I'm sure that's exactly how I feel. I want to disappear while they can think, "What a noisy, stupid girl she was, I wonder if she's doing okay.""
 > — Makina Irisu (The Fruit of Grisaia)
+
+## 2026-09-13 (05:50)
+> "But is it necessary to keep stroking my leg while you talk. *to Miroku*"
+> — Sango (InuYasha)
