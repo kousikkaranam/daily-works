@@ -2012,3 +2012,6 @@ Does @NullMarked package imply non-nullablity on a field level?
 
 ## 2026-09-13 (05:50)
 How can Mixins be used to inject into a lambda statement [closed]
+
+## 2026-09-13 (07:28)
+Is it possible to reload log4j.xml / log4j.properties file dynamically in Tomcat?
