@@ -2425,3 +2425,6 @@
 
 ## 2026-09-12 (17:44)
 - [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+
+## 2026-09-13 (05:50)
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)

@@ -2009,3 +2009,6 @@ Maven custom packaging
 
 ## 2026-09-12 (17:44)
 Does @NullMarked package imply non-nullablity on a field level?
+
+## 2026-09-13 (05:50)
+How can Mixins be used to inject into a lambda statement [closed]
