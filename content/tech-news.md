@@ -2437,3 +2437,6 @@
 
 ## 2026-09-15 (13:52)
 - [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135)
+
+## 2026-09-15 (19:00)
+- [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
