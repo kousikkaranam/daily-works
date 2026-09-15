@@ -2018,3 +2018,6 @@ Is it possible to reload log4j.xml / log4j.properties file dynamically in Tomcat
 
 ## 2026-09-15 (07:46)
 Exception in thread &quot;main&quot; java.lang.Error: Unresolved compilation
+
+## 2026-09-15 (13:52)
+What is a good design for custom extensions to a Java class? [closed]
