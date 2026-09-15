@@ -2021,3 +2021,6 @@ Exception in thread &quot;main&quot; java.lang.Error: Unresolved compilation
 
 ## 2026-09-15 (13:52)
 What is a good design for custom extensions to a Java class? [closed]
+
+## 2026-09-15 (19:00)
+Getting javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
