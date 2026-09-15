@@ -2431,3 +2431,6 @@
 
 ## 2026-09-13 (07:28)
 - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+
+## 2026-09-15 (07:46)
+- [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)
