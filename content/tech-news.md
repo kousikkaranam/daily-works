@@ -2440,3 +2440,6 @@
 
 ## 2026-09-15 (19:00)
 - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+
+## 2026-09-16 (05:49)
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
