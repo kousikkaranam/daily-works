@@ -2027,3 +2027,6 @@ Getting javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_fai
 
 ## 2026-09-16 (05:49)
 Java 1.6 &#x2B; BouncyCastle &#x2B; TLS1.2 (handshake_failure(40))
+
+## 2026-09-16 (18:54)
+loader constraint violation in interface itable initialization:
