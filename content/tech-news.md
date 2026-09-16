@@ -2443,3 +2443,6 @@
 
 ## 2026-09-16 (05:49)
 - [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+
+## 2026-09-16 (18:54)
+- [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
