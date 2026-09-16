@@ -2024,3 +2024,6 @@ What is a good design for custom extensions to a Java class? [closed]
 
 ## 2026-09-15 (19:00)
 Getting javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+
+## 2026-09-16 (05:49)
+Java 1.6 &#x2B; BouncyCastle &#x2B; TLS1.2 (handshake_failure(40))
