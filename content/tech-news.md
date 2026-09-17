@@ -2455,3 +2455,6 @@
 
 ## 2026-09-17 (13:47)
 - [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+
+## 2026-09-17 (19:02)
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
