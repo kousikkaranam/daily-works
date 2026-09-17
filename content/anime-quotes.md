@@ -3073,3 +3073,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-17 (07:41)
 > "Getting into trouble is not a bad thing. It's proof that someone is watching you."
 > — Shizuka Hiratsuka (My Teen Romantic Comedy SNAFU TOO!)
+
+## 2026-09-17 (13:47)
+> "Lelou? I'm glad that I could talk to you in the end. You know? When I got my memories back, I was so scared... A fake teacher... Friends with no memories... Everyone was... lying to me... It was as if... the whole world was watching over me... Lelou, you've been fighting... all by yourself against this world... All by yourself... So that's why... I wanted to become the one thing truthful to you... I love you, Lelou. Even when I knew you killed my father... I couldn't... bring myself to hate you. Even when you tried to make me forget everything... I still fell... in love with you again... Even when my memories were altered... I still fell in love again... No matter how many times I'm reborn... I'm sure I'll... fall in love with you again, Lelou... This... is fate, right? So, it's okay, right, Lelou? That I fall in love with you when I'm reborn... No matter... how many times... I'll... fall in... love with you..."
+> — Shirley Fenette (Code Geass: Lelouch of the Rebellion)

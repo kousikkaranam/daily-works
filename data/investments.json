@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "time": "18:41",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 13.52,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 15.42,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 92.61,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 105.003,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.745,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 225.9,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 78608,
-    "ethereum_usd": 2495.12,
-    "gold_inr_10g": 133295.20
-  },
-  {
     "date": "2026-09-09",
     "time": "05:49",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 76440,
     "ethereum_usd": 2445.57,
     "gold_inr_10g": 133803.85
+  },
+  {
+    "date": "2026-09-17",
+    "time": "13:47",
+    "top_indian": [
+      {
+        "name": "MOTISONS JEWELLERS LTD",
+        "symbol": "MOTISONS.NS",
+        "price": 17.94,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 12.35,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.22,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 10.7501,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 106.625,
+        "currency": "USD"
+      },
+      {
+        "name": "CoreWeave, Inc.",
+        "symbol": "CRWV",
+        "price": 80.51,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 76047,
+    "ethereum_usd": 2436.27,
+    "gold_inr_10g": 134597.24
   }
 ]

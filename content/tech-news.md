@@ -2452,3 +2452,6 @@
 
 ## 2026-09-17 (07:41)
 - [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
+
+## 2026-09-17 (13:47)
+- [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
