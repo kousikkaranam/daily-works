@@ -2446,3 +2446,6 @@
 
 ## 2026-09-16 (18:54)
 - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+
+## 2026-09-17 (05:55)
+- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
