@@ -2036,3 +2036,6 @@ javax.mail.sendfailedexception: Sending failed; nested exception is: class javax
 
 ## 2026-09-17 (07:41)
 ORM Entities vs DDD Entities
+
+## 2026-09-17 (19:02)
+Java Scanner won&#x27;t &quot;finish&quot; reading input
