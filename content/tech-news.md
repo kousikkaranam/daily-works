@@ -2449,3 +2449,6 @@
 
 ## 2026-09-17 (05:55)
 - [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+
+## 2026-09-17 (07:41)
+- [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
