@@ -2030,3 +2030,6 @@ Java 1.6 &#x2B; BouncyCastle &#x2B; TLS1.2 (handshake_failure(40))
 
 ## 2026-09-16 (18:54)
 loader constraint violation in interface itable initialization:
+
+## 2026-09-17 (05:55)
+javax.mail.sendfailedexception: Sending failed; nested exception is: class javax.mail.authenticationfailedexception at send
