@@ -2033,3 +2033,6 @@ loader constraint violation in interface itable initialization:
 
 ## 2026-09-17 (05:55)
 javax.mail.sendfailedexception: Sending failed; nested exception is: class javax.mail.authenticationfailedexception at send
+
+## 2026-09-17 (07:41)
+ORM Entities vs DDD Entities
