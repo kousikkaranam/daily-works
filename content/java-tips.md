@@ -2042,3 +2042,6 @@ Java Scanner won&#x27;t &quot;finish&quot; reading input
 
 ## 2026-09-18 (05:42)
 Different results between nslookup and Java&#x27;s InetAddress getHostName
+
+## 2026-09-18 (13:09)
+Unicode escapes in Java and compilation
