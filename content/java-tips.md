@@ -2045,3 +2045,6 @@ Different results between nslookup and Java&#x27;s InetAddress getHostName
 
 ## 2026-09-18 (13:09)
 Unicode escapes in Java and compilation
+
+## 2026-09-18 (18:29)
+JSON Input for POST request to call REST API
