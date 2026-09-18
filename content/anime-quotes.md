@@ -3081,3 +3081,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-17 (19:02)
 > "I won’t accept it! I want to have a choice, too! I don’t want to write poems about regret."
 > — Sumire Hanano (Chihayafuru 2)
+
+## 2026-09-18 (05:42)
+> "Criticism of yourself as you're observed by others doesn't matter. If your existence is firmly acknowledged by you yourself, that's enough. If you can live with confidence in yourself, surely you can accept any kind of lifestyle."
+> — Ushiromiya Ange (Umineko: When They Cry)
