@@ -2461,3 +2461,6 @@
 
 ## 2026-09-18 (05:42)
 - [Astra for Law](https://openai.com/index/astra-for-law/)
+
+## 2026-09-18 (13:09)
+- [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)

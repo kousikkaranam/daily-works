@@ -3085,3 +3085,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-18 (05:42)
 > "Criticism of yourself as you're observed by others doesn't matter. If your existence is firmly acknowledged by you yourself, that's enough. If you can live with confidence in yourself, surely you can accept any kind of lifestyle."
 > — Ushiromiya Ange (Umineko: When They Cry)
+
+## 2026-09-18 (13:09)
+> "You’re the spore of a flower. You’ll be going on a trip, taken away by the wind. To go to new places and meet new people. You shouldn’t always rely on your sister. Even if you’re apart, your bonds still remain. That’s what family is."
+> — Sunohara Youhei (Clannad)
