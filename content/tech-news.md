@@ -2464,3 +2464,6 @@
 
 ## 2026-09-18 (13:09)
 - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+
+## 2026-09-18 (18:29)
+- [I vibed a proof of Conway's conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)

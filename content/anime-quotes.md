@@ -3089,3 +3089,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-18 (13:09)
 > "You’re the spore of a flower. You’ll be going on a trip, taken away by the wind. To go to new places and meet new people. You shouldn’t always rely on your sister. Even if you’re apart, your bonds still remain. That’s what family is."
 > — Sunohara Youhei (Clannad)
+
+## 2026-09-18 (18:29)
+> "A person's mentality and feelings aren't always equal. There are times the conclusion you arrive at is completely irrational and the reason is because of that."
+> — Shizuka Hiratsuka (My Teen Romantic Comedy SNAFU TOO!)
