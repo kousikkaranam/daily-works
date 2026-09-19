@@ -2467,3 +2467,6 @@
 
 ## 2026-09-18 (18:29)
 - [I vibed a proof of Conway's conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
+
+## 2026-09-19 (05:36)
+- [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)

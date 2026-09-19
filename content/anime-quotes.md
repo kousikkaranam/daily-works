@@ -3093,3 +3093,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-18 (18:29)
 > "A person's mentality and feelings aren't always equal. There are times the conclusion you arrive at is completely irrational and the reason is because of that."
 > — Shizuka Hiratsuka (My Teen Romantic Comedy SNAFU TOO!)
+
+## 2026-09-19 (05:36)
+> "Relying on someone, helping each other out, and supporting each other. Most would say that's the right thing to do. However, that's just idealistic. In reality, someone always gets the short end of the stick."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
