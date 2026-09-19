@@ -3097,3 +3097,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-19 (05:36)
 > "Relying on someone, helping each other out, and supporting each other. Most would say that's the right thing to do. However, that's just idealistic. In reality, someone always gets the short end of the stick."
 > — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+
+## 2026-09-19 (05:37)
+> "The moment you put it into words and tell someone, it starts to diverge from your feelings. Words are nothing but lies and nothing but cheats. No matter what the truth, the moment it is told, it becomes dramatized."
+> — Deishū Kaiki (Monogatari Series: Second Season)

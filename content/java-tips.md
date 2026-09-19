@@ -2051,3 +2051,6 @@ JSON Input for POST request to call REST API
 
 ## 2026-09-19 (05:36)
 Simple Password Encryption using Spring Boot
+
+## 2026-09-19 (05:37)
+convert kotlin dsl gradle to groovy build.gradle

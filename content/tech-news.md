@@ -2470,3 +2470,6 @@
 
 ## 2026-09-19 (05:36)
 - [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
+
+## 2026-09-19 (05:37)
+- [Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step](https://github.com/awlevin/typesafe-computer-use)
