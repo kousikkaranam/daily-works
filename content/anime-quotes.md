@@ -3105,3 +3105,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-19 (05:37)
 > "Your own path is for you to find out on your own."
 > — Subaru (.hack//Sign)
+
+## 2026-09-19 (05:37)
+> "A four-poster coffin. Bloody hell."
+> — Seras Victoria (Hellsing)

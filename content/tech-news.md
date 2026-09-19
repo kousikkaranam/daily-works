@@ -2476,3 +2476,6 @@
 
 ## 2026-09-19 (05:37)
 - [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+
+## 2026-09-19 (05:37)
+- [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
