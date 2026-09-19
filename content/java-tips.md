@@ -2063,3 +2063,6 @@ Can&#x27;t find files with eclipse
 
 ## 2026-09-19 (05:37)
 Mocking of static field that is a class with Mockito
+
+## 2026-09-19 (07:20)
+import java ImportError: No module named java

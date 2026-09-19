@@ -2482,3 +2482,6 @@
 
 ## 2026-09-19 (05:37)
 - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+
+## 2026-09-19 (07:20)
+- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
