@@ -2048,3 +2048,18 @@ Unicode escapes in Java and compilation
 
 ## 2026-09-18 (18:29)
 JSON Input for POST request to call REST API
+
+## 2026-09-19 (05:36)
+Simple Password Encryption using Spring Boot
+
+## 2026-09-19 (05:37)
+convert kotlin dsl gradle to groovy build.gradle
+
+## 2026-09-19 (05:37)
+com.microsoft.sqlserver.jdbc.SQLServerException: The index 2 is out of range
+
+## 2026-09-19 (05:37)
+Can&#x27;t find files with eclipse
+
+## 2026-09-19 (05:37)
+Mocking of static field that is a class with Mockito
