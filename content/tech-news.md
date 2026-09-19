@@ -2488,3 +2488,6 @@
 
 ## 2026-09-19 (09:07)
 - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+
+## 2026-09-19 (12:41)
+- [Communication by means of modulated Johnson noise](https://www.pnas.org/doi/10.1073/pnas.2201337119)
