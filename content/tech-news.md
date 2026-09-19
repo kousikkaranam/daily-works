@@ -2479,3 +2479,6 @@
 
 ## 2026-09-19 (05:37)
 - [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
+
+## 2026-09-19 (05:37)
+- [Cloudflare Quick Tunnels](https://try.cloudflare.com/)

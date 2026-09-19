@@ -2060,3 +2060,6 @@ com.microsoft.sqlserver.jdbc.SQLServerException: The index 2 is out of range
 
 ## 2026-09-19 (05:37)
 Can&#x27;t find files with eclipse
+
+## 2026-09-19 (05:37)
+Mocking of static field that is a class with Mockito

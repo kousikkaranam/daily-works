@@ -3109,3 +3109,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-19 (05:37)
 > "A four-poster coffin. Bloody hell."
 > — Seras Victoria (Hellsing)
+
+## 2026-09-19 (05:37)
+> "There are people in this world who don't understand that what they consider a harmless prank can deeply hurt someone else."
+> — Mio Nishizono (Little Busters!)
