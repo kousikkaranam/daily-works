@@ -3101,3 +3101,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-19 (05:37)
 > "The moment you put it into words and tell someone, it starts to diverge from your feelings. Words are nothing but lies and nothing but cheats. No matter what the truth, the moment it is told, it becomes dramatized."
 > — Deishū Kaiki (Monogatari Series: Second Season)
+
+## 2026-09-19 (05:37)
+> "Your own path is for you to find out on your own."
+> — Subaru (.hack//Sign)

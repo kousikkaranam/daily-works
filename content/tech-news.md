@@ -2473,3 +2473,6 @@
 
 ## 2026-09-19 (05:37)
 - [Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step](https://github.com/awlevin/typesafe-computer-use)
+
+## 2026-09-19 (05:37)
+- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)

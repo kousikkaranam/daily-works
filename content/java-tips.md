@@ -2054,3 +2054,6 @@ Simple Password Encryption using Spring Boot
 
 ## 2026-09-19 (05:37)
 convert kotlin dsl gradle to groovy build.gradle
+
+## 2026-09-19 (05:37)
+com.microsoft.sqlserver.jdbc.SQLServerException: The index 2 is out of range
