@@ -2497,3 +2497,6 @@
 
 ## 2026-09-20 (13:13)
 - [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+
+## 2026-09-20 (18:11)
+- [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
