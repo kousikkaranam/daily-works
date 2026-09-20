@@ -2072,3 +2072,6 @@ Multiplying two one-dimensional arrays
 
 ## 2026-09-20 (07:45)
 Exception being thrown when using Transform from xml to text file via xslt
+
+## 2026-09-20 (13:13)
+Set different font formats in jTextArea [duplicate]

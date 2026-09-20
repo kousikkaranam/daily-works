@@ -2494,3 +2494,6 @@
 
 ## 2026-09-20 (07:45)
 - [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+
+## 2026-09-20 (13:13)
+- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
