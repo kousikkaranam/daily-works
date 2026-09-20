@@ -3125,3 +3125,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-19 (12:41)
 > "Give a kid a smoke and he'll be happy for a day. Teach him how to smoke... he'll be happy for his whole shortened life."
 > — Eikichi Onizuka (Great Teacher Onizuka)
+
+## 2026-09-20 (07:45)
+> "That rose whip of his must be ten feet long. Where does he stash it? All the ways I can think of sound kinda painful."
+> — Kazuma Kuwabara (Yu Yu Hakusho)
