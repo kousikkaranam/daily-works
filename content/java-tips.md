@@ -2075,3 +2075,6 @@ Exception being thrown when using Transform from xml to text file via xslt
 
 ## 2026-09-20 (13:13)
 Set different font formats in jTextArea [duplicate]
+
+## 2026-09-20 (18:11)
+Java xml Transformer to escape &amp;
