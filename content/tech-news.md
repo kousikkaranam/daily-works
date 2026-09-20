@@ -2491,3 +2491,6 @@
 
 ## 2026-09-19 (12:41)
 - [Communication by means of modulated Johnson noise](https://www.pnas.org/doi/10.1073/pnas.2201337119)
+
+## 2026-09-20 (07:45)
+- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
