@@ -3129,3 +3129,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-20 (07:45)
 > "That rose whip of his must be ten feet long. Where does he stash it? All the ways I can think of sound kinda painful."
 > — Kazuma Kuwabara (Yu Yu Hakusho)
+
+## 2026-09-20 (13:13)
+> "Only two kinds of people exist in this world, those who steal and those who are stolen from."
+> — Ciel Phantomhive (Black Butler)
