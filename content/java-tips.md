@@ -2087,3 +2087,6 @@ Java - Passing 2D array to function
 
 ## 2026-09-21 (15:20)
 Does `continue` jump to the top of a `do while`?
+
+## 2026-09-21 (19:59)
+Could not load JDBC driver class [com.microsoft.sqlserver.jdbc.SQLServerDriver] in Maven Project
