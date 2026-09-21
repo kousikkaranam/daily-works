@@ -2500,3 +2500,6 @@
 
 ## 2026-09-20 (18:11)
 - [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
+
+## 2026-09-21 (06:01)
+- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
