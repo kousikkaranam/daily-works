@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-09-12",
-    "time": "05:31",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.97,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 13.7,
-        "currency": "INR"
-      },
-      {
-        "name": "PINE LABS LIMITED",
-        "symbol": "PINELABS.NS",
-        "price": 202.17,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "The Kraft Heinz Company",
-        "symbol": "KHC",
-        "price": 24.6,
-        "currency": "USD"
-      },
-      {
-        "name": "NuScale Power Corporation",
-        "symbol": "SMR",
-        "price": 8.61,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 102.94,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77219,
-    "ethereum_usd": 2510.7,
-    "gold_inr_10g": 133695.25
-  },
-  {
-    "date": "2026-09-12",
     "time": "07:10",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 81526,
     "ethereum_usd": 2664.47,
     "gold_inr_10g": 134430.46
+  },
+  {
+    "date": "2026-09-21",
+    "time": "07:58",
+    "top_indian": [
+      {
+        "name": "JAIPRAKASH POWER VEN. LTD",
+        "symbol": "JPPOWER.NS",
+        "price": 16.79,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.96,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 13.01,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 152.71,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 222.27,
+        "currency": "USD"
+      },
+      {
+        "name": "AGNC Investment Corp.",
+        "symbol": "AGNC",
+        "price": 9.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 81670,
+    "ethereum_usd": 2656.67,
+    "gold_inr_10g": null
   }
 ]
