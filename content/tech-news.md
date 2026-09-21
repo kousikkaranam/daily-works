@@ -2503,3 +2503,6 @@
 
 ## 2026-09-21 (06:01)
 - [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
+
+## 2026-09-21 (07:58)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
