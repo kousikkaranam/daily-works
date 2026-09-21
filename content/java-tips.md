@@ -2084,3 +2084,6 @@ java.lang.IllegalStateException: LifecycleProcessor not initialized .... context
 
 ## 2026-09-21 (07:58)
 Java - Passing 2D array to function
+
+## 2026-09-21 (15:20)
+Does `continue` jump to the top of a `do while`?
