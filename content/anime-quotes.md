@@ -3145,3 +3145,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-21 (15:20)
 > "All they saw in me was another little ghetto rat with no power and no God. What's left for a poor little Chinese bitch to rely on? It's money of course. And guns. Fuckin' A, with these two things, the world is a great place."
 > — Revy (Black Lagoon)
+
+## 2026-09-21 (19:59)
+> "I'm inadequate in everything."
+> — Soi Fon (Bleach)
