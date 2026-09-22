@@ -2512,3 +2512,6 @@
 
 ## 2026-09-21 (19:59)
 - [Grok 4.7](https://x.ai/news/grok-4-7)
+
+## 2026-09-22 (05:57)
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention)

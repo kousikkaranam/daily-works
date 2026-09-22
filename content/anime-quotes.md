@@ -3149,3 +3149,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-21 (19:59)
 > "I'm inadequate in everything."
 > — Soi Fon (Bleach)
+
+## 2026-09-22 (05:57)
+> "Only underlings get caught up in the matter of style and lose the battle. A captain can't afford such indulgences. Don't try to be a good kid. Whether you own somebody or they own you. The moment you start a fight, you are wrong in either way."
+> — Shunsui Kyōraku (Bleach)
