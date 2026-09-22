@@ -2096,3 +2096,6 @@ How do I combine 2 instances of java.util.regex.Pattern?
 
 ## 2026-09-22 (07:43)
 Apache Commons Compress: ZipArchiveEntry.getUnixMode() always returns 0
+
+## 2026-09-22 (13:40)
+Java: instanceof Generic
