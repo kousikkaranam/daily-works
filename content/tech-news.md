@@ -2521,3 +2521,6 @@
 
 ## 2026-09-22 (13:40)
 - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+
+## 2026-09-22 (18:55)
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
