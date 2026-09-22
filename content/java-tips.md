@@ -2099,3 +2099,6 @@ Apache Commons Compress: ZipArchiveEntry.getUnixMode() always returns 0
 
 ## 2026-09-22 (13:40)
 Java: instanceof Generic
+
+## 2026-09-22 (18:55)
+How to convert PCM raw data to mp3 file?

@@ -3161,3 +3161,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-22 (13:40)
 > "There's no match you can't win, and there's no match that you'll win for sure."
 > — Ikkei Ukai (Haikyu!! 2nd Season)
+
+## 2026-09-22 (18:55)
+> "Those who call themselves hunters always get their prey."
+> — Kite (Hunter x Hunter)
