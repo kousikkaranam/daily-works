@@ -2515,3 +2515,6 @@
 
 ## 2026-09-22 (05:57)
 - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
+
+## 2026-09-22 (07:43)
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention)

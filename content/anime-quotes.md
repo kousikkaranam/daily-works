@@ -3153,3 +3153,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-22 (05:57)
 > "Only underlings get caught up in the matter of style and lose the battle. A captain can't afford such indulgences. Don't try to be a good kid. Whether you own somebody or they own you. The moment you start a fight, you are wrong in either way."
 > — Shunsui Kyōraku (Bleach)
+
+## 2026-09-22 (07:43)
+> "All humans die the same, the place they go after death isn't decided upon by a god it is Mu (nothingness)."
+> — Ryuk (Death Note)
