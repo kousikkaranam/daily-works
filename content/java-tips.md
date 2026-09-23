@@ -2102,3 +2102,6 @@ Java: instanceof Generic
 
 ## 2026-09-22 (18:55)
 How to convert PCM raw data to mp3 file?
+
+## 2026-09-23 (05:42)
+How to get screenshot of full webpage using Selenium and Java?
