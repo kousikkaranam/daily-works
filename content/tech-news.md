@@ -2527,3 +2527,6 @@
 
 ## 2026-09-23 (05:42)
 - [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
+
+## 2026-09-23 (07:46)
+- [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)

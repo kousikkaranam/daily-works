@@ -3165,3 +3165,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-22 (18:55)
 > "Those who call themselves hunters always get their prey."
 > — Kite (Hunter x Hunter)
+
+## 2026-09-23 (07:46)
+> "You took my teacher, and now I let you take my friend. What the hell do you want from me?"
+> — Yuusuke Urameshi (Yu Yu Hakusho)
