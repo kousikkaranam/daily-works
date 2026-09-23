@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-09-15",
-    "time": "13:52",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.45,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.89,
-        "currency": "INR"
-      },
-      {
-        "name": "ANLON HEALTHCARE LIMITED",
-        "symbol": "AHCL.NS",
-        "price": 20.18,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 9.94,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 213.43,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 99.515,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 76249,
-    "ethereum_usd": 2445.04,
-    "gold_inr_10g": 132139.03
-  },
-  {
-    "date": "2026-09-15",
     "time": "19:00",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 86747,
     "ethereum_usd": 2767.05,
     "gold_inr_10g": 133366.06
+  },
+  {
+    "date": "2026-09-23",
+    "time": "07:46",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.36,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 41.51,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.42,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Grab Holdings Limited",
+        "symbol": "GRAB",
+        "price": 3.17,
+        "currency": "USD"
+      },
+      {
+        "name": "Warner Bros. Discovery, Inc. - ",
+        "symbol": "WBD",
+        "price": 30.83,
+        "currency": "USD"
+      },
+      {
+        "name": "Nokia Corporation Sponsored",
+        "symbol": "NOK",
+        "price": 10.82,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 86149,
+    "ethereum_usd": 2739.59,
+    "gold_inr_10g": 132950.91
   }
 ]
