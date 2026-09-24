@@ -2530,3 +2530,6 @@
 
 ## 2026-09-23 (07:46)
 - [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
+
+## 2026-09-24 (05:57)
+- [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)

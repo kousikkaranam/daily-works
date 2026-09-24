@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "time": "19:00",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.45,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.89,
-        "currency": "INR"
-      },
-      {
-        "name": "ANLON HEALTHCARE LIMITED",
-        "symbol": "AHCL.NS",
-        "price": 20.18,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 9.845,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 12.785,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 96.65,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 75959,
-    "ethereum_usd": 2401.44,
-    "gold_inr_10g": 132566.61
-  },
-  {
     "date": "2026-09-16",
     "time": "05:49",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 86149,
     "ethereum_usd": 2739.59,
     "gold_inr_10g": 132950.91
+  },
+  {
+    "date": "2026-09-24",
+    "time": "05:57",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.19,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 43.46,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.31,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Grab Holdings Limited",
+        "symbol": "GRAB",
+        "price": 3.2,
+        "currency": "USD"
+      },
+      {
+        "name": "Warner Bros. Discovery, Inc. - ",
+        "symbol": "WBD",
+        "price": 30.76,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.51,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 84125,
+    "ethereum_usd": 2687.12,
+    "gold_inr_10g": 131819.78
   }
 ]

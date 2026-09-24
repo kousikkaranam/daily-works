@@ -2105,3 +2105,6 @@ How to convert PCM raw data to mp3 file?
 
 ## 2026-09-23 (05:42)
 How to get screenshot of full webpage using Selenium and Java?
+
+## 2026-09-24 (05:57)
+Trying to call a constructor &#x2B; instance that summons a ball from another class that just works as a centric timeframe
