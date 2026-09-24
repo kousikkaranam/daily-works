@@ -2533,3 +2533,6 @@
 
 ## 2026-09-24 (05:57)
 - [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)
+
+## 2026-09-24 (07:36)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
