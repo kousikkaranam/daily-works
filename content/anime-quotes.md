@@ -3177,3 +3177,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-24 (07:36)
 > "Remember. You can feel it if you hold your hand against your chest. It belongs to no one. It's our pulse, yours and mine. This is what brings us to the truth. It's what proves that we are the very world itself. Follow your instincts. The answer is already there."
 > — Ergo Proxy (Ergo Proxy)
+
+## 2026-09-24 (13:47)
+> "It feels like time is passing so quickly. Damn you, Einstein! Your science is crowding in on our kiss! He was right. The passage of time depends entirely on where you’re standing. Relativity Theory… it’s so romantic. But it’s just so tragic too."
+> — Kurisu Makise (Steins Gate)
