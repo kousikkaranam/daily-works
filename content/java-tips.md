@@ -2111,3 +2111,6 @@ Trying to call a constructor &#x2B; instance that summons a ball from another cl
 
 ## 2026-09-24 (07:36)
 How to access current attempt count in Spring Boot 4&#x27;s native for soft vs hard retry limits?
+
+## 2026-09-24 (13:47)
+hive reach max worker and cannot connect to hiveserver2

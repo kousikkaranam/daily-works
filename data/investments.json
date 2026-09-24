@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-16",
-    "time": "18:54",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.64,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.26,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 23.4,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 12.67,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.05,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 150.49,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 75765,
-    "ethereum_usd": 2401.34,
-    "gold_inr_10g": 131694.20
-  },
-  {
     "date": "2026-09-17",
     "time": "05:55",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 84469,
     "ethereum_usd": 2695.58,
     "gold_inr_10g": 132035.40
+  },
+  {
+    "date": "2026-09-24",
+    "time": "13:47",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.25,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 42.52,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.12,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 125.8219,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 146.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Oracle Corporation",
+        "symbol": "ORCL",
+        "price": 136.905,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83925,
+    "ethereum_usd": 2663.64,
+    "gold_inr_10g": 131681.16
   }
 ]
