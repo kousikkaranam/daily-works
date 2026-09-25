@@ -2114,3 +2114,6 @@ How to access current attempt count in Spring Boot 4&#x27;s native for soft vs h
 
 ## 2026-09-24 (13:47)
 hive reach max worker and cannot connect to hiveserver2
+
+## 2026-09-25 (05:59)
+Hibernate issue: makes an insert when running a delete on managed entity
