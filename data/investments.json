@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-09-17",
-    "time": "07:41",
-    "top_indian": [
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 18.15,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.52,
-        "currency": "INR"
-      },
-      {
-        "name": "IFCI LTD",
-        "symbol": "IFCI.NS",
-        "price": 77.13,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 12.7,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.14,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 101.05,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 76440,
-    "ethereum_usd": 2445.57,
-    "gold_inr_10g": 133803.85
-  },
-  {
-    "date": "2026-09-17",
     "time": "13:47",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 84201,
     "ethereum_usd": 2680.17,
     "gold_inr_10g": 131766.63
+  },
+  {
+    "date": "2026-09-25",
+    "time": "14:10",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.11,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.26,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.48,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 125.105,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.16,
+        "currency": "USD"
+      },
+      {
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "price": 374.6263,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83333,
+    "ethereum_usd": 2680.02,
+    "gold_inr_10g": 131735.76
   }
 ]

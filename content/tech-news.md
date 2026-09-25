@@ -2542,3 +2542,6 @@
 
 ## 2026-09-25 (05:59)
 - [2DWillNeverDie](https://2dwillneverdie.com/)
+
+## 2026-09-25 (14:10)
+- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)

@@ -2117,3 +2117,6 @@ hive reach max worker and cannot connect to hiveserver2
 
 ## 2026-09-25 (05:59)
 Hibernate issue: makes an insert when running a delete on managed entity
+
+## 2026-09-25 (14:10)
+Using the Pythagorean theorem with Java
