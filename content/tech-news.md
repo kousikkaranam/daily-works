@@ -2563,3 +2563,6 @@
 
 ## 2026-09-26 (13:23)
 - [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+
+## 2026-09-26 (18:36)
+- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
