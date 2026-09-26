@@ -2554,3 +2554,6 @@
 
 ## 2026-09-26 (05:59)
 - [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale)
+
+## 2026-09-26 (05:59)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)

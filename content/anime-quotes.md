@@ -3197,3 +3197,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-26 (05:59)
 > "I am the only one who's earned that right in the entire universe! I alone have the right to judge all of humanity!"
 > — Rau Le Creuset (Mobile Suit Gundam SEED)
+
+## 2026-09-26 (05:59)
+> "Assassins Rule Number One - Silence: Dissolve in the darkness and erase your breath. Wait for an opening to attack your target."
+> — Black Star (Soul Eater)
