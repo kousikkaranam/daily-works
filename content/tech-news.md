@@ -2560,3 +2560,6 @@
 
 ## 2026-09-26 (07:44)
 - [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+
+## 2026-09-26 (13:23)
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)

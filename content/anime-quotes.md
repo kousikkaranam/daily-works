@@ -3205,3 +3205,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-26 (07:44)
 > "A king must live a life more vivid than any other and be figure for all to admire! The king is the one who collects the envy of all his heroes and stands as their guide! Therefore, the king is not alone! For his will equals that of all his followers combined!"
 > — Rider (Fate/Zero)
+
+## 2026-09-26 (13:23)
+> "It's a programmer's job to make the most of limited resources to turn an impractical idea into reality."
+> — Akasaka Ryuunosuke (The Pet Girl of Sakurasou)
