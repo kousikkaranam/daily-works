@@ -2123,3 +2123,6 @@ Using the Pythagorean theorem with Java
 
 ## 2026-09-26 (05:59)
 Swagger Api Documentation in Spring API Gateway
+
+## 2026-09-26 (07:44)
+How to solve no unicode mapping error from PDFBox?
