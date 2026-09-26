@@ -2545,3 +2545,6 @@
 
 ## 2026-09-25 (14:10)
 - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+
+## 2026-09-26 (05:59)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
