@@ -3189,3 +3189,15 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-25 (14:10)
 > "Everyday was the same. Deep down, I felt bored. But it wasn't the days that felt boring. It was being just like everyone else."
 > — Sorata Kanda (The Pet Girl of Sakurasou)
+
+## 2026-09-26 (05:59)
+> "If the drive behind one's actions is the thought for another, then it is never meaningless."
+> — Erza Scarlet (Fairy Tail)
+
+## 2026-09-26 (05:59)
+> "I am the only one who's earned that right in the entire universe! I alone have the right to judge all of humanity!"
+> — Rau Le Creuset (Mobile Suit Gundam SEED)
+
+## 2026-09-26 (05:59)
+> "Assassins Rule Number One - Silence: Dissolve in the darkness and erase your breath. Wait for an opening to attack your target."
+> — Black Star (Soul Eater)

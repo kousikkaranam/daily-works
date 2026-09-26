@@ -1,193 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "time": "13:47",
-    "top_indian": [
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 17.94,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.35,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.22,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.7501,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 106.625,
-        "currency": "USD"
-      },
-      {
-        "name": "CoreWeave, Inc.",
-        "symbol": "CRWV",
-        "price": 80.51,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 76047,
-    "ethereum_usd": 2436.27,
-    "gold_inr_10g": 134597.24
-  },
-  {
-    "date": "2026-09-17",
-    "time": "19:02",
-    "top_indian": [
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 17.94,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.35,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.22,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 110.56,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.515,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 154.735,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 76515,
-    "ethereum_usd": 2450.17,
-    "gold_inr_10g": 134439.79
-  },
-  {
-    "date": "2026-09-18",
-    "time": "05:42",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.93,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.24,
-        "currency": "INR"
-      },
-      {
-        "name": "MOTISONS JEWELLERS LTD",
-        "symbol": "MOTISONS.NS",
-        "price": 18.61,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.6,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 108.8,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 219.34,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77580,
-    "ethereum_usd": 2484.96,
-    "gold_inr_10g": 134920.58
-  },
-  {
-    "date": "2026-09-18",
-    "time": "13:09",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.92,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.72,
-        "currency": "INR"
-      },
-      {
-        "name": "ANLON HEALTHCARE LIMITED",
-        "symbol": "AHCL.NS",
-        "price": 22.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.6,
-        "currency": "USD"
-      },
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 13.84,
-        "currency": "USD"
-      },
-      {
-        "name": "Hecla Mining Company",
-        "symbol": "HL",
-        "price": 18.96,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77971,
-    "ethereum_usd": 2496.76,
-    "gold_inr_10g": 135010.06
-  },
-  {
     "date": "2026-09-18",
     "time": "18:29",
     "top_indian": [
@@ -1408,5 +1220,193 @@
     "bitcoin_usd": 83333,
     "ethereum_usd": 2680.02,
     "gold_inr_10g": 131735.76
+  },
+  {
+    "date": "2026-09-26",
+    "time": "05:59",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.11,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.26,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.48,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 123.0,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.07,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 13.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83911,
+    "ethereum_usd": 2685.57,
+    "gold_inr_10g": 132180.22
+  },
+  {
+    "date": "2026-09-26",
+    "time": "05:59",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.11,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.26,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.48,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 123.0,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.07,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 13.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83911,
+    "ethereum_usd": 2685.57,
+    "gold_inr_10g": 132180.22
+  },
+  {
+    "date": "2026-09-26",
+    "time": "05:59",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.11,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.26,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.48,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 123.0,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.07,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 13.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83911,
+    "ethereum_usd": 2685.57,
+    "gold_inr_10g": 132180.22
+  },
+  {
+    "date": "2026-09-26",
+    "time": "05:59",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.11,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.26,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.48,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 123.0,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.07,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 13.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83911,
+    "ethereum_usd": 2685.57,
+    "gold_inr_10g": 132180.22
   }
 ]
