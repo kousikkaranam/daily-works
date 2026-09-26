@@ -2548,3 +2548,6 @@
 
 ## 2026-09-26 (05:59)
 - [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+
+## 2026-09-26 (05:59)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
