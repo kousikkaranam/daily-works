@@ -2129,3 +2129,6 @@ How to solve no unicode mapping error from PDFBox?
 
 ## 2026-09-26 (13:23)
 Finding Missing Entries in a Map Based on Another Map
+
+## 2026-09-26 (18:36)
+maven-cxf-codegen-plugin using Jaxb binding to add inheritance for all generated classes

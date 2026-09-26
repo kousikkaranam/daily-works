@@ -3209,3 +3209,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-26 (13:23)
 > "It's a programmer's job to make the most of limited resources to turn an impractical idea into reality."
 > — Akasaka Ryuunosuke (The Pet Girl of Sakurasou)
+
+## 2026-09-26 (18:36)
+> "All men are not created equal."
+> — Izuku Midoriya (My Hero Academia)
