@@ -3201,3 +3201,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-26 (05:59)
 > "Assassins Rule Number One - Silence: Dissolve in the darkness and erase your breath. Wait for an opening to attack your target."
 > — Black Star (Soul Eater)
+
+## 2026-09-26 (07:44)
+> "A king must live a life more vivid than any other and be figure for all to admire! The king is the one who collects the envy of all his heroes and stands as their guide! Therefore, the king is not alone! For his will equals that of all his followers combined!"
+> — Rider (Fate/Zero)
