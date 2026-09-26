@@ -2551,3 +2551,6 @@
 
 ## 2026-09-26 (05:59)
 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+
+## 2026-09-26 (05:59)
+- [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale)
