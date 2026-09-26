@@ -2126,3 +2126,6 @@ Swagger Api Documentation in Spring API Gateway
 
 ## 2026-09-26 (07:44)
 How to solve no unicode mapping error from PDFBox?
+
+## 2026-09-26 (13:23)
+Finding Missing Entries in a Map Based on Another Map
