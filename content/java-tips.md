@@ -2132,3 +2132,6 @@ Finding Missing Entries in a Map Based on Another Map
 
 ## 2026-09-26 (18:36)
 maven-cxf-codegen-plugin using Jaxb binding to add inheritance for all generated classes
+
+## 2026-09-27 (08:12)
+Permissions for Android Camera QR Scanner
