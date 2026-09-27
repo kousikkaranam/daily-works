@@ -2569,3 +2569,6 @@
 
 ## 2026-09-27 (06:26)
 - [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+
+## 2026-09-27 (08:12)
+- [Kidnapping kids remains legal in USA, this site has you experience it first-hand](https://elan.school/)
