@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-09-19",
-    "time": "07:20",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.92,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 12.72,
-        "currency": "INR"
-      },
-      {
-        "name": "ANLON HEALTHCARE LIMITED",
-        "symbol": "AHCL.NS",
-        "price": 22.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.68,
-        "currency": "USD"
-      },
-      {
-        "name": "The Trade Desk, Inc.",
-        "symbol": "TTD",
-        "price": 13.92,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 152.71,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81196,
-    "ethereum_usd": 2631.52,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-09-19",
     "time": "09:07",
     "top_indian": [
       {
@@ -1407,6 +1360,53 @@
     ],
     "bitcoin_usd": 84806,
     "ethereum_usd": 2718.31,
+    "gold_inr_10g": 132125.40
+  },
+  {
+    "date": "2026-09-27",
+    "time": "18:59",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.17,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 14.26,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 38.34,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 123.0,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 225.07,
+        "currency": "USD"
+      },
+      {
+        "name": "American Airlines Group, Inc.",
+        "symbol": "AAL",
+        "price": 13.87,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 84741,
+    "ethereum_usd": 2696.82,
     "gold_inr_10g": 132125.40
   }
 ]

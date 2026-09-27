@@ -2572,3 +2572,6 @@
 
 ## 2026-09-27 (08:12)
 - [Kidnapping kids remains legal in USA, this site has you experience it first-hand](https://elan.school/)
+
+## 2026-09-27 (18:59)
+- [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
