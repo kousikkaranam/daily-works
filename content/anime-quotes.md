@@ -3221,3 +3221,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-27 (08:12)
 > "If a member of one’s family is killed by a thief, then one should hate the thief. But people will miss aim their hatred — why should they go to where the thief hides? If one loses a family member to sickness, then one should hate the disease. It is not the doctor’s fault; yet people will hate the doctor."
 > — Lelei la Lelena (GATE)
+
+## 2026-09-27 (18:59)
+> "No one knows what’s going to happen to the world. But I believe we have the ability to deal with that. Although we cannot change the past - we can change the future. We can change it into the world we desire."
+> — Saji Crossroad (Mobile Suit Gundam 00)
