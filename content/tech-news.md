@@ -2566,3 +2566,6 @@
 
 ## 2026-09-26 (18:36)
 - [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
+
+## 2026-09-27 (06:26)
+- [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
