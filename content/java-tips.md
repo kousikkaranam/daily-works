@@ -2144,3 +2144,6 @@ Change behavior in sonar.java.binaries property
 
 ## 2026-09-28 (17:01)
 Tool to strip public method modifier from java source files?
+
+## 2026-09-28 (21:14)
+Tooling that supports correct mapping of bidirectional JPA relations

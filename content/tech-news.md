@@ -2581,3 +2581,6 @@
 
 ## 2026-09-28 (17:01)
 - [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+
+## 2026-09-28 (21:14)
+- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
