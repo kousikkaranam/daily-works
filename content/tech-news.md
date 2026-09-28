@@ -2578,3 +2578,6 @@
 
 ## 2026-09-28 (06:32)
 - [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+
+## 2026-09-28 (17:01)
+- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
