@@ -2575,3 +2575,6 @@
 
 ## 2026-09-27 (18:59)
 - [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+
+## 2026-09-28 (06:32)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
