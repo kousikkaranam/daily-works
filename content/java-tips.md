@@ -2141,3 +2141,6 @@ Java: how to make a method argument accept subclass type and superclass?
 
 ## 2026-09-28 (06:32)
 Change behavior in sonar.java.binaries property
+
+## 2026-09-28 (17:01)
+Tool to strip public method modifier from java source files?
