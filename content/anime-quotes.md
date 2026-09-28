@@ -3225,3 +3225,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-27 (18:59)
 > "No one knows what’s going to happen to the world. But I believe we have the ability to deal with that. Although we cannot change the past - we can change the future. We can change it into the world we desire."
 > — Saji Crossroad (Mobile Suit Gundam 00)
+
+## 2026-09-28 (06:32)
+> "A king is no king without his people. But people without a king are lost as well!"
+> — Lan Fan (Fullmetal Alchemist)

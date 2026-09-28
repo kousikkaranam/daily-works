@@ -2138,3 +2138,6 @@ Permissions for Android Camera QR Scanner
 
 ## 2026-09-27 (18:59)
 Java: how to make a method argument accept subclass type and superclass?
+
+## 2026-09-28 (06:32)
+Change behavior in sonar.java.binaries property
