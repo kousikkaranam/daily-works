@@ -2587,3 +2587,6 @@
 
 ## 2026-09-29 (06:42)
 - [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
+
+## 2026-09-29 (08:33)
+- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)

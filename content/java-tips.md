@@ -2150,3 +2150,6 @@ Tooling that supports correct mapping of bidirectional JPA relations
 
 ## 2026-09-29 (06:42)
 Spring Data JPA - Custom Sort in JpaRepository
+
+## 2026-09-29 (08:33)
+Unit test java Optional with mockito
