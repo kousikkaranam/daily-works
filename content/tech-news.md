@@ -2590,3 +2590,6 @@
 
 ## 2026-09-29 (08:33)
 - [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+
+## 2026-09-29 (15:05)
+- [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host)

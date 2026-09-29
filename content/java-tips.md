@@ -2153,3 +2153,6 @@ Spring Data JPA - Custom Sort in JpaRepository
 
 ## 2026-09-29 (08:33)
 Unit test java Optional with mockito
+
+## 2026-09-29 (15:05)
+How to use rollbacks with Spring AbstractTransactionalJUnit4SpringContextTests
