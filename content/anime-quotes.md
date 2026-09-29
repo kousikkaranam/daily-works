@@ -3233,3 +3233,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-09-28 (17:01)
 > "Every society places the world in order, by the concept of opposites: inside and outside, religious and secular, celestial and worldly. The opposing concepts organize the world as it is today, but none of those can be distinctly separated. There is always a grey area where it is ambiguous."
 > — Tohno Kyouko (.hack//Liminality)
+
+## 2026-09-29 (06:42)
+> "Never trust anyone too much, remember the devil was once an angel."
+> — Kaneki Ken (Tokyo Ghoul)
