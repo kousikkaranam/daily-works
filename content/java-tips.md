@@ -2156,3 +2156,6 @@ Unit test java Optional with mockito
 
 ## 2026-09-29 (15:05)
 How to use rollbacks with Spring AbstractTransactionalJUnit4SpringContextTests
+
+## 2026-09-30 (08:35)
+Hibernate stored procedure - not known to support REF_CURSOR parameters

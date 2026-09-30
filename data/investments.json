@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-09-21",
-    "time": "07:58",
-    "top_indian": [
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 16.79,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.96,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 13.01,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 152.71,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 222.27,
-        "currency": "USD"
-      },
-      {
-        "name": "AGNC Investment Corp.",
-        "symbol": "AGNC",
-        "price": 9.87,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81670,
-    "ethereum_usd": 2656.67,
-    "gold_inr_10g": null
-  },
-  {
-    "date": "2026-09-21",
     "time": "15:20",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": null,
     "ethereum_usd": null,
     "gold_inr_10g": 128790.29
+  },
+  {
+    "date": "2026-09-30",
+    "time": "08:35",
+    "top_indian": [
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 13.03,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 13.33,
+        "currency": "INR"
+      },
+      {
+        "name": "HERO MOTORS LIMITED",
+        "symbol": "HEROMOTORS.NS",
+        "price": 152.58,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 227.21,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 115.93,
+        "currency": "USD"
+      },
+      {
+        "name": "Iovance Biotherapeutics, Inc.",
+        "symbol": "IOVA",
+        "price": 14.45,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 83040,
+    "ethereum_usd": 2665.48,
+    "gold_inr_10g": 129769.92
   }
 ]
