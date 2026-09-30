@@ -2596,3 +2596,6 @@
 
 ## 2026-09-30 (08:35)
 - [America.gov](https://america.gov/)
+
+## 2026-09-30 (20:02)
+- [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)

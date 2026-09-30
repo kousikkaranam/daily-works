@@ -2159,3 +2159,6 @@ How to use rollbacks with Spring AbstractTransactionalJUnit4SpringContextTests
 
 ## 2026-09-30 (08:35)
 Hibernate stored procedure - not known to support REF_CURSOR parameters
+
+## 2026-09-30 (20:02)
+Using enum for linked list sorting [closed]
