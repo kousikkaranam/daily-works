@@ -2593,3 +2593,6 @@
 
 ## 2026-09-29 (15:05)
 - [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host)
+
+## 2026-09-30 (08:35)
+- [America.gov](https://america.gov/)
