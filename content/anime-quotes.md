@@ -3257,3 +3257,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-01 (15:40)
 > "If you forget your fear you become reckless."
 > — Soul Evans (Soul Eater)
+
+## 2026-10-01 (20:21)
+> "All the liabilities in this world are due to the inadequacies of the person involved."
+> — Kaneki Ken (Tokyo Ghoul √A)

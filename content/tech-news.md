@@ -2608,3 +2608,6 @@
 
 ## 2026-10-01 (15:40)
 - [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm)
+
+## 2026-10-01 (20:21)
+- [Ask HN: Who is hiring? (October 2026)]()
