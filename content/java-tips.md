@@ -2162,3 +2162,6 @@ Hibernate stored procedure - not known to support REF_CURSOR parameters
 
 ## 2026-09-30 (20:02)
 Using enum for linked list sorting [closed]
+
+## 2026-10-01 (07:02)
+Websphere - Transformer.setParameter not working

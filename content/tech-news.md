@@ -2599,3 +2599,6 @@
 
 ## 2026-09-30 (20:02)
 - [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
+
+## 2026-10-01 (07:02)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
