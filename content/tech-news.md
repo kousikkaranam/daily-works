@@ -2605,3 +2605,6 @@
 
 ## 2026-10-01 (08:58)
 - [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+
+## 2026-10-01 (15:40)
+- [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm)

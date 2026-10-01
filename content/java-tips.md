@@ -2168,3 +2168,6 @@ Websphere - Transformer.setParameter not working
 
 ## 2026-10-01 (08:58)
 Java Low Level API app engine Android equivalent
+
+## 2026-10-01 (15:40)
+Why do we need to create an automatic `Arena` in order to allocate native memory?
