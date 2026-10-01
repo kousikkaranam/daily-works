@@ -2602,3 +2602,6 @@
 
 ## 2026-10-01 (07:02)
 - [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
+
+## 2026-10-01 (08:58)
+- [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
