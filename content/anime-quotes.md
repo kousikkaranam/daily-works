@@ -3249,3 +3249,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-01 (07:02)
 > "[Fuu passed out after one drink and is asleep] Sleeping so carelessly. I could do something to you so easily."
 > — Mugen (Samurai Champloo)
+
+## 2026-10-01 (08:58)
+> "Anyone who points a gun at me dies. Got it? Point a gun at me, you die."
+> — Nishi Joichiro (Gantz)
