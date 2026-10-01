@@ -2171,3 +2171,6 @@ Java Low Level API app engine Android equivalent
 
 ## 2026-10-01 (15:40)
 Why do we need to create an automatic `Arena` in order to allocate native memory?
+
+## 2026-10-01 (20:21)
+How to migrate password from Grails 2.x to Grails 6.x?
