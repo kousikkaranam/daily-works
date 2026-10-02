@@ -2614,3 +2614,6 @@
 
 ## 2026-10-02 (06:51)
 - [Ask HN: Who is hiring? (October 2026)]()
+
+## 2026-10-02 (08:33)
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
