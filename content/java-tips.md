@@ -2174,3 +2174,6 @@ Why do we need to create an automatic `Arena` in order to allocate native memory
 
 ## 2026-10-01 (20:21)
 How to migrate password from Grails 2.x to Grails 6.x?
+
+## 2026-10-02 (06:51)
+How load Entity data into object in GoogleAppEngine with the Low Level API

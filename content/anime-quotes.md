@@ -3261,3 +3261,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-01 (20:21)
 > "All the liabilities in this world are due to the inadequacies of the person involved."
 > — Kaneki Ken (Tokyo Ghoul √A)
+
+## 2026-10-02 (06:51)
+> "You shouldn't mouth off when you don't know shit."
+> — Shinichi Izumi (Parasyte: The Maxim)

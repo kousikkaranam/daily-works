@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "time": "18:55",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 13.58,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.27,
-        "currency": "INR"
-      },
-      {
-        "name": "MEESHO LIMITED",
-        "symbol": "MEESHO.NS",
-        "price": 240.19,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Grab Holdings Limited",
-        "symbol": "GRAB",
-        "price": 3.145,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 10.805,
-        "currency": "USD"
-      },
-      {
-        "name": "SoFi Technologies, Inc.",
-        "symbol": "SOFI",
-        "price": 17.165,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 86487,
-    "ethereum_usd": 2750.31,
-    "gold_inr_10g": 134195.32
-  },
-  {
     "date": "2026-09-23",
     "time": "05:42",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 84770,
     "ethereum_usd": 2702.23,
     "gold_inr_10g": 128986.08
+  },
+  {
+    "date": "2026-10-02",
+    "time": "06:51",
+    "top_indian": [
+      {
+        "name": "Moneyview Limited",
+        "symbol": "MONEYVIEW.NS",
+        "price": 53.38,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.64,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 12.92,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 13.29,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 120.0,
+        "currency": "USD"
+      },
+      {
+        "name": "Corteva, Inc.",
+        "symbol": "CTVA",
+        "price": 12.57,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 85942,
+    "ethereum_usd": 2729.13,
+    "gold_inr_10g": 129563.84
   }
 ]

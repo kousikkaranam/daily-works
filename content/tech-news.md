@@ -2611,3 +2611,6 @@
 
 ## 2026-10-01 (20:21)
 - [Ask HN: Who is hiring? (October 2026)]()
+
+## 2026-10-02 (06:51)
+- [Ask HN: Who is hiring? (October 2026)]()
