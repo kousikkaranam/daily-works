@@ -2183,3 +2183,6 @@ Accessibility service in Android keeps getting disabled
 
 ## 2026-10-02 (15:01)
 How to implement my generic LinkedList in my Stack/Queue class in Java
+
+## 2026-10-02 (19:57)
+too_many_buckets_exception in elasticsearch

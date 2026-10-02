@@ -2620,3 +2620,6 @@
 
 ## 2026-10-02 (15:01)
 - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+
+## 2026-10-02 (19:57)
+- [Around 2-6% of World Bank foreign aid got siphoned into crypto wallets](https://www.nber.org/papers/w35655)
