@@ -2177,3 +2177,6 @@ How to migrate password from Grails 2.x to Grails 6.x?
 
 ## 2026-10-02 (06:51)
 How load Entity data into object in GoogleAppEngine with the Low Level API
+
+## 2026-10-02 (08:33)
+Accessibility service in Android keeps getting disabled
