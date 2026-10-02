@@ -2180,3 +2180,6 @@ How load Entity data into object in GoogleAppEngine with the Low Level API
 
 ## 2026-10-02 (08:33)
 Accessibility service in Android keeps getting disabled
+
+## 2026-10-02 (15:01)
+How to implement my generic LinkedList in my Stack/Queue class in Java
