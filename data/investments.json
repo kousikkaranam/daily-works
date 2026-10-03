@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-09-25",
-    "time": "05:59",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 14.34,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 14.23,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 38.79,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 127.39,
-        "currency": "USD"
-      },
-      {
-        "name": "Ondas Inc",
-        "symbol": "ONDS",
-        "price": 7.6,
-        "currency": "USD"
-      },
-      {
-        "name": "American Airlines Group, Inc.",
-        "symbol": "AAL",
-        "price": 13.35,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 84201,
-    "ethereum_usd": 2680.17,
-    "gold_inr_10g": 131766.63
-  },
-  {
-    "date": "2026-09-25",
     "time": "14:10",
     "top_indian": [
       {
@@ -1314,6 +1267,53 @@
     "bitcoin_usd": 84228,
     "ethereum_usd": 2665.69,
     "gold_inr_10g": 128429.74
+  },
+  {
+    "date": "2026-10-03",
+    "time": "06:16",
+    "top_indian": [
+      {
+        "name": "Moneyview Limited",
+        "symbol": "MONEYVIEW.NS",
+        "price": 53.38,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.64,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 12.92,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nike, Inc.",
+        "symbol": "NKE",
+        "price": 33.87,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 158.96,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 233.95,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 84617,
+    "ethereum_usd": 2675.59,
+    "gold_inr_10g": 128331.50
   },
   {
     "date": "2026-10-03",

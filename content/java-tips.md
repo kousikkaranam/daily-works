@@ -2192,3 +2192,6 @@ How to set idle Hive jdbc connection out from java code using hive jdbc
 
 ## 2026-10-03 (06:16)
 Java Servlet understanding
+
+## 2026-10-03 (06:16)
+Why is the anonymous class able to access the local variable? [closed]
