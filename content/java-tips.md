@@ -2195,3 +2195,6 @@ Java Servlet understanding
 
 ## 2026-10-03 (06:16)
 Why is the anonymous class able to access the local variable? [closed]
+
+## 2026-10-03 (06:16)
+How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?
