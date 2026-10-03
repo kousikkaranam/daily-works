@@ -2638,3 +2638,6 @@
 
 ## 2026-10-03 (06:16)
 - [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+
+## 2026-10-03 (13:56)
+- [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)

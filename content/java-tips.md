@@ -2201,3 +2201,6 @@ How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?
 
 ## 2026-10-03 (06:16)
 Error when building Maven project that runs fine
+
+## 2026-10-03 (13:56)
+NoSuchMethodError: org.openqa.selenium.support.ui.WebDriverWait.until
