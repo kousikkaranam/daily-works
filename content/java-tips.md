@@ -2189,3 +2189,6 @@ too_many_buckets_exception in elasticsearch
 
 ## 2026-10-03 (06:16)
 How to set idle Hive jdbc connection out from java code using hive jdbc
+
+## 2026-10-03 (06:16)
+Java Servlet understanding
