@@ -2186,3 +2186,18 @@ How to implement my generic LinkedList in my Stack/Queue class in Java
 
 ## 2026-10-02 (19:57)
 too_many_buckets_exception in elasticsearch
+
+## 2026-10-03 (06:16)
+How to set idle Hive jdbc connection out from java code using hive jdbc
+
+## 2026-10-03 (06:16)
+Java Servlet understanding
+
+## 2026-10-03 (06:16)
+Why is the anonymous class able to access the local variable? [closed]
+
+## 2026-10-03 (06:16)
+How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?
+
+## 2026-10-03 (06:16)
+Error when building Maven project that runs fine

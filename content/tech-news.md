@@ -2623,3 +2623,18 @@
 
 ## 2026-10-02 (19:57)
 - [Around 2-6% of World Bank foreign aid got siphoned into crypto wallets](https://www.nber.org/papers/w35655)
+
+## 2026-10-03 (06:16)
+- [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human)
+
+## 2026-10-03 (06:16)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+
+## 2026-10-03 (06:16)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+
+## 2026-10-03 (06:16)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+
+## 2026-10-03 (06:16)
+- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
