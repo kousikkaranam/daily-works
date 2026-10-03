@@ -2641,3 +2641,6 @@
 
 ## 2026-10-03 (13:56)
 - [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)
+
+## 2026-10-03 (18:41)
+- [Body Awareness in Goffin's Cockatoos](https://www.nature.com/articles/s41598-026-57500-7)

@@ -2204,3 +2204,6 @@ Error when building Maven project that runs fine
 
 ## 2026-10-03 (13:56)
 NoSuchMethodError: org.openqa.selenium.support.ui.WebDriverWait.until
+
+## 2026-10-03 (18:41)
+Validating multiple method argument in spock
