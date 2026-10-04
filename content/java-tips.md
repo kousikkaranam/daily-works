@@ -2216,3 +2216,6 @@ How to access the src folder in a compiled jar app?
 
 ## 2026-10-04 (14:22)
 How to change the return value of a method in Intellij?
+
+## 2026-10-04 (18:38)
+Why FileChannel in Java is not non-blocking?

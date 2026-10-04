@@ -3309,3 +3309,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-04 (14:22)
 > "Ciel, how are you?"
 > — Elizabeth Middleford (Black Butler)
+
+## 2026-10-04 (18:38)
+> "Colors and lies both get blacker as you add more. Add enough red, and it'll turn black too."
+> — Yuuji Kazami (The Fruit of Grisaia)
