@@ -2207,3 +2207,6 @@ NoSuchMethodError: org.openqa.selenium.support.ui.WebDriverWait.until
 
 ## 2026-10-03 (18:41)
 Validating multiple method argument in spock
+
+## 2026-10-04 (06:41)
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet

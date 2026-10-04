@@ -2644,3 +2644,6 @@
 
 ## 2026-10-03 (18:41)
 - [Body Awareness in Goffin's Cockatoos](https://www.nature.com/articles/s41598-026-57500-7)
+
+## 2026-10-04 (06:41)
+- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
