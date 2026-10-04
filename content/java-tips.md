@@ -2210,3 +2210,6 @@ Validating multiple method argument in spock
 
 ## 2026-10-04 (06:41)
 org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+
+## 2026-10-04 (08:27)
+How to access the src folder in a compiled jar app?

@@ -2647,3 +2647,6 @@
 
 ## 2026-10-04 (06:41)
 - [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+
+## 2026-10-04 (08:27)
+- [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
