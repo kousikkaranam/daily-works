@@ -2650,3 +2650,6 @@
 
 ## 2026-10-04 (08:27)
 - [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
+
+## 2026-10-04 (14:22)
+- [Tell HN: Bob Cringely has died]()
