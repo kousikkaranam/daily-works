@@ -2213,3 +2213,6 @@ org.hibernate.exception.SQLGrammarException: could not extract ResultSet
 
 ## 2026-10-04 (08:27)
 How to access the src folder in a compiled jar app?
+
+## 2026-10-04 (14:22)
+How to change the return value of a method in Intellij?
