@@ -2653,3 +2653,6 @@
 
 ## 2026-10-04 (14:22)
 - [Tell HN: Bob Cringely has died]()
+
+## 2026-10-04 (18:38)
+- [Tell HN: Bob Cringely has died]()
