@@ -2659,3 +2659,6 @@
 
 ## 2026-10-05 (09:06)
 - [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
+
+## 2026-10-05 (17:24)
+- [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)

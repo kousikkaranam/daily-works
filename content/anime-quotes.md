@@ -3317,3 +3317,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-05 (09:06)
 > "Our relationship has already been formed. No matter how trivial a meeting and the incidents that follow may seem, a relationship is made. Even if it is just for a short amount of time, a knot that has been tied does not unravel. It means that during your lifetime, every incident that passes has meaning. The meeting between you and I also has meaning, so remember it."
 > — Yuuko Ichihara (xxxHOLiC)
+
+## 2026-10-05 (17:24)
+> "To get what you want, you put up with something, make an effort, learn a skill, and inspire yourself. Is that how it is with Hinazuki too? Right now... I can tell she's enduring something. Just the opposite of me, she is pretending to be indifferent. She pretends to feel nothing, but a 10 year old girl isn't that strong."
+> — Satoru Fujinuma (Erased)
