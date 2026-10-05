@@ -2662,3 +2662,6 @@
 
 ## 2026-10-05 (17:24)
 - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+
+## 2026-10-05 (22:01)
+- [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
