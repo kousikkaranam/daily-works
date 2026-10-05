@@ -2656,3 +2656,6 @@
 
 ## 2026-10-04 (18:38)
 - [Tell HN: Bob Cringely has died]()
+
+## 2026-10-05 (09:06)
+- [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
