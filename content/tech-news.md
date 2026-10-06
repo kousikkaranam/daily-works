@@ -2671,3 +2671,6 @@
 
 ## 2026-10-06 (09:00)
 - [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+
+## 2026-10-06 (15:27)
+- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
