@@ -2222,3 +2222,6 @@ Why FileChannel in Java is not non-blocking?
 
 ## 2026-10-06 (07:22)
 Authentication is required but no CredentialsProvider has been registered - GITLAB
+
+## 2026-10-06 (15:27)
+Packaging Spring Boot application as layered war
