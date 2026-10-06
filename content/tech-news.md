@@ -2665,3 +2665,6 @@
 
 ## 2026-10-05 (22:01)
 - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+
+## 2026-10-06 (07:22)
+- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
