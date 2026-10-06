@@ -2668,3 +2668,6 @@
 
 ## 2026-10-06 (07:22)
 - [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
+
+## 2026-10-06 (09:00)
+- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
