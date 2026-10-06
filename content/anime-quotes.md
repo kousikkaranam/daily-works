@@ -3325,3 +3325,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-05 (22:01)
 > "Let's have a drink. Hh shut up... The alcohol will disinfect me from the inside!"
 > — Guts (Berserk)
+
+## 2026-10-06 (07:22)
+> "Do you think I can shoulder everyone's lives and not feel any weight? I don't want to be indifferent. I want to be worthy of everyone's feelings."
+> — Gai Tsutsugami (Guilty Crown)

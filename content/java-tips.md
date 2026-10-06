@@ -2219,3 +2219,6 @@ How to change the return value of a method in Intellij?
 
 ## 2026-10-04 (18:38)
 Why FileChannel in Java is not non-blocking?
+
+## 2026-10-06 (07:22)
+Authentication is required but no CredentialsProvider has been registered - GITLAB
