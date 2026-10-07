@@ -2677,3 +2677,6 @@
 
 ## 2026-10-07 (08:41)
 - [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+
+## 2026-10-07 (20:38)
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)

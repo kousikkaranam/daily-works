@@ -2225,3 +2225,6 @@ Authentication is required but no CredentialsProvider has been registered - GITL
 
 ## 2026-10-06 (15:27)
 Packaging Spring Boot application as layered war
+
+## 2026-10-07 (20:38)
+Where do I get the official Java compiler
