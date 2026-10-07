@@ -2674,3 +2674,6 @@
 
 ## 2026-10-06 (15:27)
 - [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+
+## 2026-10-07 (08:41)
+- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
