@@ -2680,3 +2680,6 @@
 
 ## 2026-10-07 (20:38)
 - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+
+## 2026-10-08 (08:59)
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
