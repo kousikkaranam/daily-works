@@ -2228,3 +2228,6 @@ Packaging Spring Boot application as layered war
 
 ## 2026-10-07 (20:38)
 Where do I get the official Java compiler
+
+## 2026-10-08 (08:59)
+Kotlin file to apk android flow?
