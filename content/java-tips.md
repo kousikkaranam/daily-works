@@ -2231,3 +2231,6 @@ Where do I get the official Java compiler
 
 ## 2026-10-08 (08:59)
 Kotlin file to apk android flow?
+
+## 2026-10-08 (20:41)
+How to convert int to Integer
