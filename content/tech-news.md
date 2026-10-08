@@ -2683,3 +2683,6 @@
 
 ## 2026-10-08 (08:59)
 - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+
+## 2026-10-08 (20:41)
+- [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)

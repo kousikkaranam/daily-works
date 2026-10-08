@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-09-29",
-    "time": "15:05",
-    "top_indian": [
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.56,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 13.23,
-        "currency": "INR"
-      },
-      {
-        "name": "SYNCOM FORMU (I) LTD",
-        "symbol": "SYNCOMF.NS",
-        "price": 26.18,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Carnival Corporation Ltd.",
-        "symbol": "CCL",
-        "price": 24.885,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 118.6,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 230.4303,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": null,
-    "ethereum_usd": null,
-    "gold_inr_10g": 128790.29
-  },
-  {
     "date": "2026-09-30",
     "time": "08:35",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 82805,
     "ethereum_usd": 2557.97,
     "gold_inr_10g": 128498.91
+  },
+  {
+    "date": "2026-10-08",
+    "time": "20:41",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 13.9,
+        "currency": "INR"
+      },
+      {
+        "name": "MONEYVIEW LIMITED",
+        "symbol": "MONEYVIEW.NS",
+        "price": 57.89,
+        "currency": "INR"
+      },
+      {
+        "name": "ITC LTD.",
+        "symbol": "ITC.BO",
+        "price": 254.05,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 107.08,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 230.48,
+        "currency": "USD"
+      },
+      {
+        "name": "Medtronic plc.",
+        "symbol": "MDT",
+        "price": 87.75,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 81672,
+    "ethereum_usd": 2466.72,
+    "gold_inr_10g": 128729.28
   }
 ]
