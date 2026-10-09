@@ -2689,3 +2689,6 @@
 
 ## 2026-10-09 (09:06)
 - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+
+## 2026-10-09 (20:06)
+- [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
