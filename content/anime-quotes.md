@@ -3349,3 +3349,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-09 (09:06)
 > "You're proud of your white clothes?.. It sounds like a laundry detergent commercial."
 > — Pesche Guatiche (Bleach)
+
+## 2026-10-09 (20:06)
+> "In my eyes, there is no difference between wiping away one speck of dust or two."
+> — Aizen Sousuke (Bleach)

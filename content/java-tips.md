@@ -2237,3 +2237,6 @@ How to convert int to Integer
 
 ## 2026-10-09 (09:06)
 overloading method user input
+
+## 2026-10-09 (20:06)
+spring autowire not working No qualifying bean of type Injection of autowired dependencies failed;
