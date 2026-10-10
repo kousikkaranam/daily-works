@@ -2252,3 +2252,6 @@ Print subscript character to console in Java
 
 ## 2026-10-10 (06:52)
 Fortify issue - Command Injection
+
+## 2026-10-10 (08:30)
+How to restrict jurisdictional tiers using Google Play Age Signals checkAgeSignals() prompt?
