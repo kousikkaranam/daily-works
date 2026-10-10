@@ -2692,3 +2692,6 @@
 
 ## 2026-10-09 (20:06)
 - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+
+## 2026-10-10 (06:52)
+- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)

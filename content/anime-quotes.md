@@ -3353,3 +3353,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-09 (20:06)
 > "In my eyes, there is no difference between wiping away one speck of dust or two."
 > — Aizen Sousuke (Bleach)
+
+## 2026-10-10 (06:52)
+> "It’s not about whether I can, I have to do it!"
+> — Megumi Fushiguro (Jujutsu Kaisen)

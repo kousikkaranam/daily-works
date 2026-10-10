@@ -2240,3 +2240,6 @@ overloading method user input
 
 ## 2026-10-09 (20:06)
 spring autowire not working No qualifying bean of type Injection of autowired dependencies failed;
+
+## 2026-10-10 (06:52)
+mvn package throws compilation error for getters and setters with lombok
