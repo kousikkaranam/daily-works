@@ -2701,3 +2701,6 @@
 
 ## 2026-10-10 (06:52)
 - [REA Reverse – Engineer Anything](https://rea.tools/)
+
+## 2026-10-10 (06:52)
+- [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
