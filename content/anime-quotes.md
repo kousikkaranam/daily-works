@@ -3369,3 +3369,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-10 (08:30)
 > "The past is just the past. There's no inherent value in getting over it or catching up to it."
 > — Deishū Kaiki (Nisemonogatari)
+
+## 2026-10-10 (10:53)
+> "Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya."
+> — Tohsaka Tokiomi (Fate/Zero)

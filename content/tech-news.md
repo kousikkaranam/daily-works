@@ -2707,3 +2707,6 @@
 
 ## 2026-10-10 (08:30)
 - [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+
+## 2026-10-10 (10:53)
+- [Cube Type – Isometric Typography Generator](https://typeincube.com/)
