@@ -3365,3 +3365,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-10 (06:52)
 > "I had totally forgotten!! I am just me."
 > — Takemichi Hanagaki (Tokyo Revengers)
+
+## 2026-10-10 (08:30)
+> "The past is just the past. There's no inherent value in getting over it or catching up to it."
+> — Deishū Kaiki (Nisemonogatari)
