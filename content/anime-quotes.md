@@ -3357,3 +3357,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-10 (06:52)
 > "It’s not about whether I can, I have to do it!"
 > — Megumi Fushiguro (Jujutsu Kaisen)
+
+## 2026-10-10 (06:52)
+> "Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn."
+> — Edward Elric (Fullmetal Alchemist)

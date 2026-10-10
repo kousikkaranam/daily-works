@@ -2695,3 +2695,6 @@
 
 ## 2026-10-10 (06:52)
 - [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+
+## 2026-10-10 (06:52)
+- [REA Reverse – Engineer Anything](https://rea.tools/)

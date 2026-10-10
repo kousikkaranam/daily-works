@@ -2243,3 +2243,6 @@ spring autowire not working No qualifying bean of type Injection of autowired de
 
 ## 2026-10-10 (06:52)
 mvn package throws compilation error for getters and setters with lombok
+
+## 2026-10-10 (06:52)
+How to uninstall Eclipse?
