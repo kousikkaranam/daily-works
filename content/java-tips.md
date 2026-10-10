@@ -2246,3 +2246,6 @@ mvn package throws compilation error for getters and setters with lombok
 
 ## 2026-10-10 (06:52)
 How to uninstall Eclipse?
+
+## 2026-10-10 (06:52)
+Print subscript character to console in Java
