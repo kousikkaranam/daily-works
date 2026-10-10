@@ -2710,3 +2710,6 @@
 
 ## 2026-10-10 (10:53)
 - [Cube Type – Isometric Typography Generator](https://typeincube.com/)
+
+## 2026-10-10 (14:45)
+- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
