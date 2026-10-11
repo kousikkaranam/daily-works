@@ -3377,3 +3377,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-10 (14:45)
 > "Time waits for no one."
 > — The Girl Who Leapt Through Time (The Girl Who Leapt Through Time)
+
+## 2026-10-11 (06:56)
+> "Have any of you ever killed anyone before? Have you ever been killed before? Have you ever had a limb torn off by an artillery shell?"
+> — Sylvia Sherwood (Spy x Family)

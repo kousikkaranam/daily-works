@@ -2716,3 +2716,6 @@
 
 ## 2026-10-10 (19:17)
 - [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds)
+
+## 2026-10-11 (06:56)
+- [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
