@@ -2722,3 +2722,6 @@
 
 ## 2026-10-11 (08:54)
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+
+## 2026-10-11 (15:05)
+- [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)

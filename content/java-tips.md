@@ -2261,3 +2261,6 @@ Change Volume of samples in byte array
 
 ## 2026-10-10 (19:17)
 &quot;Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile (default-compile)&quot;
+
+## 2026-10-11 (15:05)
+How to get an enum value from a string value in Java
