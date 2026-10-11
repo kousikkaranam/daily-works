@@ -3385,3 +3385,8 @@ I’ve had my eye on you. Because all that building resentment was written over 
 ## 2026-10-11 (08:54)
 > "Of course. Humans can be kind because there are things they do not understand. If they knew everything, they would attempt nothing. If they attempted nothing, nothing new would happen. Humans seek answers to the things they do not know. That is how kindness, nostalgia, joy, and fun are born."
 > — Magata Shiki (The Perfect Insider)
+
+## 2026-10-11 (15:05)
+> "There are no inherently bad people. Everyone believes that, myself included. I don’t doubt the existence of virtue. And yet people bare their fangs when it seems they can profit. People will rationalize their own behavior whenever they become tainted with evil; they’re not supposed to be evil. In order to preserve their own twisted integrity, the world becomes twisted. 
+Someone you praised as “cool” until yesterday is “stuck up” today; someone you respected as “smart and knowledgeable” is now scorned as someone who “looks down on bad students”, and “energetic vigor” becomes “annoying and overly carried away”."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
