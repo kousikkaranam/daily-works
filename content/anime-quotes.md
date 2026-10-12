@@ -3398,3 +3398,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-12 (09:14)
 > "If you're felling like there's nowhere you belong... That you're trapped in a small world. It's those feelings that drive us beyond our world."
 > — Reiji Nitta (Space Brothers)
+
+## 2026-10-12 (18:13)
+> "I can't compete with Kikyo, because, after all, I'm still alive"
+> — Kagome Higurashi (InuYasha)

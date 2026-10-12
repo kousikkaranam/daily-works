@@ -2731,3 +2731,6 @@
 
 ## 2026-10-12 (09:14)
 - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+
+## 2026-10-12 (18:13)
+- [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
