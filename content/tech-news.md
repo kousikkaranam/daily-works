@@ -2734,3 +2734,6 @@
 
 ## 2026-10-12 (18:13)
 - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
+
+## 2026-10-12 (22:29)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
