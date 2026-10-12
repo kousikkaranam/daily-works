@@ -2264,3 +2264,6 @@ Change Volume of samples in byte array
 
 ## 2026-10-11 (15:05)
 How to get an enum value from a string value in Java
+
+## 2026-10-12 (07:09)
+WebClient open and close connection on every element call in the Stream
