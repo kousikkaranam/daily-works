@@ -2728,3 +2728,6 @@
 
 ## 2026-10-12 (07:09)
 - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+
+## 2026-10-12 (09:14)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
