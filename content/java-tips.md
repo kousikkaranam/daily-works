@@ -2267,3 +2267,6 @@ How to get an enum value from a string value in Java
 
 ## 2026-10-12 (07:09)
 WebClient open and close connection on every element call in the Stream
+
+## 2026-10-12 (18:13)
+how to customize jTable header column font size in Netbeans?
