@@ -3390,3 +3390,7 @@ I’ve had my eye on you. Because all that building resentment was written over 
 > "There are no inherently bad people. Everyone believes that, myself included. I don’t doubt the existence of virtue. And yet people bare their fangs when it seems they can profit. People will rationalize their own behavior whenever they become tainted with evil; they’re not supposed to be evil. In order to preserve their own twisted integrity, the world becomes twisted. 
 Someone you praised as “cool” until yesterday is “stuck up” today; someone you respected as “smart and knowledgeable” is now scorned as someone who “looks down on bad students”, and “energetic vigor” becomes “annoying and overly carried away”."
 > — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+
+## 2026-10-12 (07:09)
+> "Never beg and earn by winning or else you won't get anything."
+> — Renton Thurston (Eureka Seven)

@@ -2725,3 +2725,6 @@
 
 ## 2026-10-11 (15:05)
 - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+
+## 2026-10-12 (07:09)
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
