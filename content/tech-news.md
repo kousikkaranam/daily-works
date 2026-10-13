@@ -2740,3 +2740,6 @@
 
 ## 2026-10-13 (07:33)
 - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+
+## 2026-10-13 (09:26)
+- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
