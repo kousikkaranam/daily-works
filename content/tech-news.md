@@ -2746,3 +2746,6 @@
 
 ## 2026-10-13 (16:27)
 - [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
+
+## 2026-10-13 (20:41)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
