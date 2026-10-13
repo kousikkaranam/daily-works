@@ -2273,3 +2273,6 @@ how to customize jTable header column font size in Netbeans?
 
 ## 2026-10-13 (07:33)
 Eclipse - How to disable the overwriting mode? (White vertical rectangle)
+
+## 2026-10-13 (09:26)
+Kafka Failed to update metadata
