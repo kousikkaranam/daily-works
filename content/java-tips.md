@@ -2279,3 +2279,6 @@ Kafka Failed to update metadata
 
 ## 2026-10-13 (16:27)
 Given a matrix (i.e. an array of arrays), find its submatrix obtained by deleting the specified rows and columns
+
+## 2026-10-13 (20:41)
+Enabling/disabling servlet in a way other than web.xml
