@@ -2749,3 +2749,6 @@
 
 ## 2026-10-13 (20:41)
 - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+
+## 2026-10-14 (05:57)
+- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
