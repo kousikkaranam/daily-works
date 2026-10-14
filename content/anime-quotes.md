@@ -3418,3 +3418,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-14 (05:57)
 > "I do not fear death. I fear only that my rage will fade over time."
 > — Kurapika (Hunter x Hunter)
+
+## 2026-10-14 (14:03)
+> "I can't stand the weak, They're always nervous about when they might next be attacked. They can't trust anybody and they never have an opinion of their own. I can't stand such people."
+> — Heero Yuy (Mobile Suit Gundam Wing)
