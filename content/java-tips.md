@@ -2282,3 +2282,6 @@ Given a matrix (i.e. an array of arrays), find its submatrix obtained by deletin
 
 ## 2026-10-13 (20:41)
 Enabling/disabling servlet in a way other than web.xml
+
+## 2026-10-14 (05:57)
+could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException:
