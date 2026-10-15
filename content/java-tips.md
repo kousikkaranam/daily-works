@@ -2294,3 +2294,6 @@ Polarion ALM SDK: &quot;Setting null owner twice!&quot; when adding 2&#x2B; new 
 
 ## 2026-10-15 (13:41)
 Is it possible to get Direct Messages from Twitter by a specific user using the Twitter4j library?
+
+## 2026-10-15 (19:09)
+Why does Stream&lt;T&gt; not implement Iterable&lt;T&gt;?
