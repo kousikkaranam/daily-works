@@ -2755,3 +2755,6 @@
 
 ## 2026-10-14 (14:03)
 - [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+
+## 2026-10-15 (05:43)
+- [An Apology](https://www.elevationlab.com/blogs/news/an-apology)

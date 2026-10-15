@@ -2285,3 +2285,6 @@ Enabling/disabling servlet in a way other than web.xml
 
 ## 2026-10-14 (05:57)
 could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException:
+
+## 2026-10-15 (05:43)
+Spring Boot Properties - Why am I getting the error EL1041E: After parsing a valid expression, there is still more data in the expression &#x27;hash(#)&#x27;
