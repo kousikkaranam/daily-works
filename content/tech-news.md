@@ -2761,3 +2761,6 @@
 
 ## 2026-10-15 (07:27)
 - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+
+## 2026-10-15 (13:41)
+- [Tiny Little Office](https://tinylittleoffice.com/)

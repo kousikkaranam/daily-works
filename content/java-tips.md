@@ -2291,3 +2291,6 @@ Spring Boot Properties - Why am I getting the error EL1041E: After parsing a val
 
 ## 2026-10-15 (07:27)
 Polarion ALM SDK: &quot;Setting null owner twice!&quot; when adding 2&#x2B; new Work Items to an existing Live Document in one transaction/revision
+
+## 2026-10-15 (13:41)
+Is it possible to get Direct Messages from Twitter by a specific user using the Twitter4j library?
