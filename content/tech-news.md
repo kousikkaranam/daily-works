@@ -2764,3 +2764,6 @@
 
 ## 2026-10-15 (13:41)
 - [Tiny Little Office](https://tinylittleoffice.com/)
+
+## 2026-10-15 (19:09)
+- [Jev Meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
