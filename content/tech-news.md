@@ -2758,3 +2758,6 @@
 
 ## 2026-10-15 (05:43)
 - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
+
+## 2026-10-15 (07:27)
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
