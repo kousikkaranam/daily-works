@@ -2776,3 +2776,6 @@
 
 ## 2026-10-16 (13:32)
 - [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
+
+## 2026-10-16 (18:48)
+- [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
