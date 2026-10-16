@@ -2773,3 +2773,6 @@
 
 ## 2026-10-16 (07:11)
 - [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+
+## 2026-10-16 (13:32)
+- [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)

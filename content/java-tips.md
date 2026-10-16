@@ -2303,3 +2303,6 @@ How to fix Edge and chrome driver errors of selenium with java project?
 
 ## 2026-10-16 (07:11)
 Cannot open Eclipse Marketplace
+
+## 2026-10-16 (13:32)
+How do I terminate a process normally when created by ProcessBuilder?
