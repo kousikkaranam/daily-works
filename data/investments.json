@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-08",
-    "time": "20:41",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 13.9,
-        "currency": "INR"
-      },
-      {
-        "name": "MONEYVIEW LIMITED",
-        "symbol": "MONEYVIEW.NS",
-        "price": 57.89,
-        "currency": "INR"
-      },
-      {
-        "name": "ITC LTD.",
-        "symbol": "ITC.BO",
-        "price": 254.05,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 107.08,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 230.48,
-        "currency": "USD"
-      },
-      {
-        "name": "Medtronic plc.",
-        "symbol": "MDT",
-        "price": 87.75,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81672,
-    "ethereum_usd": 2466.72,
-    "gold_inr_10g": 128729.28
-  },
-  {
     "date": "2026-10-09",
     "time": "09:06",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 82077,
     "ethereum_usd": 2448.61,
     "gold_inr_10g": 127994.67
+  },
+  {
+    "date": "2026-10-16",
+    "time": "13:32",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 16.28,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.5,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.59,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 144.55,
+        "currency": "USD"
+      },
+      {
+        "name": "INNIO N.V.",
+        "symbol": "INIO",
+        "price": 16.37,
+        "currency": "USD"
+      },
+      {
+        "name": "Apple Inc.",
+        "symbol": "AAPL",
+        "price": 347.46,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 81927,
+    "ethereum_usd": 2461.61,
+    "gold_inr_10g": 127208.88
   }
 ]
