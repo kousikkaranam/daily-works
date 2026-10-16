@@ -2297,3 +2297,6 @@ Is it possible to get Direct Messages from Twitter by a specific user using the 
 
 ## 2026-10-15 (19:09)
 Why does Stream&lt;T&gt; not implement Iterable&lt;T&gt;?
+
+## 2026-10-16 (05:39)
+How to fix Edge and chrome driver errors of selenium with java project?
