@@ -2770,3 +2770,6 @@
 
 ## 2026-10-16 (05:39)
 - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+
+## 2026-10-16 (07:11)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
