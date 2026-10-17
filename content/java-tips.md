@@ -2321,3 +2321,6 @@ Printing two or more strings in vertical form in java
 
 ## 2026-10-17 (06:58)
 WebClientRequestException when wiremocking Spring Boot Service POST method
+
+## 2026-10-17 (06:58)
+How to set URL for Maven dependency
