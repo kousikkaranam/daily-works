@@ -2779,3 +2779,15 @@
 
 ## 2026-10-16 (18:48)
 - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+
+## 2026-10-17 (05:25)
+- [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org)
+
+## 2026-10-17 (05:25)
+- [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org)
+
+## 2026-10-17 (05:25)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+
+## 2026-10-17 (05:25)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)

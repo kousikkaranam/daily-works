@@ -3454,3 +3454,15 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-16 (18:48)
 > "[looking at a porno magazine] Geez, doing it with a squid."
 > — Mugen (Samurai Champloo)
+
+## 2026-10-17 (05:25)
+> "‎[to Takumi Myama] Why are you blocking us when you have someone else that you like? We can easily see her feelings towards you so there's no way you haven't realized what's there. Yet you just leave the situation half-finished. Aren't you just saving her for when things don't work out with your favorite?"
+> — Takumi Nomiya (Honey and Clover)
+
+## 2026-10-17 (05:25)
+> "Be as swift as the wind. Be as quiet as the forest. Attack as fiercely as the fire. Be immovable like a mountain. Move like the lightning. Be as impenetrable as a shadow."
+> — Detective Conan (Case Closed)
+
+## 2026-10-17 (05:25)
+> "Our crying for them won't bring the dead back to life."
+> — Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)
