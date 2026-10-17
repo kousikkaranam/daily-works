@@ -2794,3 +2794,6 @@
 
 ## 2026-10-17 (06:58)
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+
+## 2026-10-17 (06:58)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
