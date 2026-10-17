@@ -3486,3 +3486,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-17 (12:25)
 > "The devil made me do it. It was all his fault. Yup, all him. Look at them shake. I don't blame them. The second I spotted them, I put a lid on the tin and ran away. In other words, I kidnapped them. Is there any way to spin this? I mean, any way to solve the problem?"
 > — Watashi (Humanity Has Declined)
+
+## 2026-10-17 (17:51)
+> "It's fine if he holds bad judgements without trying to get to know me. The real point is letting just the ones who want to understand me know my real self."
+> — Kyoya Ootori (Ouran High School Host Club)

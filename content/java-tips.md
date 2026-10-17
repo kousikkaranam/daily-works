@@ -2330,3 +2330,6 @@ Logic Solving Algorithm for Sudoku (Java)
 
 ## 2026-10-17 (12:25)
 How to preview Pdf file without download
+
+## 2026-10-17 (17:51)
+Always getting 400 - Bad request when posting data in a REST/JAX-RS
