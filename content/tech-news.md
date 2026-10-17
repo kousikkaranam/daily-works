@@ -2791,3 +2791,15 @@
 
 ## 2026-10-17 (05:25)
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+
+## 2026-10-17 (06:58)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+
+## 2026-10-17 (06:58)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+
+## 2026-10-17 (06:58)
+- [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+
+## 2026-10-17 (06:58)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
