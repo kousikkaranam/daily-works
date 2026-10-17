@@ -2791,3 +2791,6 @@
 
 ## 2026-10-17 (05:25)
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+
+## 2026-10-17 (06:58)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)

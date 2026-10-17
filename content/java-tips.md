@@ -2315,3 +2315,6 @@ Blank Pages and Responses when using OWASP CSRF Guard
 
 ## 2026-10-17 (05:25)
 Defining an OpenAPI Spec for an Endpoint with a Generic Body
+
+## 2026-10-17 (06:58)
+Printing two or more strings in vertical form in java
