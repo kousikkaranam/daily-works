@@ -2803,3 +2803,6 @@
 
 ## 2026-10-17 (06:58)
 - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+
+## 2026-10-17 (12:25)
+- [Tesla Roadster](https://www.tesla.com/roadster)
