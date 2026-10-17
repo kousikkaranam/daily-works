@@ -2806,3 +2806,6 @@
 
 ## 2026-10-17 (12:25)
 - [Tesla Roadster](https://www.tesla.com/roadster)
+
+## 2026-10-17 (17:51)
+- [OpenAI discloses four more rogue incidents](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
