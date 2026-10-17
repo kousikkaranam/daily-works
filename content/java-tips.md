@@ -2327,3 +2327,6 @@ How to set URL for Maven dependency
 
 ## 2026-10-17 (06:58)
 Logic Solving Algorithm for Sudoku (Java)
+
+## 2026-10-17 (12:25)
+How to preview Pdf file without download
