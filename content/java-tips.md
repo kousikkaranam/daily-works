@@ -2312,3 +2312,6 @@ Cursor IDE shows &#x201C;Flexible Constructor Bodies&#x201D; errors throughout a
 
 ## 2026-10-17 (05:25)
 Blank Pages and Responses when using OWASP CSRF Guard
+
+## 2026-10-17 (05:25)
+Defining an OpenAPI Spec for an Endpoint with a Generic Body
