@@ -2800,3 +2800,6 @@
 
 ## 2026-10-17 (06:58)
 - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+
+## 2026-10-17 (06:58)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
