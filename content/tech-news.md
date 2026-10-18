@@ -2809,3 +2809,6 @@
 
 ## 2026-10-17 (17:51)
 - [OpenAI discloses four more rogue incidents](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
+
+## 2026-10-18 (18:06)
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
