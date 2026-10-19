@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "time": "15:05",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 14.81,
-        "currency": "INR"
-      },
-      {
-        "name": "MONEYVIEW LIMITED",
-        "symbol": "MONEYVIEW.NS",
-        "price": 62.39,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 13.0,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "AT&T Inc.",
-        "symbol": "T",
-        "price": 22.18,
-        "currency": "USD"
-      },
-      {
-        "name": "Verizon Communications Inc.",
-        "symbol": "VZ",
-        "price": 41.65,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 162.57,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 83050,
-    "ethereum_usd": 2504.33,
-    "gold_inr_10g": 130615.10
-  },
-  {
     "date": "2026-10-12",
     "time": "07:09",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 81162,
     "ethereum_usd": 2369.01,
     "gold_inr_10g": 127347.34
+  },
+  {
+    "date": "2026-10-19",
+    "time": "07:48",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 18.33,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.37,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.1,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 89.85,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 214.13,
+        "currency": "USD"
+      },
+      {
+        "name": "CCC Intelligent Solutions Holdi",
+        "symbol": "CCC",
+        "price": 7.61,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 82727,
+    "ethereum_usd": 2431.65,
+    "gold_inr_10g": 128020.01
   }
 ]

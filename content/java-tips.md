@@ -2336,3 +2336,6 @@ Always getting 400 - Bad request when posting data in a REST/JAX-RS
 
 ## 2026-10-18 (18:06)
 I can&#x27;t display map tiles other than MAPNIK with osmdroid, I want a simplier map
+
+## 2026-10-19 (07:48)
+Difference between CompletableFuture, Future and RxJava&#x27;s Observable
