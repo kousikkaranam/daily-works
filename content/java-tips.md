@@ -2339,3 +2339,6 @@ I can&#x27;t display map tiles other than MAPNIK with osmdroid, I want a simplie
 
 ## 2026-10-19 (07:48)
 Difference between CompletableFuture, Future and RxJava&#x27;s Observable
+
+## 2026-10-19 (15:52)
+Java JPA Inner JOIN WHERE clause when the database columns and the object fields differ a lot
