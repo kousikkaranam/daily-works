@@ -3490,3 +3490,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-17 (17:51)
 > "It's fine if he holds bad judgements without trying to get to know me. The real point is letting just the ones who want to understand me know my real self."
 > — Kyoya Ootori (Ouran High School Host Club)
+
+## 2026-10-19 (07:48)
+> "When you said that we were scary, that means deep down, you had started to care about us! The thought of losing someone again… That’s the scary part, right?"
+> — Yoshioka Futaba (Blue Spring Ride)
