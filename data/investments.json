@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-10-12",
-    "time": "09:14",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 15.11,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.75,
-        "currency": "INR"
-      },
-      {
-        "name": "MONEYVIEW LIMITED",
-        "symbol": "MONEYVIEW.NS",
-        "price": 61.86,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "AT&T Inc.",
-        "symbol": "T",
-        "price": 22.18,
-        "currency": "USD"
-      },
-      {
-        "name": "Verizon Communications Inc.",
-        "symbol": "VZ",
-        "price": 41.65,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 162.57,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 83487,
-    "ethereum_usd": 2551.6,
-    "gold_inr_10g": 130260.51
-  },
-  {
-    "date": "2026-10-12",
     "time": "18:13",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 81948,
     "ethereum_usd": 2394.56,
     "gold_inr_10g": 126792.86
+  },
+  {
+    "date": "2026-10-19",
+    "time": "20:35",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 18.13,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.28,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 16.88,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "CoreWeave, Inc.",
+        "symbol": "CRWV",
+        "price": 61.12,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 92.03,
+        "currency": "USD"
+      },
+      {
+        "name": "Cleveland-Cliffs Inc.",
+        "symbol": "CLF",
+        "price": 14.1,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 81926,
+    "ethereum_usd": 2398.54,
+    "gold_inr_10g": 126704.10
   }
 ]
