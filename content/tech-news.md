@@ -2815,3 +2815,6 @@
 
 ## 2026-10-19 (07:48)
 - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
+
+## 2026-10-19 (15:52)
+- [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
