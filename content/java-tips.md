@@ -2342,3 +2342,6 @@ Difference between CompletableFuture, Future and RxJava&#x27;s Observable
 
 ## 2026-10-19 (15:52)
 Java JPA Inner JOIN WHERE clause when the database columns and the object fields differ a lot
+
+## 2026-10-19 (20:35)
+How to remove Markers from Osmdroid Map

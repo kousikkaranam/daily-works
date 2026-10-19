@@ -2818,3 +2818,6 @@
 
 ## 2026-10-19 (15:52)
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
+
+## 2026-10-19 (20:35)
+- [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
