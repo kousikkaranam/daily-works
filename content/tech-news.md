@@ -2821,3 +2821,6 @@
 
 ## 2026-10-19 (20:35)
 - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
+
+## 2026-10-20 (05:46)
+- [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
