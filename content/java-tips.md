@@ -2348,3 +2348,6 @@ How to remove Markers from Osmdroid Map
 
 ## 2026-10-20 (05:46)
 Handling MethodArgumentNotValidException in Junit testcase?
+
+## 2026-10-20 (19:17)
+How to export a excel file in Spring boot using Angular 2?
