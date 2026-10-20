@@ -3502,3 +3502,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-19 (20:35)
 > "Kindness is not a crime. But sometimes it awakens the weakness and greed in others."
 > — Su-won (Yona of the Dawn)
+
+## 2026-10-20 (07:36)
+> "[with a bow and arrow ready to fire] Not as pretty as his, huh? What would you know about it? You live in a time where they don't even have SHAMPOO."
+> — Kagome Higurashi (InuYasha)

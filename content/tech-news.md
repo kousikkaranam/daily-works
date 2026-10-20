@@ -2824,3 +2824,6 @@
 
 ## 2026-10-20 (05:46)
 - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
+
+## 2026-10-20 (07:36)
+- [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
