@@ -2345,3 +2345,6 @@ Java JPA Inner JOIN WHERE clause when the database columns and the object fields
 
 ## 2026-10-19 (20:35)
 How to remove Markers from Osmdroid Map
+
+## 2026-10-20 (05:46)
+Handling MethodArgumentNotValidException in Junit testcase?
