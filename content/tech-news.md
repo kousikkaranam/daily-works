@@ -2827,3 +2827,6 @@
 
 ## 2026-10-20 (07:36)
 - [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
+
+## 2026-10-20 (19:17)
+- [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
