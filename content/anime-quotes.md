@@ -3522,3 +3522,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-21 (14:08)
 > "These days, there are angry ghosts all around us. Dead from wars, sickness, starvation, and nobody cares. So - you say you're under a curse. So what, so's the whole damn world."
 > — Jigo (Princess Mononoke)
+
+## 2026-10-21 (19:17)
+> "It's very difficult for me to step on an ant without crushing it."
+> — Aizen Sousuke (Bleach)
