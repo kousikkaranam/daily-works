@@ -2833,3 +2833,6 @@
 
 ## 2026-10-21 (05:50)
 - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+
+## 2026-10-21 (07:40)
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
