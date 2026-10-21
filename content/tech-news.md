@@ -2830,3 +2830,6 @@
 
 ## 2026-10-20 (19:17)
 - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
+
+## 2026-10-21 (05:50)
+- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
