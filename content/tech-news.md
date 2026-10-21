@@ -2836,3 +2836,6 @@
 
 ## 2026-10-21 (07:40)
 - [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+
+## 2026-10-21 (14:08)
+- [OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
