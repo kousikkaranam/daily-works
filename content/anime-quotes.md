@@ -3514,3 +3514,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-21 (05:50)
 > "Someday, I promise you, they will all watch as I change the world."
 > — Monkey D. Dragon (One Piece)
+
+## 2026-10-21 (07:40)
+> "The hole in one's heart gets filled by others around you. Friends won't flock to someone who abandons the memory of his friends and gives up on the world just because things don't go the way he wants them to. That won't help fill the hole in your heart. And people won't help those who run away and do nothing. As long as you don't give up, there will always be salvation."
+> — Hatake Kakashi (Naruto)

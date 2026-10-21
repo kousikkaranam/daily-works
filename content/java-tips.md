@@ -2354,3 +2354,6 @@ How to export a excel file in Spring boot using Angular 2?
 
 ## 2026-10-21 (05:50)
 Buttons disappear while using &#x27;TAB&#x27; key in my SWT UI
+
+## 2026-10-21 (07:40)
+TestNG: Iterate through array using the Dataprovider
