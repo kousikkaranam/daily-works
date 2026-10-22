@@ -2842,3 +2842,6 @@
 
 ## 2026-10-21 (19:17)
 - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
+
+## 2026-10-22 (07:36)
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
