@@ -2845,3 +2845,6 @@
 
 ## 2026-10-22 (07:36)
 - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+
+## 2026-10-22 (14:06)
+- [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
