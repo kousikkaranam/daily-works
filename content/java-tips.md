@@ -2357,3 +2357,6 @@ Buttons disappear while using &#x27;TAB&#x27; key in my SWT UI
 
 ## 2026-10-21 (07:40)
 TestNG: Iterate through array using the Dataprovider
+
+## 2026-10-22 (14:06)
+Apache Flink: Java can&#x27;t access sink2.StatefulSink
