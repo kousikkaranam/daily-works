@@ -2369,3 +2369,6 @@ Four color theorem Java implementation of U.S. map
 
 ## 2026-10-23 (13:49)
 Firebase-based application does not work globally
+
+## 2026-10-23 (19:14)
+What is the difference between a final Class and a Record?
