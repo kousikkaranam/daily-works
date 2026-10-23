@@ -2854,3 +2854,6 @@
 
 ## 2026-10-23 (07:33)
 - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
+
+## 2026-10-23 (13:49)
+- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)

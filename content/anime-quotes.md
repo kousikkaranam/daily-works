@@ -3542,3 +3542,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-23 (07:33)
 > "Someone the exact opposite of Inuyasha.  That's the perfect guy for me."
 > — Kagome Higurashi (InuYasha)
+
+## 2026-10-23 (13:49)
+> "In the end the shape and form don't matter at all, it's only the soul that matters, right? Nothing else."
+> — Soul Eater (Soul Eater)
