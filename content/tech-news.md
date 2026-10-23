@@ -2857,3 +2857,6 @@
 
 ## 2026-10-23 (13:49)
 - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+
+## 2026-10-23 (19:14)
+- [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
