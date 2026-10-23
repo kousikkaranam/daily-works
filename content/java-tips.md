@@ -2360,3 +2360,6 @@ TestNG: Iterate through array using the Dataprovider
 
 ## 2026-10-22 (14:06)
 Apache Flink: Java can&#x27;t access sink2.StatefulSink
+
+## 2026-10-23 (05:51)
+How to import a jar file into flutter android plugin and use it in Android Studio v3.6.1?

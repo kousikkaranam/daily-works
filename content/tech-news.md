@@ -2848,3 +2848,6 @@
 
 ## 2026-10-22 (14:06)
 - [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
+
+## 2026-10-23 (05:51)
+- [Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)

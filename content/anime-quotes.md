@@ -3534,3 +3534,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-22 (14:06)
 > "Ed believes he saved that town, it's one of the first successes he's had. I'll let him keep thinking that for a while. He'll learn the truth soon enough: we always do."
 > — Roy Mustang (Fullmetal Alchemist)
+
+## 2026-10-23 (05:51)
+> "Surpass your limit. Right here, right now."
+> — Yami Sukehiro (Black Clover)
