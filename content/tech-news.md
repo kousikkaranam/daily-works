@@ -2851,3 +2851,6 @@
 
 ## 2026-10-23 (05:51)
 - [Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)
+
+## 2026-10-23 (07:33)
+- [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
