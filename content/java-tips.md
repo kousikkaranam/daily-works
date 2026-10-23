@@ -2366,3 +2366,6 @@ How to import a jar file into flutter android plugin and use it in Android Studi
 
 ## 2026-10-23 (07:33)
 Four color theorem Java implementation of U.S. map
+
+## 2026-10-23 (13:49)
+Firebase-based application does not work globally
