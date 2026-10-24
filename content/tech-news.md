@@ -2860,3 +2860,18 @@
 
 ## 2026-10-23 (19:14)
 - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
+
+## 2026-10-24 (05:35)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+
+## 2026-10-24 (05:35)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+
+## 2026-10-24 (05:35)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+
+## 2026-10-24 (05:35)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+
+## 2026-10-24 (05:35)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)

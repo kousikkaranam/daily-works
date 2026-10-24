@@ -2372,3 +2372,15 @@ Firebase-based application does not work globally
 
 ## 2026-10-23 (19:14)
 What is the difference between a final Class and a Record?
+
+## 2026-10-24 (05:35)
+How to append array to a json file which already have a array?
+
+## 2026-10-24 (05:35)
+Installing eclipse neon on windows 10
+
+## 2026-10-24 (05:35)
+SonarQube Java path traversal attack
+
+## 2026-10-24 (05:35)
+MyBatis with Spring: Could not find result map

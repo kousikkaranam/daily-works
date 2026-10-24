@@ -3550,3 +3550,23 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-23 (19:14)
 > "Tedium is such a crime. It takes the limited amount of time that is given to man, and rather than spending it in indolence or drowning it in pleasure it just sits there sucking, eating it up. I can't put up with that, tedium is a crime! Death to tedium! Die!"
 > — Graham Specter (Baccano!)
+
+## 2026-10-24 (05:35)
+> "People's feelings sometimes go astray and lead to irreversible consequences."
+> — Shinichi Kudou (Case Closed)
+
+## 2026-10-24 (05:35)
+> "If you hurt somebody... or if somebody hurts you, the same red blood will be shed"
+> — Monkey D. Luffy (One Piece)
+
+## 2026-10-24 (05:35)
+> "Time for action, Weezing!"
+> — Kojirou (Pokémon)
+
+## 2026-10-24 (05:35)
+> "All those who wander in the darkness seek the light, but when they reach the light, they turn away their eyes from the blinding glare."
+> — Kazkis Hauer (Ergo Proxy)
+
+## 2026-10-24 (05:35)
+> "I love clichés, I love predictable scripts, I love it when they paste over problems and I love it when they force a happy ending too. What's wrong with working towards that?"
+> — Ryuugamine Mikado (Durarara!!)
