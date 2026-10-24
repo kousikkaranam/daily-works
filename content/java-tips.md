@@ -2375,3 +2375,6 @@ What is the difference between a final Class and a Record?
 
 ## 2026-10-24 (05:35)
 How to append array to a json file which already have a array?
+
+## 2026-10-24 (05:35)
+Installing eclipse neon on windows 10
