@@ -2384,3 +2384,6 @@ SonarQube Java path traversal attack
 
 ## 2026-10-24 (05:35)
 MyBatis with Spring: Could not find result map
+
+## 2026-10-24 (09:14)
+OpenCSV not mapping JavaBeans with annotations
