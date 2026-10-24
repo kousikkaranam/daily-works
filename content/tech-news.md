@@ -2863,3 +2863,6 @@
 
 ## 2026-10-24 (05:35)
 - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+
+## 2026-10-24 (05:35)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
