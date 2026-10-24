@@ -2378,3 +2378,6 @@ How to append array to a json file which already have a array?
 
 ## 2026-10-24 (05:35)
 Installing eclipse neon on windows 10
+
+## 2026-10-24 (05:35)
+SonarQube Java path traversal attack
