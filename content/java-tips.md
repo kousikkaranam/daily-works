@@ -2387,3 +2387,6 @@ MyBatis with Spring: Could not find result map
 
 ## 2026-10-24 (09:14)
 OpenCSV not mapping JavaBeans with annotations
+
+## 2026-10-24 (18:09)
+Spring MVC error &quot;EL1044E: Unexpectedly ran out of input&quot;
