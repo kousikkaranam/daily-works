@@ -3550,3 +3550,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-23 (19:14)
 > "Tedium is such a crime. It takes the limited amount of time that is given to man, and rather than spending it in indolence or drowning it in pleasure it just sits there sucking, eating it up. I can't put up with that, tedium is a crime! Death to tedium! Die!"
 > — Graham Specter (Baccano!)
+
+## 2026-10-24 (05:35)
+> "People's feelings sometimes go astray and lead to irreversible consequences."
+> — Shinichi Kudou (Case Closed)
