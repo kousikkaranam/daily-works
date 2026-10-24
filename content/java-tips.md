@@ -2381,3 +2381,6 @@ Installing eclipse neon on windows 10
 
 ## 2026-10-24 (05:35)
 SonarQube Java path traversal attack
+
+## 2026-10-24 (05:35)
+MyBatis with Spring: Could not find result map

@@ -3566,3 +3566,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-24 (05:35)
 > "All those who wander in the darkness seek the light, but when they reach the light, they turn away their eyes from the blinding glare."
 > — Kazkis Hauer (Ergo Proxy)
+
+## 2026-10-24 (05:35)
+> "I love clichés, I love predictable scripts, I love it when they paste over problems and I love it when they force a happy ending too. What's wrong with working towards that?"
+> — Ryuugamine Mikado (Durarara!!)
