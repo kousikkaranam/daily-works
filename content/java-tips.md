@@ -2393,3 +2393,6 @@ Spring MVC error &quot;EL1044E: Unexpectedly ran out of input&quot;
 
 ## 2026-10-25 (05:50)
 How to return HTTP 403 after successful authentication, but unsuccessful authorization?
+
+## 2026-10-25 (07:36)
+BuildException: Failed to execute aapt in Android Studio 3.1 Canary 6

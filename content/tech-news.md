@@ -2884,3 +2884,6 @@
 
 ## 2026-10-25 (05:50)
 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+
+## 2026-10-25 (07:36)
+- [The Goose Programming Language](https://aardappel.github.io/goose/)
