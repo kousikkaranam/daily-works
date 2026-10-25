@@ -2881,3 +2881,6 @@
 
 ## 2026-10-24 (18:09)
 - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
+
+## 2026-10-25 (05:50)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
