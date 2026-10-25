@@ -2887,3 +2887,6 @@
 
 ## 2026-10-25 (07:36)
 - [The Goose Programming Language](https://aardappel.github.io/goose/)
+
+## 2026-10-25 (13:21)
+- [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
