@@ -2396,3 +2396,6 @@ How to return HTTP 403 after successful authentication, but unsuccessful authori
 
 ## 2026-10-25 (07:36)
 BuildException: Failed to execute aapt in Android Studio 3.1 Canary 6
+
+## 2026-10-25 (13:21)
+How to find whether a url is of ecommerce or non ecommerce website, programatically? [closed]
