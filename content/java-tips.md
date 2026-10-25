@@ -2390,3 +2390,6 @@ OpenCSV not mapping JavaBeans with annotations
 
 ## 2026-10-24 (18:09)
 Spring MVC error &quot;EL1044E: Unexpectedly ran out of input&quot;
+
+## 2026-10-25 (05:50)
+How to return HTTP 403 after successful authentication, but unsuccessful authorization?

@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-10-17",
-    "time": "05:25",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 16.28,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 17.5,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.59,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 89.85,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 214.13,
-        "currency": "USD"
-      },
-      {
-        "name": "CCC Intelligent Solutions Holdi",
-        "symbol": "CCC",
-        "price": 7.61,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81519,
-    "ethereum_usd": 2426.35,
-    "gold_inr_10g": 127395.94
-  },
-  {
-    "date": "2026-10-17",
     "time": "06:58",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 80192,
     "ethereum_usd": 2322.52,
     "gold_inr_10g": 122124.95
+  },
+  {
+    "date": "2026-10-25",
+    "time": "05:50",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 18.04,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 11.36,
+        "currency": "INR"
+      },
+      {
+        "name": "TATA TELESERV(MAHARASTRA)",
+        "symbol": "TTML.NS",
+        "price": 37.68,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 147.49,
+        "currency": "USD"
+      },
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": 20.93,
+        "currency": "USD"
+      },
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 15.16,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 80482,
+    "ethereum_usd": 2347.24,
+    "gold_inr_10g": 122079.95
   }
 ]
