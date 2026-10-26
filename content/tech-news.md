@@ -2893,3 +2893,6 @@
 
 ## 2026-10-26 (05:53)
 - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+
+## 2026-10-26 (07:49)
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
