@@ -2896,3 +2896,6 @@
 
 ## 2026-10-26 (07:49)
 - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+
+## 2026-10-26 (20:29)
+- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
