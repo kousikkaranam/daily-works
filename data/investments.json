@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-10-17",
-    "time": "12:25",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 16.28,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 17.5,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.59,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 89.85,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 214.13,
-        "currency": "USD"
-      },
-      {
-        "name": "CCC Intelligent Solutions Holdi",
-        "symbol": "CCC",
-        "price": 7.61,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81435,
-    "ethereum_usd": 2425.73,
-    "gold_inr_10g": 127395.94
-  },
-  {
-    "date": "2026-10-17",
     "time": "17:51",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 80044,
     "ethereum_usd": 2319.6,
     "gold_inr_10g": 122700.83
+  },
+  {
+    "date": "2026-10-26",
+    "time": "20:29",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 16.51,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 11.95,
+        "currency": "INR"
+      },
+      {
+        "name": "TATA TELESERV(MAHARASTRA)",
+        "symbol": "TTML.NS",
+        "price": 41.53,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Nu Holdings Ltd.",
+        "symbol": "NU",
+        "price": 12.59,
+        "currency": "USD"
+      },
+      {
+        "name": "Banco Bradesco Sa",
+        "symbol": "BBD",
+        "price": 2.93,
+        "currency": "USD"
+      },
+      {
+        "name": "Itau Unibanco Banco Holding SA",
+        "symbol": "ITUB",
+        "price": 7.7,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 79768,
+    "ethereum_usd": 2310.21,
+    "gold_inr_10g": 122817.09
   }
 ]
