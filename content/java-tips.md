@@ -2399,3 +2399,6 @@ BuildException: Failed to execute aapt in Android Studio 3.1 Canary 6
 
 ## 2026-10-25 (13:21)
 How to find whether a url is of ecommerce or non ecommerce website, programatically? [closed]
+
+## 2026-10-26 (05:53)
+Can I use EntityManager CRUD operations with only Jakarta Persistence API, without a JPA provider or database?
