@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-10-19",
-    "time": "07:48",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 18.33,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.37,
-        "currency": "INR"
-      },
-      {
-        "name": "YES BANK LIMITED",
-        "symbol": "YESBANK.NS",
-        "price": 17.1,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 89.85,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 214.13,
-        "currency": "USD"
-      },
-      {
-        "name": "CCC Intelligent Solutions Holdi",
-        "symbol": "CCC",
-        "price": 7.61,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 82727,
-    "ethereum_usd": 2431.65,
-    "gold_inr_10g": 128020.01
-  },
-  {
-    "date": "2026-10-19",
     "time": "15:52",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 79854,
     "ethereum_usd": 2316.62,
     "gold_inr_10g": 122638.21
+  },
+  {
+    "date": "2026-10-27",
+    "time": "14:55",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 16.65,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.11,
+        "currency": "INR"
+      },
+      {
+        "name": "OLA ELECTRIC MOBILITY LTD",
+        "symbol": "OLAELEC.NS",
+        "price": 34.8,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "SoFi Technologies, Inc.",
+        "symbol": "SOFI",
+        "price": 16.455,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 93.28,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 149.8,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 80190,
+    "ethereum_usd": 2328.41,
+    "gold_inr_10g": 124132.94
   }
 ]

@@ -2905,3 +2905,6 @@
 
 ## 2026-10-27 (07:53)
 - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+
+## 2026-10-27 (14:55)
+- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
