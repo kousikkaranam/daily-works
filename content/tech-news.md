@@ -2899,3 +2899,6 @@
 
 ## 2026-10-26 (20:29)
 - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+
+## 2026-10-27 (06:05)
+- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
