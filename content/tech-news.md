@@ -2908,3 +2908,6 @@
 
 ## 2026-10-27 (14:55)
 - [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+
+## 2026-10-27 (20:05)
+- [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)

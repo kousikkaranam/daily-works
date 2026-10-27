@@ -2411,3 +2411,6 @@ Using VSCode and getting NoClassDefFoundError
 
 ## 2026-10-27 (14:55)
 How do I take two points and find a new point that&#x27;d be R amount closer to the second point?
+
+## 2026-10-27 (20:05)
+Exception while connecting to DB2 in java using JDBC
