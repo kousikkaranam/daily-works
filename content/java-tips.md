@@ -2402,3 +2402,6 @@ How to find whether a url is of ecommerce or non ecommerce website, programatica
 
 ## 2026-10-26 (05:53)
 Can I use EntityManager CRUD operations with only Jakarta Persistence API, without a JPA provider or database?
+
+## 2026-10-27 (06:05)
+Incremental signature on an AES-encrypted PDF leaves encrypted bytes in the /Contents padding instead of zeros
