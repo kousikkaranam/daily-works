@@ -2405,3 +2405,6 @@ Can I use EntityManager CRUD operations with only Jakarta Persistence API, witho
 
 ## 2026-10-27 (06:05)
 Incremental signature on an AES-encrypted PDF leaves encrypted bytes in the /Contents padding instead of zeros
+
+## 2026-10-27 (07:53)
+Using VSCode and getting NoClassDefFoundError

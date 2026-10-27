@@ -2902,3 +2902,6 @@
 
 ## 2026-10-27 (06:05)
 - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+
+## 2026-10-27 (07:53)
+- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
