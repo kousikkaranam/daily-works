@@ -2911,3 +2911,6 @@
 
 ## 2026-10-27 (20:05)
 - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
+
+## 2026-10-28 (06:43)
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
