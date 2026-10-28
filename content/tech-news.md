@@ -2914,3 +2914,6 @@
 
 ## 2026-10-28 (06:43)
 - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+
+## 2026-10-28 (08:35)
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
