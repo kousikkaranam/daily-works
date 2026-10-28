@@ -2417,3 +2417,6 @@ Exception while connecting to DB2 in java using JDBC
 
 ## 2026-10-28 (06:43)
 How to convert Stream of Characters into a String in Java 8
+
+## 2026-10-28 (08:35)
+Remove all child nodes of a node
