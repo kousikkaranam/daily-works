@@ -3618,3 +3618,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-27 (20:05)
 > "Yeah, so I don’t appear to be the brightest crayon in the box but I still look down on the rest of the world."
 > — Kei Kurono (Gantz)
+
+## 2026-10-28 (06:43)
+> "I was not capable of stopping it even while using both hands. That surprised me a little. Was that your full power? Well, it seems to be... disappointing."
+> — Ulquiorra Schiffer (Bleach)

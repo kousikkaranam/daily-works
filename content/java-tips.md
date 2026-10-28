@@ -2414,3 +2414,6 @@ How do I take two points and find a new point that&#x27;d be R amount closer to 
 
 ## 2026-10-27 (20:05)
 Exception while connecting to DB2 in java using JDBC
+
+## 2026-10-28 (06:43)
+How to convert Stream of Characters into a String in Java 8
