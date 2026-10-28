@@ -2917,3 +2917,6 @@
 
 ## 2026-10-28 (08:35)
 - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+
+## 2026-10-28 (20:16)
+- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)

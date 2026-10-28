@@ -2420,3 +2420,6 @@ How to convert Stream of Characters into a String in Java 8
 
 ## 2026-10-28 (08:35)
 Remove all child nodes of a node
+
+## 2026-10-28 (20:16)
+Block model doesn&#x27;t show it texture, and item icon doesn&#x27;t show up too
