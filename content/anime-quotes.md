@@ -3634,3 +3634,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-29 (15:33)
 > "Any time one isn't familiar with something, it all looks the same. Knowledge and education are required to properly judge a thing."
 > — Suruga Kanbaru (Nisemonogatari)
+
+## 2026-10-29 (20:18)
+> "[talking about food] The last bite. It is the final one, and the most suitable one to enjoy the most. No matter what it costs, I will not give it up."
+> — Chouji Akimichi (Naruto)
