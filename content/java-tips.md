@@ -2426,3 +2426,6 @@ Block model doesn&#x27;t show it texture, and item icon doesn&#x27;t show up too
 
 ## 2026-10-29 (15:33)
 Spring Boot Entities [closed]
+
+## 2026-10-29 (20:18)
+Specify the port ChromeDriver runs

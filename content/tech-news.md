@@ -2923,3 +2923,6 @@
 
 ## 2026-10-29 (15:33)
 - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
+
+## 2026-10-29 (20:18)
+- [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
