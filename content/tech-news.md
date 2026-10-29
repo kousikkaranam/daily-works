@@ -2920,3 +2920,6 @@
 
 ## 2026-10-28 (20:16)
 - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
+
+## 2026-10-29 (15:33)
+- [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
