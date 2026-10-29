@@ -3630,3 +3630,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-28 (20:16)
 > "You can look high or low but you wont find a bigger guy than me!"
 > — Black Star (Soul Eater)
+
+## 2026-10-29 (15:33)
+> "Any time one isn't familiar with something, it all looks the same. Knowledge and education are required to properly judge a thing."
+> — Suruga Kanbaru (Nisemonogatari)
