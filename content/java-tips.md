@@ -2432,3 +2432,6 @@ Specify the port ChromeDriver runs
 
 ## 2026-10-30 (15:20)
 Why does casting to Object[] prevent a ClassCastException?
+
+## 2026-10-30 (19:55)
+JPanel with hide button in its border to fold or unfold it

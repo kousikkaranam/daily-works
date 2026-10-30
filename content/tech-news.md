@@ -2929,3 +2929,6 @@
 
 ## 2026-10-30 (15:20)
 - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
+
+## 2026-10-30 (19:55)
+- [The federated code forge](https://tangled.org/blog/forge/)
