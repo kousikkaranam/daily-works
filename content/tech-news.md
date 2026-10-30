@@ -2926,3 +2926,6 @@
 
 ## 2026-10-29 (20:18)
 - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
+
+## 2026-10-30 (15:20)
+- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
