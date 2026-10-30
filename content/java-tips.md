@@ -2429,3 +2429,6 @@ Spring Boot Entities [closed]
 
 ## 2026-10-29 (20:18)
 Specify the port ChromeDriver runs
+
+## 2026-10-30 (15:20)
+Why does casting to Object[] prevent a ClassCastException?
