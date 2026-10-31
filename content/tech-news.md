@@ -2947,3 +2947,6 @@
 
 ## 2026-10-31 (08:27)
 - [Show HN: Samosa – Linter for Math Derivations](https://samosa-math.vercel.app)
+
+## 2026-10-31 (10:40)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)

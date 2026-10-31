@@ -3658,3 +3658,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-31 (08:27)
 > "It's our job as normal people to ensure the potential of those misunderstood ones are realized."
 > — Sora (No Game, No Life)
+
+## 2026-10-31 (10:40)
+> "Up until now, have you not faced the same enemies as I? That means you are my friend! So hold your chest high, and consider yourself my equal."
+> — Rider (Fate/Zero)
