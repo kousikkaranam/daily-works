@@ -2935,3 +2935,6 @@
 
 ## 2026-10-31 (06:49)
 - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
+
+## 2026-10-31 (06:49)
+- [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)

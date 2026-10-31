@@ -3646,3 +3646,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-31 (06:49)
 > "Once you miss the opportunity to say something, the words become increasingly toxic. The best thing to do is to just say everything."
 > — Hayashida Nana (Golden Time)
+
+## 2026-10-31 (06:49)
+> "[to the Sound Ninja Four] Which do you prefer? To die, or to obey?"
+> — Kimimaro (Naruto)
