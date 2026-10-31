@@ -2938,3 +2938,6 @@
 
 ## 2026-10-31 (06:49)
 - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
+
+## 2026-10-31 (06:49)
+- [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)

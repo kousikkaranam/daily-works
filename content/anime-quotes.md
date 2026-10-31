@@ -3650,3 +3650,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-31 (06:49)
 > "[to the Sound Ninja Four] Which do you prefer? To die, or to obey?"
 > — Kimimaro (Naruto)
+
+## 2026-10-31 (06:49)
+> "It's been so long that I forgot the pain of not having a name. Everyone had a name that friends use to call them, but I didn't. That pain."
+> — Zaraki Kenpachi (Bleach)

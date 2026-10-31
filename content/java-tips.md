@@ -2438,3 +2438,6 @@ JPanel with hide button in its border to fold or unfold it
 
 ## 2026-10-31 (06:49)
 Error : SqlExceptionHelper : HOUR_OF_DAY: 2 -&gt; 3
+
+## 2026-10-31 (06:49)
+Passing a thread local variable to JUnit test
