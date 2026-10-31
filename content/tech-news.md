@@ -2932,3 +2932,6 @@
 
 ## 2026-10-30 (19:55)
 - [The federated code forge](https://tangled.org/blog/forge/)
+
+## 2026-10-31 (06:49)
+- [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
