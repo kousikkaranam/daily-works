@@ -2950,3 +2950,6 @@
 
 ## 2026-10-31 (10:40)
 - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+
+## 2026-10-31 (19:17)
+- [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
