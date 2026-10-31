@@ -2944,3 +2944,6 @@
 
 ## 2026-10-31 (06:49)
 - [Tell HN: Scribd Breached]()
+
+## 2026-10-31 (08:27)
+- [Show HN: Samosa – Linter for Math Derivations](https://samosa-math.vercel.app)

@@ -2444,3 +2444,6 @@ Passing a thread local variable to JUnit test
 
 ## 2026-10-31 (06:49)
 increase swagger requestTimeout
+
+## 2026-10-31 (08:27)
+What messaging and mechanics allows a ServerSocket to move a connection to a dedicated port
