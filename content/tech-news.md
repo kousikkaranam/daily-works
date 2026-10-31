@@ -2941,3 +2941,6 @@
 
 ## 2026-10-31 (06:49)
 - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
+
+## 2026-10-31 (06:49)
+- [Tell HN: Scribd Breached]()

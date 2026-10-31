@@ -2441,3 +2441,6 @@ Error : SqlExceptionHelper : HOUR_OF_DAY: 2 -&gt; 3
 
 ## 2026-10-31 (06:49)
 Passing a thread local variable to JUnit test
+
+## 2026-10-31 (06:49)
+increase swagger requestTimeout
