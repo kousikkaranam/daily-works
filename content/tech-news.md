@@ -2953,3 +2953,6 @@
 
 ## 2026-10-31 (19:17)
 - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
+
+## 2026-11-01 (07:15)
+- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://arxiv.org/abs/2409.02292)
