@@ -2453,3 +2453,6 @@ Encountering a compilation error in the generated hash() related to additionalPr
 
 ## 2026-11-01 (15:28)
 Create a Matrix generic class with internal matrix representation using primitive types in Java
+
+## 2026-11-01 (19:41)
+How can I slice a matrix or extract a sub-matrix from an existing one?

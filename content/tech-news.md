@@ -2962,3 +2962,6 @@
 
 ## 2026-11-01 (15:28)
 - [One-minute frequency disturbances from synchronization in power systems](https://www.nature.com/articles/s41560-026-02144-0)
+
+## 2026-11-01 (19:41)
+- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
