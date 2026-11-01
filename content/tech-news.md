@@ -2956,3 +2956,6 @@
 
 ## 2026-11-01 (07:15)
 - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://arxiv.org/abs/2409.02292)
+
+## 2026-11-01 (09:17)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
