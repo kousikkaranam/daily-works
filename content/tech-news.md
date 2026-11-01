@@ -2959,3 +2959,6 @@
 
 ## 2026-11-01 (09:17)
 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+
+## 2026-11-01 (15:28)
+- [One-minute frequency disturbances from synchronization in power systems](https://www.nature.com/articles/s41560-026-02144-0)
