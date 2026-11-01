@@ -3662,3 +3662,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-10-31 (10:40)
 > "Up until now, have you not faced the same enemies as I? That means you are my friend! So hold your chest high, and consider yourself my equal."
 > — Rider (Fate/Zero)
+
+## 2026-11-01 (07:15)
+> "Lives are never of equal value. There is always a ranking order."
+> — Mako Fujisaki (Brynhildr in the Darkness)

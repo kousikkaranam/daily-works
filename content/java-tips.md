@@ -2447,3 +2447,6 @@ increase swagger requestTimeout
 
 ## 2026-10-31 (08:27)
 What messaging and mechanics allows a ServerSocket to move a connection to a dedicated port
+
+## 2026-11-01 (07:15)
+Encountering a compilation error in the generated hash() related to additionalProperties when using the OpenApi Generator Plugin with SpringBoot [closed]
