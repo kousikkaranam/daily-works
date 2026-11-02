@@ -2968,3 +2968,6 @@
 
 ## 2026-11-02 (07:30)
 - [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+
+## 2026-11-02 (18:50)
+- [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
