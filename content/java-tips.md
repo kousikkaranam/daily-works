@@ -2459,3 +2459,6 @@ How can I slice a matrix or extract a sub-matrix from an existing one?
 
 ## 2026-11-02 (18:50)
 Why is my compiler giving me these two errors in Java?
+
+## 2026-11-02 (23:06)
+How to get table data from a selenium webelement and check column value
