@@ -2971,3 +2971,6 @@
 
 ## 2026-11-02 (18:50)
 - [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
+
+## 2026-11-02 (23:06)
+- [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
