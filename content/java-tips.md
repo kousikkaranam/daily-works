@@ -2456,3 +2456,6 @@ Create a Matrix generic class with internal matrix representation using primitiv
 
 ## 2026-11-01 (19:41)
 How can I slice a matrix or extract a sub-matrix from an existing one?
+
+## 2026-11-02 (18:50)
+Why is my compiler giving me these two errors in Java?
