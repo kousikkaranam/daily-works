@@ -2974,3 +2974,6 @@
 
 ## 2026-11-02 (23:06)
 - [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+
+## 2026-11-03 (09:34)
+- [Show HN: Subvocal – Talk to your computer without making noise]()

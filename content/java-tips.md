@@ -2462,3 +2462,6 @@ Why is my compiler giving me these two errors in Java?
 
 ## 2026-11-02 (23:06)
 How to get table data from a selenium webelement and check column value
+
+## 2026-11-03 (09:34)
+FileUtils.readFileToString() from Apache Commons IO works incorrectly with Cyrillic

@@ -3686,3 +3686,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-02 (23:06)
 > "The version of me that lives within you must be amazing. She can understand everything, even if you don't explain it to her."
 > — Emilia (Re:ZERO -Starting Life in Another World-)
+
+## 2026-11-03 (09:34)
+> "Talent is a key factor, of course, but without some luck on your side you're likely to fail."
+> — Reiko Mikami (Another)
