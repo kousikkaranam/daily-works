@@ -2468,3 +2468,6 @@ FileUtils.readFileToString() from Apache Commons IO works incorrectly with Cyril
 
 ## 2026-11-03 (16:35)
 Java Timer Swing Exactly 60 fps
+
+## 2026-11-03 (20:59)
+How to extract ALT-Texts and Images from a PDF

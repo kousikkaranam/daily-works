@@ -1,53 +1,6 @@
 [
   {
     "date": "2026-10-26",
-    "time": "05:53",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 17.8,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 11.78,
-        "currency": "INR"
-      },
-      {
-        "name": "JAIPRAKASH POWER VEN. LTD",
-        "symbol": "JPPOWER.NS",
-        "price": 13.16,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 147.49,
-        "currency": "USD"
-      },
-      {
-        "name": "AT&T Inc.",
-        "symbol": "T",
-        "price": 20.93,
-        "currency": "USD"
-      },
-      {
-        "name": "Nu Holdings Ltd.",
-        "symbol": "NU",
-        "price": 15.16,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 80159,
-    "ethereum_usd": 2323.82,
-    "gold_inr_10g": 122801.80
-  },
-  {
-    "date": "2026-10-26",
     "time": "07:49",
     "top_indian": [
       {
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 77455,
     "ethereum_usd": 2289.62,
     "gold_inr_10g": 120005.45
+  },
+  {
+    "date": "2026-11-03",
+    "time": "20:59",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 14.69,
+        "currency": "INR"
+      },
+      {
+        "name": "TRIDENT LIMITED",
+        "symbol": "TRIDENT.NS",
+        "price": 23.79,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.26,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Grab Holdings Limited",
+        "symbol": "GRAB",
+        "price": 3.115,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 60.58,
+        "currency": "USD"
+      },
+      {
+        "name": "Banco Bradesco Sa",
+        "symbol": "BBD",
+        "price": 2.48,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 77810,
+    "ethereum_usd": 2289.97,
+    "gold_inr_10g": 119712.45
   }
 ]

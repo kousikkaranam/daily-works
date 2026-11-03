@@ -2980,3 +2980,6 @@
 
 ## 2026-11-03 (16:35)
 - [Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale)
+
+## 2026-11-03 (20:59)
+- [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
