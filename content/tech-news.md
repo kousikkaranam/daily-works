@@ -2977,3 +2977,6 @@
 
 ## 2026-11-03 (09:34)
 - [Show HN: Subvocal – Talk to your computer without making noise]()
+
+## 2026-11-03 (16:35)
+- [Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale)
