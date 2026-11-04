@@ -2983,3 +2983,6 @@
 
 ## 2026-11-03 (20:59)
 - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
+
+## 2026-11-04 (07:22)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)

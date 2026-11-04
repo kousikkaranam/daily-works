@@ -2471,3 +2471,6 @@ Java Timer Swing Exactly 60 fps
 
 ## 2026-11-03 (20:59)
 How to extract ALT-Texts and Images from a PDF
+
+## 2026-11-04 (07:22)
+SQLRecoverableException: No more data to read from socket only occurs when invoking an oracle package
