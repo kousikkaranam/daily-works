@@ -3698,3 +3698,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-03 (20:59)
 > "Normally, as people love and are loved, they feel happiness. When I am hated by people, that is when I feel happiness. And then I want to tear apart and inflict unimaginable harm to the things I love. But is that really all that strange, I wonder?"
 > — Pariston Hill (Hunter x Hunter)
+
+## 2026-11-04 (07:22)
+> "Oh right, most talented artists become famous after they're dead, I'll make you great by taking you to the cemetery called prison!"
+> — Detective Conan (Case Closed)
