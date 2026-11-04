@@ -2474,3 +2474,6 @@ How to extract ALT-Texts and Images from a PDF
 
 ## 2026-11-04 (07:22)
 SQLRecoverableException: No more data to read from socket only occurs when invoking an oracle package
+
+## 2026-11-04 (21:20)
+An inspection cursor remains readable after its JDBC Statement is closed

@@ -2986,3 +2986,6 @@
 
 ## 2026-11-04 (07:22)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+
+## 2026-11-04 (21:20)
+- [Launch HN: Kino AI (YC S23) – AI media manager and video editor]()
