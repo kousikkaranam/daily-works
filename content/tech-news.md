@@ -2998,3 +2998,6 @@
 
 ## 2026-11-05 (16:51)
 - [MCP Explained](https://mcp-explained.com/)
+
+## 2026-11-05 (21:28)
+- [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)
