@@ -2477,3 +2477,6 @@ SQLRecoverableException: No more data to read from socket only occurs when invok
 
 ## 2026-11-04 (21:20)
 An inspection cursor remains readable after its JDBC Statement is closed
+
+## 2026-11-05 (07:48)
+Speed improvement of highlighting matching term in filterable JComboBox
