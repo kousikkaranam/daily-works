@@ -2989,3 +2989,6 @@
 
 ## 2026-11-04 (21:20)
 - [Launch HN: Kino AI (YC S23) – AI media manager and video editor]()
+
+## 2026-11-05 (07:48)
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
