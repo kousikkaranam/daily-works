@@ -3710,3 +3710,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-05 (07:48)
 > "If I was the protagonist in this story, I'm sure someone would come save me. It would be like a miracle. But I have no one to save me. There is no god who would grant me a miracle. I'm a murderer, after all. But I've done nothing bad. All I did was feed myself. If I hadn't, I would have starved to death. Would it have been better that way? Am I evil because I didn't let myself starve to death? Give me an answer, Muroi-san! I didn't willingly become such a creature. But if I have a life, shouldn't I treasure it? Is that a sin? Muroi-san! This is what it means to be abandoned by God."
 > — Sunako Kirishiki (Shiki)
+
+## 2026-11-05 (09:30)
+> "If you pick a fight with a god of death, I can't guarantee your soul's safety."
+> — Death the Kid (Soul Eater)
