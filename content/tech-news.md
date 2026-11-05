@@ -2995,3 +2995,6 @@
 
 ## 2026-11-05 (09:30)
 - [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
+
+## 2026-11-05 (16:51)
+- [MCP Explained](https://mcp-explained.com/)
