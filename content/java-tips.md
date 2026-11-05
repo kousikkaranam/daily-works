@@ -2483,3 +2483,6 @@ Speed improvement of highlighting matching term in filterable JComboBox
 
 ## 2026-11-05 (09:30)
 Want to make left and right trim on Java String
+
+## 2026-11-05 (16:51)
+Why does Java suggest List&lt;? extends Class&lt;?&gt;&gt; instead of List&lt;Class&lt;?&gt;&gt;?
