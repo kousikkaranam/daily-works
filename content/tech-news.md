@@ -2992,3 +2992,6 @@
 
 ## 2026-11-05 (07:48)
 - [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+
+## 2026-11-05 (09:30)
+- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
