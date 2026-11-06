@@ -3004,3 +3004,6 @@
 
 ## 2026-11-06 (07:48)
 - [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+
+## 2026-11-06 (09:26)
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
