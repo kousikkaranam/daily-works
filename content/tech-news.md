@@ -3010,3 +3010,6 @@
 
 ## 2026-11-06 (16:18)
 - [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+
+## 2026-11-06 (20:54)
+- [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
