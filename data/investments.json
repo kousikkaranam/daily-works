@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "time": "20:15",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 15.8,
-        "currency": "INR"
-      },
-      {
-        "name": "OLA ELECTRIC MOBILITY LTD",
-        "symbol": "OLAELEC.NS",
-        "price": 36.66,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 11.86,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Stellantis N.V.",
-        "symbol": "STLA",
-        "price": 4.68,
-        "currency": "USD"
-      },
-      {
-        "name": "Banco Bradesco Sa",
-        "symbol": "BBD",
-        "price": 2.73,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 145.23,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 81271,
-    "ethereum_usd": 2367.51,
-    "gold_inr_10g": 124571.61
-  },
-  {
     "date": "2026-10-29",
     "time": "15:33",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 76160,
     "ethereum_usd": 2242.6,
     "gold_inr_10g": 123969.39
+  },
+  {
+    "date": "2026-11-06",
+    "time": "16:18",
+    "top_indian": [
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.2,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 15.77,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.76,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 187.69,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 55.32,
+        "currency": "USD"
+      },
+      {
+        "name": "Kenvue Inc.",
+        "symbol": "KVUE",
+        "price": 19.31,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 75444,
+    "ethereum_usd": 2220.17,
+    "gold_inr_10g": 123641.13
   }
 ]
