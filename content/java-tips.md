@@ -2492,3 +2492,6 @@ Trying to figure out enums in Java
 
 ## 2026-11-06 (07:48)
 How to convert images in apple&#x2019;s new HEIC format to jpg in java?
+
+## 2026-11-06 (16:18)
+Play the video using Selenium WebDriver with Java

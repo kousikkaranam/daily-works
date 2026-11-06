@@ -3007,3 +3007,6 @@
 
 ## 2026-11-06 (09:26)
 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+
+## 2026-11-06 (16:18)
+- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
