@@ -2495,3 +2495,6 @@ How to convert images in apple&#x2019;s new HEIC format to jpg in java?
 
 ## 2026-11-06 (16:18)
 Play the video using Selenium WebDriver with Java
+
+## 2026-11-06 (20:54)
+How to have custom context Path for Swagger Url in OpenApi3 Springboot Application
