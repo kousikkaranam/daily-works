@@ -3722,3 +3722,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-05 (21:28)
 > "As you live you lose reasons and hope. But as you keep on going, you pick up new reasons and hope."
 > — Asta (Black Clover)
+
+## 2026-11-06 (07:48)
+> "To ask is a moment's shame. Not to, lifelong."
+> — Yotsugi Ononoki (Monogatari Series: Second Season)
