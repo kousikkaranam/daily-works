@@ -3001,3 +3001,6 @@
 
 ## 2026-11-05 (21:28)
 - [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)
+
+## 2026-11-06 (07:48)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
