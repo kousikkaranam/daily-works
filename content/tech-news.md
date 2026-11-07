@@ -3028,3 +3028,6 @@
 
 ## 2026-11-07 (06:56)
 - [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+
+## 2026-11-07 (08:48)
+- [PostgreSQL Internals [pdf]](https://edu.postgrespro.com/postgresql_internals-14_en.pdf)
