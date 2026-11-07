@@ -3754,3 +3754,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-07 (11:25)
 > "A world where everyone is equal and receives the same treatment. No such place exists. If there was a world of equality, where talent and aptitude didn't matter, we would all be equally snubbed there."
 > — Tatsuya Shiba (The Irregular at Magic High School)
+
+## 2026-11-07 (15:10)
+> "Girls are happier when they're the only one you're nice to."
+> — Rory Mercury (GATE)
