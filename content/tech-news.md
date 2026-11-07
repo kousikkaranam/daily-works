@@ -3016,3 +3016,6 @@
 
 ## 2026-11-07 (06:56)
 - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+
+## 2026-11-07 (06:56)
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
