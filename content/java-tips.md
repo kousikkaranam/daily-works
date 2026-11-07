@@ -2501,3 +2501,6 @@ How to have custom context Path for Swagger Url in OpenApi3 Springboot Applicati
 
 ## 2026-11-07 (06:56)
 cannot find symbol: constructor Service(java.net.URL,javax.xml.namespace.QName,javax.xml.ws.WebServiceFeature[]) location: class javax.xml.ws.Service
+
+## 2026-11-07 (08:48)
+List.of()#iterator() exposes ListIterator interface but give UnsupportedOperationException when calling ListIterator methods
