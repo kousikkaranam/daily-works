@@ -3738,3 +3738,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-06 (20:54)
 > "Whether we die or not, isn't really that big a deal."
 > — Juuzou Suzuya (Tokyo Ghoul √A)
+
+## 2026-11-07 (06:56)
+> "Kira... fails to see he's being manipulated by the Naturals! Brilliant as he is, he is also naive and good-natured. They're exploiting him, but he's blind to it. That's why I have to go back! I have to reason with him! Kira is still a fellow Coordinator! I'm positive that he'll come around to our way of thinking."
+> — Athrun Zala (Mobile Suit Gundam SEED)

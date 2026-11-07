@@ -3013,3 +3013,6 @@
 
 ## 2026-11-06 (20:54)
 - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+
+## 2026-11-07 (06:56)
+- [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
