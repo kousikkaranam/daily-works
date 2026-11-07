@@ -3034,3 +3034,6 @@
 
 ## 2026-11-07 (11:25)
 - [Enterprise Brain – Memory that learns from work](https://www.ampup.ai/companybrain)
+
+## 2026-11-07 (15:10)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
