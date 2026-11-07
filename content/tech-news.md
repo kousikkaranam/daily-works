@@ -3022,3 +3022,6 @@
 
 ## 2026-11-07 (06:56)
 - [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)
+
+## 2026-11-07 (06:56)
+- [The Flash C Compiler](https://blog.adafruit.com/2026/10/31/flash-c-compiler/)
