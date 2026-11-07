@@ -2504,3 +2504,6 @@ cannot find symbol: constructor Service(java.net.URL,javax.xml.namespace.QName,j
 
 ## 2026-11-07 (08:48)
 List.of()#iterator() exposes ListIterator interface but give UnsupportedOperationException when calling ListIterator methods
+
+## 2026-11-07 (11:25)
+Clearing Output Window in NetBeans

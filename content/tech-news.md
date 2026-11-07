@@ -3031,3 +3031,6 @@
 
 ## 2026-11-07 (08:48)
 - [PostgreSQL Internals [pdf]](https://edu.postgrespro.com/postgresql_internals-14_en.pdf)
+
+## 2026-11-07 (11:25)
+- [Enterprise Brain – Memory that learns from work](https://www.ampup.ai/companybrain)
