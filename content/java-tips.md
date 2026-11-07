@@ -2507,3 +2507,6 @@ List.of()#iterator() exposes ListIterator interface but give UnsupportedOperatio
 
 ## 2026-11-07 (11:25)
 Clearing Output Window in NetBeans
+
+## 2026-11-07 (19:26)
+@ConditionalOnProperty annotation not working in spring boot project
