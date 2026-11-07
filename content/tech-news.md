@@ -3019,3 +3019,6 @@
 
 ## 2026-11-07 (06:56)
 - [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+
+## 2026-11-07 (06:56)
+- [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)

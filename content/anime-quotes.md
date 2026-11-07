@@ -3746,3 +3746,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-07 (06:56)
 > ""No longer the Aizen you know," hm...? I'm afraid you've been deluded, Abarai-kun...The 'Aizen Sousuke' you knew never existed to begin with."
 > — Aizen Sousuke (Bleach)
+
+## 2026-11-07 (06:56)
+> "It doesn't matter how good your armor is... if you can barely move!"
+> — Miguel Aiman (Mobile Suit Gundam SEED)
