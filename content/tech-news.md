@@ -3037,3 +3037,6 @@
 
 ## 2026-11-07 (15:10)
 - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+
+## 2026-11-07 (19:26)
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
