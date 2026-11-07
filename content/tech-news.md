@@ -3025,3 +3025,6 @@
 
 ## 2026-11-07 (06:56)
 - [The Flash C Compiler](https://blog.adafruit.com/2026/10/31/flash-c-compiler/)
+
+## 2026-11-07 (06:56)
+- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
