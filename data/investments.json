@@ -1,193 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "time": "20:18",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 15.97,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.12,
-        "currency": "INR"
-      },
-      {
-        "name": "MONEYVIEW LIMITED",
-        "symbol": "MONEYVIEW.NS",
-        "price": 52.64,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "ADT Inc.",
-        "symbol": "ADT",
-        "price": 9.87,
-        "currency": "USD"
-      },
-      {
-        "name": "Alphabet Inc.",
-        "symbol": "GOOGL",
-        "price": 283.82,
-        "currency": "USD"
-      },
-      {
-        "name": "Nokia Corporation Sponsored",
-        "symbol": "NOK",
-        "price": 9.31,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 80307,
-    "ethereum_usd": 2313.7,
-    "gold_inr_10g": 123374.71
-  },
-  {
-    "date": "2026-10-30",
-    "time": "15:20",
-    "top_indian": [
-      {
-        "name": "SAGILITY LIMITED",
-        "symbol": "SAGILITY.NS",
-        "price": 42.08,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 15.48,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 33.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 66.125,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 138.43,
-        "currency": "USD"
-      },
-      {
-        "name": "Amazon.com, Inc.",
-        "symbol": "AMZN",
-        "price": 240.985,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77733,
-    "ethereum_usd": 2254.58,
-    "gold_inr_10g": 119775.76
-  },
-  {
-    "date": "2026-10-30",
-    "time": "19:55",
-    "top_indian": [
-      {
-        "name": "SAGILITY LIMITED",
-        "symbol": "SAGILITY.NS",
-        "price": 42.08,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 15.48,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 33.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 64.9,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 202.78,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 135.81,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 76693,
-    "ethereum_usd": 2239.86,
-    "gold_inr_10g": 118985.32
-  },
-  {
-    "date": "2026-10-31",
-    "time": "06:49",
-    "top_indian": [
-      {
-        "name": "SAGILITY LIMITED",
-        "symbol": "SAGILITY.NS",
-        "price": 42.08,
-        "currency": "INR"
-      },
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 15.48,
-        "currency": "INR"
-      },
-      {
-        "name": "SUZLON ENERGY LIMITED",
-        "symbol": "SUZLON.NS",
-        "price": 33.9,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 65.76,
-        "currency": "USD"
-      },
-      {
-        "name": "NVIDIA Corporation",
-        "symbol": "NVDA",
-        "price": 204.64,
-        "currency": "USD"
-      },
-      {
-        "name": "Space Exploration Technologies ",
-        "symbol": "SPCX",
-        "price": 134.72,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77264,
-    "ethereum_usd": 2244.13,
-    "gold_inr_10g": 118489.30
-  },
-  {
     "date": "2026-10-31",
     "time": "06:49",
     "top_indian": [
@@ -1408,5 +1220,193 @@
     "bitcoin_usd": 75824,
     "ethereum_usd": 2230.84,
     "gold_inr_10g": 123601.62
+  },
+  {
+    "date": "2026-11-07",
+    "time": "06:56",
+    "top_indian": [
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.2,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 15.77,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.76,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 56.28,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 186.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 134.27,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 75969,
+    "ethereum_usd": 2244.79,
+    "gold_inr_10g": 123247.91
+  },
+  {
+    "date": "2026-11-07",
+    "time": "06:56",
+    "top_indian": [
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.2,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 15.77,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.76,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 56.28,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 186.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 134.27,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 75969,
+    "ethereum_usd": 2244.79,
+    "gold_inr_10g": 123247.91
+  },
+  {
+    "date": "2026-11-07",
+    "time": "06:56",
+    "top_indian": [
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.2,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 15.77,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.76,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 56.28,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 186.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 134.27,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 75969,
+    "ethereum_usd": 2244.79,
+    "gold_inr_10g": 123247.91
+  },
+  {
+    "date": "2026-11-07",
+    "time": "06:56",
+    "top_indian": [
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.2,
+        "currency": "INR"
+      },
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 15.77,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.76,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 56.28,
+        "currency": "USD"
+      },
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 186.64,
+        "currency": "USD"
+      },
+      {
+        "name": "Space Exploration Technologies ",
+        "symbol": "SPCX",
+        "price": 134.27,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 75969,
+    "ethereum_usd": 2244.79,
+    "gold_inr_10g": 123247.91
   }
 ]

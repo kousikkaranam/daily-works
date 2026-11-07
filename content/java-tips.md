@@ -2498,3 +2498,6 @@ Play the video using Selenium WebDriver with Java
 
 ## 2026-11-06 (20:54)
 How to have custom context Path for Swagger Url in OpenApi3 Springboot Application
+
+## 2026-11-07 (06:56)
+cannot find symbol: constructor Service(java.net.URL,javax.xml.namespace.QName,javax.xml.ws.WebServiceFeature[]) location: class javax.xml.ws.Service

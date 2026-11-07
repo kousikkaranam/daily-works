@@ -3013,3 +3013,18 @@
 
 ## 2026-11-06 (20:54)
 - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+
+## 2026-11-07 (06:56)
+- [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+
+## 2026-11-07 (06:56)
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+
+## 2026-11-07 (06:56)
+- [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)
+
+## 2026-11-07 (06:56)
+- [The Flash C Compiler](https://blog.adafruit.com/2026/10/31/flash-c-compiler/)
+
+## 2026-11-07 (06:56)
+- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
