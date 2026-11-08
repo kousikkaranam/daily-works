@@ -2510,3 +2510,6 @@ Clearing Output Window in NetBeans
 
 ## 2026-11-07 (19:26)
 @ConditionalOnProperty annotation not working in spring boot project
+
+## 2026-11-08 (07:03)
+Unable to create initial connections of pool, Unable to obtain JDBC Connection errors

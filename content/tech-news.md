@@ -3040,3 +3040,6 @@
 
 ## 2026-11-07 (19:26)
 - [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+
+## 2026-11-08 (07:03)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
