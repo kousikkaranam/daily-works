@@ -3770,3 +3770,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-08 (09:00)
 > "Hey, why does this situation look like something at the end of a shonen manga?!"
 > — Hideki Hinata (Angel Beats!)
+
+## 2026-11-08 (19:41)
+> "A scar indicates that something is missing. You lost something important, and there's a hole in your heart. Having that empty hole can lead to anger, hate, despair, or... it can make you reach for the sky."
+> — Fuuko Kurasaki (Accel World)
