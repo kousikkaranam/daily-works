@@ -2516,3 +2516,6 @@ Unable to create initial connections of pool, Unable to obtain JDBC Connection e
 
 ## 2026-11-08 (09:00)
 Recompile with -Xlint : unchecked for details
+
+## 2026-11-08 (19:41)
+Removing a detached instance
