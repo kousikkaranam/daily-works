@@ -2513,3 +2513,6 @@ Clearing Output Window in NetBeans
 
 ## 2026-11-08 (07:03)
 Unable to create initial connections of pool, Unable to obtain JDBC Connection errors
+
+## 2026-11-08 (09:00)
+Recompile with -Xlint : unchecked for details

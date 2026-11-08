@@ -3043,3 +3043,6 @@
 
 ## 2026-11-08 (07:03)
 - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+
+## 2026-11-08 (09:00)
+- [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)
