@@ -2522,3 +2522,6 @@ Removing a detached instance
 
 ## 2026-11-09 (09:49)
 Which Cipher Suites to enable for SSL Socket?
+
+## 2026-11-09 (23:46)
+How to go about making a flashlight effect that allows users to see the screen underneath?
