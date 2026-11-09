@@ -3778,3 +3778,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-09 (09:49)
 > "Fool… I belong among the heavens? Yet you would have me trod upon the ground?! Your impudence has guaranteed your death! Mongrel! When I am through with you, nothing will remain of your corpse!"
 > — Gilgamesh (Fate/Zero)
+
+## 2026-11-09 (19:10)
+> "Things that don't change go extinct."
+> — Milly Ashford (Code Geass: Lelouch of the Rebellion)
