@@ -3055,3 +3055,6 @@
 
 ## 2026-11-09 (19:10)
 - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
+
+## 2026-11-09 (23:46)
+- [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
