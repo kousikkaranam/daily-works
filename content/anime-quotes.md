@@ -3774,3 +3774,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-08 (19:41)
 > "A scar indicates that something is missing. You lost something important, and there's a hole in your heart. Having that empty hole can lead to anger, hate, despair, or... it can make you reach for the sky."
 > — Fuuko Kurasaki (Accel World)
+
+## 2026-11-09 (09:49)
+> "Fool… I belong among the heavens? Yet you would have me trod upon the ground?! Your impudence has guaranteed your death! Mongrel! When I am through with you, nothing will remain of your corpse!"
+> — Gilgamesh (Fate/Zero)

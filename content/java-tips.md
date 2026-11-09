@@ -2519,3 +2519,6 @@ Recompile with -Xlint : unchecked for details
 
 ## 2026-11-08 (19:41)
 Removing a detached instance
+
+## 2026-11-09 (09:49)
+Which Cipher Suites to enable for SSL Socket?
