@@ -3052,3 +3052,6 @@
 
 ## 2026-11-09 (09:49)
 - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+
+## 2026-11-09 (19:10)
+- [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
