@@ -2528,3 +2528,6 @@ How to go about making a flashlight effect that allows users to see the screen u
 
 ## 2026-11-10 (09:52)
 How to start a Tomcat 8.5 server on VSC using Community Server Connector extension
+
+## 2026-11-10 (16:36)
+How to search for a string in JAR files
