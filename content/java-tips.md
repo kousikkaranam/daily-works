@@ -2531,3 +2531,6 @@ How to start a Tomcat 8.5 server on VSC using Community Server Connector extensi
 
 ## 2026-11-10 (16:36)
 How to search for a string in JAR files
+
+## 2026-11-10 (21:17)
+how to get the xpath from popup which is occur in the same window?
