@@ -3794,3 +3794,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-10 (16:36)
 > "There’s no such thing as fair or unfair in battle. There is only victory or in your case, defeat."
 > — Vegeta (Dragon Ball Z)
+
+## 2026-11-10 (21:17)
+> "We are weak Mumei. But, that doesn't mean we just roll over and accept our fate."
+> — Ikoma (Kabaneri of the Iron Fortress)
