@@ -3058,3 +3058,6 @@
 
 ## 2026-11-09 (23:46)
 - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
+
+## 2026-11-10 (09:52)
+- [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
