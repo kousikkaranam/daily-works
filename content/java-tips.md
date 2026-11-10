@@ -2525,3 +2525,6 @@ Which Cipher Suites to enable for SSL Socket?
 
 ## 2026-11-09 (23:46)
 How to go about making a flashlight effect that allows users to see the screen underneath?
+
+## 2026-11-10 (09:52)
+How to start a Tomcat 8.5 server on VSC using Community Server Connector extension
