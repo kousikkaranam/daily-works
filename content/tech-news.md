@@ -3070,3 +3070,6 @@
 
 ## 2026-11-11 (07:37)
 - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+
+## 2026-11-11 (09:27)
+- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
