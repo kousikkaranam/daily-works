@@ -2537,3 +2537,6 @@ how to get the xpath from popup which is occur in the same window?
 
 ## 2026-11-11 (07:37)
 java.sql.SQLRecoverableException: IO Error: Connection reset by peer
+
+## 2026-11-11 (09:27)
+If I am only using jackson-core (not databind), how do I create an instance of JsonParser in Jackson 3?
