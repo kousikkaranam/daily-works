@@ -2540,3 +2540,6 @@ java.sql.SQLRecoverableException: IO Error: Connection reset by peer
 
 ## 2026-11-11 (09:27)
 If I am only using jackson-core (not databind), how do I create an instance of JsonParser in Jackson 3?
+
+## 2026-11-11 (16:36)
+AWS API Gateway: Request signature we calculated does not match the signature you provided

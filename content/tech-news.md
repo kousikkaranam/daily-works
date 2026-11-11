@@ -3073,3 +3073,6 @@
 
 ## 2026-11-11 (09:27)
 - [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+
+## 2026-11-11 (16:36)
+- [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
