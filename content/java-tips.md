@@ -2543,3 +2543,6 @@ If I am only using jackson-core (not databind), how do I create an instance of J
 
 ## 2026-11-11 (16:36)
 AWS API Gateway: Request signature we calculated does not match the signature you provided
+
+## 2026-11-11 (21:58)
+Is it safe to use special characters in java code?
