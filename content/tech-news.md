@@ -3076,3 +3076,6 @@
 
 ## 2026-11-11 (16:36)
 - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
+
+## 2026-11-11 (21:58)
+- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
