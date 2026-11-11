@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "time": "20:59",
-    "top_indian": [
-      {
-        "name": "PC JEWELLER LTD",
-        "symbol": "PCJEWELLER.NS",
-        "price": 14.69,
-        "currency": "INR"
-      },
-      {
-        "name": "TRIDENT LIMITED",
-        "symbol": "TRIDENT.NS",
-        "price": 23.79,
-        "currency": "INR"
-      },
-      {
-        "name": "VODAFONE IDEA LIMITED",
-        "symbol": "IDEA.NS",
-        "price": 12.26,
-        "currency": "INR"
-      }
-    ],
-    "top_international": [
-      {
-        "name": "Grab Holdings Limited",
-        "symbol": "GRAB",
-        "price": 3.115,
-        "currency": "USD"
-      },
-      {
-        "name": "Intel Corporation",
-        "symbol": "INTC",
-        "price": 60.58,
-        "currency": "USD"
-      },
-      {
-        "name": "Banco Bradesco Sa",
-        "symbol": "BBD",
-        "price": 2.48,
-        "currency": "USD"
-      }
-    ],
-    "bitcoin_usd": 77810,
-    "ethereum_usd": 2289.97,
-    "gold_inr_10g": 119712.45
-  },
-  {
     "date": "2026-11-04",
     "time": "07:22",
     "top_indian": [
@@ -1408,5 +1361,52 @@
     "bitcoin_usd": 73642,
     "ethereum_usd": 2054.25,
     "gold_inr_10g": 122376.50
+  },
+  {
+    "date": "2026-11-11",
+    "time": "16:36",
+    "top_indian": [
+      {
+        "name": "PC JEWELLER LTD",
+        "symbol": "PCJEWELLER.NS",
+        "price": 15.78,
+        "currency": "INR"
+      },
+      {
+        "name": "VODAFONE IDEA LIMITED",
+        "symbol": "IDEA.NS",
+        "price": 12.88,
+        "currency": "INR"
+      },
+      {
+        "name": "YES BANK LIMITED",
+        "symbol": "YESBANK.NS",
+        "price": 17.24,
+        "currency": "INR"
+      }
+    ],
+    "top_international": [
+      {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "price": 175.26,
+        "currency": "USD"
+      },
+      {
+        "name": "CoreWeave, Inc.",
+        "symbol": "CRWV",
+        "price": 60.575,
+        "currency": "USD"
+      },
+      {
+        "name": "Intel Corporation",
+        "symbol": "INTC",
+        "price": 63.6113,
+        "currency": "USD"
+      }
+    ],
+    "bitcoin_usd": 74282,
+    "ethereum_usd": 2076.99,
+    "gold_inr_10g": 120953.73
   }
 ]
