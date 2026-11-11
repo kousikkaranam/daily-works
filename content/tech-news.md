@@ -3067,3 +3067,6 @@
 
 ## 2026-11-10 (21:17)
 - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+
+## 2026-11-11 (07:37)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)

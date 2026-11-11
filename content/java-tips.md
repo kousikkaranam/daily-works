@@ -2534,3 +2534,6 @@ How to search for a string in JAR files
 
 ## 2026-11-10 (21:17)
 how to get the xpath from popup which is occur in the same window?
+
+## 2026-11-11 (07:37)
+java.sql.SQLRecoverableException: IO Error: Connection reset by peer
