@@ -2549,3 +2549,6 @@ Is it safe to use special characters in java code?
 
 ## 2026-11-12 (08:05)
 jdbc connectTimeout vs jdbc loginTimeout
+
+## 2026-11-12 (09:51)
+How to run JUnit SpringJUnit4ClassRunner with Parametrized?
