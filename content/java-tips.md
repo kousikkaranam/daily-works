@@ -2552,3 +2552,6 @@ jdbc connectTimeout vs jdbc loginTimeout
 
 ## 2026-11-12 (09:51)
 How to run JUnit SpringJUnit4ClassRunner with Parametrized?
+
+## 2026-11-12 (17:05)
+Use @Pattern to validate UUID or UUID.toString()
