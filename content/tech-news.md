@@ -3085,3 +3085,6 @@
 
 ## 2026-11-12 (09:51)
 - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+
+## 2026-11-12 (17:05)
+- [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
