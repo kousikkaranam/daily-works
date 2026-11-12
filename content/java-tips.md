@@ -2555,3 +2555,6 @@ How to run JUnit SpringJUnit4ClassRunner with Parametrized?
 
 ## 2026-11-12 (17:05)
 Use @Pattern to validate UUID or UUID.toString()
+
+## 2026-11-12 (21:50)
+OpenAI structured outputs: model returns null or skips values that exist in the source text during email data extraction

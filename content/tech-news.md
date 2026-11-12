@@ -3088,3 +3088,6 @@
 
 ## 2026-11-12 (17:05)
 - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+
+## 2026-11-12 (21:50)
+- [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
