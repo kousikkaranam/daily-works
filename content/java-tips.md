@@ -2546,3 +2546,6 @@ AWS API Gateway: Request signature we calculated does not match the signature yo
 
 ## 2026-11-11 (21:58)
 Is it safe to use special characters in java code?
+
+## 2026-11-12 (08:05)
+jdbc connectTimeout vs jdbc loginTimeout

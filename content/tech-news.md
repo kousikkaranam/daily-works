@@ -3079,3 +3079,6 @@
 
 ## 2026-11-11 (21:58)
 - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+
+## 2026-11-12 (08:05)
+- [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
