@@ -3082,3 +3082,6 @@
 
 ## 2026-11-12 (08:05)
 - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
+
+## 2026-11-12 (09:51)
+- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
