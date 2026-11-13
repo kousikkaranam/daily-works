@@ -2558,3 +2558,6 @@ Use @Pattern to validate UUID or UUID.toString()
 
 ## 2026-11-12 (21:50)
 OpenAI structured outputs: model returns null or skips values that exist in the source text during email data extraction
+
+## 2026-11-13 (07:42)
+How do I encode a complete http url string correctly?
