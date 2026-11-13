@@ -3094,3 +3094,6 @@
 
 ## 2026-11-13 (07:42)
 - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
+
+## 2026-11-13 (09:32)
+- [IceWM](https://ice-wm.org/)
