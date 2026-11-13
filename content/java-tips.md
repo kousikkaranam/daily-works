@@ -2561,3 +2561,6 @@ OpenAI structured outputs: model returns null or skips values that exist in the 
 
 ## 2026-11-13 (07:42)
 How do I encode a complete http url string correctly?
+
+## 2026-11-13 (09:32)
+Gradle in VS Code is not using repositories configured in settings.gradle pluginManagement
