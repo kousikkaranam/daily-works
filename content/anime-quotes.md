@@ -3842,3 +3842,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-14 (11:53)
 > "Finishing Strike! Black Star Big Wave!"
 > — Black Star (Soul Eater)
+
+## 2026-11-14 (15:20)
+> "You should treat me with awe and wonder!"
+> — Yato (Noragami)

@@ -2567,3 +2567,6 @@ Gradle in VS Code is not using repositories configured in settings.gradle plugin
 
 ## 2026-11-14 (11:53)
 &quot;An expected CSRF token cannot be found&quot; using Spring boot 3.0.5
+
+## 2026-11-14 (15:20)
+Error on opening any Kettle Transformation file in Pentaho Data Integration
