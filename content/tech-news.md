@@ -3100,3 +3100,6 @@
 
 ## 2026-11-13 (16:44)
 - [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years]()
+
+## 2026-11-14 (11:53)
+- [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
