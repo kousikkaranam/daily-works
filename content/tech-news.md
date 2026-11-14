@@ -3100,3 +3100,6 @@
 
 ## 2026-11-13 (16:44)
 - [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years]()
+
+## 2026-11-14 (08:59)
+- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
