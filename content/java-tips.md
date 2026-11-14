@@ -2564,3 +2564,6 @@ How do I encode a complete http url string correctly?
 
 ## 2026-11-13 (09:32)
 Gradle in VS Code is not using repositories configured in settings.gradle pluginManagement
+
+## 2026-11-14 (11:53)
+&quot;An expected CSRF token cannot be found&quot; using Spring boot 3.0.5
