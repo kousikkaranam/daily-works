@@ -3103,3 +3103,6 @@
 
 ## 2026-11-14 (11:53)
 - [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
+
+## 2026-11-14 (15:20)
+- [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
