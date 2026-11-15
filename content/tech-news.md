@@ -3109,3 +3109,6 @@
 
 ## 2026-11-15 (07:41)
 - [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)
+
+## 2026-11-15 (09:28)
+- [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
