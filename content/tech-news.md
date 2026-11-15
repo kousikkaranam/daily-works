@@ -3106,3 +3106,6 @@
 
 ## 2026-11-14 (15:20)
 - [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
+
+## 2026-11-15 (07:41)
+- [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)
