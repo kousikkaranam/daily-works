@@ -2570,3 +2570,6 @@ Gradle in VS Code is not using repositories configured in settings.gradle plugin
 
 ## 2026-11-14 (15:20)
 Error on opening any Kettle Transformation file in Pentaho Data Integration
+
+## 2026-11-15 (07:41)
+How to open URL in default webbrowser using Java

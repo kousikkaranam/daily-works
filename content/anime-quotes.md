@@ -3846,3 +3846,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-14 (15:20)
 > "You should treat me with awe and wonder!"
 > — Yato (Noragami)
+
+## 2026-11-15 (07:41)
+> "Inuyasha, after meeting you I renounced my postion as a shrine priestess. I became an ordinary woman. I longed to embrace you like this when I was alive..."
+> — Kikyo (InuYasha)
