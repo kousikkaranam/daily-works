@@ -3850,3 +3850,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-15 (07:41)
 > "Inuyasha, after meeting you I renounced my postion as a shrine priestess. I became an ordinary woman. I longed to embrace you like this when I was alive..."
 > — Kikyo (InuYasha)
+
+## 2026-11-15 (09:28)
+> "Abandoning her and running away is an option. But she believed in me. I… don't want to betray someone who placed their trust in me. I did make her a promise."
+> — Naofumi Iwatani (The Rising of the Shield Hero)
