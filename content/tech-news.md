@@ -3115,3 +3115,6 @@
 
 ## 2026-11-15 (20:23)
 - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+
+## 2026-11-16 (18:56)
+- [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)

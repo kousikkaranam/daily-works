@@ -3858,3 +3858,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-15 (20:23)
 > "Hunger is the enemy."
 > — Saber (Fate/stay night)
+
+## 2026-11-16 (18:56)
+> "The sorrows of life...To not be able to live like yourself. The joys of life...To be able to die like yourself."
+> — Karren von Rosewald (Tokyo Ghoul:re)

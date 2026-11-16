@@ -2573,3 +2573,6 @@ Error on opening any Kettle Transformation file in Pentaho Data Integration
 
 ## 2026-11-15 (07:41)
 How to open URL in default webbrowser using Java
+
+## 2026-11-16 (18:56)
+Calling external Rest API from a Lambda function in java
