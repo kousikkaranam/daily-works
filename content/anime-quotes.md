@@ -3862,3 +3862,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-16 (18:56)
 > "The sorrows of life...To not be able to live like yourself. The joys of life...To be able to die like yourself."
 > — Karren von Rosewald (Tokyo Ghoul:re)
+
+## 2026-11-16 (23:44)
+> "I might be the ugly duckling of the group, but I'll make sure that I'll protect all of you with all my might."
+> — Zeno (Yona of the Dawn)

@@ -3118,3 +3118,6 @@
 
 ## 2026-11-16 (18:56)
 - [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)
+
+## 2026-11-16 (23:44)
+- [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
