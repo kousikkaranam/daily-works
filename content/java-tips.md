@@ -2576,3 +2576,6 @@ How to open URL in default webbrowser using Java
 
 ## 2026-11-16 (18:56)
 Calling external Rest API from a Lambda function in java
+
+## 2026-11-17 (08:56)
+error &quot;java.lang.AssertionError: Content type not set&quot; when implementing controller unit test
