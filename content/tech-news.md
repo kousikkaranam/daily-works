@@ -3124,3 +3124,6 @@
 
 ## 2026-11-17 (08:56)
 - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+
+## 2026-11-17 (22:52)
+- [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
