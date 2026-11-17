@@ -3121,3 +3121,6 @@
 
 ## 2026-11-16 (23:44)
 - [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+
+## 2026-11-17 (08:56)
+- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
