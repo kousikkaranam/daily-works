@@ -2579,3 +2579,6 @@ Calling external Rest API from a Lambda function in java
 
 ## 2026-11-17 (08:56)
 error &quot;java.lang.AssertionError: Content type not set&quot; when implementing controller unit test
+
+## 2026-11-17 (22:52)
+Finding the index of the closest element to a target in a sorted array using binary search in Java [closed]
