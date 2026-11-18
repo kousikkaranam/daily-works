@@ -3130,3 +3130,6 @@
 
 ## 2026-11-18 (08:21)
 - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+
+## 2026-11-18 (10:11)
+- [Talos Linux](https://www.siderolabs.com/talos-linux)

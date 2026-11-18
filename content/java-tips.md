@@ -2585,3 +2585,6 @@ Finding the index of the closest element to a target in a sorted array using bin
 
 ## 2026-11-18 (08:21)
 What is the difference between JOIN and JOIN FETCH when using JPA and Hibernate
+
+## 2026-11-18 (10:11)
+How to convert KrutiDev font to Unicode Vice Versa in Java/Android [closed]
