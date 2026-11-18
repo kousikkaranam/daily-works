@@ -3866,3 +3866,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-16 (23:44)
 > "I might be the ugly duckling of the group, but I'll make sure that I'll protect all of you with all my might."
 > — Zeno (Yona of the Dawn)
+
+## 2026-11-18 (10:11)
+> "Everyone has something they hold dear, something they never want to lose. That's why they pretend. That's why they hide the truth. And that's why they lie."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
