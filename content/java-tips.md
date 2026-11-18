@@ -2588,3 +2588,6 @@ What is the difference between JOIN and JOIN FETCH when using JPA and Hibernate
 
 ## 2026-11-18 (10:11)
 How to convert KrutiDev font to Unicode Vice Versa in Java/Android [closed]
+
+## 2026-11-18 (22:35)
+Is there an existing solution to swaping two vectors in h2o-3?

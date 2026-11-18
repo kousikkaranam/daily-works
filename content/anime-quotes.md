@@ -3874,3 +3874,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-18 (17:34)
 > "[Talking to Riki] We've spent time together that made our hearts dance. But every story has to come to an end. No one can stay a kid forever. Time passes, and people grow up. There will come a day when we will no longer be together."
 > — Kyousuke Natsume (Little Busters!)
+
+## 2026-11-18 (22:35)
+> "One who does something he hates just because he's told to.. is called an errand boy."
+> — Guts (Berserk)
