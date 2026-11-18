@@ -3133,3 +3133,6 @@
 
 ## 2026-11-18 (10:11)
 - [Talos Linux](https://www.siderolabs.com/talos-linux)
+
+## 2026-11-18 (17:34)
+- [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)

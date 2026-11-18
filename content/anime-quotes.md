@@ -3870,3 +3870,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-18 (10:11)
 > "Everyone has something they hold dear, something they never want to lose. That's why they pretend. That's why they hide the truth. And that's why they lie."
 > — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+
+## 2026-11-18 (17:34)
+> "[Talking to Riki] We've spent time together that made our hearts dance. But every story has to come to an end. No one can stay a kid forever. Time passes, and people grow up. There will come a day when we will no longer be together."
+> — Kyousuke Natsume (Little Busters!)
