@@ -3127,3 +3127,6 @@
 
 ## 2026-11-17 (22:52)
 - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
+
+## 2026-11-18 (08:21)
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
