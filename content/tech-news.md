@@ -3136,3 +3136,6 @@
 
 ## 2026-11-18 (17:34)
 - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
+
+## 2026-11-18 (22:35)
+- [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
