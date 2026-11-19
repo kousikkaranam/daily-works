@@ -2591,3 +2591,6 @@ How to convert KrutiDev font to Unicode Vice Versa in Java/Android [closed]
 
 ## 2026-11-18 (22:35)
 Is there an existing solution to swaping two vectors in h2o-3?
+
+## 2026-11-19 (08:32)
+MySQL 8.0.11 is throwing CLIENT_PLUGIN_AUTH is required

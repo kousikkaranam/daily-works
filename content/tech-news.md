@@ -3139,3 +3139,6 @@
 
 ## 2026-11-18 (22:35)
 - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
+
+## 2026-11-19 (08:32)
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
