@@ -3142,3 +3142,6 @@
 
 ## 2026-11-19 (08:32)
 - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+
+## 2026-11-19 (17:40)
+- [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
