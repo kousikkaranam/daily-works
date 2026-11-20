@@ -3145,3 +3145,6 @@
 
 ## 2026-11-19 (17:40)
 - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
+
+## 2026-11-20 (22:14)
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)

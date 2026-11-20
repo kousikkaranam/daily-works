@@ -2594,3 +2594,6 @@ Is there an existing solution to swaping two vectors in h2o-3?
 
 ## 2026-11-19 (08:32)
 MySQL 8.0.11 is throwing CLIENT_PLUGIN_AUTH is required
+
+## 2026-11-20 (22:14)
+java Mail API using to send email from a java program but showing error of SMTP protocol
