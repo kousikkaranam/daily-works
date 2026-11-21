@@ -2600,3 +2600,6 @@ java Mail API using to send email from a java program but showing error of SMTP 
 
 ## 2026-11-21 (08:07)
 how to change jdk version in weblogic12c
+
+## 2026-11-21 (16:23)
+Handling Fault Responses from Spring&#x27;s WebServiceTemplate.marshalSendAndReceive

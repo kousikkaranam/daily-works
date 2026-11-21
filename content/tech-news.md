@@ -3154,3 +3154,6 @@
 
 ## 2026-11-21 (13:10)
 - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+
+## 2026-11-21 (16:23)
+- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)

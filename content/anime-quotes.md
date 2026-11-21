@@ -3894,3 +3894,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-21 (13:10)
 > "I guess we won't be living together forever as gods. But still... This is forever, too."
 > — Ikusaba Marco (The Future Diary)
+
+## 2026-11-21 (16:23)
+> "People can never truly understand each other! That's why we communicate and try to understand. We can only understand ourselves through being with others!"
+> — Riki Naoe (Little Busters!)
