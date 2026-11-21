@@ -2597,3 +2597,6 @@ MySQL 8.0.11 is throwing CLIENT_PLUGIN_AUTH is required
 
 ## 2026-11-20 (22:14)
 java Mail API using to send email from a java program but showing error of SMTP protocol
+
+## 2026-11-21 (08:07)
+how to change jdk version in weblogic12c

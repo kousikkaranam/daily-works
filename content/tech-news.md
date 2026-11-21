@@ -3148,3 +3148,6 @@
 
 ## 2026-11-20 (22:14)
 - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+
+## 2026-11-21 (08:07)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
