@@ -3151,3 +3151,6 @@
 
 ## 2026-11-21 (08:07)
 - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+
+## 2026-11-21 (13:10)
+- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
