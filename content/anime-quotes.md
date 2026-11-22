@@ -3906,3 +3906,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-22 (16:38)
 > "It is a thousand years too early... for you to become worthy enough to die by my Bankai."
 > — Kuchiki Byakuya (Bleach)
+
+## 2026-11-22 (21:03)
+> "ADW is a severe, incurable ailment that makes the patient Able to Do only what he Wants to do."
+> — Kagami Junichirou (Ultimate Otaku Teacher)

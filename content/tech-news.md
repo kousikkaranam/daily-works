@@ -3163,3 +3163,6 @@
 
 ## 2026-11-22 (16:38)
 - [Sandwich Simulator](https://stulle.app/)
+
+## 2026-11-22 (21:03)
+- [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
