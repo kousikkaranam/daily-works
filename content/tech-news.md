@@ -3157,3 +3157,6 @@
 
 ## 2026-11-21 (16:23)
 - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+
+## 2026-11-22 (07:53)
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)

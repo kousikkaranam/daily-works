@@ -3898,3 +3898,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-21 (16:23)
 > "People can never truly understand each other! That's why we communicate and try to understand. We can only understand ourselves through being with others!"
 > — Riki Naoe (Little Busters!)
+
+## 2026-11-22 (07:53)
+> "You can use whatever technique you like, but now that I said I will kill you... your death tonight has been assured."
+> — Kenshin Himura (Rurouni Kenshin)
