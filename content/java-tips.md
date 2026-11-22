@@ -2603,3 +2603,6 @@ how to change jdk version in weblogic12c
 
 ## 2026-11-21 (16:23)
 Handling Fault Responses from Spring&#x27;s WebServiceTemplate.marshalSendAndReceive
+
+## 2026-11-22 (07:53)
+Talend Open Studio - an error (sun.misc.Unsafe.defineClass(java.lang.String,[B,int,int,java.lang.ClassLoader,java.security.ProtectionDomain))
