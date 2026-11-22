@@ -2609,3 +2609,6 @@ Talend Open Studio - an error (sun.misc.Unsafe.defineClass(java.lang.String,[B,i
 
 ## 2026-11-22 (16:38)
 Spring and Thymeleaf: Template mode &quot;HTML&quot; has not been configured
+
+## 2026-11-22 (21:03)
+Is there a way to ignore upper case when trying to find a link by linkText with Webdriver?
