@@ -3902,3 +3902,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-22 (07:53)
 > "You can use whatever technique you like, but now that I said I will kill you... your death tonight has been assured."
 > — Kenshin Himura (Rurouni Kenshin)
+
+## 2026-11-22 (16:38)
+> "It is a thousand years too early... for you to become worthy enough to die by my Bankai."
+> — Kuchiki Byakuya (Bleach)
