@@ -3160,3 +3160,6 @@
 
 ## 2026-11-22 (07:53)
 - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+
+## 2026-11-22 (16:38)
+- [Sandwich Simulator](https://stulle.app/)
