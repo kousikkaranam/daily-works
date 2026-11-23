@@ -3166,3 +3166,6 @@
 
 ## 2026-11-22 (21:03)
 - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+
+## 2026-11-23 (08:46)
+- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)

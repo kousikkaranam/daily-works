@@ -2612,3 +2612,6 @@ Spring and Thymeleaf: Template mode &quot;HTML&quot; has not been configured
 
 ## 2026-11-22 (21:03)
 Is there a way to ignore upper case when trying to find a link by linkText with Webdriver?
+
+## 2026-11-23 (08:46)
+Is java 8 no longer LTS? [closed]
