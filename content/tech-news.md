@@ -3178,3 +3178,6 @@
 
 ## 2026-11-24 (19:42)
 - [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?]()
+
+## 2026-11-24 (23:54)
+- [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
