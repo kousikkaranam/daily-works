@@ -3175,3 +3175,6 @@
 
 ## 2026-11-24 (10:45)
 - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+
+## 2026-11-24 (19:42)
+- [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?]()
