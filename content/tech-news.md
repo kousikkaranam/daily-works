@@ -3169,3 +3169,6 @@
 
 ## 2026-11-23 (08:46)
 - [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+
+## 2026-11-24 (02:13)
+- [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
