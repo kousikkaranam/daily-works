@@ -3172,3 +3172,6 @@
 
 ## 2026-11-24 (02:13)
 - [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
+
+## 2026-11-24 (10:45)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)

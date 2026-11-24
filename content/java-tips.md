@@ -2618,3 +2618,6 @@ Is java 8 no longer LTS? [closed]
 
 ## 2026-11-24 (02:13)
 Where to add the --enable-native-access=ALL-UNNAMED?
+
+## 2026-11-24 (10:45)
+JAXB xjc:simple binding does not generate @XmlRootElement for base class
