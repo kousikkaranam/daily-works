@@ -2615,3 +2615,6 @@ Is there a way to ignore upper case when trying to find a link by linkText with 
 
 ## 2026-11-23 (08:46)
 Is java 8 no longer LTS? [closed]
+
+## 2026-11-24 (02:13)
+Where to add the --enable-native-access=ALL-UNNAMED?
