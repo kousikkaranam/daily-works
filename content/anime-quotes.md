@@ -3918,3 +3918,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-24 (02:13)
 > "In the battlefield, there is no place for hope. What lies there is only cold despair and a sin called victory, built on the pain of the defeated. All those people who met there have wholeheartedly admitted the evil and foolishness of this act called war. As long as people don't repent and don't regard it as the most evil taboo, then hell will endlessly reappear in the world."
 > — Emiya Kiritsugu (Fate/Zero)
+
+## 2026-11-24 (10:45)
+> "Hard work is worthless for those that don't believe in themselves."
+> — Naruto Uzumaki (Naruto)
