@@ -2630,3 +2630,6 @@ Using Joda Date &amp; Time API to parse multiple formats
 
 ## 2026-11-25 (11:18)
 how to use simple getter and setter with android
+
+## 2026-11-25 (18:50)
+Why do I get the following error : Can&#x27;t find a codec for class com.mongodb.client.model.geojson.Polygon
