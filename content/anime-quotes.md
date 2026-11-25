@@ -3930,3 +3930,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-25 (09:41)
 > "Plainly speaking war is nothing other than "wanting to impose your beliefs on your opponent." It only happens for that reason. You don't have any exception to that rule."
 > — Koumei Ren (Magi - The Labyrinth of Magic)
+
+## 2026-11-25 (11:18)
+> "When a girl calls someone a "nice guy", it means she couldn't care less about him."
+> — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU TOO!)

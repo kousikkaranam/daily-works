@@ -2627,3 +2627,6 @@ Cannot deserialize value of type `java.util.LinkedHashMap&lt;java.lang.String,ja
 
 ## 2026-11-25 (09:41)
 Using Joda Date &amp; Time API to parse multiple formats
+
+## 2026-11-25 (11:18)
+how to use simple getter and setter with android
