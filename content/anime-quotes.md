@@ -3934,3 +3934,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-25 (11:18)
 > "When a girl calls someone a "nice guy", it means she couldn't care less about him."
 > — Hachiman Hikigaya (My Teen Romantic Comedy SNAFU TOO!)
+
+## 2026-11-25 (18:50)
+> "Regardless if you see them or not, if you don't believe, then it's like they never existed."
+> — Kurosaki Karin (Bleach)
