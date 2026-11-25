@@ -2633,3 +2633,6 @@ how to use simple getter and setter with android
 
 ## 2026-11-25 (18:50)
 Why do I get the following error : Can&#x27;t find a codec for class com.mongodb.client.model.geojson.Polygon
+
+## 2026-11-25 (23:37)
+Building a tree in java using input from a text file
