@@ -3926,3 +3926,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-24 (19:42)
 > "No matter how gifted you are... You, alone, cannot change the world."
 > — L Lawliet (Death Note)
+
+## 2026-11-25 (09:41)
+> "Plainly speaking war is nothing other than "wanting to impose your beliefs on your opponent." It only happens for that reason. You don't have any exception to that rule."
+> — Koumei Ren (Magi - The Labyrinth of Magic)

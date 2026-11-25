@@ -3181,3 +3181,6 @@
 
 ## 2026-11-24 (23:54)
 - [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
+
+## 2026-11-25 (09:41)
+- [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)

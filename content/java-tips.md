@@ -2624,3 +2624,6 @@ JAXB xjc:simple binding does not generate @XmlRootElement for base class
 
 ## 2026-11-24 (23:54)
 Cannot deserialize value of type `java.util.LinkedHashMap&lt;java.lang.String,java.lang.String&gt;` from Array or what would be a correct type of my field
+
+## 2026-11-25 (09:41)
+Using Joda Date &amp; Time API to parse multiple formats
