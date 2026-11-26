@@ -2636,3 +2636,6 @@ Why do I get the following error : Can&#x27;t find a codec for class com.mongodb
 
 ## 2026-11-25 (23:37)
 Building a tree in java using input from a text file
+
+## 2026-11-26 (09:17)
+java.nio.channels.ClosedChannelException -Client shuts down SSL
