@@ -3938,3 +3938,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-25 (18:50)
 > "Regardless if you see them or not, if you don't believe, then it's like they never existed."
 > — Kurosaki Karin (Bleach)
+
+## 2026-11-26 (09:17)
+> "We can't waste time worrying about the what-if's. Rukia's execution date has been changed to noon tomorrow. So what? If the deadline has been changed to tomorrow... I'll just have to finish today!"
+> — Kurosaki Ichigo (Bleach)
