@@ -2639,3 +2639,6 @@ Building a tree in java using input from a text file
 
 ## 2026-11-26 (09:17)
 java.nio.channels.ClosedChannelException -Client shuts down SSL
+
+## 2026-11-26 (18:38)
+HANA Could not find table/view
