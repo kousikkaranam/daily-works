@@ -3199,3 +3199,6 @@
 
 ## 2026-11-26 (18:38)
 - [Tell HN: Happy Thanksgiving]()
+
+## 2026-11-26 (23:51)
+- [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
