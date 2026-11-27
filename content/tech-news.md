@@ -3205,3 +3205,6 @@
 
 ## 2026-11-27 (09:32)
 - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+
+## 2026-11-27 (10:53)
+- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)

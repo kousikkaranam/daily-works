@@ -2645,3 +2645,6 @@ HANA Could not find table/view
 
 ## 2026-11-27 (09:32)
 Computer Virus Spread Simulation - How to make each trial have random outputs?
+
+## 2026-11-27 (10:53)
+How to declare global variables using TestNG/Selenium/Java?
