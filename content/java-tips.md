@@ -2648,3 +2648,6 @@ Computer Virus Spread Simulation - How to make each trial have random outputs?
 
 ## 2026-11-27 (10:53)
 How to declare global variables using TestNG/Selenium/Java?
+
+## 2026-11-27 (18:27)
+Tomcat with https not working
