@@ -3950,3 +3950,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-26 (23:51)
 > "...If Tohru-chan were to die, I...I wonder if I'd be able to smile again one year later? Or if I'd wish that I could forget ever having met her. ...Tohru-chan... has tried really hard..."
 > — Saki Hanajima (Fruits Basket)
+
+## 2026-11-27 (09:32)
+> "Even if the whole world hates you, I will stay by your side and tell them they are wrong."
+> — Raphtalia (The Rising of the Shield Hero)

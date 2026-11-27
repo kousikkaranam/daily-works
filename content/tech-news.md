@@ -3202,3 +3202,6 @@
 
 ## 2026-11-26 (23:51)
 - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
+
+## 2026-11-27 (09:32)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
