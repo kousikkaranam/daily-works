@@ -3208,3 +3208,6 @@
 
 ## 2026-11-27 (10:53)
 - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+
+## 2026-11-27 (18:27)
+- [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
