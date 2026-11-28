@@ -3966,3 +3966,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-28 (10:29)
 > "It's always a lot easier to let something fall apart, than it is to try to hold it together."
 > — Ayasegawa Yumichika (Bleach)
+
+## 2026-11-28 (13:47)
+> "I’d prefer not to do this. I’ve seen you in action and you have talent and potential. Is your pride really worth throwing all of that away?"
+> — Genthru (Hunter x Hunter)
