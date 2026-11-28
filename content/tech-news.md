@@ -3211,3 +3211,6 @@
 
 ## 2026-11-27 (18:27)
 - [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
+
+## 2026-11-28 (10:29)
+- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)

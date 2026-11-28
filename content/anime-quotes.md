@@ -3962,3 +3962,7 @@ Someone you praised as “cool” until yesterday is “stuck up” today; someo
 ## 2026-11-27 (18:27)
 > "I know no one expects much from me! And I know better than anyone how useless a C Class hero is! I know I'm too weak even for B Class! I know more than anyone else that I'll never beat you! But I must fight you anyway! I'm the only one left! It's not about winning or losing! I just have to stand here and face you!"
 > — Mumen Rider (One Punch Man)
+
+## 2026-11-28 (10:29)
+> "It's always a lot easier to let something fall apart, than it is to try to hold it together."
+> — Ayasegawa Yumichika (Bleach)
