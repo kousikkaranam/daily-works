@@ -3214,3 +3214,6 @@
 
 ## 2026-11-28 (10:29)
 - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+
+## 2026-11-28 (13:47)
+- [Claude Code sabotage: preliminary benchmarking](https://xinyadu.github.io/blog/claude-code-sabotage.html)

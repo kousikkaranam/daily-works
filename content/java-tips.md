@@ -2651,3 +2651,6 @@ How to declare global variables using TestNG/Selenium/Java?
 
 ## 2026-11-27 (18:27)
 Tomcat with https not working
+
+## 2026-11-28 (13:47)
+I have a problema with this code for a bot of whatsApp [closed]
